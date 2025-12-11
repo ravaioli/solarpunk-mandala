@@ -1,6 +1,8 @@
 # Ontological Ground: Analytic Idealism
 
-The framework begins with Analytic Idealism—the proposition that consciousness is the sole ontological primitive. This view resolves the 'hard problem' of consciousness by honoring the primacy of direct experience. Reality is not a dead universe of matter that accidentally produced mind. Instead, Mind at Large (MAL) is the singular, undifferentiated field of awareness from which all experience arises. While this ontology guides our practice, the framework maintains methodological openness to empirical research on consciousness efficacy that may operate with different metaphysical assumptions while arriving at compatible practical insights about agency and transformation.
+This model is grounded in the framework of Analytic Idealism, a modern metaphysical philosophy most rigorously articulated by philosopher and scientist Bernardo Kastrup. Analytic idealism proposes that reality is fundamentally conscious experience. What we perceive as the physical world is not a free-standing, mind-independent structure, but the "multimodal appearance" of a transpersonal, universal consciousness—referenced as Mind at Large (MAL). From this perspective, individual conscious beings, like you and me, are not products of brains, but rather localized dissociations of this foundational consciousness, each with a unique, evolving perspective.
+
+This ontology shifts our entire paradigm: instead of seeing consciousness as a fragile accident inside a dead universe, we see the universe as a living, experiential process, and ourselves as integral expressions of it. This provides a profound philosophical foundation for solarpunk's core values of interconnection, regeneration, and hopeful co-creation.
 
 ## Core Propositions
 
