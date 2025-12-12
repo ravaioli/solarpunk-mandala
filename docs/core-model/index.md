@@ -1,39 +1,52 @@
-# Core Model: The Living Geometry of Belonging
+# Solarpunk Mandala: Core Model Documentation
 
-The SolarPunk Mandala is not a theoretical construct—it is a living geometry of belonging, grounded in a single, transformative insight and operationalized through a six-part system of practice. At its heart lies a coherent progression from ontology (what is real) and epistemology (how we know), which inform ethics (how we act), and ultimately define the praxis (how we build, remember, and integrate).
+Welcome to the core conceptual architecture of the Solarpunk Mandala. This documentation details a comprehensive, integrative model for conscious transformation—a **geometric and ontological framework** for navigating the transition toward regenerative, equitable, and beautiful futures.
 
-## Core Components
+The Mandala is built on the foundation of **Analytic Idealism**, positing consciousness as the fundamental reality. From this starting point, it develops an **epistemic geometry** (the Tesseract), an **ethical compass** (the Four Axes), and **practical pathways** for embodied action, all designed to work as a coherent, scalable system.
 
-1. **[Ontological Ground: Analytic Idealism](01-ontology-analytic-idealism.md)**  
-   The proposition that consciousness is the sole ontological primitive, resolving the hard problem of consciousness by honoring the primacy of direct experience.
+## 📐 Conceptual Architecture: A Guided Journey
 
-2. **[Epistemic Architecture: The Tesseract](02-epistemic-architecture-tesseract.md)**  
-   A four-dimensional hypercube used as a cognitive prosthetic to map the eight cubes of epistemic access, which are observed and integrated from the Central Core (Ø).
+The core model is structured as a conceptual journey, where each document builds upon the last, unfolding the system from its first principles to its practical applications. It is designed to be explored sequentially.
 
-3. **[Ethical Dimensions: The Four Axes of Transformation](03-ethics-four-axes.md)**  
-   The Tesseract orients not just knowing, but becoming. Transformation unfolds along four orthogonal ethical axes, each measurable through the Rhizomatic Network.
+### 1. Foundation: Ontology & Epistemology
+These documents establish the *why* and the *how* of perception—the philosophical and geometric lens through which the entire system is viewed.
 
-4. **[Temporal Unfolding: From -1D to 4D](04-temporal-unfolding-dialectical-phases.md)**  
-   All four axes unfold across the same dimensional spectrum, mapping the journey from dissociation to reintegration.
+*   **[01 - Ontology: Analytic Idealism](./01-ontology-analytic-idealism.md)**
+    *   **Purpose:** Establishes the fundamental premise: consciousness is primary. This "consciousness-first" starting point addresses the limits of materialism and provides a coherent ground for values, meaning, and agency within the model.
+*   **[02 - Epistemic Architecture: The Tesseract](./02-epistemic-architecture-tesseract.md)**
+    *   **Purpose:** Introduces the 4D hypercube (Tesseract) as the central geometric metaphor. It explains how this model manages complexity by holding multiple perspectives (cubes) in a unified, interconnected whole, serving as a bridge between ontology and practical ethics.
 
-5. **[The Mandala Axis: Four Pathways of Purpose](05-mandala-axis-four-pathways.md)**  
-   To move through these dimensions, we need actionable pathways. The Mandala Axis provides four universal, open-source protocols—reframed from ancient wisdom for modern, inclusive praxis.
+### 2. Core: Ethics, Time, & Pathways
+This section defines the core dynamics of change—the ethical directions of growth, the temporal stages of development, and the actionable gateways for intervention.
 
-6. **[Geometric Completion: The Full Tesseract](06-geometric-completion-tesseract.md)**  
-   The model's geometry is now complete with Embodied Foundations at its center.
+*   **[03 - Ethics: The Four Axes of Transformation](./03-ethics-four-axes.md)**
+    *   **Purpose:** Defines the four primary ethical dimensions (Soteriological, Axiological, Relational Depth, Temporal Orientation) that guide transformation. It introduces the **Embodied Foundations** and the critical **Threshold Principle** that links ethical work to somatic stability.
+*   **[04 - Temporal Unfolding: Dialectical Phases](./04-temporal-unfolding-dialectical-phases.md)**
+    *   **Purpose:** Maps the universal journey of systems across six dimensions (-1D to 4D), from dissolution to reunification. It details the **Dialectical Velocity Metric** and provides empirical examples of this unfolding in nature and society.
+*   **[05 - The Mandala Axis: Four Pathways of Purpose](./05-mandala-axis-four-pathways.md)**
+    *   **Purpose:** Translates the ethical axes into four actionable, open-source protocols: Awakening, Making, Liberation, and Healing. It details the practices, rhythms, and foundation dependencies for each pathway.
 
-7. **[Material Intelligence Framework](07-material-intelligence-framework.md)**  
-   Material Intelligence refers to the wisdom of selecting and working with materials that respond intelligently to local environmental conditions while serving multiple functions simultaneously.
+### 3. Expression: Intelligence, Matter, & Integration
+Here, the abstract model meets the tangible world, detailing the frameworks for material practice, personal/collective capacity, and integration with external knowledge systems.
 
-8. **[Multiple Intelligences Framework](08-multiple-intelligences-framework.md)**  
-   The Mandala's strength lies in its capacity to integrate multiple forms of intelligence beyond conventional rational paradigms.
+*   **[06 - Geometric Completion: The Tesseract](./06-geometric-completion-tesseract.md)**
+    *   **Purpose:** Describes the four archetypal states of systemic wholeness (Seed, Grid, Web, Spire) and introduces the **Alpha (α) Metric** for measuring integration across the Tesseract's cubes.
+*   **[07 - Material Intelligence Framework](./07-material-intelligence-framework.md)**
+    *   **Purpose:** Applies the ontology to the physical realm, framing materials as expressions of conscious intelligence. It provides bioregional guidelines and the principle of **Dialectical Boundary Permeability**.
+*   **[08 - Multiple Intelligences Framework](./08-multiple-intelligences-framework.md)**
+    *   **Purpose:** Expands the concept of intelligence into eight embodied capacities aligned with the Tesseract's cubes. It charts the development of each intelligence through the dialectical phases.
+*   **[09 - Compatible Frameworks Matrix](./09-compatible-frameworks-matrix.md)**
+    *   **Purpose:** Demonstrates the integrative power of the Mandala by mapping how external frameworks (e.g., Systems Thinking, Viable System Model, Critical Pedagogy) align with its geometry and pathways, governed by **Critical Integration Principles**.
 
-9. **[Compatible Frameworks Matrix](09-compatible-frameworks-matrix.md)**  
-   The SolarPunk Mandala is inherently designed for integration—it's a "living documentation system, continuously refined through practice, community contribution, and cross-pollination."
+## 🧭 How to Navigate This Documentation
 
-## Key Integration Principle
+*   **For First-Time Readers:** Proceed in numerical order (`01` → `09`). The model is designed to build concepts sequentially.
+*   **For Practitioners Seeking Application:** Focus on the **Pathways (05)**, **Material Intelligence (07)**, and **Frameworks Matrix (09)** after grasping the core Axes (03) and Phases (04).
+*   **For Theorists & Integrators:** Begin with the **Ontology (01)** and **Epistemic Architecture (02)**, then explore the **Geometric Completion (06)** and **Frameworks Matrix (09)** to understand the model's philosophical depth and integrative capacity.
 
-These components are not separate parts but interdependent aspects of a unified whole. The Embodied Foundations (Nourishment, Cleansing, Restoration, Movement) form the functional core from which all other dimensions emerge. When any foundation is compromised, the entire system contracts dimensionally toward survival mode (0D). When all foundations are strong, the system has the stability to unfold toward higher dimensions of complexity and coherence (3D+).
+## 🔗 The Living System
 
-> "Explore the World, Transform from Within"  
-> — SolarPunk Sangha
+The Solarpunk Mandala is not a static blueprint but a **living documentation system**. Its concepts are refined through practice, community contribution, and continuous cross-pollination with other wisdom traditions and sciences. This core model provides the stable architecture for that ongoing, creative evolution.
+
+---
+**Next Steps:** Engage with the [Glossary](../glossary.md) for term definitions, or explore the [Protocols](../protocols/) for practical implementation guides.
