@@ -49,6 +49,13 @@ This is the applied logic for navigating the system:
 -   **If all foundations ≥2 but integration (α) <2** → Activate **Protocol 1 (Diagnostic Weaving)** to map blockages.
 -   **If all foundations ≥3 and integration (α) ≥2** → Activate **Protocol 2 (Generative Design)** for building new patterns.
 -   **If all foundations ≥4 and integration (α) ≥3** → Engage **4D Reunification Practices** (advanced system synchronization).
+-   **Threshold Decision Tree (applies to all protocols)**
+
+*   If any foundation <2 → Activate **Foundation Fortification** with focus on the deficient foundation(s).
+*   If all foundations ≥2 but α <2 → Activate **Diagnostic Weaving** for mapping blockages.
+    *   *Developmental Depth (Optional):* Within Diagnostic Weaving, assess the group's developmental "center of gravity" using frameworks like Kegan's stages. This reveals the complexity available for problem-solving. A challenge requiring 3D systemic thinking will overwhelm a group with a 2D (Socialized) perspective, indicating a need for **Path of Awakening** work.
+*   If all foundations ≥3 and α ≥2 → Activate **Generative Design** for building new patterns.
+*   If all foundations ≥4 and α ≥3 → Engage **4D Reunification Practices**.
 
 ### Foundation-Specific Thresholds by Pathway
 Each pathway has a specific "keystone" foundation that must be stable for its work to begin.
