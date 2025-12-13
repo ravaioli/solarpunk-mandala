@@ -8,13 +8,15 @@ The Mandala is built on the foundation of **Analytic Idealism**, positing consci
 
 The core model is structured as a conceptual journey, where each document builds upon the last, unfolding the system from its first principles to its practical applications. It is designed to be explored sequentially.
 
-### 1. Foundation: Ontology & Epistemology
-These documents establish the *why* and the *how* of perception—the philosophical and geometric lens through which the entire system is viewed.
+### 1. Foundation: Ontology, Epistemology & Operational Logic
+These documents establish the *why*, the *how*, and the *dynamics* of the system—the philosophical ground, the structural lens, and the principles of regulation.
 
 *   **[01 - Ontology: Analytic Idealism](./01-ontology-analytic-idealism.md)**
     *   **Purpose:** Establishes the fundamental premise: consciousness is primary. This "consciousness-first" starting point addresses the limits of materialism and provides a coherent ground for values, meaning, and agency within the model.
 *   **[02 - Epistemic Architecture: The Tesseract](./02-epistemic-architecture-tesseract.md)**
     *   **Purpose:** Introduces the 4D hypercube (Tesseract) as the central geometric metaphor. It explains how this model manages complexity by holding multiple perspectives (cubes) in a unified, interconnected whole, serving as a bridge between ontology and practical ethics.
+*   **[10 - Cybernetic Foundations](./10-cybernetic-foundations.md)**
+    *   **Purpose:** Provides the operational principles of regulation, feedback, and adaptation for conscious systems. It explains how the Mandala functions as a participatory control system, integrating concepts of circular causality, requisite variety, and second-order cybernetics with the Analytic Idealist framework.
 
 ### 2. Core: Ethics, Time, & Pathways
 This section defines the core dynamics of change—the ethical directions of growth, the temporal stages of development, and the actionable gateways for intervention.
@@ -40,9 +42,10 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
 
 ## 🧭 How to Navigate This Documentation
 
-*   **For First-Time Readers:** Proceed in numerical order (`01` → `09`). The model is designed to build concepts sequentially.
-*   **For Practitioners Seeking Application:** Focus on the **Pathways (05)**, **Material Intelligence (07)**, and **Frameworks Matrix (09)** after grasping the core Axes (03) and Phases (04).
-*   **For Theorists & Integrators:** Begin with the **Ontology (01)** and **Epistemic Architecture (02)**, then explore the **Geometric Completion (06)** and **Frameworks Matrix (09)** to understand the model's philosophical depth and integrative capacity.
+*   **For First-Time Readers:** Proceed in the order of the conceptual journey outlined above. The model is designed to build concepts sequentially from foundation to expression.
+*   **For Systems Thinkers & Designers:** Begin with the **Foundation** section, then delve into **Cybernetics (10)** and **Geometric Completion (06)** to understand the operational and structural logic before exploring applications.
+*   **For Practitioners Seeking Application:** Focus on the **Core** section (**Pathways (05)** are key) and **Expression** section (**Material Intelligence (07)**, **Multiple Intelligences (08)**) after grasping the core Axes (03) and Phases (04).
+*   **For Theorists & Integrators:** Begin with the **Ontology (01)** and **Epistemic Architecture (02)**, then explore the **Cybernetics (10)**, **Geometric Completion (06)** and **Frameworks Matrix (09)** to understand the model's philosophical depth, operational rigor, and integrative capacity.
 
 ## 🔗 The Living System
 
