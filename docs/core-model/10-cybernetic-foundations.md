@@ -18,6 +18,8 @@ Feedback loops are the fundamental mechanism by which the system perceives itsel
     *   **Dialectical Velocity** is a measure of feedback health. High velocity indicates the system is effectively processing feedback to navigate phase transitions. Stagnation (`<0.2`) indicates a blocked feedback loop.
 *   **Example**: A community's **Nourishment** foundation drops (feedback signal: scarcity anxiety, depleted stores). The Rhizomatic Network flags this. The system activates **Boundary Medicine** (corrective action: focus on local food production, sharing protocols) to restore the foundation, preventing a collapse into 0D survival mode.
 
+**Cognitive Link:** This feedback process is mechanistically explained by **Predictive Processing** in cognitive science. The foundation score is a **high-level prediction error signal** indicating a mismatch between the system's model of "health" and its sensed state. Boundary Medicine is the process of updating the system's internal model and its operations to minimize this error and restore predictive coherence.
+
 ### 2. Circular Causality & Autopoiesis: The Logic of Unfolding
 Linear cause-and-effect is replaced by recursive loops of mutual co-creation.
 
