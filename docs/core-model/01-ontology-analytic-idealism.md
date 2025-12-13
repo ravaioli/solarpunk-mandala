@@ -52,6 +52,24 @@ For the **Solarpunk Mandala**, this ontological starting point is a design featu
 
 You don't have to accept this ontology to contribute, but understanding it is key to understanding the architecture of the mandala model. Think of it as our **core philosophical API**. All other modules—agency, systems, values—are built to be compatible with this base layer.
 
+### Altered States of Consciousness: Experiential Grounding
+
+The proposition that consciousness is fundamental finds powerful, if challenging, validation in the phenomenology of **altered states of consciousness (ASCs)**. From the perspective of Analytic Idealism, ASCs are not malfunctions but **critical modes of exploration** into the deeper, more interconnected layers of Mind at Large (MAL). They offer direct experience that challenges the ordinary, materialist assumptions about reality, thereby providing crucial evidence for the ontology and expanding the possibilities of epistemic inquiry.
+
+**Ontological Implications: Direct Contact with the Conscious Field**
+Within the ordinary "perceptual-cognitive-symbolic" mode of processing, reality appears stable and separate. ASCs, however, provide access to what research characterizes as a **"direct-intuitive-nonlocal" channel** of information. This is experienced as a dissolution of the hard boundary between self and world, a feeling of merging with a larger whole, or the reception of insights that feel universally true. Such experiences are not hallucinations of a brain but are, within this ontology, **authentic encounters with the conscious field in a less filtered, more holistic mode**. Profound ASCs can induce "ontological shock," a dissolution of the conventional worldview that mirrors the **Dialectical Phase** of Dissolution, creating the necessary rupture for a more integrated understanding of Being to emerge.
+
+**Epistemological Implications: Validating Non-Ordinary Knowing**
+The knowledge gained in ASCs—characterized by a compelling "noetic quality" of truth and revelation—poses a direct challenge to reductionist, materialist epistemologies. To dismiss these experiences *a priori* is an epistemic failure. A rigorous epistemology within Analytic Idealism must account for them. The argument is not for blind acceptance, but for the **rational integration of insights**. When the intense subjective data of an ASC is critically reflected upon and found to coherently update one's worldview in a way that resolves paradoxes and enhances understanding (such as moving toward idealism), that process is itself rational. The therapeutic and transformative efficacy of practices that induce ASCs (meditation, psychedelics, ecstatic ritual) lends pragmatic, outcome-based validity to the knowledge they facilitate.
+
+**Synthesis within the Solarpunk Mandala Framework**
+ASCs are not outliers but featured explorers of consciousness-first reality:
+*   **For the Soteriological Axis**: They are primary technologies for the **Path of Awakening (Conscientização)**, inducing the critical self-transcendence needed for greater integration.
+*   **For Temporal Unfolding**: A powerful ASC can act as a concentrated burst of **Dialectical Velocity**, forcing a rapid phase transition that the system must then integrate through grounding practices and **Boundary Medicine**.
+*   **For the Rhizomatic Network**: First-person reports of ASCs, especially their common transcultural themes (unity, sacredness, ineffability), become valuable data points, mapping the shared contours of human conscious experience within the **CULTURE** and **SPIRITUALITY** cubes.
+
+Thus, the study and intelligent incorporation of altered states is not a mystical tangent but a core discipline for any project seeking to understand and participate in a fundamentally conscious universe.
+
 ## Analytic Idealism Integration Protocol
 
 To prevent philosophical-materialist slippage in practical applications, all protocols must include Dissociation Lens questions:
