@@ -25,7 +25,17 @@ These frameworks offer concrete methodologies that can be "plugged into" the Man
 | **Liberation** | **Elinor Ostrom's Commons Governance** | Implement Ostrom's 8 design principles for managing common-pool resources as a governance layer for **Grid Completion**. This operationalizes the **Axis of Relational Depth**. | Strengthens **Movement** through clear, participatory rules that circulate power and responsibility, preventing governance stagnation. |
 | **Healing** | **Relational-Cultural Theory (RCT)** | Use RCT's "Five Good Things" (increased zest, empowerment, knowledge, worth, desire for more connection) as metrics for healthy **boundary permeability** and indicators of healing in community settings. | Enhances **Nourishment** by framing growth-in-connection as a core human need and **Restoration** by validating mutual empathy as reparative. |
 
-## 3. Critical Integration Principles: Maintaining Ontological Coherence
+## 3. Frameworks from Cognitive Science & Developmental Psychology
+
+These frameworks provide empirical grounding and mechanistic models for the Mandala's consciousness-first ontology and its developmental architecture.
+
+| Framework | Compatibility Points | Integration Protocol | Dialectical Alignment |
+| :--- | :--- | :--- | :--- |
+| **Robert Lawrence Kuhn's "Landscape of Consciousness"** | Maps over 300 theories of consciousness on a physicalist-to-idealist spectrum, formally situating **Analytic Idealism** within rigorous academic discourse. | Use the landscape to contextualize the Mandala's ontology during **Protocol 1 (Diagnostic Weaving)** when engaging with materialist perspectives. It validates idealism as a coherent scientific position. | Supports the foundational shift in **0D/1D** from a materialist to an idealist self-concept, which is necessary for all subsequent ethical unfolding. |
+| **Robert Kegan's Subject-Object Theory (Adult Development)** | Provides an empirically validated model of the "evolution of consciousness" through 5+ stages, each a more complex mental structure. This maps precisely onto the **Dialectical Phases**. | Use Kegan's stage descriptions (Imperial, Socialized, Self-Authoring, Self-Transforming) as a psychological diagnostic lens for assessing an individual's or group's primary **Dimensional** center of gravity during assessment. | Directly mirrors the **Soteriological Axis** and the journey from **0D Point Identity** (Imperial) to **4D Tesseractive Wholeness** (Self-Transforming/Interconnected). |
+| **Predictive Processing & 4E Cognitive Science** | Proposes the brain is a "prediction engine" that models the world (a controlled hallucination). This aligns with idealism and explains the **Rhizomatic Network** as an extended mind. | Apply Predictive Processing principles to design learning in the **Rhizomatic Network**. Frame "prediction errors" (new data contradicting the model) as the cognitive driver of **Dialectical Velocity** and phase transitions. | Explains the micro-mechanics of **Feedback Loops**. Learning is the updating of internal models to minimize prediction error, which is the process of navigating the **Temporal Unfolding** spectrum. |
+
+## 4. Critical Integration Principles: Maintaining Ontological Coherence
 
 Integrating external frameworks is not eclectic collage. It is a disciplined practice of translation that must honor the Mandala's foundational premises. These principles are filters; any framework must pass through them to be compatible.
 
