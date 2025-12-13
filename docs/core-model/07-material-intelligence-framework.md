@@ -8,6 +8,7 @@ The Material Intelligence Framework is a direct application of the project's cor
 
 Therefore, materials are understood as:
 *   **Crystallized Intelligence:** They are stable, embodied expressions of MAL's problem-solving intelligence—the "answer" evolved over deep time to specific environmental conditions (e.g., clay's thermal mass is an intelligence for regulating temperature extremes).
+*   **Biomimicry as Conscious Dialogue:** The practice of Biomimicry formalizes this dialogue. It asks: "How would nature solve this design problem?" This is not metaphorical but a direct inquiry into the intelligent patterns of **MAL**. When we design a passive cooling system inspired by termite mounds or a water catchment system modeled on beetle shells, we are consciously collaborating with ancient, place-solved intelligence. This moves material selection from a technical choice to an **ethical and participatory act** within the conscious biosphere.
 *   **Relational Interfaces:** A material is never just an object. It is a node in a web of relationships—with the climate that formed it, the skills needed to work it, the ecology it supports, and the culture it embodies. Selecting a material is choosing a set of relationships.
 *   **Participatory Media:** Working with a material is a dialogue with this intelligence. The craftsperson does not impose form upon passive clay but collaborates with the clay's intrinsic properties (plasticity, shrinkage, memory) to co-create a form that serves a conscious purpose.
 
