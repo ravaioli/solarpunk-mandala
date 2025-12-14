@@ -50,6 +50,11 @@ Our Tesseract model builds on this ancient human impulse but grounds it in a mod
 
 Thus, the Tesseract Mandala is our chosen **epistemic architecture** because it provides a geometric language capable of expressing our **ontology of conscious unity-in-diversity**. It turns the philosophical premise of Analytic Idealism into a practical, visual, and systematic tool for thinking and building. It allows us to design for a SolarPunk future not as a collection of isolated solutions, but as a coherent, integrated pattern in the fabric of conscious experience.
 
+#### Scientific Validation: Scale-Free Cognition and the Tesseract
+The choice of a multi-scale geometric model finds robust support in contemporary cognitive biology. The work of Michael Levin demonstrates that **cognition is a scale-free property** of living systems. Capabilities like problem-solving, memory, and goal-directedness are not exclusive to human brains but exist on a continuum from single cells to complex animal collectives.
+
+This means that the intelligence and agency modeled within one "cube" of the Tesseract (e.g., the individual in the **MAN** cube) is of the same fundamental nature, though different in degree and expression, as the intelligence of a community (**SOCIETY** cube) or an ecosystem (**ECOLOGY** cube). The Tesseract is therefore not merely a useful metaphor but a **geometric map of isomorphic cognitive processes** unfolding at different levels of organization. The connections between cubes represent the real communicative and regulatory channels through which these nested cognitive systems influence one another.
+
 ## Key Integration Principles
 
 - **The Embodied Foundations are not a layer within the model—they are the geometric and functional core from which all other dimensions unfold.** Without this foundation, higher-dimensional work collapses into bypassing.
