@@ -13,6 +13,24 @@ The progression from -1D to 4D is not a linear ladder but a nested, emergent geo
 *   **3D | Volumetric Self:** A plane extended creates volume. This is the dimension of embodied depth, interiority, and systemness. The self becomes a world capable of holding multiple narratives and relationships in dynamic balance, sustained by **Restoration**.
 *   **4D | Tesseractive Wholeness:** Volume unfolded into a higher dimension creates the hypercube (tesseract). This is the dimension of holistic integration, where the distinctions between self, other, and process begin to dissolve in participatory consciousness. It is the lived experience of the mandala's full geometry, requiring all foundations in synergy.
 
+### The Process in Motion
+
+The four phases form a dialectical cycle of learning and integration. This is not a rigid, linear sequence but a dynamic process where completion of one cycle establishes the ground for the next, often in a spiral of increasing complexity.
+
+```mermaid
+flowchart TD
+    A[<b>Dissociative Phase</b><br>Separation, Analysis] -->|Critical Breakdown| B[<b>Dual Phase</b><br>Tension, Polarity]
+    B -->|Synthesis & Integration| C[<b>Relational Phase</b><br>Connection, Context]
+    C -->|Holistic Realization| D[<b>Non-Dual Phase</b><br>Unified Field, Action]
+    D -.->|"Embodied Praxis<br>(Grounds New Cycles)"| A
+    
+    style A fill:#ffcccc
+    style B fill:#ccffcc
+    style C fill:#cce6ff
+    style D fill:#f0e6ff
+```
+**Key Insight:** The **Non-Dual Phase** does not end the process. Its embodied application in a complex world inevitably encounters new, nuanced contradictions, effectively re-initiating the cycle at a higher level of integration (hence the dotted "spiral" arrow).
+
 ## Unified Phase Mapping Table
 
 Dimension | Ontological Stage | Dialectical Phase | Primary Focus | MAL Integration | Embodied Foundations Requirement
