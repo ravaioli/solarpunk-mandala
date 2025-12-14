@@ -30,6 +30,11 @@ Traditional models of complex systems—whether in sustainability, psychology, o
 
 The Tesseract offers a third way. As a 4D shape projected into 3D/2D, it natively represents **simultaneous interconnection and distinction**. Each of the Eight Cubes maintains its own structural integrity (a distinct perspective or domain), while being inextricably linked to the whole through edges and vertices. This mirrors the core ontological premise: multiple, distinct perspectives (cubes) are irreducible facets of a unified, conscious whole (the tesseract).
 
+#### Scientific Validation: Scale-Free Cognition and the Tesseract
+The choice of a multi-scale geometric model finds robust support in contemporary cognitive biology. The work of Michael Levin demonstrates that **cognition is a scale-free property** of living systems. Capabilities like problem-solving, memory, and goal-directedness are not exclusive to human brains but exist on a continuum from single cells to complex animal collectives.
+
+This means that the intelligence and agency modeled within one "cube" of the Tesseract (e.g., the individual in the **MAN** cube) is of the same fundamental nature, though different in degree and expression, as the intelligence of a community (**SOCIETY** cube) or an ecosystem (**ECOLOGY** cube). The Tesseract is therefore not merely a useful metaphor but a **geometric map of isomorphic cognitive processes** unfolding at different levels of organization. The connections between cubes represent the real communicative and regulatory channels through which these nested cognitive systems influence one another.
+
 ### The Mandala as Cultural Tesseract
 
 The geometric intuition of "multi-dimensional unity" is not new or exclusive to Western mathematics. Across cultures, humans have developed symbolic systems to represent this same epistemic challenge:
@@ -50,10 +55,14 @@ Our Tesseract model builds on this ancient human impulse but grounds it in a mod
 
 Thus, the Tesseract Mandala is our chosen **epistemic architecture** because it provides a geometric language capable of expressing our **ontology of conscious unity-in-diversity**. It turns the philosophical premise of Analytic Idealism into a practical, visual, and systematic tool for thinking and building. It allows us to design for a SolarPunk future not as a collection of isolated solutions, but as a coherent, integrated pattern in the fabric of conscious experience.
 
-#### Scientific Validation: Scale-Free Cognition and the Tesseract
-The choice of a multi-scale geometric model finds robust support in contemporary cognitive biology. The work of Michael Levin demonstrates that **cognition is a scale-free property** of living systems. Capabilities like problem-solving, memory, and goal-directedness are not exclusive to human brains but exist on a continuum from single cells to complex animal collectives.
+#### The Science of Perception: Nested Observer Windows & Conscious Interfaces
+The Tesseract's geometry of multiple, interconnected perspectives finds robust validation in contemporary models of consciousness and perception. Two complementary frameworks—**Donald Hoffman's Interface Theory of Perception** and the **Nested Observer Windows (NOW) Model by Justin Riddle & Jonathan Schooler**—provide a scientific foundation for this epistemic architecture.
 
-This means that the intelligence and agency modeled within one "cube" of the Tesseract (e.g., the individual in the **MAN** cube) is of the same fundamental nature, though different in degree and expression, as the intelligence of a community (**SOCIETY** cube) or an ecosystem (**ECOLOGY** cube). The Tesseract is therefore not merely a useful metaphor but a **geometric map of isomorphic cognitive processes** unfolding at different levels of organization. The connections between cubes represent the real communicative and regulatory channels through which these nested cognitive systems influence one another.
+**Hoffman's Interface Theory** posits that perceptual experiences (space, time, objects) do not depict reality as it is but form a species-specific **user interface**. This interface evolved to guide adaptive behavior by hiding the true, vastly complex nature of reality, which may be a network of "conscious agents." From this perspective, each cube of the Tesseract (ECOLOGY, SOCIETY, SPIRITUALITY, etc.) can be understood as a **specialized "desktop" or portal** within our collective conscious interface, optimized for navigating a particular domain of survival and flourishing.
+
+The **Nested Observer Windows (NOW) Model** provides the structural mechanism for such an interface. It proposes that consciousness is fundamentally hierarchical, with "observer windows" nested within one another—from the fast, localized processing of neurons to the slow, integrated awareness of the whole brain. This creates a **recursive information-processing hierarchy** where higher-level windows (with broader spatial and temporal integration) govern and are informed by lower-level ones.
+
+**Synthesis for the Mandala:** The Tesseract is a map of our **collective, multi-scale conscious interface**. Its eight cubes represent major, semi-autonomous "observer windows" within the social mind. The connections between cubes are the communicative channels through which these windows exchange information and negotiate a shared reality. The model's scalability—from individual to bioregional—mirrors the fundamental nestedness of observer systems, validating the application of the same geometric logic across different levels of a conscious hierarchy.
 
 ## Key Integration Principles
 
