@@ -1,6 +1,13 @@
-# Geometric Completion: The Four Modes of Wholeness
+# Geometric Unpacking: The Tesseract as the Mandala's Blueprint
 
-The journey through the Mandala's dimensions (-1D to 4D) and along its Pathways culminates in distinct, recognizable states of geometric completion. These are not abstract ideals but **operational modes of a coherent system**, expressed through the increasing integration of the Tesseract's cubes. Completion is the measure of how fully the potential of a conscious system—be it an individual, community, or project—is actualized within the relational field.
+This document provides a deep, technical exploration of the core geometric model introduced in the [Epistemic Architecture](./02-epistemic-architecture-tesseract.md). It serves as a **validation and unpacking layer**, demonstrating how the ethical axes, dialectical phases, and four pathways of the Solarpunk Mandala are not merely *mapped onto* the tesseract, but are inherently expressed by its geometric and topological logic.
+
+Here, we move from using the tesseract as a guiding metaphor to rigorously examining it as the **structural blueprint** that generates the entire model. We will:
+1.  Deconstruct the tesseract's topology into its fundamental relational units.
+2.  Show the exact correspondence between these geometric units and the components of the Mandala (axes, phases, pathways).
+3.  Illustrate how the dynamic process of "traversing" the tesseract's structure models the dialectical unfolding of consciousness and action.
+
+This geometric completion is the final proof of concept for the framework's internal consistency.
 
 ## The Ontology of Completion: From Potential to Actualized Pattern
 
