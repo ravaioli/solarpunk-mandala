@@ -28,6 +28,33 @@ structured_concepts:
 
 To move through the dimensional stages of temporal unfolding, we need actionable, embodied gateways. The Four Pathways of the Mandala Axis provide these open-source protocols. They are not spiritual doctrines but **functional geometries for conscious participation**, translating the abstract ethical Axes and ontological premises into praxis. Each pathway is reframed from ancient wisdom traditions into a modern, inclusive, and systematic toolkit for transformation, grounded in the language of **Analytic Idealism** (consciousness-first) and the relational logic of the **Tesseract**.
 
+```mermaid
+graph TD
+    %% Nodes
+    N[NORTH: High Tech / Automation]
+    S[SOUTH: Deep Ecology / Biology]
+    E[EAST: Spirituality / Culture]
+    W[WEST: Politics / Governance]
+    Center((SOLARPUNK<br/>HOMEOSTAT))
+
+    %% Relationships
+    N <--> Center
+    S <--> Center
+    E <--> Center
+    W <--> Center
+    
+    %% Cross Connections (Tension points)
+    N -.-> S
+    W -.-> E
+
+    %% Styling
+    style Center fill:#E9C46A,stroke:#264653,stroke-width:4px,color:#264653
+    style N fill:#2A9D8F,stroke:#264653,color:white
+    style S fill:#2A9D8F,stroke:#264653,color:white
+    style E fill:#F4A261,stroke:#264653,color:white
+    style W fill:#F4A261,stroke:#264653,color:white
+```
+
 | Pathway | Mutual Goal | Core Practices (from Circles Elements) | Temporal Rhythm | Rhizomatic Anchor | Embodied Threshold |
 |---------|-------------|----------------------------------------|-----------------|-------------------|-------------------|
 | 1. Path of Awakening | Conscientização (Critical consciousness) | SPIRITUALITY Elements (e.g., Interconnection & Cosmology, Transcendence & Wonder) | Seasonal Cycles (NATURE: Climate) | Spirituality + NATURE | Restoration ≥ 2 (cannot sustain awe on empty stomach) |
@@ -35,7 +62,7 @@ To move through the dimensional stages of temporal unfolding, we need actionable
 | 3. Path of Liberation | Liberação (Systemic freedom) | POLITICS + SOCIETY Elements (e.g., Organization & Governance, Law & Administration) | Project Lifecycle (Design → evaluation) | Politics + SOCIETY | Movement ≥ 2 (cannot liberate when immobilized) |
 | 4. Path of Healing | Cura (Relational restoration) | CULTURE + POLITICS Elements (e.g., Enquiry & Learning, Dialogue & Reconciliation) | Breath Rhythm (Tension → release) | Culture + Politics | Cleansing ≥ 2 (cannot heal when toxic) |
 
-### Synthesis of the Pathways
+## Synthesis of the Pathways
 
 Each pathway is a unique synthesis of a primary ethical axis and a core dialectical phase, forming a coherent style of praxis.
 
