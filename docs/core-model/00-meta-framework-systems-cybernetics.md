@@ -20,7 +20,6 @@ structured_concepts:
     definition: "The scientific proposition that cognitive capacities like problem-solving and goal-directedness are fundamental properties of living systems at all scales, from cells to societies."
     relation: "Provides a biological model of agency that connects GST's structure to cybernetics' processes; validates applying the Mandala across personal, community, and ecological scales."
 ---
-
 # Meta-Framework: Systems & Cybernetics
 
 The Solarpunk Mandala is a framework for **conscious systems design**. Its architecture is built upon two core, interdependent meta-disciplines from the systems sciences: **General Systems Theory (GST)**, which provides the logic of *structure and wholeness*, and **Cybernetics**, which provides the logic of *control, communication, and adaptation*.
