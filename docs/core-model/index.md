@@ -49,6 +49,38 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
 *   **For Practitioners Seeking Application:** Focus on the **Core** section (**Pathways (05)** are key) and **Expression** section (**Material Intelligence (07)**, **Multiple Intelligences (08)**) after grasping the core Axes (03) and Phases (04).
 *   **For Theorists & Integrators:** The entire **Foundation** and **Expression** sections provide the philosophical depth, scientific grounding, and integrative capacity. The **Frameworks Matrix (09)** is a central hub.
 
+### Logical Architecture of the Core Model
+
+The framework is constructed as a series of nested, logical derivations:
+
+```mermaid
+graph TD
+    A["00: Cybernetic Meta-Framework<br>(Rules of Engagement)"] --> B
+    B["01: Analytic Idealism<br>(Foundational Axiom)"] --> C
+    C["02: Tesseract Model<br>(Epistemic Bridge)"] --> D
+    C --> E
+    D["03: Four Ethical Axes<br>(Derived Principles)"] --> F
+    E["04: Dialectical Phases<br>(Dynamic Process)"] --> F
+    F["05: Mandala & Four Pathways<br>(Synthesized Praxis)"] --> G
+    G["06: Geometric Unpacking<br>(Structural Validation)"]
+    
+    B --> H["07: Material Intelligence<br>(Downward Application)"]
+    B --> I["08: Multiple Intelligences<br>(Inward Application)"]
+    
+    F -.-> J["09: Compatible Frameworks<br>(External Validation)"]
+    
+    A -.-> K["10: Cybernetic Foundations<br>(Recursive Closure)"]
+    F -.-> K
+    H -.-> K
+    I -.-> K
+```
+
+**Key:**
+- **Solid Arrow (-->):** Indicates a primary "derived from" or "built upon" relationship.
+- **Dotted Arrow (-.->):** Indicates a strong reinforcing or validating relationship.
+
+*Note: This diagram is rendered using Mermaid, a markdown-based diagramming tool. It is natively supported on GitHub and can be viewed in any environment that supports Mermaid.*
+
 ## 🔗 The Living System
 
 The Solarpunk Mandala is not a static blueprint but a **living documentation system**. Its concepts are refined through practice, community contribution, and continuous cross-pollination with other wisdom traditions and sciences. This core model provides the stable architecture for that ongoing, creative evolution.
