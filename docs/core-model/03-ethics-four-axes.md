@@ -11,6 +11,24 @@ Transformation is not a vague ideal but a directional process. The Four Axes pro
 | 3. Relational Depth | How connected are we? | CULTURE + SOCIETY | Requires Movement ≥ 2 to sustain relational flow | Transactional relationships, polarization |
 | 4. Temporal Orientation | How wisely do we hold time? | CULTURE: Memory & Projection + NATURE: Climate | Requires Cleansing ≥ 2 to clear temporal blockages | Short-termism, historical amnesia |
 
+### The Ethical Field: A Relational Map
+
+The Four Axes are not independent checklists but interrelated dimensions that form a continuous field of ethical consideration. Each axis represents a primary tension to be navigated, not a binary choice.
+
+```mermaid
+quadrantChart
+    title "The Ethical Field of Navigation"
+    x-axis "Internal Focus" --> "External Focus"
+    y-axis "Integration / Unity" --> "Differentiation / Agency"
+    "Self-Other": [0.25, 0.5]
+    "Mind-Matter": [0.75, 0.5]
+    "Unity-Diversity": [0.5, 0.75]
+    "Static-Dynamic": [0.5, 0.25]
+```
+*   **X-Axis (Internal ↔ External):** Ranges from interior, subjective experience to exterior, intersubjective and systemic relations.
+*   **Y-Axis (Unity ↔ Agency):** Ranges from values of harmony, wholeness, and connection to values of action, distinction, and individuation.
+*   **Each Dot's Position:** Shows the primary tension an axis addresses within this field (e.g., Self-Other bridges internal and external focus).
+
 ## The Axes in Detail: From Question to Practice
 
 Each axis translates a profound ethical question into a measurable pathway for action and development.
