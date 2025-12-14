@@ -115,3 +115,35 @@ The dialectical phases are not a human abstraction but a observable pattern in c
 *   **4D Reunification:** The era of ubiquitous computing, AI, and the Internet of Things, where the digital is reunified with the physical world, creating a new, participatory planetary layer of consciousness.
 
 These patterns demonstrate that the phase progression from Dissolution to Reunification is a robust, non-linear logic of how life, mind, and society complexify and integrate. The Solarpunk Mandala seeks to align human agency consciously with this deep temporal pattern.
+
+```mermaid
+graph TD
+    Thesis[THESIS: Industrial Capitalism]
+    Antithesis[ANTITHESIS: Deep Ecology / Primitivism]
+    
+    Synthesis{SYNTHESIS: Solarpunk}
+    
+    Thesis -->|Contradiction: Extraction| Conflict((Systemic<br/>Crisis))
+    Antithesis -->|Contradiction: Scale| Conflict
+    
+    Conflict -->|Emergence| Synthesis
+    
+    subgraph Properties_Thesis
+    T1[High Tech / High Extraction]
+    end
+    
+    subgraph Properties_Antithesis
+    A1[Low Tech / Low Extraction]
+    end
+    
+    subgraph Properties_Synthesis
+    S1[High Tech / Regenerative]
+    end
+    
+    Thesis --- T1
+    Antithesis --- A1
+    Synthesis --- S1
+
+    %% Styling
+    style Synthesis fill:#2A9D8F,color:white,stroke-width:4px
+    style Conflict fill:#e76f51,color:white
