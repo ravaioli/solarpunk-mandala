@@ -32,6 +32,15 @@ This is the pathway of the **Axis of Relational Depth** (Connection Between Selv
 ### 4. Path of Healing (Cura)
 This is the pathway of the **Axis of Temporal Orientation** (Connection Across Time). It addresses wounds—personal, cultural, ecological—that distort our relationship to past and future. Its goal is restorative justice and the integration of trauma. Anchored in **CULTURE + POLITICS**, it works with memory, narrative, and dialogue. Its intrinsic rhythm is the **Breath Rhythm** (tension-release), mirroring the necessary process of confronting pain and then integrating the learning. This deep work is impossible without **Cleansing**; without mechanisms to safely metabolize and release toxicity, healing efforts re-traumatize.
 
+#### Cognitive Dynamics: Pathways as Light Cone Expansion
+From a cognitive science perspective, each pathway can be understood as a protocol for expanding what biologist Michael Levin calls a **cognitive light cone**—the spatio-temporal boundary of events an agent (individual or collective) can perceive, model, and influence.
+
+*   **Path of Awakening (Conscientização)** directly targets the **expansion of the subjective light cone**. Through critical self-reflection and practices that induce self-transcendence, one's sphere of identification and concern grows from the ego to include wider social and ecological systems.
+*   **Paths of Making and Healing (Capacitação & Cura)** work on the **practical infrastructure for shared light cones**. They build the physical, communicative, and relational "gap junctions" (akin to those between cells) that allow individuals to align their goals and function as a coherent, intelligent collective with a larger, shared boundary of agency.
+*   **Path of Liberation (Liberação)** actively **dissolves artificial boundaries**—social, political, ideological—that constrict collective light cones, preventing groups from achieving their full agential capacity and geometric completion.
+
+Progress along a pathway is measurable as an increase in the **scale and coherence of a system's cognitive light cone**, reflected in higher **Dialectical Velocity** and movement toward more complex **Geometric Completion**.
+
 ## Embodied Integration: The Somatic Logic of the Pathways
 
 The pathways are not purely cognitive; they are somatic technologies. Each pathway activates and depends upon a specific blend of the Embodied Foundations:
