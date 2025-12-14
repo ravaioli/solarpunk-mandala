@@ -9,6 +9,47 @@ To move through the dimensional stages of temporal unfolding, we need actionable
 | 3. Path of Liberation | Liberação (Systemic freedom) | POLITICS + SOCIETY Elements (e.g., Organization & Governance, Law & Administration) | Project Lifecycle (Design → evaluation) | Politics + SOCIETY | Movement ≥ 2 (cannot liberate when immobilized) |
 | 4. Path of Healing | Cura (Relational restoration) | CULTURE + POLITICS Elements (e.g., Enquiry & Learning, Dialogue & Reconciliation) | Breath Rhythm (Tension → release) | Culture + Politics | Cleansing ≥ 2 (cannot heal when toxic) |
 
+### Synthesis of the Pathways
+
+Each pathway is a unique synthesis of a primary ethical axis and a core dialectical phase, forming a coherent style of praxis.
+
+```mermaid
+graph TD
+    subgraph "Ethical Axis (The 'What')"
+        A1[Self-Other]
+        A2[Mind-Matter]
+        A3[Unity-Diversity]
+        A4[Static-Dynamic]
+    end
+
+    subgraph "Dialectical Phase (The 'How')"
+        P1[Dissociative]
+        P2[Dual]
+        P3[Relational]
+        P4[Non-Dual]
+    end
+
+    subgraph "The Four Pathways (The Integrated Praxis)"
+        W[<b>Warrior Path</b><br>Clarity & Action]
+        T[<b>Healer Path</b><br>Connection & Care]
+        V[<b>Visionary Path</b><br>Imagination & Synthesis]
+        G[<b>Gardener Path</b><br>Embodiment & Nurture]
+    end
+
+    A2 --> W
+    P1 --> W
+
+    A1 --> T
+    P3 --> T
+
+    A3 --> V
+    P2 --> V
+
+    A4 --> G
+    P4 --> G
+```
+This map illustrates that a pathway is more than a role; it is a **methodology for engaging with reality**, defined by *what* primary relationship it navigates and *how* (through which phase lens) it approaches that navigation.
+
 ## Pathways in Detail: From Goal to Geometry
 
 Each pathway is a structured interface between the inner world of consciousness and the outer world of manifestation, guided by a specific "Mutual Goal" drawn from Paulo Freire's pedagogy of liberation.
