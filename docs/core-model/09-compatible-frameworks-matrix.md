@@ -50,6 +50,36 @@ These frameworks provide the pattern language and practical methodology for crea
 | **Symmathesy (Nora Bateson)** | The concept of mutual, contextual learning through interaction. It posits that systems are not just interdependent, but are *composed of* the learning that happens between their parts. | Apply symmathesy to understand and design the **Rhizomatic Network**. Frame data not as objective points, but as artifacts of relational learning. This informs how to design for **healthy feedback loops** and **Boundary Permeability**. | Central to the **Axis of Relational Depth**. It explains how **2D Integration** and **3D Transformation** occur through complex, mutual learning, not linear instruction. |
 | **Ontological Design & Design Philosophy** | The principle that "we design our world, and our world designs us" (the recursive loop of design and being). This perfectly mirrors the Mandala's consciousness-first, participative reality. | Apply as the highest-order check in **Protocol 2 (Generative Design)**: "What kind of subjects, relationships, and consciousness is this design calling into being?" Use this to evaluate the ethical depth of any pathway project. | Pervasive. It is the awareness that every act of **Making**, **Liberating**, or **Healing** is fundamentally an act of **world-making** and thus **self-making**, aligning with the entire **Soteriological Axis**. |
 
+### Visual Integration Map
+
+The Solarpunk Mandala does not seek to replace existing frameworks but to provide a coherent "coordinate system" that reveals their complementary strengths and shared ontological ground.
+
+```mermaid
+mindmap
+  root((Solarpunk Mandala))
+    (As Meta-Framework)
+      Indigenous Worldviews
+        :Relational Ethos
+        :Ancestral Time
+      Zen Buddhism
+        :Non-Dual Awareness
+        :Beginner's Mind
+      Critical Social Theory
+        :Power Analysis
+        :Structural Critique
+      Permaculture Design
+        :Systems Thinking
+        :Ethical Foundations
+      Complex Systems Science
+        :Emergence
+        :Feedback Loops
+    (Integrates Via)
+      Axes of Navigation
+      Dialectical Process
+      Geometric Unification
+```
+This diagram positions the Mandala as a central, synthesizing node that identifies core principles from diverse traditions and frames them within its own coherent structure of consciousness-first ontology, ethical navigation, and geometric modeling.
+
 ## 5. Critical Integration Principles: Maintaining Ontological Coherence
 
 Integrating external frameworks is not eclectic collage. It is a disciplined practice of translation that must honor the Mandala's foundational premises. These principles are filters; any framework must pass through them to be compatible.
