@@ -53,5 +53,20 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
 
 The Solarpunk Mandala is not a static blueprint but a **living documentation system**. Its concepts are refined through practice, community contribution, and continuous cross-pollination with other wisdom traditions and sciences. This core model provides the stable architecture for that ongoing, creative evolution.
 
+## Glossary of Core Concepts
+
+This glossary defines key proprietary terms used across the core model. Each term links to the primary document where it is defined and operationalized.
+
+| Term | Brief Definition | Primary Reference |
+| :--- | :--- | :--- |
+| **Analytic Idealism** | The ontological position that consciousness is the fundamental nature of reality, approached with logical rigor. | [01-Ontology](./01-ontology-analytic-idealism.md) |
+| **Cybernetic Meta-Framework** | The outermost container of the model, emphasizing feedback loops, holism, and goal-directed system behavior. | [00-Meta-Framework](./00-meta-framework-systems-cybernetics.md) |
+| **Dimensional Literacy** | The cognitive skill of modeling problems and systems using multi-dimensional, integrative thinking. | [02-Epistemic Architecture](./02-epistemic-architecture-tesseract.md) |
+| **The Four Axes** | The primary ethical tensions (Self-Other, etc.) used to navigate a conscious, relational reality. | [03-Ethics](./03-ethics-four-axes.md) |
+| **Dialectical Phases** | The four-stage process (Dissociative, Dual, etc.) describing the evolution of consciousness and systems toward higher integration. | [04-Temporal Unfolding](./04-temporal-unfolding-dialectical-phases.md) |
+| **The Four Pathways** | The core operational model (Warrior, Healer, etc.) synthesizing ethics, geometry, and process for personal/collective praxis. | [05-Mandala Axis](./05-mandala-axis-four-pathways.md) |
+| **Material Intelligence** | The observable, distributed intelligence and adaptive pattern-making inherent in physical and ecological systems. | [07-Material Intelligence](./07-material-intelligence-framework.md) |
+| **Multiple Intelligences** | The expanded spectrum of human cognitive capacities (emotional, somatic, etc.) recognized within the holistic model. | [08-Multiple Intelligences](./08-multiple-intelligences-framework.md) |
+
 ---
 **Next Steps:** Engage with the [Glossary](../glossary.md) for term definitions, or explore the [Protocols](../protocols/) for practical implementation guides, including the new **Memory Protocol**.
