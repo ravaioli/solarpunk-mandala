@@ -24,141 +24,195 @@ structured_concepts:
     definition: "The pathway focused on addressing and integrating personal, cultural, and ecological trauma to restore right relationship across time, synthesizing the Static-Dynamic ethical axis with the Non-Dual dialectical phase. It is anchored in CULTURE and POLITICS."
     relation: "The primary gateway for work on the Axis of Temporal Orientation (Connection Across Time); dependent on the Cleansing foundation."
 ---
-# The Mandala Axis: Four Pathways of Purpose
+# Mandala Axis: Four Pathways
 
-To move through the dimensional stages of temporal unfolding, we need actionable, embodied gateways. The Four Pathways of the Mandala Axis provide these open-source protocols. They are not spiritual doctrines but **functional geometries for conscious participation**, translating the abstract ethical Axes and ontological premises into praxis. Each pathway is reframed from ancient wisdom traditions into a modern, inclusive, and systematic toolkit for transformation, grounded in the language of **Analytic Idealism** (consciousness-first) and the relational logic of the **Tesseract**.
+## Your Personal Vector Through the Tesseract
+
+In the temporal unfolding (04), you witnessed how ideas move through 4D space. Now, discover **how you move**—your unique vector through the geometric reality.
+
+The four pathways are not personality types. They are **modes of engagement**—different ways to apply force along the mandala's axes, creating different patterns of contribution.
+
+---
+
+## The Four Vectors of Contribution
+
+Each pathway represents a different approach to applying energy within the Tesseract's structure:
 
 ```mermaid
-graph TD
-    %% Nodes
-    N[NORTH: High Tech / Automation]
-    S[SOUTH: Deep Ecology / Biology]
-    E[EAST: Spirituality / Culture]
-    W[WEST: Politics / Governance]
-    Center((SOLARPUNK<br/>HOMEOSTAT))
-
-    %% Relationships
-    N <--> Center
-    S <--> Center
-    E <--> Center
-    W <--> Center
+flowchart TD
+    Entry["Entry Point<br/>Your starting intention"] --> Pathways
     
-    %% Cross Connections (Tension points)
-    N -.-> S
-    W -.-> E
-
-    %% Styling
-    style Center fill:#E9C46A,stroke:#264653,stroke-width:4px,color:#264653
-    style N fill:#2A9D8F,stroke:#264653,color:white
-    style S fill:#2A9D8F,stroke:#264653,color:white
-    style E fill:#F4A261,stroke:#264653,color:white
-    style W fill:#F4A261,stroke:#264653,color:white
+    Pathways --> Artisan["Artisan<br/>Refinement vector"]
+    Pathways --> Gardener["Gardener<br/>Nurturing vector"]
+    Pathways --> Weaver["Weaver<br/>Connective vector"]
+    Pathways --> Catalyst["Catalyst<br/>Transformative vector"]
+    
+    Artisan --> Tesseract["Tesseract geometry<br/>(improved precision)"]
+    Gardener --> Tesseract["Tesseract geometry<br/>(enhanced fertility)"]
+    Weaver --> Tesseract["Tesseract geometry<br/>(revealed patterns)"]
+    Catalyst --> Tesseract["Tesseract geometry<br/>(expanded dimensions)"]
 ```
+### 1. **The Artisan Path** → Refinement Vector
+Focusing energy **inward** to perfect individual components.
+- **Movement:** Radial contraction toward precision
+- **Temporal phase affinity:** Thesis (stabilizing) & Material (perfecting)
+- **Geometric action:** Polishing vertices and edges
+- **Repository work:** Code quality, documentation clarity, tool refinement
+- **Label:** `pathway:artisan`
 
-| Pathway | Mutual Goal | Core Practices (from Circles Elements) | Temporal Rhythm | Rhizomatic Anchor | Embodied Threshold |
-|---------|-------------|----------------------------------------|-----------------|-------------------|-------------------|
-| 1. Path of Awakening | Conscientização (Critical consciousness) | SPIRITUALITY Elements (e.g., Interconnection & Cosmology, Transcendence & Wonder) | Seasonal Cycles (NATURE: Climate) | Spirituality + NATURE | Restoration ≥ 2 (cannot sustain awe on empty stomach) |
-| 2. Path of Making | Capacitação (Capacity-building) | ECONOMICS + ECOLOGY Elements (e.g., Production & Resourcing, Embodiment & Sustenance) | Learning Spiral (Iterative reflection) | Economics + Ecology + MAN | Nourishment ≥ 2 (cannot build when hungry) |
-| 3. Path of Liberation | Liberação (Systemic freedom) | POLITICS + SOCIETY Elements (e.g., Organization & Governance, Law & Administration) | Project Lifecycle (Design → evaluation) | Politics + SOCIETY | Movement ≥ 2 (cannot liberate when immobilized) |
-| 4. Path of Healing | Cura (Relational restoration) | CULTURE + POLITICS Elements (e.g., Enquiry & Learning, Dialogue & Reconciliation) | Breath Rhythm (Tension → release) | Culture + Politics | Cleansing ≥ 2 (cannot heal when toxic) |
+### 2. **The Gardener Path** → Nurturing Vector  
+Focusing energy **outward** to cultivate relationships and conditions.
+- **Movement:** Radial expansion toward ecosystem health
+- **Temporal phase affinity:** Synthesis (integrating) & Antithesis (pruning)
+- **Geometric action:** Strengthening connections between vertices
+- **Repository work:** Community building, issue triage, welcoming newcomers
+- **Label:** `pathway:gardener`
 
-## Synthesis of the Pathways
+### 3. **The Weaver Path** → Connective Vector
+Focusing energy **through** patterns and relationships.
+- **Movement:** Diagonal integration across planes
+- **Temporal phase affinity:** Synthesis (integrating) & Thesis (pattern recognition)
+- **Geometric action:** Tracing and revealing hidden connections
+- **Repository work:** Pattern recognition, integration docs, cross-reference creation
+- **Label:** `pathway:weaver`
 
-Each pathway is a unique synthesis of a primary ethical axis and a core dialectical phase, forming a coherent style of praxis.
+### 4. **The Catalyst Path** → Transformative Vector
+Focusing energy **beyond** existing structures to create new possibilities.
+- **Movement:** Orthogonal rotation into new dimensions
+- **Temporal phase affinity:** Antithesis (challenging) & Material (manifesting new)
+- **Geometric action:** Rotating the entire tesseract to reveal new faces
+- **Repository work:** Paradigm proposals, radical refactors, new directions
+- **Label:** `pathway:catalyst`
 
-```mermaid
-graph TD
-    subgraph "Ethical Axis (The 'What')"
-        A1[Self-Other]
-        A2[Mind-Matter]
-        A3[Unity-Diversity]
-        A4[Static-Dynamic]
-    end
+---
 
-    subgraph "Dialectical Phase (The 'How')"
-        P1[Dissociative]
-        P2[Dual]
-        P3[Relational]
-        P4[Non-Dual]
-    end
+## Pathway-Tesseract Alignment Matrix
 
-    subgraph "The Four Pathways (The Integrated Praxis)"
-        W[<b>Warrior Path</b><br>Clarity & Action]
-        T[<b>Healer Path</b><br>Connection & Care]
-        V[<b>Visionary Path</b><br>Imagination & Synthesis]
-        G[<b>Gardener Path</b><br>Embodiment & Nurture]
-    end
+Each pathway engages with the Tesseract's geometry differently:
 
-    A2 --> W
-    P1 --> W
+| Pathway | Primary Axis | Secondary Axis | Geometric Movement | Contribution Pattern |
+|---------|--------------|----------------|--------------------|----------------------|
+| **Artisan** | Precision | Stability | Contractive refinement | Iterative improvement |
+| **Gardener** | Connection | Nurturing | Expansive cultivation | Relational growth |
+| **Weaver** | Integration | Pattern | Diagonal connection | Systemic coherence |
+| **Catalyst** | Transformation | Emergence | Orthogonal rotation | Dimensional expansion |
 
-    A1 --> T
-    P3 --> T
+---
 
-    A3 --> V
-    P2 --> V
+## Pathway Identification: Vector Analysis
 
-    A4 --> G
-    P4 --> G
+Rather than asking "Who are you?" ask "**How do you apply energy right now?**"
+
+### Vector Assessment
+
+**Imagine you encounter a bug in the documentation:**
+
+1. **Artisan response:**
+   - Fix the specific error with precision
+   - Check for similar errors elsewhere
+   - Update any affected references
+   - *Energy vector:* Inward toward accuracy
+
+2. **Gardener response:**
+   - Consider who might be confused by this
+   - Create a guide to prevent similar confusion
+   - Check if the system encourages such errors
+   - *Energy vector:* Outward toward understanding
+
+3. **Weaver response:**
+   - Trace why this error occurred in the system
+   - Map connections to other potential issues
+   - Propose structural changes to prevent category errors
+   - *Energy vector:* Through the system's patterns
+
+4. **Catalyst response:**
+   - Question whether documentation should exist in this form
+   - Propose a completely different knowledge structure
+   - Use the error as evidence for systemic transformation
+   - *Energy vector:* Beyond the current structure
+
+**Your turn:** Pick a simple issue. Imagine four distinct responses. Which feels most natural? That's your current vector.
+
+---
+
+## Temporal-Phase Pathway Affinities
+
+Your pathway preference often aligns with specific phases of the dialectic:
+
+| Pathway | Natural Phase Entry | Contribution Style | Phase Transition Role |
+|---------|---------------------|-------------------|----------------------|
+| **Artisan** | Material phase | Perfecting implementation | Thesis → Material refinement |
+| **Gardener** | Synthesis phase | Nurturing consensus | Antithesis → Synthesis bridging |
+| **Weaver** | Thesis phase | Revealing patterns | Synthesis → Material mapping |
+| **Catalyst** | Antithesis phase | Challenging foundations | Material → New Thesis creation |
+
+---
+
+## Practical Pathway Application
+
+### 1. **Pathway-Aware Contribution**
+
+When submitting work:
+```markdown
+[pathway:artisan] Fix typo in tesseract documentation
+
+Pathway alignment: Refinement vector - improving precision of geometric description
+Temporal phase: Material integration - correcting existing implementation
+Geometric action: Polishing vertex description clarity
 ```
-This map illustrates that a pathway is more than a role; it is a **methodology for engaging with reality**, defined by *what* primary relationship it navigates and *how* (through which phase lens) it approaches that navigation.
+### 2. **Pathway-Rotating Practice**
 
-## Pathways in Detail: From Goal to Geometry
+To develop pathway flexibility, try this exercise:
 
-Each pathway is a structured interface between the inner world of consciousness and the outer world of manifestation, guided by a specific "Mutual Goal" drawn from Paulo Freire's pedagogy of liberation.
+1. Pick a simple task: "Improve the README"
+2. Approach it from each pathway perspective:
+   - **Artisan:** Perfect the formatting and clarity
+   - **Gardener:** Make it more welcoming and accessible
+   - **Weaver:** Show connections to other documentation
+   - **Catalyst:** Question the README format entirely
 
-### 1. Path of Awakening (Conscientização)
-This is the pathway of the **Soteriological Axis** (Integration of Self). Its purpose is to cultivate critical consciousness—the "awakening" to one's own perceptual frameworks, conditioning, and interconnected nature within a conscious universe. Its **Rhizomatic Anchors (SPIRITUALITY + NATURE)** connect inner maps of meaning with the larger cycles of the living world. Its practices, drawn from the SPIRITUALITY circle, are designed to induce states that dissolve the illusion of a separate self, aligning personal rhythm with **Seasonal Cycles**. It is wholly dependent on the **Restoration** foundation; without somatic and psychic rest, the work of self-inquiry leads to burnout, not insight.
+### 3. **Pathway Collaboration**
 
-#### Cognitive Mechanics of Awakening
-From the perspective of cognitive science, the **Path of Awakening** works by deliberately creating **productive prediction errors** that challenge the brain's existing generative model of the self and the world. Contemplative practices from the SPIRITUALITY cube (e.g., meditation, deep dialogue, exposure to awe) provide sensory and introspective data that the mind's default, materialist, or ego-centric model cannot predict or explain. This sustained prediction error forces a revision of the model—a **dialectical phase transition** in Kegan's terms—from a simpler, more fragmented stage (**Socialized Mind**) toward a more complex, integrated one (**Self-Authoring** or **Self-Transforming Mind**). The path's dependency on **Restoration** is crucial because this model-updating process is metabolically costly and requires a safe, restorative container to avoid defensive rigidity.
+Different pathways create different tensions and synergies:
 
-### 2. Path of Making (Capacitação)
-This is the pathway of the **Axiological Axis** (Regeneration of Systems). This is the pathway of the **Axiological Axis** (Regeneration of Systems). It translates values into tangible, life-affirming capacity. Its goal is empowerment through the creation of regenerative physical and social systems. Anchored in **ECONOMICS + ECOLOGY + MAN**, it focuses on the practical alchemy of transforming resources into sustenance and shelter. Its practices follow a **Learning Spiral**—observe, build, reflect, adapt—embodying the iterative, non-linear nature of complex system design. This concrete work requires a stable flow of **Nourishment**; material precarity forces a contraction back to extractive logic.
+- **Artisan + Gardener:** Precision meets accessibility
+- **Weaver + Catalyst:** Patterns meet transformation
+- **Gardener + Weaver:** Relationships meet connections
+- **Catalyst + Artisan:** Innovation meets craftsmanship
 
-**Regenerative Economics Integration:** This pathway is the direct application of **Regenerative Economics** and **Ecological Economics**. These frameworks move beyond sustainability (doing less harm) to practices that actively heal social and ecological systems. Key principles like **circular material flows**, **renewable energy dependence**, **fair distribution**, and **re-localized production** become the concrete design criteria for projects under this pathway. The "Learning Spiral" rhythm is the iterative process of designing for these principles, measuring outcomes in the **Rhizomatic Network** (e.g., tracking local multiplier effect, carbon sequestration, community wealth metrics), and adapting the design.
+**Collaboration prompt:** Find someone with a different pathway preference. Co-create something that honors both vectors.
 
-**Living Systems & Biomimicry Integration:** This pathway operationalizes **Living Systems Theory**. The goal is not to build static objects, but to **initiate or support autopoietic processes**—systems that can self-maintain, reproduce, and evolve. Biomimicry's "Life's Principles" become the core design criteria[citation:8]. A successful project under this pathway doesn't just produce a thing (a garden, a building, an economic model); it **launches a living process** that enhances local biodiversity, cycles nutrients, and strengthens community bonds—creating conditions conducive to more life[citation:8]. The **Learning Spiral** is the iterative process of aligning human designs with these deep ecological patterns.
+---
 
-### 3. Path of Liberation (Liberação)
-This is the pathway of the **Axis of Relational Depth** (Connection Between Selves). It targets the structures—internal and external—that inhibit authentic, equitable connection. Its work is the analysis and redesign of power dynamics, governance, and social organization. Anchored in **POLITICS + SOCIETY**, it uses the clear, phased structure of a **Project Lifecycle** (design, implement, evaluate) to navigate the complexity of social change. Liberation requires **Movement**—the literal and metaphorical capacity to circulate power, change positions, and mobilize. Stagnation reinforces oppressive locks.
+## Pathway Labels in Practice
 
-### 4. Path of Healing (Cura)
-This is the pathway of the **Axis of Temporal Orientation** (Connection Across Time). It addresses wounds—personal, cultural, ecological—that distort our relationship to past and future. Its goal is restorative justice and the integration of trauma. Anchored in **CULTURE + POLITICS**, it works with memory, narrative, and dialogue. Its intrinsic rhythm is the **Breath Rhythm** (tension-release), mirroring the necessary process of confronting pain and then integrating the learning. This deep work is impossible without **Cleansing**; without mechanisms to safely metabolize and release toxicity, healing efforts re-traumatize.
+This repository uses pathway labels to:
+1. **Route contributions** to appropriate reviewers
+2. **Balance energy distribution** across the system
+3. **Track developmental growth** as contributors rotate pathways
 
-#### Cognitive Dynamics: Pathways as Light Cone Expansion
-From a cognitive science perspective, each pathway can be understood as a protocol for expanding what biologist Michael Levin calls a **cognitive light cone**—the spatio-temporal boundary of events an agent (individual or collective) can perceive, model, and influence.
+**Label usage:**
+- `pathway:artisan` - Technical refinement tasks
+- `pathway:gardener` - Community and growth tasks
+- `pathway:weaver` - Integration and pattern tasks
+- `pathway:catalyst` - Transformation and vision tasks
 
-*   **Path of Awakening (Conscientização)** directly targets the **expansion of the subjective light cone**. Through critical self-reflection and practices that induce self-transcendence, one's sphere of identification and concern grows from the ego to include wider social and ecological systems.
-*   **Paths of Making and Healing (Capacitação & Cura)** work on the **practical infrastructure for shared light cones**. They build the physical, communicative, and relational "gap junctions" (akin to those between cells) that allow individuals to align their goals and function as a coherent, intelligent collective with a larger, shared boundary of agency.
-*   **Path of Liberation (Liberação)** actively **dissolves artificial boundaries**—social, political, ideological—that constrict collective light cones, preventing groups from achieving their full agential capacity and geometric completion.
+**Pro tip:** Try using a different pathway label than your default for your next contribution.
 
-Progress along a pathway is measurable as an increase in the **scale and coherence of a system's cognitive light cone**, reflected in higher **Dialectical Velocity** and movement toward more complex **Geometric Completion**.
+---
 
-## Embodied Integration: The Somatic Logic of the Pathways
+## The Dynamic Mandala
 
-The pathways are not purely cognitive; they are somatic technologies. Each pathway activates and depends upon a specific blend of the Embodied Foundations:
+Remember: Pathways are not fixed identities. They are **vectors you choose** based on context, need, and growth. The complete mandala requires all four vectors in dynamic balance.
 
--   **Awakening** primarily draws on **Restoration** (through contemplation, rest, and silence) and secondarily on **Movement** (through aligning one's energy with natural seasonal flows).
--   **Making** primarily draws on **Nourishment** (through building resilient production and care systems) and secondarily on **Cleansing** (through the continuous transformation of waste into resource).
--   **Liberation** primarily draws on **Movement** (through mobilizing, redistributing power, and fostering agile organization) and secondarily on **Cleansing** (through accountability processes that clear social "toxins").
--   **Healing** primarily draws on **Cleansing** (through rituals of release, apology, and forgiveness) and secondarily on **Nourishment** (through the sustained application of care and the creation of safety).
+**Geometric insight:** Just as the Tesseract rotates to reveal different faces, you can rotate your pathway to reveal different capabilities.
 
-This integration enforces the **non-negotiable link** between inner capacity and outer action. You cannot design a regenerative economy (Making) from a state of anxious scarcity (low Nourishment).
+---
 
-## Key Integration Principles
+**Next:** See how all pathways combine into geometric completion.
 
-1.  **Functional Protocols, Not Dogma:** These pathways are open-source "source code" for transformation. They are meant to be adapted, remixed, and contextually applied, not followed orthodoxy.
-2.  **Foundation-Led Activation:** The stability of the Embodied Foundations is the master switch. A pathway's threshold (e.g., Restoration ≥ 2 for Awakening) is a diagnostic. If unmet, the prescribed action is **Boundary Medicine** focused on that foundation, not forced effort on the pathway itself.
-3.  **Geometric Coherence:** Together, the four pathways form one axis of the mandala, interacting with the others (Axes, Cubes, Foundations). Progress along one pathway creates resonance and removes blockages in others, following the interconnected logic of the Tesseract.
-4.  **The Velocity Gate:** Engagement with any pathway also requires a minimum **Dialectical Velocity** (≥ 0.2). A system in total stasis must first restore foundational pulse before undertaking directional pathway work.
+**[Continue to: Geometric Completion →](06-geometric-completion-tesseract.md)**
 
-## Practical Application: Choosing and Sequencing Pathways
+---
 
-In practice, a community or project does not "pick" a pathway based on preference, but **diagnoses** which pathway is most salient based on system state:
-*   **Signals of Fragmentation & Rigid Story?** → Check **Restoration** foundation. If low, Boundary Medicine. If adequate, **Path of Awakening** protocols.
-*   **Signals of Extraction & Scarcity?** → Check **Nourishment**. If low, Boundary Medicine. If adequate, **Path of Making** protocols.
-*   **Signals of Polarization & Stagnation?** → Check **Movement**. If low, Boundary Medicine. If adequate, **Path of Liberation** protocols.
-*   **Signals of Historical Trappedness & Trauma?** → Check **Cleansing**. If low, Boundary Medicine. If adequate, **Path of Healing** protocols.
-
-The pathways are interdependent. Lasting liberation (Liberação) often requires the healing (Cura) of historical wounds, just as profound awakening (Conscientização) seeks expression in tangible making (Capacitação). They are four facets of a single motion toward wholeness.
+*This document embodies the Weaver pathway—tracing connections between vectors.*
