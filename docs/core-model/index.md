@@ -31,7 +31,7 @@ The Mandala is designed for multiple learning styles and goals. Choose your path
 |------|--------------|-------------------|---------------|
 | **🧠 Theorist / Researcher** | Academics, systems thinkers, philosophers | 00 → 01 → 02 → 10 | Foundation & Cybernetics |
 | **🛠️ Practitioner / Designer** | Community organizers, facilitators, activists | 03 → 05 → 07 → 08 | Pathways & Material/Multiple Intelligences |
-| **🌱 Community Facilitator** | Co-op leaders, educators, workshop designers | Coming Soon | Protocols, Assessments, Case Studies |
+| **🌱 Community Facilitator** | Co-op leaders, educators, workshop designers | 05 → 09 → 03 | Protocols, Assessments, Case Studies |
 
 ---
 
@@ -59,6 +59,15 @@ graph TD
     F -.-> K
     H -.-> K
     I -.-> K
+
+    %% SIMPLE LEGEND
+    subgraph Legend [Key]
+        direction TB
+        L1["--> = Derived from / Built upon"]
+        L2["-.-> = Reinforces / Validates"]
+        style L1 fill:#f5f5f5,stroke:#666
+        style L2 fill:#f5f5f5,stroke:#666
+    end
 ```
 ---
 
