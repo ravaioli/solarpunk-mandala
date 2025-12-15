@@ -211,7 +211,7 @@ Remember: Pathways are not fixed identities. They are **vectors you choose** bas
 
 **Next:** See how all pathways combine into geometric completion.
 
-**[Continue to: Geometric Completion →](06-geometric-completion-tesseract.md)**
+**[Continue to: Geometric Completion →](06-geometric-unpacking-tesseract.md)**
 
 ---
 
