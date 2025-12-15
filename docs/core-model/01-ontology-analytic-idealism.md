@@ -126,7 +126,7 @@ graph TD
     subgraph "Empirical Validations"
         A1["Altered States<br>Psychedelics, Meditation"]
         A2["Non-local Phenomena<br>NDEs, Remote Viewing"]
-        A3["Transpersonal Psychology<br>Peak Experiences"]
+        A3["Transpersonal Psychology<br>Peak Experiences, Dissociative Identity Disorder"]
     end
     
     subgraph "Systemic Contradictions"
