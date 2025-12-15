@@ -23,6 +23,14 @@ The Solarpunk Mandala is not a closed system but an **integrative architecture**
 
 This integration follows a core principle: **The Mandala provides the "why" (ontology) and the "shape" (epistemic geometry); compatible frameworks provide specialized "hows" (methodologies)** for navigating specific challenges within that larger field.
 
+## 🔗 The Web of Meaning
+
+*We've explored our internal framework (00-08). Now we look outward: how does this connect to other systems of thought and action?*
+
+**Metaphor:** If the Solarpunk Mandala is one language, this matrix shows translation guides to other languages.
+
+**Before Reading:** What's another framework or philosophy that has deeply influenced you?
+
 ## 1. Frameworks Aligned with Tesseract Geometry
 
 These frameworks share the Mandala's fundamental understanding of reality as relational, complex, and multi-dimensional.
@@ -120,3 +128,11 @@ To integrate a new framework not listed here, follow this protocol:
 5.   **Pilot and Rhizomatic Feedback:** Implement the integration in a small, real-world context. Document the process and outcomes in the **Rhizomatic Network**, allowing the community to refine the integration.
 
 This matrix is ever-growing. Its purpose is to show that the Solarpunk Mandala is a **living syntax**, not a finished doctrine—a way to weave together humanity's best tools for understanding and healing into a coherent, conscious, and beautiful pattern.
+
+## 🧭 Next: Closing the Loop
+
+We've connected outward. Now we return inward to understand the foundational loops that make all this possible.
+
+**Next Document:** [10 - The Cybernetic Foundations →](10-cybernetic-foundations.md)
+
+*From external connections to internal cycles.*
