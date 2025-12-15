@@ -69,11 +69,45 @@ A system's health is measured by the speed and quality of this loop, called **Di
 *   **High Velocity (>0.7):** The loop spins quickly and effectively. Observation is clear, orientation is accurate, decisions are timely, and actions are effective. The system learns and adapts rapidly.
 *   **Low Velocity (<0.2):** The loop is stuck. Data is ignored, analysis is confused, decisions are paralyzed, or actions are ineffective. The system stagnates.
 
+```mermaid
+flowchart LR
+    Low["Low Velocity<br/>< 0.2"] -->|STAGNATION| Mid["Medium Velocity<br/>0.2 - 0.7"] -->|LEARNING| High["High Velocity<br/> > 0.7"]
+    
+    style Low fill:#ff6b6b,stroke:#333,color:#000
+    style Mid fill:#ffd93d,stroke:#333,color:#000
+    style High fill:#6bcb77,stroke:#333,color:#000
+```
+
 **The primary goal of applying the Mandala is to increase Dialectical Velocity.** You improve velocity by removing blockages at any stage: improving observation tools, deepening orientation skills, clarifying decision rights, or increasing capacity for action.
+
+```mermaid
+quadrantChart
+    title "Dialectical Velocity Health Matrix"
+    x-axis "Slow/Low" --> "Fast/High"
+    y-axis "Ineffective" --> "Effective"
+    
+    "Stagnation": [0.1, 0.1]
+    "Functional": [0.5, 0.6]
+    "Optimal": [0.9, 0.9]
+    
+    "Blocked Loop": [0.2, 0.3]
+    "Learning Loop": [0.6, 0.7]
+    "Rapid Adaptation": [0.8, 0.85]
+```
 
 ## Second-Order Cybernetics: The Observer in the Loop
 
 The Mandala embraces **second-order cybernetics**: the person or community using the framework is *inside* the system they are observing and steering.
+
+```mermaid
+flowchart TD
+    Observer[Observer/Community] -->|Shapes| OODA[OODA Loop]
+    OODA -->|Changes| System[System/Environment]
+    System -->|Feeds Back| Observer
+    
+    style Observer fill:#f0f8ff,stroke:#333
+    style System fill:#d4edda,stroke:#333
+```
 
 *   **You are part of the loop.** Your observations are shaped by your own position in the Tesseract. Your decisions change you as you change the system.
 *   **This is participatory design.** You are not an external engineer fixing a machine; you are a gardener tending a living ecosystem of which you are a part.
