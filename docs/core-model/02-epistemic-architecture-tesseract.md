@@ -28,6 +28,17 @@ structured_concepts:
 
 If consciousness is primary, how does it appear as a multi-perspectival reality? The answer is the tesseract—a four-dimensional hypercube used not as a literal claim, but as a cognitive prosthetic to map the eight cubes of epistemic access, which are observed and integrated from the Central Core (Ø).
 
+## 🧊 The Knowledge Hypercube
+
+*With our reality defined (01), we now need a structure to organize knowledge within it. Enter the tesseract: a 4D structure that helps us think beyond 3D limitations.*
+
+**Pedagogical Warning:** This is intentionally disorienting. If you feel confused, that's the point—you're experiencing dimensional expansion.
+
+**Three Ways to Approach This Document:**
+1. **Mathematically:** As a 4D hypercube projected to 3D
+2. **Metaphorically:** As a way to hold multiple perspectives simultaneously
+3. **Practically:** As a navigation system for this repository
+
 ## The Geometric Bridge: From Consciousness to Model
 
 Why use a spatial, geometric model to represent a reality where consciousness is primary and non-spatial?
@@ -110,3 +121,11 @@ The **Nested Observer Windows (NOW) Model** provides the structural mechanism fo
 
 ## Integration Note
 The Embodied Foundations are not "lower" in value but foundational in function—like roots to a tree. When any foundation is compromised, the entire system contracts dimensionally toward survival mode (0D). When all foundations are strong, the system has the stability to unfold toward higher dimensions of complexity and coherence (3D+).
+
+## 🧭 Next Rotation
+
+Now that we have our 4D structure, we need **ethical guidelines** for navigating it. How do we move through this tesseract responsibly?
+
+**Next Document:** [03 - The Ethics of Navigation →](03-ethics-four-axes.md)
+
+*With great dimensional power comes great ethical responsibility.*
