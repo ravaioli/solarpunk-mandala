@@ -31,6 +31,14 @@ This model is grounded in the framework of Analytic Idealism, a modern metaphysi
 
 This ontology shifts our entire paradigm: instead of seeing consciousness as a fragile accident inside a dead universe, we see the universe as a living, experiential process, and ourselves as integral expressions of it. This provides a profound philosophical foundation for SolarPunk's core values of interconnection, regeneration, and hopeful co-creation.
 
+## 🌌 Reality Engine
+
+*If document 00 was the operating system, this is the physics engine. Here we establish what kind of "reality" the Solarpunk Mandala inhabits.*
+
+**Key Mindshift:** We're moving from *how things work* to *what things fundamentally are*.
+
+**Reading Lens:** Try reading this not as abstract philosophy, but as practical instructions for world-building.
+
 ## Core Propositions
 
 1. **Individual minds are not emergent properties of brains, but dissociated alters within MAL**—akin to personalities in a single psyche, each with its own boundary of experience.
@@ -127,6 +135,42 @@ UAPs interact with the model's primary axes and pathways in specific, illustrati
 
 In summary, within the Solarpunk Mandala, UAPs are not merely a puzzle for aerospace engineering but a **phenomenological catalyst**. They validate the need for a consciousness-first model capable of holding physical evidence, psychological impact, and transpersonal implications in a unified view of a participatory, intelligent, and deeply mysterious reality.
 
+## 🎭 Practical Translation: From Philosophy to GitHub
+
+### The Repository as Conscious Manifestation
+In the terms of analytic idealism:
+- **Consciousness:** The collective intent and awareness of all contributors
+- **Physical World:** The actual codebase, issues, and documentation you see
+- **Manifestation:** The process of turning ideas (mental) into PRs (material)
+
+### Concrete Implications for Contributors
+
+| Philosophical Concept | Practical Repository Equivalent |
+|----------------------|--------------------------------|
+| Consciousness-first reality | Intent-first contributions |
+| Mental as fundamental | Discussion threads as primary reality |
+| Physical as derivative | Code/docs as crystallized discussion |
+| World-making | Repository evolution |
+
+### 🌉 Bridge Exercise: Idealism in Action
+
+<details>
+<summary>🔍 Try this thought experiment</summary>
+
+Imagine you're about to submit a PR. According to analytic idealism:
+
+1. The *ideal form* exists in your consciousness first (the intent, the vision)
+2. You engage in *mental processes* (planning, considering alternatives)
+3. You create *material representations* (code, documentation)
+4. These become part of the *shared conscious experience* when merged
+
+**Reflection Questions:**
+- How does this change your perception of "just fixing a typo"?
+- What would it mean to approach every issue as world-making?
+- How might conflicts represent different "conscious perspectives" converging?
+
+</details>
+
 ## Analytic Idealism Integration Protocol
 
 To prevent philosophical-materialist slippage in practical applications, all protocols must include Dissociation Lens questions:
@@ -144,4 +188,12 @@ To prevent philosophical-materialist slippage in practical applications, all pro
 
 ### Example Integration (Protocol 3 Crisis Response)
 Instead of: "Distribute food and water to affected areas"  
+
+## 🧭 What's Next?
+
+You've now seen the *operating system* (00) and the *physics engine* (01). Next, we need an **architecture** to build within this reality.
+
+**Next Document:** [02 - Building in Consciousness: The Tesseract →](02-epistemic-architecture-tesseract.md)
+
+*How do we structure knowledge in a consciousness-first reality?*
 Add: "Distribute food and water while facilitating collective grounding practices that address the dissociation between individual survival and collective care. How does this emergency response help us remember our belonging to Mind at Large even in crisis?"
