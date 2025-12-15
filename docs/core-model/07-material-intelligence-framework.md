@@ -34,21 +34,34 @@ Material Intelligence operates at three interconnected levels:
 
 ```mermaid
 flowchart TD
-    Material["Material Intelligence"] --> Literal["Literal Level<br/>Physical artifact"]
-    Material --> Intentional["Intentional Level<br/>Consciousness behind it"]
-    Material --> Transformational["Transformational Level<br/>System change"]
+    Material["<b>Material Intelligence</b><br>The Sacred Art of Manifesting Consciousness into Form"]
     
-    Literal --> L1["Code that compiles"]
-    Literal --> L2["Docs that are accurate"]
-    Literal --> L3["Diagrams that are clear"]
+    Material --> Literal["<b>Literal Intelligence</b><br>Physical Artifact"]
+    Material --> Intentional["<b>Intentional Intelligence</b><br>Consciousness Crystallized"]
+    Material --> Transformational["<b>Transformational Intelligence</b><br>System Change"]
     
-    Intentional --> I1["Code that embodies ethics"]
-    Intentional --> I2["Docs that follow pathways"]
-    Intentional --> I3["Diagrams that reveal connections"]
+    Literal --> A1["Code that compiles"]
+    Literal --> A2["Docs that are accurate"]
+    Literal --> A3["Diagrams that are clear"]
+    Literal --> Metric1["<b>Success Metric:</b> Technical Correctness"]
     
-    Transformational --> T1["Code that changes thinking"]
-    Transformational --> T2["Docs that change learning"]
-    Transformational --> T3["Diagrams that change seeing"]
+    Intentional --> B1["Code that embodies ethical choices"]
+    Intentional --> B2["Docs that follow coherent pathways"]
+    Intentional --> B3["Diagrams that reveal Tesseract connections"]
+    Intentional --> Metric2["<b>Success Metric:</b> Principle Embodiment"]
+    
+    Transformational --> C1["Code that changes problem approaches"]
+    Transformational --> C2["Docs that change learning patterns"]
+    Transformational --> C3["Diagrams that change perceptual relationships"]
+    Transformational --> Metric3["<b>Success Metric:</b> Paradigm Shift"]
+    
+    style Material fill:#f0f0f0,stroke:#333,stroke-width:2px
+    style Literal fill:#e1f5fe,stroke:#0288d1
+    style Intentional fill:#f3e5f5,stroke:#7b1fa2
+    style Transformational fill:#e8f5e8,stroke:#388e3c
+    style Metric1 fill:#fff3e0,stroke:#f57c00
+    style Metric2 fill:#fff3e0,stroke:#f57c00
+    style Metric3 fill:#fff3e0,stroke:#f57c00
 ```
 ### 1. **Literal Intelligence** - The Physical Artifact
 *What exists in concrete form.*
@@ -83,6 +96,31 @@ For any material contribution, ask these questions:
 | **Pathway** | Which vector applies? | Artisan (precision) or Gardener (ecosystem health)? |
 | **Temporal** | What phase is this? | Material (implementing) or Thesis (preserving)? |
 | **Ethical** | Which axes engage? | Coherence (system alignment) & Care (user impact) |
+
+```mermaid
+flowchart TD
+    Start["<b>Material Decision Flow</b>"] --> Step1["1. Start with Consciousness<br><i>What am I trying to manifest?</i>"]
+    
+    Step1 --> Step2["2. Consider the Geometry<br><i>Where does this fit in the Tesseract?</i>"]
+    Step2 --> Step3["3. Choose the Pathway<br><i>Which vector best expresses this?</i>"]
+    Step3 --> Step4["4. Respect the Temporal Phase<br><i>Is this the right time for this material?</i>"]
+    Step4 --> Step5["5. Apply Ethical Axes<br><i>Does this align with our moral compass?</i>"]
+    Step5 --> Step6["6. Create the Artifact<br><i>Build with awareness of all dimensions</i>"]
+    
+    Step6 --> Output["Material Artifact<br>(Code, Doc, Diagram)"]
+    
+    Output --> Feedback["<b>Feedback Loop:</b><br>Refine understanding<br>from system response"]
+    Feedback --> Step1
+    
+    style Start fill:#f0f0f0,stroke:#333,stroke-width:2px
+    style Step1 fill:#f3e5f5,stroke:#7b1fa2
+    style Step2 fill:#e1f5fe,stroke:#0288d1
+    style Step3 fill:#e8f5e8,stroke:#388e3c
+    style Step4 fill:#fff3e0,stroke:#f57c00
+    style Step5 fill:#ffebee,stroke:#d32f2f
+    style Step6 fill:#f3e5f5,stroke:#7b1fa2
+    style Output fill:#e8f5e8,stroke:#388e3c,stroke-width:2px
+```
 
 ### The Complete Material Decision Flow
 
@@ -121,11 +159,43 @@ This table applies the framework to five distinct climate zones, connecting loca
 | **Cold** | Double-walled structures, snow blocks | Winter's intelligence of preservation; patience as survival | Insulating air gaps that maintain core temperature while allowing visual connection | **0D:** Maximum insulation survival pods (boundary as concentration)<br>**1D:** Heat-sharing boundary channels (boundary as generosity)<br>**2D+:** Solar orientation optimization (boundary as alignment) |
 | **Urban** | Recycled materials, vertical gardens | Waste transformation intelligence; memory of previous lives | Industrial discards become resource distribution infrastructure | **0D:** Portable boundary systems (boundary as mobility)<br>**1D:** Modular hexagonal containers (boundary as recombination)<br>**2D+:** Living infrastructure integration (boundary as symbiosis) |
 
+```mermaid
+quadrantChart
+    title "Bioregional Material Intelligence Positioning"
+    x-axis "Structural / Preserving" --> "Adaptive / Flowing"
+    y-axis "Simple / Survival-Oriented" --> "Complex / Integration-Oriented"
+    "Arid (Adobe, stone)": [0.2, 0.3]
+    "Cold (Double-walled, snow)": [0.25, 0.4]
+    "Temperate (Timber, cob)": [0.5, 0.6]
+    "Tropical (Bamboo, vines)": [0.7, 0.65]
+    "Urban (Recycled, vertical)": [0.8, 0.75]
+    "0D Applications": [0.15, 0.2]
+    "1D Applications": [0.4, 0.35]
+    "2D+ Applications": [0.75, 0.8]
+```
+
 ---
 
 ## The Dialectics of Boundary Permeability
 
 A core function of Material Intelligence is the design of boundaries. In this model, a boundary is not a static barrier but a **living, semi-permeable membrane** that regulates flow between systems. Its ideal permeability is not fixed; it is a dynamic property that must align with the **Dialectical Phase** of the community or project it serves.
+
+```mermaid
+flowchart LR
+    A["<b>0D</b><br>SHIELD<br>█"]
+    B["<b>1D</b><br>FILTER<br>▓▓██"]
+    C["<b>2D</b><br>INTERFACE<br>████"]
+    D["<b>3D</b><br>PARTICIPANT<br>▓▓▓▓▓▓"]
+    E["<b>4D</b><br>GRADIENT<br>███████"]
+
+    A -- "Increasing Permeability" --> B --> C --> D --> E
+    
+    style A fill:#ffebee,stroke:#d32f2f
+    style B fill:#fff3e0,stroke:#f57c00
+    style C fill:#e8f5e8,stroke:#388e3c
+    style D fill:#e1f5fe,stroke:#0288d1
+    style E fill:#f3e5f5,stroke:#7b1fa2
+```
 
 The boundary's function evolves through the dimensional phases:
 
@@ -161,16 +231,23 @@ This repository uses labels to track material intelligence dimensions:
 Material work creates a continuous learning cycle that connects consciousness to tangible form and back again:
 
 ```mermaid
-flowchart TD
-    A["Conscious intent<br/>Idea or insight"] --> B["Material creation<br/>Code, docs, diagram"]
-    B --> C["System feedback<br/>Use, comments, reactions"]
-    C --> D["Refined understanding<br/>New insight from feedback"]
-    D --> A
+flowchart LR
+    subgraph Cycle["Material-Intelligence Learning Cycle"]
+        A["<b>Conscious Intent</b><br>Idea or insight<br><i>'Clarify the tesseract concept'</i>"]
+        B["<b>Material Creation</b><br>Code, docs, diagram<br><i>Create documentation</i>"]
+        C["<b>System Feedback</b><br>Use, comments, reactions<br><i>Others engage with it</i>"]
+        D["<b>Refined Understanding</b><br>New insight from feedback<br><i>Understand concept better</i>"]
+        
+        A --> B --> C --> D --> A
+    end
     
-    style A fill:#e3f2fd
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
+    Cycle --> Outcome["<b>Elevated Artifact + Understanding</b><br>Material work isn't just output—<br>it's the essential feedback mechanism<br>for consciousness"]
+    
+    style A fill:#f3e5f5,stroke:#7b1fa2
+    style B fill:#e8f5e8,stroke:#388e3c
+    style C fill:#e1f5fe,stroke:#0288d1
+    style D fill:#fff3e0,stroke:#f57c00
+    style Outcome fill:#f0f0f0,stroke:#333,stroke-width:2px
 ```
 ---
 
@@ -197,6 +274,25 @@ flowchart TD
 ---
 
 ## Integration with the Full Mandala Model
+
+```mermaid
+graph TB
+    MI["<b>Material Intelligence Framework</b><br>Physical instantiation of conscious patterns"]
+    
+    MI --> Axes["<b>Actualizes Ethical Axes</b><br>Regenerative materials (Axiological)<br>Community projects (Relational Depth)<br>Spaces for inner work (Soteriological)<br>Across generations (Temporal)"]
+    
+    MI --> Foundations["<b>Depends on Embodied Foundations</b><br>Sophisticated material collaboration<br>requires high Nourishment, Movement, Rest"]
+    
+    MI --> Geometry["<b>Measured by Geometric Completion</b><br>Seed: Found materials for shelter<br>Grid: Modular infrastructure<br>Web: Circular material ecology<br>Spire: Material as sacred boundary"]
+    
+    MI --> Pathways["<b>Guided by the Pathways</b><br>Making: Direct application<br>Healing/Liberation: Informs which<br>boundaries to build/dissolve"]
+    
+    style MI fill:#f0f0f0,stroke:#333,stroke-width:3px
+    style Axes fill:#e1f5fe,stroke:#0288d1
+    style Foundations fill:#f3e5f5,stroke:#7b1fa2
+    style Geometry fill:#e8f5e8,stroke:#388e3c
+    style Pathways fill:#fff3e0,stroke:#f57c00
+```
 
 The Material Intelligence Framework is the **physical instantiation** of the broader model:
 
