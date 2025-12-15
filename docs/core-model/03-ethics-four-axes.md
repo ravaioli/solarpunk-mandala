@@ -167,6 +167,34 @@ The Axes are directions; the Pathways are the on-ramps. They are named with inte
 
 4.  **Healing (Cura):** The pathway of integrating and repairing time, leading to the **Axis of Temporal Orientation**. It is the work of addressing intergenerational, historical, and personal trauma to restore healthy flow across time. Its primary foundation is **Cleansing**, as healing requires the capacity to safely process and release what has been blocked. Without it, we remain trapped in cycles of repetition.
 
+```mermaid
+flowchart TD
+    subgraph A[The Four Ethical Axes]
+        A1[Soteriological<br>Purpose/Meaning]
+        A2[Axiological<br>Values/Virtue]
+        A3[Relational Depth<br>Connection/Other]
+        A4[Temporal Orientation<br>Time/Presence]
+    end
+
+    subgraph B[Embodied Foundations Prerequisites]
+        B1[Restoration<br>Capacity to heal & recover]
+        B2[Regulation<br>Capacity to maintain equilibrium]
+        B3[Receptivity<br>Capacity to be open & receive]
+        B4[Resonance<br>Capacity to attune & connect]
+    end
+
+    A -- "Guide & Give Direction to" --> P
+    B -- "Must Support & Enable" --> P
+
+    subgraph P[Pathway Activation]
+        P_Logic{"<b>Threshold Principle</b><br>Is <u>every</u> Foundation score ≥ 2?"}
+        P_Logic -- "✅ YES" --> P_Go["Pathway Work is SAFE<br>Proceed with Awakening/Making/<br>Liberation/Healing"]
+        P_Logic -- "❌ NO" --> P_Stop["<b>BOUNDARY MEDICINE</b><br>Required. STOP pathway work.<br>Fortify weak Foundations."]
+    end
+
+    P_Stop -.->|"Recursive Feedback Loop"| B
+```
+
 ## Core Threshold Principle: The Law of Foundations
 
 No pathway or protocol can be fully activated when any of the four embodied foundations (**Restoration, Nourishment, Movement, Cleansing**) scores below 2 on a 1-5 scale. This is a non-negotiable systems law. Attempting higher-dimensional ethical work (e.g., deep reconciliation or regenerative design) on unstable foundations leads to **ethical and systemic bypassing**—where lofty goals are co-opted by unaddressed contraction, causing collapse or harm.
@@ -195,6 +223,33 @@ Making (Capacitação) | Nourishment | Nourishment ≥2 | Ecological overshoot, 
 Liberation (Liberação) | Movement | Movement ≥2 | Transactional relationships, polarization
 Healing (Cura) | Cleansing | Cleansing ≥2 | Short-termism, historical amnesia
 
+```mermaid
+flowchart TD
+    Start["Start: Contemplating Pathway Work"] --> Assess
+
+    subgraph Assess [Conduct Foundation Assessment]
+        direction LR
+        Q1[Restoration Score?]
+        Q2[Regulation Score?]
+        Q3[Receptivity Score?]
+        Q4[Resonance Score?]
+    end
+
+    Assess --> Check{"<b>Threshold Check</b><br>Is <u>every</u> score ≥ 2?"}
+
+    Check -- "✅ YES, All Foundations ≥ 2" --> Safe["<b>THRESHOLD CLEARED</b><br>The system is <u>resilient</u>.<br>Proceed with chosen Pathway work."]
+    Check -- "❌ NO, One or more scores < 2" --> Danger
+
+    subgraph Danger [<b>⚠️ BOUNDARY BREACH DETECTED</b>]
+        D1["<b>Primary Action: STOP</b><br>Immediately halt all advanced<br>pathway (Awakening/Making/etc.) work."]
+        D2["<b>Prescribe: Boundary Medicine</b><br>Focus <u>exclusively</u> on fortifying<br>the weak Foundation(s)."]
+        D3["<b>Rationale:</b> Prevents spiritual,<br>material, or energetic bypassing."]
+    end
+
+    Danger --> Reassess{After focused repair,<br>re-assess Foundations.}
+    Reassess --> Check
+```
+
 ## Boundary Medicine: The Protocol for Foundation Repair
 
 **Boundary Medicine** is the essential first-aid and repair protocol for the system. When thresholds are not met, the correct response is *not* to push harder on the high-level goal but to skillfully address the foundational dissociation or instability that is blocking progress.
@@ -207,7 +262,72 @@ Healing (Cura) | Cleansing | Cleansing ≥2 | Short-termism, historical amnesia
 *   **For Movement <2:** Work might involve conflict mediation, fostering safe social exchange, or physical practices to unlock stasis.
 *   **For Cleansing <2:** This could entail rituals of release, environmental cleanup, truth and reconciliation processes, or detoxification practices.
 
+```mermaid
+graph TD
+    subgraph Triggers[Observed Contraction Signal]
+        T1[“Fragmented Narrative”<br>Incoherent community story]
+        T2[“Repetitive Collapse”<br>Cycles of burnout & failure]
+        T3[“Energetic Drain”<br>Projects deplete vs. nourish]
+        T4[“Temporal Disorientation”<br>Urgency or paralysis on timelines]
+    end
+
+    subgraph Diagnosis[Points to Strain on this Ethical Axis]
+        D1[Soteriological<br>Purpose is unclear/conflicted]
+        D2[Axiological<br>Actions misaligned with values]
+        D3[Relational Depth<br>Connections are transactional/unsafe]
+        D4[Temporal Orientation<br>Relationship to time is distorted]
+    end
+
+    subgraph Prescription[Implied Foundational Repair]
+        P1[Fortify <b>Restoration</b><br>Find authentic purpose]
+        P2[Fortify <b>Regulation</b><br>Align actions with core values]
+        P3[Fortify <b>Resonance</b><br>Deepen relational safety]
+        P4[Fortify <b>Receptivity</b><br>Cultivate mindful presence]
+    end
+
+    T1 --> D1 --> P1
+    T2 --> D2 --> P2
+    T3 --> D3 --> P3
+    T4 --> D4 --> P4
+
+    style Triggers fill:#ffebee,stroke:#d32f2f
+    style Diagnosis fill:#fff3e0,stroke:#f57c00
+    style Prescription fill:#e8f5e8,stroke:#388e3c
+```
+
 Boundary Medicine is not a failure state but a core, recursive function of a healthy system. It ensures that the pursuit of ethical transformation along the Four Axes is rooted in stability, preventing idealism from causing real harm and creating a resilient basis for all future work.
+
+## Conclusion: Ethics as Geometric Substance
+
+The model presented here reveals a fundamental architectural principle of the Solarpunk Mandala: **ethics is not a separate layer applied to the geometry, but the very substance from which the geometry is built.**
+
+```mermaid
+graph TB
+    T["<b>The Tesseract</b><br>4D Geometric Epistemic Container"]
+
+    T --> C1["<b>Cube 1</b><br>e.g., UL (1st-person interior)"]
+    T --> C2["<b>Cube 2</b><br>e.g., UR (3rd-person exterior)"]
+    T --> C3["<b>Cube 3</b><br>e.g., LL (2nd-person interior)"]
+    T --> C8["<b>Cube 8</b><br>Meta-Perspective"]
+
+    C1 --> F1["<b>Composed of:</b><br>Soteriological Axis +<br>Foundation of Restoration"]
+    C2 --> F2["<b>Composed of:</b><br>Axiological Axis +<br>Foundation of Regulation"]
+    C3 --> F3["<b>Composed of:</b><br>Relational Depth Axis +<br>Foundation of Resonance"]
+    
+    C8 --> F8["<b>Holds the Logic of:</b><br>The Threshold Principle<br>(integrating all Axes)"]
+
+    style T fill:#f0f0f0,stroke:#333,stroke-width:2px
+    style C1 fill:#e3f2fd,stroke:#1976d2
+    style C2 fill:#f3e5f5,stroke:#7b1fa2
+    style C3 fill:#e8f5e8,stroke:#388e3c
+    style C8 fill:#fff3e0,stroke:#f57c00
+```
+
+The tesseract is not merely a neutral container that *holds* ethical considerations. As the diagram illustrates, each of its eight cubes is intrinsically composed of specific ethical axes and their corresponding embodied foundations. The **Soteriological Axis** and the capacity for **Restoration** are not just related to the first-person interior cube (UL); they are its defining structural content. This pattern holds true across the entire epistemic architecture.
+
+This has a profound practical implication: **it makes ethical self-assessment geometrically unavoidable.** To engage with any cube—whether navigating personal meaning (UL), systemic structures (LR), or the intersubjective gateway (Cube 6)—is to immediately engage with the specific ethical tension and foundational capacity that constitutes it. The **Threshold Principle**, embedded within the meta-perspective cube, becomes the natural regulatory logic for this architecture, preventing the bypassing of foundational work by structural design.
+
+Therefore, the "Four Axes" and "Four Foundations" are more than a checklist or a preliminary chapter. They are the **primary dimensions and the tensile strength** of the entire model. This structural embedding ensures that the journey toward dimensional literacy is, from the ground up, an ethically coherent and foundationally resilient process. It provides the stable, conscious architecture from which the practical **Pathways** (05) can securely emerge.
 
 ## 🧭 Next: From Ethics to Action
 
