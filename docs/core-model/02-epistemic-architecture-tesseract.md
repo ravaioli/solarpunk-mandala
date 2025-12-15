@@ -66,11 +66,98 @@ In essence, we are using the mathematics of geometry as a **bridge language** be
 |  | 7: Systemic Emergence Plane | Scale-transition: collective ↔ individual | Protocol 2: Project Design Integration |
 |  | 8: Meta-Perspective | Non-perspectival center equidistant from all quadrants | SolarPunk Compass |
 
+```mermaid
+flowchart TD
+    %% Central Core
+    O["<b>Ø: Embodied Foundations Core</b><br>Dissociative boundary of Mind at Large"]
+
+    %% First Layer: Unfolded Cubes
+    O --> UR
+    O --> UL
+    O --> LL
+    O --> LR
+
+    subgraph UR_Group [ ]
+        UR["<b>UR Cube</b><br>3rd-person exterior, individual<br>Biological & Physical Dynamics"]
+    end
+
+    subgraph UL_Group [ ]
+        UL["<b>UL Cube</b><br>1st-person interior<br>Subjective Experience & Meaning"]
+    end
+
+    subgraph LL_Group [ ]
+        LL["<b>LL Cube</b><br>2nd-person interior<br>Shared Culture & Dialogue"]
+    end
+
+    subgraph LR_Group [ ]
+        LR["<b>LR Cube</b><br>3rd-person exterior, collective<br>Institutions & Systems"]
+    end
+
+    %% Second Layer: Folded Cubes (Boundaries)
+    UR & UL --> F5
+    LL & LR --> F6
+    F5 & F6 --> F7
+    F7 --> F8
+
+    subgraph F5_Group [Boundary Cube 5]
+        F5["<b>5: Dissociation Boundary</b><br>Interface where MAL partitions into alters"]
+    end
+
+    subgraph F6_Group [Boundary Cube 6]
+        F6["<b>6: Intersubjective Gateway</b><br>Medium where 'mine' becomes 'ours'"]
+    end
+
+    subgraph F7_Group [Boundary Cube 7]
+        F7["<b>7: Systemic Emergence Plane</b><br>Scale-transition: collective ↔ individual"]
+    end
+
+    subgraph F8_Group [Boundary Cube 8]
+        F8["<b>8: Meta-Perspective</b><br>Non-perspectival center"]
+    end
+
+    %% Styling
+    style O fill:#f5f5f5,stroke:#333,stroke-width:3px
+    style UR_Group fill:#e3f2fd,stroke:#1976d2
+    style UL_Group fill:#f3e5f5,stroke:#7b1fa2
+    style LL_Group fill:#e8f5e8,stroke:#388e3c
+    style LR_Group fill:#fff3e0,stroke:#f57c00
+    style F5_Group fill:#ffebee,stroke:#d32f2f
+    style F6_Group fill:#fff8e1,stroke:#ffa000
+    style F7_Group fill:#e8eaf6,stroke:#303f9f
+    style F8_Group fill:#fce4ec,stroke:#c2185b
+```
+
 ## From Ontology to Epistemology: The Tesseract as Geometric Bridge
 
 The previous section established our ontological foundation: **Analytic Idealism**, where consciousness is primary. This raises a critical epistemological question: *How can we model, understand, and navigate a reality that is fundamentally conscious and multi-perspectival?* The move from ontology (what *is*) to epistemology (how we *know*) requires a framework that can handle complexity without collapsing into reductionism.
 
 This is why we employ the **Tesseract (4D hypercube)** as our core epistemic metaphor. It is not merely a decorative symbol but a functional geometric logic that addresses specific limitations in our thinking.
+
+```mermaid
+graph LR
+    A["<b>01: Analytic Idealism</b><br>Consciousness as Primary Reality"] --> B
+
+    subgraph B [The Epistemic Challenge]
+        B1["Multi-Perspectival Reality"]
+        B2["Need for a Navigation Model"]
+        B3["Beyond Linear/Binary Logic"]
+    end
+
+    B --> C{Choosing a Metaphoric Bridge}
+
+    C --> D["<b>Why the Tesseract?</b>"]
+    D --> E1["Models Interdependence"]
+    D --> E2["Transcends Binary Views"]
+    D --> E3["Trains Dimensional Literacy"]
+
+    E1 & E2 & E3 --> F["<b>The Tesseract Mandala</b><br>Unified Geometric Tool for<br>Thinking & Building SolarPunk Futures"]
+
+    style A fill:#e8f5e8,stroke:#388e3c
+    style B fill:#fff3e0,stroke:#f57c00
+    style C fill:#e1f5fe,stroke:#0288d1
+    style D fill:#f3e5f5,stroke:#7b1fa2
+    style F fill:#fce4ec,stroke:#c2185b
+```
 
 ### Why a Tesseract? The Limits of Flat Models
 
@@ -79,6 +166,28 @@ Traditional models of complex systems—whether in sustainability, psychology, o
 2.   **Create overwhelming spaghetti diagrams** where every node connects to every other, losing all clarity.
 
 The Tesseract offers a third way. As a 4D shape projected into 3D/2D, it natively represents **simultaneous interconnection and distinction**. Each of the Eight Cubes maintains its own structural integrity (a distinct perspective or domain), while being inextricably linked to the whole through edges and vertices. This mirrors the core ontological premise: multiple, distinct perspectives (cubes) are irreducible facets of a unified, conscious whole (the tesseract).
+
+```mermaid
+flowchart TD
+    Start[Start Here] --> A
+
+    subgraph A [" "]
+        direction LR
+        B["<b>Folded Boundary Cube</b><br>(e.g., Dissociation Boundary #5)"]
+    end
+
+    A --> Process{Unfolding Process<br>Geometric → Experiential}
+
+    Process --> C1["<b>Manifestation 1</b><br><i>Ekistics: MAN</i><br>Biological Needs"]
+    Process --> C2["<b>Manifestation 2</b><br><i>Ekistics: SHELLS</i><br>Housing, Infrastructure"]
+    Process --> C3["<b>Manifestation 3</b><br><i>Spirituality: Practice</i><br>Embodiment & Discipline"]
+
+    C1 & C2 & C3 --> D["<b>Integrated Experience</b><br>Lived reality where geometric<br>relations become tangible patterns"]
+
+    style A fill:#f0f0f0,stroke:#666,stroke-dasharray: 5 5
+    style Process fill:#e1f5fe,stroke:#0288d1
+    style D fill:#f3e5f5,stroke:#7b1fa2
+```
 
 #### Scientific Validation: Scale-Free Cognition and the Tesseract
 The choice of a multi-scale geometric model finds robust support in contemporary cognitive biology. The work of Michael Levin demonstrates that **cognition is a scale-free property** of living systems. Capabilities like problem-solving, memory, and goal-directedness are not exclusive to human brains but exist on a continuum from single cells to complex animal collectives.
@@ -93,6 +202,20 @@ The geometric intuition of "multi-dimensional unity" is not new or exclusive to 
 *   **Native American Medicine Wheels:** Circular frameworks dividing life into four (or more) directions/elements, emphasizing their balance and interaction within a sacred hoop. They model a holistic system of relationships.
 *   **Hindu/Buddhist Cosmology (Mount Meru, Lokas):** Depictions of multi-layered realities (lokas) interpenetrating one another, not as separate places but as different vibrational or qualitative dimensions of existence.
 *   **Kabbalistic Tree of Life:** A glyph of ten spheres (Sephirot) connected by 22 paths, mapping the emanation of the divine into the material and the conscious journey back toward unity. It is a system of relational ontology.
+
+```mermaid
+quadrantChart
+    title "Positioning the Solarpunk Tesseract"
+    x-axis "Symbolic / Static" --> "Generative / Operational"
+    y-axis "Historical / Cultural" --> "Contemporary / Scientific"
+    "Indo-Tibetan Mandalas": [0.2, 0.85]
+    "Native American Medicine Wheels": [0.3, 0.8]
+    "Kabbalistic Tree of Life": [0.25, 0.7]
+    "Hoffman's Interface Theory": [0.7, 0.9]
+    "Levin's Scale-Free Cognition": [0.8, 0.95]
+    "Nested Observer Windows (NOW) Model": [0.75, 0.9]
+    "Solarpunk Tesseract": [0.85, 0.6]
+```
 
 These are all, in essence, **cultural tesseracts**. They use geometric or symbolic logic to model a reality that is simultaneously unified and multifaceted. They are tools for "higher-dimensional thinking"—not in a literal sci-fi sense, but in the cognitive sense of holding multiple, interdependent perspectives in mind at once.
 
