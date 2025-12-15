@@ -46,8 +46,24 @@ General Systems Theory (GST), pioneered by Ludwig von Bertalanffy, is the study 
 | **Wholeness & Emergence** | A system is more than the sum of its parts. New properties (*emergent properties*) arise from the interactions of components. | The **Tesseract** is an irreducible whole. The **Geometric Completion** states (Seed, Grid, Web, Spire) are emergent properties of cube integration, not found in any cube alone. |
 | **Interdependence & Isomorphism** | System components are interconnected. Similar patterns (*isomorphisms*) appear across different types of systems. | The **Embodied Foundations** are interdependent. The **Dialectical Phase** pattern is isomorphic across personal development, community growth, and ecological succession. |
 | **Boundaries & Open Systems** | Systems have boundaries that regulate exchange with their environment. Healthy living systems are open, importing energy/information to sustain complexity. | **Boundary Permeability** in the Material Intelligence Framework is the designed application of this principle. |
-| **Subsystems & Hierarchy** | Systems contain subsystems and are part of larger suprasystems (nested hierarchy). | The model is **recursive** and **scalable**. An individual is a subsystem of a community, which is a subsystem of a bioregion, all following similar structural logic. |
 | **Equifinality** | In open systems, the same final state can be reached from different initial conditions and by different paths. | This is operationalized by the **Four Pathways**. **Web Completion** can be achieved via **Awakening, Making, Liberation, or Healing**, depending on context. |
+| **Subsystems & Hierarchy** | Systems contain subsystems and are part of larger suprasystems (nested hierarchy). | The model is **recursive** and **scalable**. An individual is a subsystem of a community, which is a subsystem of a bioregion, all following similar structural logic. |
+
+```mermaid
+flowchart TD
+    Individual[Individual Mandala] --> Community[Community Mandala]
+    Community --> Bioregion[Bioregional Mandala]
+    Bioregion --> Global[Global Mandala]
+    
+    Global -.->|Nested Containment| Bioregion
+    Bioregion -.->|Nested Containment| Community
+    Community -.->|Nested Containment| Individual
+    
+    style Individual fill:#e3f2fd,stroke:#333
+    style Community fill:#bbdefb,stroke:#333
+    style Bioregion fill:#90caf9,stroke:#333
+    style Global fill:#64b5f6,stroke:#333
+```
 
 **Summary:** GST provides the Mandala with its **geometric and relational validity**. It answers *why* the Tesseract, cubes, and pathways are structured as they are: they are instantiations of universal systems logic.
 
@@ -85,6 +101,20 @@ In summary, Levin's work provides a **biologically-grounded science of mind and 
 
 ## Synthesis: The Mandala as Applied Meta-Framework
 
+```mermaid
+flowchart TD
+    GST[General Systems Theory<br/>Structure & Form] --> Mandala[Solarpunk Mandala<br/>Conscious Systems Design]
+    Cyber[Cybernetics<br/>Process & Function] --> Mandala
+    Cog[Cognitive Science<br/>Agency & Animation] --> Mandala
+    
+    Mandala --> Practice[Applied Practice<br/>Personal to Global Scale]
+    
+    style GST fill:#e3f2fd,stroke:#333
+    style Cyber fill:#f3e5f5,stroke:#333
+    style Cog fill:#e8f5e8,stroke:#333
+    style Mandala fill:#fff3cd,stroke:#333,stroke-width:2px
+```
+
 The Solarpunk Mandala is not merely *informed by* GST and Cybernetics; it is a **practicable synthesis** of them, instantiated within a specific ontological commitment (Analytic Idealism).
 
 *   **GST** gives us the **Mandala's Form**: Its geometry, hierarchies, and relational maps.
@@ -105,16 +135,21 @@ This document comes first because it establishes the *operating system* for ever
 - **Feedback:** Comments, reactions, fork activity, real-world applications
 
 ### Interactive Reflection
-<details>
-<summary>🤔 Click to engage with this concept</summary>
-
-_Before moving on, consider:_
-- [ ] What existing systems do you interact with that could be understood as cybernetic?
-- [ ] How might viewing this repository as a "learning system" change how you contribute?
-- [ ] Which aspect of systems thinking feels most unfamiliar to you?
-
-_Post your reflections in [Discussions](link-to-discussions) tagged `#meta-framework`._
-</details>
+```mermaid
+flowchart TD
+    Q1[What systems are cybernetic?] --> R1[Reflection]
+    Q2[How does this change contribution?] --> R2[Reflection]
+    Q3[What feels unfamiliar?] --> R3[Reflection]
+    
+    R1 --> Share[Share in Discussions]
+    R2 --> Share
+    R3 --> Share
+    
+    style Q1 fill:#fff3cd,stroke:#333
+    style Q2 fill:#fff3cd,stroke:#333
+    style Q3 fill:#fff3cd,stroke:#333
+    style Share fill:#d4edda,stroke:#333
+```
 
 ---
 
