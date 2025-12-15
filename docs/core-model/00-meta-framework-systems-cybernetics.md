@@ -26,6 +26,15 @@ The Solarpunk Mandala is a framework for **conscious systems design**. Its archi
 
 Together, they form the transdisciplinary foundation that allows the Mandala to model complex, evolving realities—from personal psychology to global ecology—with geometric coherence.
 
+## 🧭 Navigator's Introduction
+
+*Welcome to the control panel of the Solarpunk Mandala. This document explains why the framework exists and how it operates. Think of this as reading the "genetic code" before exploring the organism.*
+
+**Quick Orientation:**
+- **Reading Time:** 8-10 minutes
+- **Purpose:** Understand the *why* behind the entire system
+- **Next Steps:** This document sets the stage for everything that follows
+
 ## 1. General Systems Theory: The Logic of Wholeness
 
 General Systems Theory (GST), pioneered by Ludwig von Bertalanffy, is the study of the abstract organization of phenomena. It looks for universal patterns and principles that apply to systems of any kind, regardless of their specific content.
@@ -83,3 +92,32 @@ The Solarpunk Mandala is not merely *informed by* GST and Cybernetics; it is a *
 *   **Analytic Idealism** gives us the **Mandala's Ground and Goal**: A conscious universe in which these forms and functions are applied for the purpose of participatory flourishing.
 
 Thus, the Mandala can be described as a **consciousness-first, applied meta-framework for the design and navigation of complex adaptive systems**. It takes the abstract, descriptive power of GST and the regulatory power of cybernetics and directs them toward the ethical, regenerative aims of the Solarpunk horizon.
+
+## 🔄 Pedagogical Bridge: From Theory to Practice
+
+### Why This Order?
+This document comes first because it establishes the *operating system* for everything that follows. In cybernetics, you must understand the control mechanisms before you can understand what's being controlled.
+
+### Repository as Cybernetic System
+- **Inputs:** Issues, discussions, external frameworks
+- **Processing:** The dialectical phases (document 04) acting as transformation rules
+- **Outputs:** Merged PRs, updated documentation, evolved models
+- **Feedback:** Comments, reactions, fork activity, real-world applications
+
+### Interactive Reflection
+<details>
+<summary>🤔 Click to engage with this concept</summary>
+
+_Before moving on, consider:_
+- [ ] What existing systems do you interact with that could be understood as cybernetic?
+- [ ] How might viewing this repository as a "learning system" change how you contribute?
+- [ ] Which aspect of systems thinking feels most unfamiliar to you?
+
+_Post your reflections in [Discussions](link-to-discussions) tagged `#meta-framework`._
+</details>
+
+---
+
+**Next Document:** [01 - The Ontological Foundation →](01-ontology-analytic-idealism.md)
+
+*Following the cybernetic control system, we now explore what kind of reality this system operates within.*
