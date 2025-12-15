@@ -37,6 +37,14 @@ Transformation is not a vague ideal but a directional process. The Four Axes pro
 | 3. Relational Depth | How connected are we? | CULTURE + SOCIETY | Requires Movement ≥ 2 to sustain relational flow | Transactional relationships, polarization |
 | 4. Temporal Orientation | How wisely do we hold time? | CULTURE: Memory & Projection + NATURE: Climate | Requires Cleansing ≥ 2 to clear temporal blockages | Short-termism, historical amnesia |
 
+## 🧭 The Moral Compass
+
+*You have the reality engine (01) and the tesseract structure (02). Now you need navigation rules. These four axes are your dimensional compass for ethical movement.*
+
+**Core Insight:** Every action in this repository exists in 4D ethical space. These axes help you plot your coordinates.
+
+**Before Reading:** Think of a recent decision you made (in any context). We'll use it as a test case.
+
 ### The Ethical Field: A Relational Map
 
 The Four Axes are not independent checklists but interrelated dimensions that form a continuous field of ethical consideration. Each axis represents a primary tension to be navigated, not a binary choice.
@@ -54,6 +62,82 @@ quadrantChart
 *   **X-Axis (Internal ↔ External):** Ranges from interior, subjective experience to exterior, intersubjective and systemic relations.
 *   **Y-Axis (Unity ↔ Agency):** Ranges from values of harmony, wholeness, and connection to values of action, distinction, and individuation.
 *   **Each Dot's Position:** Shows the primary tension an axis addresses within this field (e.g., Self-Other bridges internal and external focus).
+
+## 🎯 Practical Navigation Matrix
+
+### Your Decision Coordinates
+
+Take that decision you thought of earlier. Plot it here:
+
+| Axis | Score (1-5) | Notes |
+|------|-------------|-------|
+| **Coherence** | □□□□□ | How well does this align with the whole system? |
+| **Care** | □□□□□ | Who benefits? Who might be harmed? |
+| **Complexity** | □□□□□ | Does this simplify or add necessary nuance? |
+| **Courage** | □□□□□ | What's being risked or challenged? |
+
+### Repository-Specific Guidance
+
+**When submitting a PR:**
+- **Coherence:** Does this fit the existing patterns? Should it?
+- **Care:** Will this make the repo more accessible? To whom?
+- **Complexity:** Is this the simplest solution that works?
+- **Courage:** What convention am I challenging, if any?
+
+**When commenting:**
+- **Coherence:** Does this comment advance the discussion toward resolution?
+- **Care:** Am I addressing the human behind the comment?
+- **Complexity:** Am I adding necessary nuance or just complicating?
+- **Courage:** Am I speaking a difficult truth with kindness?
+
+### 🧭 Interactive Compass
+
+<details>
+<summary>🧭 Click to calibrate your ethical compass</summary>
+
+**Scenario:** You've found a typo in an obscure document that only experts read. Fixing it would be trivial.
+
+**Plot your ethical coordinates:**
+
+1. **Coherence:** (Circle one)
+   - 1: Incoherent with system
+   - 3: Neutral alignment
+   - 5: Perfectly coherent
+   
+   *Rationale:*
+
+2. **Care:** Who benefits from this fix?
+   - [ ] The original author (saves face)
+   - [ ] Future experts (prevents confusion)
+   - [ ] Beginners (unlikely to read this)
+   - [ ] The system itself (increased accuracy)
+
+3. **Complexity:** Is this...
+   - [ ] Simple fix, low cognitive load
+   - [ ] Medium complexity
+   - [ ] Creates more questions than it answers
+
+4. **Courage:** What's courageous here?
+   - [ ] Nothing—it's just a typo fix
+   - [ ] The courage to care about small details
+   - [ ] The courage to fix what others ignore
+
+**Now decide:** Would you submit this fix? Why?
+
+</details>
+
+## 🏷️ Label System Integration
+
+This repository uses GitHub labels aligned with the axes:
+
+| Axis | Label | Use Case |
+|------|-------|----------|
+| Coherence | `axis:coherence` | Changes that improve systemic alignment |
+| Care | `axis:care` | Accessibility, documentation, UX improvements |
+| Complexity | `axis:complexity` | Simplifications or necessary complications |
+| Courage | `axis:courage` | Breaking changes, paradigm challenges |
+
+**Pro Tip:** Tag your issues and PRs with relevant axis labels. This helps maintainers understand the ethical dimensions of your contribution.
 
 ## The Axes in Detail: From Question to Practice
 
@@ -124,3 +208,11 @@ Healing (Cura) | Cleansing | Cleansing ≥2 | Short-termism, historical amnesia
 *   **For Cleansing <2:** This could entail rituals of release, environmental cleanup, truth and reconciliation processes, or detoxification practices.
 
 Boundary Medicine is not a failure state but a core, recursive function of a healthy system. It ensures that the pursuit of ethical transformation along the Four Axes is rooted in stability, preventing idealism from causing real harm and creating a resilient basis for all future work.
+
+## 🧭 Next: From Ethics to Action
+
+With your ethical compass calibrated, you need **pathways**—actual methods for moving through the tesseract ethically.
+
+**Next Document:** [04 - The Pathways of Movement →](04-temporal-unfolding-dialectical-phases.md)
+
+*How do we move through time and change ethically?*
