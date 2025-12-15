@@ -23,7 +23,7 @@ A: The primary difference is **ontological**. Most systems models, even holistic
 *   **The inner world is a primary domain of intervention:** The **Soteriological Axis** and **Path of Awakening** are as critical as redesigning material flows.
 *   **Metrics serve consciousness:** The α score and Dialectical Velocity measure integration and flow *within conscious experience*, not just external outcomes.
 
-We view other frameworks (like Donella Meadows' Systems Thinking or Regenerative Design) as **highly compatible and valuable**, but they operate at a different level of analysis. The Mandala aims to provide the conscious-being framework *within which* those technical design approaches can be most meaningfully applied. See the [Contrast Document](./contrast-with-regenerative-approaches.md) for a detailed comparison.
+We view other frameworks (like Donella Meadows' Systems Thinking or Regenerative Design) as **highly compatible and valuable**, but they operate at a different level of analysis. The Mandala aims to provide the conscious-being framework *within which* those technical design approaches can be most meaningfully applied.
 
 ## On "Spirituality" and Science
 
