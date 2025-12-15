@@ -111,7 +111,7 @@ This section defines the core dynamics of change—the ethical directions of gro
 ### 3. Expression: Intelligence, Matter, & Integration
 Here, the abstract model meets the tangible world, detailing the frameworks for material practice, personal/collective capacity, and integration with external knowledge systems.
 
-*   **[06 - Geometric Completion: The Tesseract](./06-geometric-completion-tesseract.md)**  
+*   **[06 - Geometric Unpacking: The Tesseract](./06-geometric-unpacking-tesseract.md)**  
     *📄 Read time: 15 min*  
     **Purpose:** Describes the four archetypal states of systemic wholeness (Seed, Grid, Web, Spire) and introduces the **Alpha (α) Metric** for measuring integration.  
 
