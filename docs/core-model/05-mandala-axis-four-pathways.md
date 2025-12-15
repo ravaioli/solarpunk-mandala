@@ -40,17 +40,53 @@ Each pathway represents a different approach to applying energy within the Tesse
 
 ```mermaid
 flowchart TD
-    Entry["Entry Point<br/>Your starting intention"] --> Pathways
-    
-    Pathways --> Artisan["Artisan<br/>Refinement vector"]
-    Pathways --> Gardener["Gardener<br/>Nurturing vector"]
-    Pathways --> Weaver["Weaver<br/>Connective vector"]
-    Pathways --> Catalyst["Catalyst<br/>Transformative vector"]
-    
-    Artisan --> Tesseract["Tesseract geometry<br/>(improved precision)"]
-    Gardener --> Tesseract["Tesseract geometry<br/>(enhanced fertility)"]
-    Weaver --> Tesseract["Tesseract geometry<br/>(revealed patterns)"]
-    Catalyst --> Tesseract["Tesseract geometry<br/>(expanded dimensions)"]
+    %% Core Ethical Axes Input
+    subgraph Axes[Ethical Axes Input]
+        EA1[Soteriological Axis]
+        EA2[Axiological Axis]
+        EA3[Relational Depth Axis]
+        EA4[Temporal Orientation Axis]
+    end
+
+    %% Dialectical Phases Input
+    subgraph Phases[Dialectical Phases Input]
+        DP1[Dissociative Phase]
+        DP2[Dual Phase]
+        DP3[Relational Phase]
+        DP4[Non-Dual Phase]
+    end
+
+    %% Synthesis into Pathways
+    EA1 & DP1 --> P1
+    EA2 & DP2 --> P2
+    EA3 & DP3 --> P3
+    EA4 & DP4 --> P4
+
+    subgraph Pathways[Synthesized Pathways]
+        P1["<b>Awakening (Conscientização)</b><br>Goal: Critical Consciousness"]
+        P2["<b>Making (Capacitação)</b><br>Goal: Regenerative Capacity"]
+        P3["<b>Liberation (Liberação)</b><br>Goal: Equitable Connection"]
+        P4["<b>Healing (Cura)</b><br>Goal: Trauma Integration"]
+    end
+
+    %% Output to Praxis
+    Pathways --> Praxis["<b>Embodied Praxis</b><br>Action in the World"]
+
+    %% Foundation Dependencies
+    P1 -.->|Requires| F1[Restoration Foundation]
+    P2 -.->|Requires| F2[Nourishment Foundation]
+    P3 -.->|Requires| F3[Movement Foundation]
+    P4 -.->|Requires| F4[Cleansing Foundation]
+
+    %% Styling
+    style Axes fill:#e1f5fe,stroke:#0288d1
+    style Phases fill:#f3e5f5,stroke:#7b1fa2
+    style Pathways fill:#e8f5e8,stroke:#388e3c
+    style Praxis fill:#fff3e0,stroke:#f57c00
+    style F1 fill:#ffebee,stroke:#d32f2f
+    style F2 fill:#f3e5f5,stroke:#7b1fa2
+    style F3 fill:#e8f5e8,stroke:#388e3c
+    style F4 fill:#e1f5fe,stroke:#0288d1
 ```
 ### 1. **The Artisan Path** → Refinement Vector
 Focusing energy **inward** to perfect individual components.
@@ -90,18 +126,65 @@ Focusing energy **beyond** existing structures to create new possibilities.
 
 Each pathway engages with the Tesseract's geometry differently:
 
-| Pathway | Primary Axis | Secondary Axis | Geometric Movement | Contribution Pattern |
-|---------|--------------|----------------|--------------------|----------------------|
-| **Artisan** | Precision | Stability | Contractive refinement | Iterative improvement |
-| **Gardener** | Connection | Nurturing | Expansive cultivation | Relational growth |
-| **Weaver** | Integration | Pattern | Diagonal connection | Systemic coherence |
-| **Catalyst** | Transformation | Emergence | Orthogonal rotation | Dimensional expansion |
+```mermaid
+quadrantChart
+    title "Pathway Positioning: Energy Focus vs. Change Scale"
+    x-axis "Individual Focus" --> "Collective Focus"
+    y-axis "Incremental Change" --> "Transformative Change"
+    
+    "Awakening (Artisan)": [0.2, 0.3]
+    "Making (Gardener)": [0.4, 0.5]
+    "Liberation (Weaver)": [0.7, 0.6]
+    "Healing (Catalyst)": [0.8, 0.8]
+    
+    "Restoration Work": [0.1, 0.2]
+    "Capacity Building": [0.3, 0.4]
+    "Structural Change": [0.6, 0.7]
+    "Systemic Integration": [0.9, 0.9]
+```
 
 ---
 
 ## Pathway Identification: Vector Analysis
 
 Rather than asking "Who are you?" ask "**How do you apply energy right now?**"
+
+```mermaid
+flowchart TD
+    Start["Start: Facing a Situation"] --> Q1{"What is the Primary Need?"}
+
+    Q1 -->|"Clarity & Understanding"| Q2{"How is clarity blocked?"}
+    Q1 -->|"Tangible Results"| Q3{"What kind of results?"}
+    Q1 -->|"Relational Justice"| Q4{"Where is power imbalanced?"}
+    Q1 -->|"Wholeness & Integration"| Q5{"What is fragmented?"}
+
+    Q2 -->|"Lack of awareness"| P1["<b>AWAKENING</b><br>Develop critical consciousness"]
+    Q2 -->|"Dogmatic thinking"| P1
+
+    Q3 -->|"Build/repair systems"| P2["<b>MAKING</b><br>Create regenerative capacity"]
+    Q3 -->|"Sustainable structures"| P2
+
+    Q4 -->|"Structural oppression"| P3["<b>LIBERATION</b><br>Redesign power structures"]
+    Q4 -->|"Unequal access"| P3
+
+    Q5 -->|"Personal/cultural trauma"| P4["<b>HEALING</b><br>Restore right relationship"]
+    Q5 -->|"Intergenerational wounds"| P4
+
+    P1 --> Check1{"Foundations ≥ 2?"}
+    P2 --> Check2{"Foundations ≥ 2?"}
+    P3 --> Check3{"Foundations ≥ 2?"}
+    P4 --> Check4{"Foundations ≥ 2?"}
+
+    Check1 -- "✅ Yes" --> Action1["Proceed with Awakening practices"]
+    Check2 -- "✅ Yes" --> Action2["Proceed with Making practices"]
+    Check3 -- "✅ Yes" --> Action3["Proceed with Liberation practices"]
+    Check4 -- "✅ Yes" --> Action4["Proceed with Healing practices"]
+
+    Check1 -- "❌ No" --> BM1["<b>BOUNDARY MEDICINE REQUIRED</b><br>Strengthen Restoration first"]
+    Check2 -- "❌ No" --> BM2["<b>BOUNDARY MEDICINE REQUIRED</b><br>Strengthen Nourishment first"]
+    Check3 -- "❌ No" --> BM3["<b>BOUNDARY MEDICINE REQUIRED</b><br>Strengthen Movement first"]
+    Check4 -- "❌ No" --> BM4["<b>BOUNDARY MEDICINE REQUIRED</b><br>Strengthen Cleansing first"]
+```
 
 ### Vector Assessment
 
@@ -145,6 +228,35 @@ Your pathway preference often aligns with specific phases of the dialectic:
 | **Gardener** | Synthesis phase | Nurturing consensus | Antithesis → Synthesis bridging |
 | **Weaver** | Thesis phase | Revealing patterns | Synthesis → Material mapping |
 | **Catalyst** | Antithesis phase | Challenging foundations | Material → New Thesis creation |
+
+```mermaid
+flowchart LR
+    P1["<b>Awakening</b><br>See the system<br>(Dissociative Phase)"]
+    P2["<b>Making</b><br>Build alternatives<br>(Dual Phase)"]
+    P3["<b>Liberation</b><br>Change structures<br>(Relational Phase)"]
+    P4["<b>Healing</b><br>Integrate wounds<br>(Non-Dual Phase)"]
+
+    P1 -->|"Consciousness leads to"| P2
+    P2 -->|"Capacity enables"| P3
+    P3 -->|"Justice requires"| P4
+    P4 -->|"Wholeness deepens"| P1
+
+    %% Inner cycle of dialectical progression
+    subgraph Inner[Phase Progression]
+        direction LR
+        D1["Dissociative"]
+        D2["Dual"]
+        D3["Relational"]
+        D4["Non-Dual"]
+        D1 --> D2 --> D3 --> D4 --> D1
+    end
+
+    style P1 fill:#f3e5f5,stroke:#7b1fa2
+    style P2 fill:#e8f5e8,stroke:#388e3c
+    style P3 fill:#e1f5fe,stroke:#0288d1
+    style P4 fill:#fff3e0,stroke:#f57c00
+    style Inner fill:#f5f5f5,stroke:#666,stroke-dasharray: 3 3
+```
 
 ---
 
@@ -206,6 +318,59 @@ This repository uses pathway labels to:
 Remember: Pathways are not fixed identities. They are **vectors you choose** based on context, need, and growth. The complete mandala requires all four vectors in dynamic balance.
 
 **Geometric insight:** Just as the Tesseract rotates to reveal different faces, you can rotate your pathway to reveal different capabilities.
+
+```mermaid
+graph TB
+    %% Central Integration
+    CI["<b>Integrated Praxis</b><br>Conscious Action in the World"]
+    
+    %% Four Pathways
+    P1["<b>Awakening</b><br>Spirituality + Nature"]
+    P2["<b>Making</b><br>Economics + Ecology + Man"]
+    P3["<b>Liberation</b><br>Politics + Society"]
+    P4["<b>Healing</b><br>Culture + Politics"]
+    
+    %% Inputs to Each Pathway
+    P1 --> CI
+    P2 --> CI
+    P3 --> CI
+    P4 --> CI
+    
+    %% Ethical Axis Inputs
+    EA1[Soteriological Axis] --> P1
+    EA2[Axiological Axis] --> P2
+    EA3[Relational Depth Axis] --> P3
+    EA4[Temporal Orientation Axis] --> P4
+    
+    %% Dialectical Phase Inputs
+    DP1[Dissociative Phase] -.-> P1
+    DP2[Dual Phase] -.-> P2
+    DP3[Relational Phase] -.-> P3
+    DP4[Non-Dual Phase] -.-> P4
+    
+    %% Foundation Dependencies
+    P1 -.->|depends on| F1[Restoration]
+    P2 -.->|depends on| F2[Nourishment]
+    P3 -.->|depends on| F3[Movement]
+    P4 -.->|depends on| F4[Cleansing]
+    
+    %% Output Applications
+    CI --> App1["Personal Growth"]
+    CI --> App2["Community Organizing"]
+    CI --> App3["System Design"]
+    CI --> App4["Cultural Transformation"]
+    
+    %% Styling
+    style CI fill:#fff3e0,stroke:#f57c00,stroke-width:3px
+    style P1 fill:#f3e5f5,stroke:#7b1fa2
+    style P2 fill:#e8f5e8,stroke:#388e3c
+    style P3 fill:#e1f5fe,stroke:#0288d1
+    style P4 fill:#ffebee,stroke:#d32f2f
+    style F1 fill:#f3e5f5,stroke:#7b1fa2
+    style F2 fill:#e8f5e8,stroke:#388e3c
+    style F3 fill:#e1f5fe,stroke:#0288d1
+    style F4 fill:#ffebee,stroke:#d32f2f
+```
 
 ---
 
