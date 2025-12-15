@@ -69,6 +69,25 @@ Each mode evolves in its expression through the Dialectical Phases (04). The tab
 | **Integrative** | Sensing immediate patterns | Creating basic maps & categories | Weaving disparate ideas into models | Navigating paradigm shifts & complexity | Perceiving the whole system as a unified pattern |
 | **Transformative** | Urge to break paralyzing constraints | Asking "why" to improve existing forms | Visioning radical alternatives | Leading conscious rupture & rebirth | Spontaneous, aligned emergence of the new |
 
+```mermaid
+flowchart TD
+    S[Start: Mode Activation] --> 0D[0D: Survival Instinct]
+    0D --> 1D[1D: Stability & Technique]
+    1D --> 2D[2D: Integration & Synthesis]
+    2D --> 3D[3D: Transformation & Mastery]
+    3D --> 4D[4D: Symbiotic Flow]
+    
+    4D -.->|Modal Fluidity Achieved| F[Fluid Mode Switching]
+    
+    style S fill:#f9f,stroke:#333
+    style 0D fill:#f96,stroke:#333
+    style 1D fill:#6cf,stroke:#333
+    style 2D fill:#6c6,stroke:#333
+    style 3D fill:#c6c,stroke:#333
+    style 4D fill:#ff6,stroke:#333
+    style F fill:#ddd,stroke:#333
+```
+
 **Example:** The *Integrative Mode* in 1D might produce a simple chart of project tasks. In 3D, it produces a living document that visually maps the ethical, temporal, and geometric connections between all core concepts.
 
 ---
@@ -82,6 +101,24 @@ The goal is not to specialize in one mode, but to develop **modal fluidity**—t
 *   **Relational Fixation:** Consensus-seeking that avoids necessary conflict or decisive action.
 *   **Integrative Fixation:** Over-modeling that delays engagement with the real; "analysis paralysis."
 *   **Transformative Fixation:** Constant disruption that prevents stability or depth from forming.
+
+```mermaid
+quadrantChart
+    title "Modal Balance vs. Imbalance"
+    x-axis "Underdeveloped" --> "Overdeveloped"
+    y-axis "Isolated" --> "Integrated"
+    
+    "Precision Fixation": [0.8, 0.3]
+    "Relational Fixation": [0.7, 0.8]
+    "Integrative Fixation": [0.9, 0.6]
+    "Transformative Fixation": [0.85, 0.2]
+    "Modal Fluidity": [0.5, 0.9]
+    
+    "Precision Mode": [0.5, 0.5]
+    "Relational Mode": [0.5, 0.7]
+    "Integrative Mode": [0.5, 0.6]
+    "Transformative Mode": [0.5, 0.4]
+```
 
 ### Practices for Fluid Development:
 1.  **Pathway Rotation:** Intentionally contribute using a Pathway (and thus a mode) that is not your default.
@@ -100,6 +137,26 @@ This spectrum completes the model of the conscious agent within the Solarpunk Ma
 *   **It evolves through the Dialectical Phases:** Our cognitive capacities are not static; they mature and deepen as we and our communities move through time.
 
 **To use this framework:** Do not test or label yourself. Instead, observe: "Which mode feels most natural for this work? Which is most needed?" Then, practice the deliberate rotation of your participatory stance.
+
+```mermaid
+flowchart TB
+    subgraph Core["Participatory Intelligence Core"]
+        Modes["Four Modes<br/>Precision, Relational<br/>Integrative, Transformative"]
+    end
+    
+    Modes --> Geometry["Tesseract Geometry<br/>Cube Positions"]
+    Modes --> Pathways["Four Pathways<br/>Artisan, Gardener, Weaver, Catalyst"]
+    Modes --> Ethics["Ethical Axes<br/>Coherence, Care, Complexity, Courage"]
+    Modes --> Dialectics["Dialectical Phases<br/>0D-4D Evolution"]
+    
+    Geometry --> Manifestation["Co-Created Expression"]
+    Pathways --> Manifestation
+    Ethics --> Manifestation
+    Dialectics --> Manifestation
+    
+    Manifestation --> MAL["Conscious Reality<br/>MAL"]
+    MAL -->|Feedback Loop| Modes
+```
 
 ---
 
