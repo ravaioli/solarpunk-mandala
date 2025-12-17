@@ -26,7 +26,7 @@ structured_concepts:
 ---
 # Epistemic Architecture: The Tesseract
 
-If consciousness is primary, how does it appear as a multi-perspectival reality? The answer is the tesseract—a four-dimensional hypercube used not as a literal claim, but as a cognitive prosthetic to map the eight cubes of epistemic access, which are observed and integrated from the Central Core (Ø).
+If consciousness is primary, how does it appear as a multi-perspectival reality? The answer is the tesseract—a four-dimensional hypercube used not as a literal claim, but as a cognitive prosthetic to map the eight cubes of epistemic access, which are observed and integrated from the Central Core (ॐ).
 
 ## 🧊 The Knowledge Hypercube
 
@@ -56,7 +56,7 @@ In essence, we are using the mathematics of geometry as a **bridge language** be
 
 | Type | Cube | Description | Rhizomatic Expression |
 |------|------|-------------|------------------------|
-| Core Ground (Not a Cube) | Ø: Embodied Foundations Core | Dissociative boundary of Mind at Large experiencing itself—a null point that enables all other perspectives | Nourishment, Cleansing, Restoration, Movement |
+| Core Ground (Not a Cube) | ॐ: Embodied Foundations Core | Dissociative boundary of Mind at Large experiencing itself—a null point that enables all other perspectives | Nourishment, Cleansing, Restoration, Movement |
 | Unfolded Cubes (Inhabitable Perspectives) | UR (3rd-person exterior, individual) | Biological, physical, and spatial dynamics | Ekistics: MAN (Biological Needs), SHELLS (Housing, Infrastructure) |
 |  | UL (1st-person interior) | Subjective experience, meaning, and inner life | Circles: SPIRITUALITY (Inner Knowing, Meaning & Narrative) |
 |  | LL (2nd-person interior) | Shared meaning, culture, and dialogue | Circles: CULTURE (Identity & Engagement, Enquiry & Learning) |
@@ -69,7 +69,7 @@ In essence, we are using the mathematics of geometry as a **bridge language** be
 ```mermaid
 flowchart TD
     %% Central Core
-    O["<b>Ø: Embodied Foundations Core</b><br>Dissociative boundary of Mind at Large"]
+    O["<b>ॐ: Embodied Foundations Core</b><br>Dissociative boundary of Mind at Large"]
 
     %% First Layer: Unfolded Cubes
     O --> UR
