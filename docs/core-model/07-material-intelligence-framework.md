@@ -294,6 +294,19 @@ graph TB
     style Pathways fill:#fff3e0,stroke:#f57c00
 ```
 
+### Case Study: Bioelectric Morphogenetic Intelligence
+
+The research of **Michael Levin** and colleagues demonstrates that material intelligence is not metaphorical but a literal, observable property of cellular collectives. Through **bioelectrical networks** (ion channels, gap junctions), tissues maintain and pursue goal states in **anatomical morphospace**—exhibiting problem-solving, memory, and plasticity. This provides a foundational model for understanding intelligence as a fundamental capacity of patterned matter, essential for symbiotic engineering and regenerative design.
+
+**Key Principles:**
+- **Bioelectric Cognition:** Cells communicate via electrical signals to form collective pattern memories
+- **Morphospace Navigation:** Tissues navigate possibilities in anatomical space, not just 3D space
+- **Prompt-Based Engineering:** Complex outcomes can be achieved through communication (bioelectric prompts) rather than micromanagement
+- **Plasticity as Intelligence:** Novel capabilities (Anthrobots, Xenobots) emerge from the latent plasticity of living matter
+
+**Implication:** We can ethically co-create with living materials by understanding and respecting their native cognitive frameworks.
+
+
 The Material Intelligence Framework is the **physical instantiation** of the broader model:
 
 *   **It actualizes the Ethical Axes:** Regenerative materials (Axiological Axis) used in community-building projects (Relational Depth Axis) create spaces for inner work (Soteriological Axis) across generations (Temporal Orientation Axis).
