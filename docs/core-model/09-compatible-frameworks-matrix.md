@@ -65,6 +65,8 @@ flowchart TD
 | **Permaculture & Biomimicry** | Material Intelligence, Axiological Axis | The ethics and principles of regenerative design are the practical, ecological expression of the Mandala's axiological (value-creating) axis. |
 | **Systems Thinking / Cybernetics** | Tesseract Geometry, Dialectical Phases | The Mandala's structure is a cognitive tool for holding complexity, making systems thinking actionable through its geometric and temporal models. |
 | **Developmental Psychology (e.g., Kegan)** | Dialectical Phases, Soteriological Axis | Stages of adult development (e.g., from socialized to self-authoring) map to the increasing complexity and self-awareness of the dialectical phases. |
+| Framework/Field | Key Concept | SolarPunk Mandala Alignment | Representative Work |
+| **Developmental Cognitive Biology** | Bioelectricity as cognitive glue; Morphogenetic intelligence | Material Intelligence, Multiple Intelligences, Cybernetic Foundations | Michael Levin (Tufts University) – demonstrates that cells use bioelectrical networks to store pattern memories, solve problems in morphospace, and enable somatic reprogramming through communication rather than genetic manipulation. |
 
 ```mermaid
 graph TD
