@@ -139,21 +139,32 @@ This repository uses GitHub labels aligned with the axes:
 
 **Pro Tip:** Tag your issues and PRs with relevant axis labels. This helps maintainers understand the ethical dimensions of your contribution.
 
-## The Axes in Detail: From Question to Practice
+## 🌀 The Tetralemmic Field: A Logic of Non-Dual Navigation
 
-Each axis translates a profound ethical question into a measurable pathway for action and development.
+The Four Ethical Axes form an interdependent field. To navigate their tensions without falling into binary thinking, the Solarpunk Mandala employs a **tetralemmic (catuṣkoṭi) logic**. This Buddhist dialectical tool moves beyond "either/or" to map four fundamental positions for understanding any concept within the field: its assertion **(A)**, its negation **(Not-A)**, the synthesis of both **(Both A and Not-A)**, and the transcendence of the dichotomy itself **(Neither A nor Not-A)**.
 
-**1. Soteriological Axis (Integration of Self)**
-This axis addresses the fundamental unity of the perceiver. From an ontological starting point of primary consciousness, the "self" is not a fixed object but a dynamic, integrative process. The Soteriological axis measures progress from a fragmented, egoic state toward a coherent identity aligned with wider consciousness. Its Rhizomatic Anchors—**SPIRITUALITY** (inner maps) and **MAN** (the embodied individual)—track practices, narratives, and somatic states that foster this integration. It depends on the **Restoration** foundation (the capacity for rest, reflection, and psychic repair). Without this foundation, inner work leads to burnout or spiritual bypassing, signaled by **fragmented narratives and rigid identity**.
+This logic is the **synchronic operating system** for ethical reasoning within each moment and phase, complementing the Hegelian dialectic that drives the **diachronic process of change** over time.
 
-**2. Axiological Axis (Regeneration of Systems)**
-If reality is experiential, then the systems we build are crystallized patterns of value and relationship. The Axiological axis measures the shift from extractive, degenerative systems to regenerative, life-affirming ones. It asks not just "is it efficient?" but "does it generate more life, health, and potential than it consumes?" Its Rhizomatic Anchors—**ECONOMICS, ECOLOGY, and SHELLS** (built environment)—track material flows, ecosystem health, and design principles. It depends on the **Nourishment** foundation (the stable flow of physical and social nutrients). Collapse here manifests as **ecological overshoot and entrenched extractive logic**.
+### The Tetralemmic Matrix of the Axes
 
-**3. Axis of Relational Depth (Connection Between Selves)**
-Consciousness is not solitary. This axis measures the quality of the intersubjective field—the move from transactional, instrumental relationships toward compassionate, complex, and resonant connections. It is the ethics of the "we." Its Rhizomatic Anchors—**CULTURE** (shared meaning) and **SOCIETY** (structures of organization)—track social cohesion, trust metrics, and the health of communal rituals. It depends on the **Movement** foundation (the capacity for change, exchange, and emotional flow). When deficient, relationships become **transactional and societies polarize**.
+Each axis can be understood by applying this fourfold inquiry to its core tension. True ethical navigation involves holding all four positions consciously.
 
-**4. Axis of Temporal Orientation (Connection Across Time)**
-A conscious reality has a depth of time. This axis evaluates how a system holds past, present, and future. Does it loot the past and mortgage the future (colonial, extractive time), or does it engage in wise stewardship, reparative justice, and long-term thriving? Its Rhizomatic Anchors are specific facets: **CULTURE's Memory & Projection** and **NATURE's Climate** cycles. It depends on the **Cleansing** foundation (the capacity to release, compost, and forgive). Blockages here result in **short-termism and historical amnesia**.
+| Axis & Core Tension | Position A (Assertion) | Position Not-A (Negation) | Position Both A and Not-A (Synthesis) | Position Neither A nor Not-A (Transcendence / Non-Dual Ground) |
+| :--- | :--- | :--- | :--- | :--- |
+| **🧭 Self-Other**<br>*Individual vs. Collective* | The sovereignty, rights, and interior world of the **Self** are primary. | The **Self** is not an isolated unit; it is constituted by and responsible to the **Other** (community, ecosystem). | Ethical action arises from the **dialogical space between** sovereign self and responsible community. | The perceived boundary between Self and Other is permeable and constructed; the fundamental field is **relational consciousness**. |
+| **⚖️ Mind-Matter**<br>*Ideation vs. Embodiment* | **Mind**: Ideas, theories, and consciousness are the primary shapers of reality. | Ideas are **not** self-sufficient; they must be tested and grounded in **Material** constraints and practice. | **Praxial knowing**: valid theory emerges from embodied practice, and practice is guided by reflection. | The duality dissolves in **enacted wisdom**—a state where insight and action are a single, spontaneous event. |
+| **🌐 Unity-Diversity**<br>*Coherence vs. Distinction* | Value lies in **Unity**, harmony, and the coherence of the whole system. | **Unity** without **Diversity** is homogeneity, oppression, and stagnation. | A resilient system requires **both** strong, coherent connections **and** vibrant, distinct individual nodes. | The **pattern that connects**—where the uniqueness of each part and the integrity of the whole are mutually defining aspects of one pattern. |
+| **⏳ Static-Dynamic**<br>*Stability vs. Change* | Value lies in **Stability**, tradition, and enduring structures that provide safety. | **Stability** without **Change** is rigidity, dead structure, and inability to adapt. | Healthy systems require **both** a stable core (tradition, structure) **and** dynamic, adaptive processes at the edges. | **Metastability**: a dynamic, fluid equilibrium that is resilient *because* it can flow and change, not in spite of it. |
+
+### Practical Navigation: From Matrix to Moral Reasoning
+
+This matrix is not an abstraction but a practical tool for diagnosing "cubes" (rigid patterns) and finding integrative paths.
+
+1.  **Diagnosing a "Cube":** A pathology occurs when one position dominates and blocks the others. A **"Self Cube"** is stuck at Position A (hyper-individualism). A **"Fusion Cube"** in relationships is stuck at Position Both (enmeshment with no individual sovereignty).
+2.  **Finding the Path Forward:** The resolution is often found by invoking the missing position. For a "Self Cube," the medicine is contemplating Position Not-A (one's duties to the Other) and Position Neither (the illusion of separate self).
+3.  **Evaluating Actions & Systems:** Ask of any proposal: Does it honor all four positions? A policy that is **Just** (A) but destroys community **Unity** (Not-A) is tetralemmically deficient. The most regenerative solutions resonate across all four positions, pointing toward the integrative ground of Position Neither.
+
+**In essence, the tetralemma teaches that the ethical goal is not to choose a point *on* an axis, but to expand one's consciousness to hold the *entire axis*—and ultimately, the entire field of all four axes—as a unified, dynamic whole.** This is the logical foundation for navigating the Tesseract's complexity.
 
 ## The Four Pathways: Embodied Gateways to the Axes
 
