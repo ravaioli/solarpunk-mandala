@@ -18,27 +18,27 @@ Each capital is tracked through a **paired-metric approach**: one **Quantitative
 
 | Domain & Capital | Quantitative Metric (Q) & Data Source | Qualitative Metric (Ql) & Poll Link | Calculation Notes |
 | :--- | :--- | :--- | :--- |
-| **🌿 ECOLOGY** | | | |
+| **🌱 ECOLOGY** | | | |
 | **Regenerative** | **Q:** Soil Organic Matter % (avg. from community garden audit).<br>*Source: Annual soil test.* | **Ql:** Scaled score for land/water health perception.<br>*From: Poll Q1* | Normalize soil % (e.g., 5% = score 10) to 1-10 scale. |
 | **Adaptive** | **Q:** # of native, climate-resilient canopy trees planted this cycle.<br>*Source: Planting log from land steward.* | **Ql:** Scaled score for observed resilience.<br>*From: Poll Q3* | Set a community goal (e.g., 20 trees/cycle) to define max score. |
 | **Biophilic** | **Q:** % of member commutes (work, errands) made by foot/bike.<br>*Source: Monthly travel log survey.* | **Ql:** Scaled score for daily nature connection.<br>*From: Poll Q5* | Target: >50% active transit. Scale linearly. |
 | **Stewardship** | **Q:** # of active "Land Guardians" (regular volunteers).<br>*Source: Stewardship program roster.* | **Ql:** Scaled score for sense of duty.<br>*From: Poll Q7* | Score = (Guardians / 10) * 10 (capped at 10). |
-| **🔄 ECONOMICS** | | | |
+| **📉 ECONOMICS** | | | |
 | **Productive** | **Q:** % of weekly food from hyper-local/community sources.<br>*Source: Shared meal log or food journal.* | **Ql:** Scaled score for pride in local goods.<br>*From: Poll Q9* | Aim for progressive increase. 25%, 50%, 75% as milestones. |
 | **Reciprocity** | **Q:** Monthly person-hours logged in Time Bank/LETSystem.<br>*Source: Time bank ledger.* | **Ql:** Scaled score for ease of giving/receiving.<br>*From: Poll Q11* | Score = (Total hrs / 100) * 10 (capped at 10). |
 | **Knowledge** | **Q:** # of new/updated Open-Source guides in local library.<br>*Source: Community wiki or library index.* | **Ql:** Scaled score for knowledge sharing ease.<br>*From: Poll Q13* | Target 2+ new guides/cycle. Score = (# guides / 2) * 10. |
 | **Convivial** | **Q:** Avg. hrs of mandated/survival work per member/week.<br>*Source: Anonymous work log.* | **Ql:** Scaled score for time abundance.<br>*From: Poll Q15* | **Inverse metric:** Lower hours = higher score. Target <20 hrs. |
-| **👥 POLITICS** | | | |
+| **☀️ POLITICS** | | | |
 | **Relational** | **Q:** Avg. network size ("who you'd ask for significant help").<br>*Source: Annual network mapping exercise.* | **Ql:** Scaled score for conflict leading to understanding.<br>*From: Poll Q17* | Baseline and track change. Aim for avg. network >5. |
 | **Administrative** | **Q:** % of eligible members voting in last assembly.<br>*Source: Assembly participation records.* | **Ql:** Scaled score for fairness & transparency.<br>*From: Poll Q19* | Target >80% participation. Score = % participation * 10. |
 | **Civic** | **Q:** Monthly person-hours on commons maintenance.<br>*Source: Shared work log (e.g., Ko-fi, Loomio).* | **Ql:** Scaled score for shared ownership.<br>*From: Poll Q21* | Score = (Total hrs / 50) * 10 (capped at 10). |
 | **Wisdom** | **Q:** # of proposals using a "7th-Generation" impact clause.<br>*Source: Proposal archive.* | **Ql:** Scaled score for future-focused dialogue.<br>*From: Poll Q23* | Target: 100% of major proposals. Score = (% / 100) * 10. |
-| **🎨 CULTURE** | | | |
+| **🪢 CULTURE** | | | |
 | **Narrative** | **Q:** Sentiment score of community bulletin (+1 to -1).<br>*Source: Simple manual audit of last 5 posts.* | **Ql:** Scaled score for empowering stories.<br>*From: Poll Q25* | +1=Uplifting, 0=Neutral, -1=Negative. Convert to 1-10 scale. |
 | **Aesthetic** | **Q:** % of public budget allocated to art/beauty projects.<br>*Source: Public budget document.* | **Ql:** Scaled score for joy from spaces.<br>*From: Poll Q27* | Target >5%. Score = (% / 5) * 10 (capped at 10). |
 | **Ritual** | **Q:** Attendance rate at seasonal festivals.<br>*Source: Event sign-in sheets.* | **Ql:** Scaled score for feeling connected after rituals.<br>*From: Poll Q29* | Score = (% attendance / 100) * 10. |
 | **Identity** | **Q:** # of local place names & species commonly known (from a set list of 20).<br>*Source: Annual bioregional quiz.* | **Ql:** Scaled score for felt rootedness.<br>*From: Poll Q31* | Score = (# known / 20) * 10. |
-| **☀️ SPIRITUALITY** | | | |
+| **✴️ SPIRITUALITY** | | | |
 | **Presence** | **Q:** Weekly minutes of collective silence/meditation in official meetings.<br>*Source: Meeting minutes or facilitator logs.* | **Ql:** Scaled score for mindful collective action.<br>*From: Poll Q33* | Target 5+ min per major meeting. Score = (avg min / 5) * 10. |
 | **Contemplative** | **Q:** # of wisdom-text circulations per 100 members.<br>*Source: Library loan data or discussion group sign-ups.* | **Ql:** Scaled score for depth of meaning conversations.<br>*From: Poll Q35* | Track trend. Score = (circulations / 20) * 10 (capped at 10). |
 | **Purpose** | **Q:** % of members with an active "Vocation Plan" on file.<br>*Source: Vocation steward's records.* | **Ql:** Scaled score for personal-community alignment.<br>*From: Poll Q37* | Target >75%. Score = (% / 100) * 10. |
