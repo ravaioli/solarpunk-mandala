@@ -6,7 +6,7 @@ Welcome to the Facilitator's Toolkit for the Regenerative Capital Dashboard.
 
 This toolkit exists for one core reason: to support you in guiding your community through the living practice of the Solarpunk Mandala. It translates the framework's theory into actionable, grounded facilitation.
 
-Here, facilitation is understood not as mere meeting management, but as a **sacred service of midwifery**—you are helping to birth and nurture the community's collective capacity for conscious self-creation. Your role is to hold the container, ask the revealing questions, and trust the group's innate wisdom to emerge.
+Here, facilitation is understood not as mere meeting management, but as a **act of co-creation**—you are helping to birth and nurture the community's collective capacity for conscious self-creation. Your role is to hold the container, ask the revealing questions, and trust the group's innate wisdom to emerge.
 
 ### Guiding Principles for Facilitation
 *   **Service, Not Control:** Your task is to serve the group's process and the Mandala's ethical goals (Unitive, Beautiful, Just, True), not to control the outcome.
