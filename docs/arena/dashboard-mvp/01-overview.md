@@ -27,11 +27,11 @@ The dashboard assesses vitality through five domains, each containing four capit
 
 | Domain | Core Question | Capital Types (The Four Axes Within) |
 | :--- | :--- | :--- |
-| **🌿 Ecology** | Is our relationship with the living world regenerative? | Regenerative, Adaptive, Biophilic, Stewardship |
-| **🔄 Economics** | Are our means of livelihood and exchange convivial & just? | Productive, Reciprocity, Knowledge, Convivial |
-| **👥 Politics** | Is our governance wise, trusted, and relational? | Relational, Administrative, Civic, Wisdom |
-| **🎨 Culture** | Do our stories, art, and rituals create meaning & beauty? | Narrative, Aesthetic, Ritual, Identity |
-| **☀️ Spirituality** | Are we cultivating presence, purpose, and interconnection? | Presence, Contemplative, Purpose, Interbeing |
+| **☀️ Politics** | Is our governance wise, trusted, and relational? | Relational, Administrative, Civic, Wisdom |
+| **📉 Economics** | Are our means of livelihood and exchange convivial & just? | Productive, Reciprocity, Knowledge, Convivial |
+| **🪢 Culture** | Do our stories, art, and rituals create meaning & beauty? | Narrative, Aesthetic, Ritual, Identity |
+| **🌱 Ecology** | Is our relationship with the living world regenerative? | Regenerative, Adaptive, Biophilic, Stewardship |
+| **✴️ Spirituality** | Are we cultivating presence, purpose, and interconnection? | Presence, Contemplative, Purpose, Interbeing |
 
 *For detailed definitions and metrics for all 20 capitals, see [02-capital-framework.md](./02-capital-framework.md).*
 
