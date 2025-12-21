@@ -10,7 +10,7 @@ The framework is structured across **five domains** (Ekistics Circles), each con
 
 The following table provides the operational definition, core metrics, and primary data sources for each capital. **Q** denotes a Quantitative metric; **Ql** denotes a Qualitative metric gathered via the [community poll](../04-poll-questions.md).
 
-### 🌿 Domain 1: ECOLOGY (The Living Systems Circle)
+### 🌱 Domain 1: ECOLOGY (The Living Systems Circle)
 
 | Capital | Definition & Purpose | Core Metrics & Data Sources |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ The following table provides the operational definition, core metrics, and prima
 | **Biophilic** | The degree of symbiotic integration and daily connection between human habitats and nature. | **Q:** Percentage of daily commutes made by foot or bicycle.<br>**Ql:** *Feeling of connection* to nature in daily life (Poll Q5-6). |
 | **Stewardship** | The human capacity, knowledge, and ethical commitment to nurture ecological health. | **Q:** Number of active members in "Land Guardian" or citizen science programs.<br>**Ql:** *Strength of felt duty* to the more-than-human world (Poll Q7-8). |
 
-### 🔄 Domain 2: ECONOMICS (The Livelihood Circle)
+### 📉 Domain 2: ECONOMICS (The Livelihood Circle)
 
 | Capital | Definition & Purpose | Core Metrics & Data Sources |
 | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ The following table provides the operational definition, core metrics, and prima
 | **Knowledge** | The commons of accessible, open-source know-how for problem-solving and skills. | **Q:** Number of open-source guides, designs, or recipes in the local library.<br>**Ql:** *Ease of finding and sharing* practical knowledge (Poll Q13-14). |
 | **Convivial** | Wealth measured as free time, autonomy, and freedom from alienating toil. | **Q:** Average hours of mandated or survival-oriented work per week.<br>**Ql:** *Felt sense of time abundance and freedom* (Poll Q15-16). |
 
-### 👥 Domain 3: POLITICS (The Governance Circle)
+### ☀️ Domain 3: POLITICS (The Governance Circle)
 
 | Capital | Definition & Purpose | Core Metrics & Data Sources |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ The following table provides the operational definition, core metrics, and prima
 | **Civic** | The capacity for collective action and responsible stewardship of commons. | **Q:** Monthly person-hours contributed to commons maintenance.<br>**Ql:** *Sense of shared ownership* over communal spaces (Poll Q21-22). |
 | **Wisdom** | The integration of long-term thinking, multiple intelligences, and holistic insight in governance. | **Q:** Use of a "7th-Generation Impact" clause in formal proposals.<br>**Ql:** *Depth of future-focused dialogue* in meetings (Poll Q23-24). |
 
-### 🎨 Domain 4: CULTURE (The Meaning Circle)
+### 🪢 Domain 4: CULTURE (The Meaning Circle)
 
 | Capital | Definition & Purpose | Core Metrics & Data Sources |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ The following table provides the operational definition, core metrics, and prima
 | **Ritual** | The practices that mark transitions, heal trauma, build cohesion, and connect to cycles. | **Q:** Attendance rate at seasonal festivals and communal rituals.<br>**Ql:** Feeling *more connected and aligned* after rituals (Poll Q29-30). |
 | **Identity** | The depth of a rooted, place-based sense of belonging and bioregional awareness. | **Q:** Number of local place names, flora, and fauna commonly known/used.<br>**Ql:** *Felt sense of being "rooted"* in the bioregion (Poll Q31-32). |
 
-### ☀️ Domain 5: SPIRITUALITY (The Consciousness Circle)
+### ✴️ Domain 5: SPIRITUALITY (The Consciousness Circle)
 
 | Capital | Definition & Purpose | Core Metrics & Data Sources |
 | :--- | :--- | :--- |
