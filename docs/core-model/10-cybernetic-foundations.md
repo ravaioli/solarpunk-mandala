@@ -62,6 +62,18 @@ flowchart TD
 
 **The loop's output becomes the next input.** The change created by your Action becomes the new reality you **Observe**, starting the cycle again.
 
+#### Goal-Directedness in Morphogenesis
+
+Development and regeneration are cybernetic processes where biological systems reduce error relative to a target morphology. Levin's work operationalizes William James's definition of intelligence as **"the ability to reach the same goal by different means"** in a biological context, demonstrating that feedback, memory, and adaptive control are fundamental to life.
+
+**Key Findings:**
+- **Bioelectric Set-Points:** Tissues maintain electrical pattern memories that serve as attractor states
+- **Error Correction:** Systems work to restore correct form after perturbation (regeneration)
+- **Multi-Scale Control:** High-level anatomical goals cascade down to influence cellular behavior
+- **Plasticity as Competence:** The ability to find novel solutions demonstrates adaptive intelligence
+
+**Implication:** Cybernetic principles apply not just to engineered systems but to the fundamental processes of life itself.
+
 ## Dialectical Velocity: The Measure of Health
 
 A system's health is measured by the speed and quality of this loop, called **Dialectical Velocity**.
