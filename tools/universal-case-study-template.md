@@ -12,77 +12,124 @@ This template provides a structured format for documenting and analyzing project
 
 ---
 
-# [Case Study Name]: [Concise, Evocative Tagline]
+# SolarPunk Mandala Universal Case Study Template
 
-## 0. SPM Research Methodology & Lens
-*This is the most critical section. It defines your analytical standpoint and how you applied the SPM as a research framework, not just a descriptive checklist.*
+## 1. Case Study Context Specification
 
-- **Analytical Idealism Perspective:**
-  *How is the subject understood as a manifestation of collective consciousness? What "mind-at-large" patterns is it attempting to instantiate? (e.g., "This ecovillage is analyzed as a collective materialization of the intention to embody human-nature symbiosis.")*
+**[MANDALA CONTEXT]**
+* **Framework Version:** SolarPunk Mandala v3.0
+* **Primary Logic Application:** [Specify which core logic is primary: Nourishment/Cleansing/Restoration/Metabolism or Rhizomes/Folded Cubes]
+* **Case Type:** [Select: Transition Protocol / Project Implementation / Personal Foundation / Crisis Response]
+* **Output Format:** Rich text with embedded structured data blocks
 
-- **Systems Cybernetics & Feedback Loops Identified:**
-  *What are the key reinforcing or balancing loops in the system? How does the initiative design or interact with these loops? (e.g., "The community currency is analyzed as a critical feedback mechanism designed to increase local economic circulation and resilience, creating a balancing loop against extractive capital flows.")*
+## 2. Case Study Identification
 
-- **Primary Dialectical Phase:**
-  *[ ] 0D - Dissolution / Foundation | [ ] 1D - Emergence / Differentiation | [ ] 2D - Integration / Interaction | [ ] 3D+ - Transformation / Metasystem*
-  *Justify your choice based on the system's complexity, stability, and self-awareness.*
+**Case Title:** [Descriptive title]
+**Timeline:** [Start date → Current status]
+**Geographic Context:** [Location, bioregion, community type]
+**Primary Stakeholders:** [List key actors/collectives involved]
 
-- **Ethical Axes Evaluation (Brief Notes):**
-  - **Unitive (Connective):** *Does it build bridges/reduce alienation?*
-  - **Beautiful (Enlivening):** *Does it generate harmony, elegance, uplift?*
-  - **Just (Equitable):** *Does it distribute power, access, and agency fairly?*
-  - **True (Coherent):** *Does it align with reality and systemic logic?*
+## 3. Core Analysis Modules (Select 2-3 based on case type)
 
-- **Core Geometric Model(s) Applied:**
-  *Which SPM geometric frameworks were used to understand structure? (e.g., "The Tesseract was used to map the initiative's development across four spatial and temporal dimensions. Hexagonal mapping identified key connection nodes in the social network.")*
+### Module A: Resource & Supply Chain Mapping (Ekistics)
+*If applicable, include structured CSV data:*
+```csv
+Resource Item,Quantity/Scale,Foundation Link,Sourcing Locality,Circulation Status,ClickUp Task Link
+[Item 1],[Qty],[Nourishment/Cleansing/Restoration/Metabolism],[Local source],[Circularity status],[Link]
+[Item 2],[Qty],[Foundation],[Source],[Status],[Link]
+```
 
-## 1. Context & Initiative Profile
+### Module B: Transition Protocol (Necrocene Decoupling)
+*For transition cases, include 5-step structure:*
+1. **Step 1 (The Audit):** [Enquiry phase - what was mapped/assessed]
+2. **Step 2 (The Boundary):** [Dialogue action - formal separation]
+3. **Step 3 (The Anchor):** [First investment/action]
+4. **Step 4 (The Network):** [Coordination/VSM System 2 shift]
+5. **Step 5 (The Integration):** [Reflection question on ontological impact]
 
-- **Location:** *Geographic and bioregional context.*
-- **Initiative Name:**
-- **Year(s) of Observation/Study:**
-- **Core Catalyzing Challenge(s):** *The key problems, crises, or limitations that spurred the initiative (e.g., climate disaster, economic collapse, social alienation, ecological degradation).*
-- **Brief Description:** *(2-3 sentences providing a clear overview.)*
+### Module C: Community Scaffolding (Rhizome Analysis)
+*For community projects:*
+- **Project Viability:** [1-2 sentence summary]
+- **Essential Rhizomes:** [2-3 types with justifications]
+- **Initial Folded Cube Challenge:** [Cube # and relational pathology]
+- **VSM System 2 Protocol:** [3-step coordination plan]
 
-## 2. Arena Framework in Action
-*Map the initiative onto the core SPM operational frameworks.*
+### Module D: Foundation Assessment
+*For personal/team development:*
+- **Foundation Diagnosis:** [Weakest N/C/R/M foundation]
+- **Stabilization Plan:** [7-day ritual/journal structure or crisis protocol]
 
-- **Ekistics Focus:** *Primary layers of human settlement engaged (e.g., NATURE, MAN, SOCIETY, SHELLS, NETWORKS).*
-- **Circles Dynamics:** *Primary domains of activity activated (POLITICS, ECONOMICS, CULTURE, ECOLOGY, SPIRITUALITY). Note which were strongest/weakest.*
-- **Pathways Activated:** *Healing (Cura), Making (Capacitação), Liberation (Liberação), Awakening (Conscientização).*
-- **Key SPM Protocols/Tools Applied:** *Reference specific tools from the `/tools/` directory if used (e.g., `symmathesy-conflict-diagnostic`, `foundation-first-aid-script`, the `Regenerative Capital Dashboard`).*
+## 4. Mandala Framework Application
 
-## 3. Implementation Narrative
-*Describe the key actions, processes, decision-points, and turning points. Focus on the "how." This is the story of the transition. Use subheadings if helpful (e.g., "Seed Phase (0D)", "The First Ritual of Diagnosis", "Navigating a Crisis").*
+**Shells Involved:** [✓] Dwelling [✓] Family [✓] Neighborhood [✓] Village/City [✓] Metropolis
+**Foundations Activated:** [✓] Nourishment [✓] Cleansing [✓] Restoration [✓] Metabolism
+**VSM System Level:** [Primary: System 1-5]
 
-## 4. Outcomes & Measurable Effects
-*Document changes with qualitative and quantitative data where possible.*
+## 5. 4D Transformation Tracking
 
-- **Systemic Changes:** *Shifts in governance, economic patterns, ecological health, or social norms.*
-- **Regenerative Capital Metrics:** *If applicable, note observed changes in specific capitals from the Dashboard framework (e.g., "Relational Capital saw a marked increase post-conflict ritual," "Convivial Capital remained stubbornly low.").*
-- **Alpha (α) Coefficient Trend:** *If the community uses the Dashboard, note the α trend over the project's timeline and its interpretation.*
-- **Tangible Outputs:** *Physical infrastructure built, policies changed, hectares restored, etc.*
+**Temporal Dimension Impact:**
+- **Past:** What necrocene patterns were disrupted?
+- **Present:** What symbiotic systems were activated?
+- **Future:** What long-term transformation trajectory was established?
+- **Eternal:** How did this shift relationship to ontological ground?
 
-## 5. Critical Analysis & SPM Insights
-*This is the synthesis—what does this case teach us about the framework and the process of regeneration?*
+## 6. Coordination & Governance
 
-- **Key Learning:** *The core, transferable insight for other practitioners.*
-- **Tessera Connection:** *How did this project reveal a "missing piece" or contribute a new pattern to the larger Mandala?*
-- **Boundary Pathology/Medicine Observed:** *Were there issues of Sclerosis (rigidity), Fusion (enmeshment), or Fragmentation (disconnection)? What "Boundary Medicine" rituals or practices were effective?*
-- **Dialectical Tensions Navigated:** *What key contradictions arose (e.g., individual vs. collective, short-term survival vs. long-term vision, structure vs. emergence)? How were they held or transcended?*
-- **Limitations & Blind Spots:** *Where did the initiative or your analysis fall short? What would a "3D+" view reveal that a "1D" view might miss?*
+**VSM Coordination Protocols Implemented:**
+1. **System 2 (Coordination):** [Specific coordination mechanisms]
+2. **System 3 (Control):** [Monitoring/feedback systems]
+3. **System 4 (Intelligence):** [Learning/adaptation processes]
+4. **System 5 (Policy):** [Governance framework]
 
-## 6. Resources & Connections
+**ClickUp/Tool Integration:** [How project management tools were used]
 
-- **Internal SPM Links:**
-  - [Link to relevant Protocol pages]
-  - [Link to related Tool files]
-  - [Link to other relevant case studies]
-- **External Links:**
-  - [Project/Initiative Website]
-  - [Key Articles, Videos, or Books]
-  - [Research Data or Reports]
-- **Researcher/Contact:** *Optional, for follow-up.*
+## 7. Outcomes & Metrics
+
+**Quantitative Outcomes:**
+- Resource circularity percentage: [%]
+- Stakeholder engagement: [#]
+- Timeline adherence: [%]
+- Foundation score changes: [N/C/R/M before → after]
+
+**Qualitative Outcomes:**
+- Key relational shifts: [Description]
+- Community resilience impacts: [Description]
+- Ontological ground experiences: [Testimonials/reflections]
+
+## 8. Lessons & Replication Protocol
+
+**Success Factors:** [Top 3]
+**Challenges & Solutions:** [Primary Folded Cube overcome]
+**Replication Checklist:**
+- [ ] Essential rhizome types secured
+- [ ] Foundation stability assessed
+- [ ] Supply chain mapped bioregionally
+- [ ] VSM coordination protocol established
+- [ ] Temporal unfolding plan created
+
+## 9. AI Tool Usage Log
+
+**Tools Employed:**
+- [✓] Gemini: [For CSV/data generation]
+- [✓] Qwen/Deepseek/Kimi: [For policy/transition analysis]
+- [✓] Claude: [For rhizome/taxonomy synthesis]
+- [ ] Other: [Specify]
+
+**Prompt Templates Used:** [Reference specific templates from toolkit]
+
+## 10. Next Phase & Scaling
+
+**Immediate Next Steps (30 days):**
+1. [Action with ClickUp link]
+2. [Action with foundation focus]
+3. [Action with VSM system]
+
+**Scaling Considerations:**
+- Bioregional expansion potential: [Analysis]
+- Additional rhizome engagement needed: [List]
+- Foundation stabilization requirements: [Plan]
 
 ---
-**Template Metadata:** SPM Case Study Template v1.0 | Used Dialectical Phase: [Phase] | Generated via Universal Template
+**Case Study ID:** [Auto-generated]
+**Template Version:** Integrated v1.0 (Incorporates: Ekistics Mapper, Decoupling Protocol, Rhizome Scaffolding, Foundation Assessor, First Aid Script)
+**Last Updated:** [Date]
