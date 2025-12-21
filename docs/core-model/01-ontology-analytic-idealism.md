@@ -237,6 +237,18 @@ Within Analytic Idealism, these transpersonal mentations are not creating consci
 
 Therefore, the conscious, ethical, and foundationally-grounded use of these influences—both informational and chemical—becomes a legitimate and essential aspect of epistemic inquiry within a SolarPunk future. It is through understanding and wisely navigating this full spectrum that we learn to participate more fully in the conscious reality we inhabit.
 
+#### Empirical Support from Developmental Biology
+
+Recent work in developmental biology (Levin) suggests that **cognition precedes and enables complex life**. The observation that cellular collectives exhibit goal-directed intelligence—maintaining pattern memories, solving novel problems, and adapting to perturbations—supports the premise that mind-like properties are fundamental to organized matter, not emergent epiphenomena.
+
+**Key Evidence:**
+- **Pre-neural Cognition:** Goal-directed behavior exists in organisms without nervous systems
+- **Bioelectric Consciousness:** Electrical patterns that correlate with anatomical intentions
+- **Collective Intelligence:** Individual cells contribute to higher-order cognitive functions they don't "understand"
+- **Morphogenetic Memory:** Stable, rewritable pattern storage in tissues
+
+This aligns with the view that reality is experienced by and through minds at various scales of organization, from cellular collectives to human consciousness.
+
 ### Case in Point: UAPs and the Conscious Universe
 
 The framework of Analytic Idealism, where reality is fundamentally conscious experience, provides a uniquely coherent lens through which to examine Unidentified Aerial Phenomena (UAPs). Rather than forcing a choice between "physical craft" and "psychic projection," idealism accommodates both facets as aspects of a deeper, conscious reality.
