@@ -14,7 +14,7 @@ This document contains the full set of **40 qualitative questions** for the Rege
 
 ## The Poll Questions
 
-### 🌿 DOMAIN 1: ECOLOGY
+### 🌱 DOMAIN 1: ECOLOGY
 *Perception of our place within, and stewardship of, the living world.*
 
 **E1. Regenerative Capital**
@@ -53,7 +53,7 @@ This document contains the full set of **40 qualitative questions** for the Rege
     *   5 – A Core Instinct
 *   **Narrative:** What's one act of care for the land you witnessed or participated in that felt meaningful?
 
-### 🔄 DOMAIN 2: ECONOMICS
+### 📉 DOMAIN 2: ECONOMICS
 *Perception of our material sustenance, exchange, and freedom.*
 
 **EC1. Productive Capital**
@@ -92,7 +92,7 @@ This document contains the full set of **40 qualitative questions** for the Rege
     *   5 – Deep, Liberating Freedom
 *   **Narrative:** How did you spend your most meaningful "free" time this month?
 
-### 👥 DOMAIN 3: POLITICS
+### ☀️ DOMAIN 3: POLITICS
 *Perception of our collective decision-making and relational health.*
 
 **P1. Relational Capital**
@@ -131,7 +131,7 @@ This document contains the full set of **40 qualitative questions** for the Rege
     *   5 – A Foundational Lens
 *   **Narrative:** What's a decision we made recently that you think will benefit our grandchildren's grandchildren?
 
-### 🎨 DOMAIN 4: CULTURE
+### 🪢 DOMAIN 4: CULTURE
 *Perception of our shared stories, beauty, and identity.*
 
 **C1. Narrative Capital**
@@ -170,7 +170,7 @@ This document contains the full set of **40 qualitative questions** for the Rege
     *   5 – An Expression of the Land Itself
 *   **Narrative:** What's a local plant, animal, or landscape feature you feel a personal kinship with?
 
-### ☀️ DOMAIN 5: SPIRITUALITY
+### ✴️ DOMAIN 5: SPIRITUALITY
 *Perception of our inner awareness, purpose, and connection.*
 
 **S1. Presence Capital**
