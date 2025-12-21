@@ -56,6 +56,19 @@ flowchart TD
 
 **Key Insight:** You are not "a Precision thinker." You **activate the Precision Mode** when working on an Artisan's task within Cube 1 of the Tesseract. Modes are roles you step into, not boxes you are put in.
 
+#### Morphogenetic Intelligence
+
+Recognizes that cognitive competencies are expressed in diverse problem spaces. Levin's work demonstrates that cells and tissues navigate *anatomical morphospace*—the space of possible bodily forms—using principles of goal-directedness, memory, and communication. This intelligence operates at the scale of tissues and organs, solving problems of pattern formation, regeneration, and adaptation.
+
+**Characteristics:**
+- **Domain:** Anatomical morphospace (vs. 3D space for locomotor intelligence)
+- **Time Scale:** Minutes to days (vs. milliseconds for neural processing)
+- **Mechanism:** Bioelectric networks, gap junctions, ion channels
+- **Capabilities:** Pattern memory, error correction, novel problem-solving
+- **Examples:** Limb regeneration, facial remodeling, wound healing
+
+This expands our framework to include intelligences operating at different scales and in different phenomenological domains, from molecular networks to organismal collectives.
+
 ---
 
 ## Modes in Motion: Dialectical Unfolding
