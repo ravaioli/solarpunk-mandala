@@ -127,6 +127,40 @@ flowchart TD
     style F8_Group fill:#fce4ec,stroke:#c2185b
 ```
 
+## Tesseract Cell → Intelligence Mapping: The Definitive Table
+
+The Tesseract's 8 cubic cells correspond 1:1 to the 8 Intelligences. This is not metaphorical—it is a structural isomorphism: **each Intelligence is a dimension of MAL's self-observation through a specific dissociation configuration.**
+
+| Tesseract Cell | Geometric Signature | Intelligence (from Doc 08) | Dissociation Function |
+|----------------|---------------------|---------------------------|------------------------|
+| **Cell Ø (Seed)** | Internal × Individual × Static | **Intrapersonal** | Self-reflection within bounded alter |
+| **Cell 1 (Grid)** | Internal × Individual × Dynamic | **Bodily-Kinesthetic** | Movement intelligence within alter |
+| **Cell 2 (Web)** | Internal × Collective × Static | **Interpersonal** | Empathy across dissociation boundaries |
+| **Cell 3 (Spire)** | Internal × Collective × Dynamic | **Existential-Spiritual** | Transcendence of boundary constraints |
+| **Cell 4 (Mirror)** | External × Individual × Static | **Logical-Mathematical** | Pattern recognition in "matter" |
+| **Cell 5 (Flux)** | External × Individual × Dynamic | **Linguistic-Verbal** | Information flow across boundaries |
+| **Cell 6 (Weave)** | External × Collective × Static | **Spatial-Visual** | Structural mapping of pattern persistence |
+| **Cell 7 (Rhythm)** | External × Collective × Dynamic | **Naturalist-Ecological** | Rhythm intelligence in transpersonal patterns |
+
+### Conceptual Mapping
+
+1. **Intrapersonal ↔ Cell Ø**: The "seed" of consciousness is the bounded alter observing its own interiority.
+
+2. **Bodily-Kinesthetic ↔ Cell 1**: Movement intelligence is how individual alters navigate their internal dynamic space.
+
+3. **Interpersonal ↔ Cell 2**: The "web" is the network of dissociated alters recognizing each other as subjects.
+
+4. **Existential-Spiritual ↔ Cell 3**: The "spire" is intelligence that perceives the boundaries themselves as contingent.
+
+5. **Logical-Mathematical ↔ Cell 4**: The "mirror" reflects MAL's capacity for pattern recognition in its own extrinsic appearance.
+
+6. **Linguistic-Verbal ↔ Cell 5**: "Flux" is the flow of information across dissociation boundaries—language as boundary-crossing protocol.
+
+7. **Spatial-Visual ↔ Cell 6**: "Weave" maps how patterns persist across space—visual intelligence as pattern topology recognition.
+
+8. **Naturalist-Ecological ↔ Cell 7**: "Rhythm" is the temporal intelligence of transpersonal patterns in their material configuration.
+
+
 ## From Ontology to Epistemology: The Tesseract as Geometric Bridge
 
 The previous section established our ontological foundation: **Analytic Idealism**, where consciousness is primary. This raises a critical epistemological question: *How can we model, understand, and navigate a reality that is fundamentally conscious and multi-perspectival?* The move from ontology (what *is*) to epistemology (how we *know*) requires a framework that can handle complexity without collapsing into reductionism.
