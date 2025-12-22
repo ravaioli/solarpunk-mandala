@@ -216,6 +216,115 @@ The Pathway of **Making (Capacitação)**—developing the skill to build—find
 
 No pathway or protocol can be fully activated when any of the four embodied foundations (**Restoration, Nourishment, Movement, Cleansing**) scores below 2 on a 1-5 scale. This is a non-negotiable systems law. Attempting higher-dimensional ethical work (e.g., deep reconciliation or regenerative design) on unstable foundations leads to **ethical and systemic bypassing**—where lofty goals are co-opted by unaddressed contraction, causing collapse or harm.
 
+### Embodied Foundations: Operational Protocol & Assessment
+
+#### Foundation Scores: Observable Indicators
+
+Each foundation is scored 1-5 based on **directly observable indicators**, not subjective judgment.
+
+##### **1. NOURISHMENT** (Food & Resource Security)
+
+| Score | Observable Indicators | Assessment Method |
+|-------|----------------------|-------------------|
+| **1 (Critical)** | &gt;50% skip meals; no food storage; acute hunger reports | Community survey + pantry audit |
+| **2 (Survival)** | Caloric intake adequate but nutritionally poor; food bank dependent | 24-hour dietary recall (random sample) |
+| **3 (Stable)** | Consistent access to diverse foods; 3+ day supply buffer | Functional food system mapping |
+| **4 (Regenerative)** | Local circular food systems; seed sovereignty; zero waste | Supply chain tracing + soil health metrics |
+| **5 (Transcendent)** | Food as ceremony; nutritional biochemistry optimized; abundance sharing | Cultural practice observation + metabolic markers |
+
+##### **2. CLEANSING** (Water, Waste & Hygiene)
+
+| Score | Observable Indicators | Assessment Method |
+|-------|----------------------|-------------------|
+| **1 (Critical)** | No safe water; open defecation; disease outbreak risk | Infrastructure audit + water testing |
+| **2 (Survival)** | Intermittent water; centralized waste; chemical dependence | Flow logging + waste stream analysis |
+| **3 (Stable)** | Reliable municipal services; functional septic/water systems | Service continuity tracking |
+| **4 (Regenerative)** | Closed-loop water; composting sanitation; mycoremediation | Material flow accounting |
+| **5 (Transcendent)** | Living water systems; waste as resource; biophilic purification | Ecological health indicators |
+
+##### **3. RESTORATION** (Sleep, Rest & Recovery)
+
+| Score | Observable Indicators | Assessment Method |
+|-------|----------------------|-------------------|
+| **1 (Critical)** | Chronic sleep deprivation; no private/safe rest spaces | Sleep diaries + space mapping |
+| **2 (Survival)** | 5-6 hours sleep average; noisy environments; shift work normalized | Noise monitoring + circadian rhythm markers |
+| **3 (Stable)** | 7+ hours regular sleep; dedicated rest spaces; weekends function | Time-use surveys |
+| **4 (Regenerative)** | Rest as community practice; circadian alignment; restorative spaces | Cultural practice logs + HRV data |
+| **5 (Transcendent)** | Sleep as consciousness practice; dreamwork; rejuvenation culture | Psychological wellbeing scales |
+
+##### **4. MOVEMENT** (Physical Freedom & Somatic Safety)
+
+| Score | Observable Indicators | Assessment Method |
+|-------|----------------------|-------------------|
+| **1 (Critical)** | Physical confinement; violence/trauma; immobility | Safety audit + mobility mapping |
+| **2 (Survival)** | Restricted mobility; car-dependent; fearful public spaces | Transportation diaries + safety surveys |
+| **3 (Stable)** | Walkable neighborhoods; accessible transit; basic safety | Walkability scores + crime data |
+| **4 (Regenerative)** | Car-free zones; dance/movement culture; restorative movement | Active transport metrics |
+| **5 (Transcendent)** | Movement as meditation; empathetic kinetics; flow culture | Somatic practice documentation |
+
+---
+
+#### Bootstrapping Protocol for Sub-Threshold Systems (Any Foundation &lt;2)
+
+**Rule: No pathway work until ALL foundations ≥2. Instead, execute emergency bootstrapping.**
+
+##### **Phase 0.1: Triage (Week 0-2)**
+**Who Assesses**: Community health workers + peer assessors (not external "experts")
+
+**Process**:
+1. **Identify the lowest-scoring foundation** (the "bottleneck")
+2. **Deploy emergency protocol for that foundation ONLY**
+3. **Do not attempt integration or pathway work**
+
+**Emergency Protocols by Foundation**:
+- **Nourishment &lt;2**: Deploy mutual aid food distribution; community kitchen; seed exchange
+- **Cleansing &lt;2**: Water filtration stations; dry composting toilets; emergency sanitation
+- **Restoration &lt;2**: Create quiet/safe zones; implement "no-interruption" rest hours; trauma first aid
+- **Movement &lt;2**: Establish safe corridors; community watch; mobility assistance
+
+##### **Phase 0.2: Stabilization (Week 3-8)**
+**Who Assesses**: Same peer assessors, now trained in basic indicator tracking
+
+**Process**:
+1. **Target the bottleneck foundation until it reaches exactly 2.0**
+2. **Do not let other foundations drop during this process**
+3. **Use "minimum viable interventions" only**
+
+**Example**: If Nourishment=1.5 and others=2.5, focus 80% resources on food systems, 20% on maintaining others.
+
+##### **Phase 0.3: Convergence (Week 9-12)**
+**Who Assesses**: Community assembly with peer assessor reports
+
+**Process**:
+1. **All foundations must now be ≥2.0**
+2. **If any foundation drops below 2, return to Phase 0.1**
+3. **Only when stable at ≥2 for 2 consecutive weeks: proceed to Pathway activation**
+
+---
+
+#### Assessment Roles & Authority Matrix
+
+| Role | Can Assess | Cannot Assess | Authority Level |
+|------|-----------|---------------|-----------------|
+| **Individual** | Own foundation scores (self-report) | Community scores | Advisory only |
+| **Peer Assessor** | Direct observations within community | Meta-interpretation | Primary data collector |
+| **Community Assembly** | Collective pattern recognition | Individual diagnostic judgments | Decision-making body |
+| **External Facilitator** | Train assessors; audit methodology | Override community scores | Process consultant only |
+| **Algorithm** | Aggregate raw indicators | Substitute for human observation | Computational aid only |
+
+**Key Principle**: **Assessment is a community sense-making practice, not an expert diagnostic event.**
+
+---
+
+#### Breaking the Circular Logic
+
+The original circularity is resolved by:
+
+1. **Dedicated Emergency Protocol**: Sub-threshold systems have a **Bootstrap Protocol** (NOT a Mandala pathway)
+2. **Absolute Constraint**: NO pathway work until ≥2 (system constraint, not suggestion)
+3. **Observable Triggers**: Assessment triggered by specific, measurable indicators
+4. **Peer-Driven Process**: Removes expert gatekeeping; community self-assesses and self-bootstraps
+
 ### Threshold Decision Tree (applies to all protocols)
 This is the applied logic for navigating the system:
 -   **If any foundation <2** → Activate **Protocol 3 (Foundation Fortification)** with focus on the deficient foundation(s).
