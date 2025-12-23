@@ -249,6 +249,23 @@ Recent work in developmental biology (Levin) suggests that **cognition precedes 
 
 This aligns with the view that reality is experienced by and through minds at various scales of organization, from cellular collectives to human consciousness.
 
+## Ontological Scope: What the Model Claims vs. What It Explores
+
+### Empirical Claims (Falsifiable)
+- **Scale-free cognition**: Cognition operates across biological scales (supported by Levin 2019)
+- **Dissociation boundaries**: Systems partition and reintegrate in predictable patterns
+- **Foundation thresholds**: Systems below threshold 2 cannot sustain complex integration
+
+### Speculative Explorations (Not Empirical Claims)
+- **UAPs as dissociation phenomena**: This is a **thought experiment** to illustrate the model, not a claim about UAP origins
+- **Consciousness as fundamental**: This is the **ontological foundation**, not an empirical claim
+- **Geometric necessity**: The Tesseract is **structurally useful**, not mathematically proven as the only possible form
+
+### Clear Boundary Markers
+
+**When you see this icon**: 🔍 = Empirical claim with citation needed  
+**When you see this icon**: 💭 = Speculative exploration for conceptual clarity
+
 ### Case in Point: UAPs and the Conscious Universe
 
 The framework of Analytic Idealism, where reality is fundamentally conscious experience, provides a uniquely coherent lens through which to examine Unidentified Aerial Phenomena (UAPs). Rather than forcing a choice between "physical craft" and "psychic projection," idealism accommodates both facets as aspects of a deeper, conscious reality.
