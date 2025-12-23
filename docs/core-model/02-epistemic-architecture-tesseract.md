@@ -271,6 +271,23 @@ The **Nested Observer Windows (NOW) Model** provides the structural mechanism fo
 
 **Synthesis for the Mandala:** The Tesseract is a map of our **collective, multi-scale conscious interface**. Its eight cubes represent major, semi-autonomous "observer windows" within the social mind. The connections between cubes are the communicative channels through which these windows exchange information and negotiate a shared reality. The model's scalability—from individual to bioregional—mirrors the fundamental nestedness of observer systems, validating the application of the same geometric logic across different levels of a conscious hierarchy.
 
+## Scale Translation Principle: Conditional Correspondence
+
+**"As above, so below" is true IF boundary conditions are equivalent.**
+
+### When Correspondence Holds
+- **Isolated systems**: Individual in forest monastery ↔ isolated community
+- **Equilibrium states**: Personal coherence = 4 AND Community coherence = 4
+- **Homogeneous boundaries**: Similar dissociation patterns across scales
+
+### When Correspondence Breaks
+- **System coupling**: Individual in oppressive system (Personal=4, Community=1)
+- **Boundary mismatch**: Different phase attractors at different scales
+- **Power asymmetries**: Micro-level changes blocked by macro-level structures
+
+### Operational Rule
+**Always check boundary equivalence before applying micro insights to macro problems.**
+
 ## Key Integration Principles
 
 - **The Embodied Foundations are not a layer within the model—they are the geometric and functional core from which all other dimensions unfold.** Without this foundation, higher-dimensional work collapses into bypassing.
