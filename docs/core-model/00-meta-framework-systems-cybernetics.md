@@ -123,6 +123,23 @@ The Solarpunk Mandala is not merely *informed by* GST and Cybernetics; it is a *
 
 Thus, the Mandala can be described as a **consciousness-first, applied meta-framework for the design and navigation of complex adaptive systems**. It takes the abstract, descriptive power of GST and the regulatory power of cybernetics and directs them toward the ethical, regenerative aims of the Solarpunk horizon.
 
+## Falsification Conditions: When the Mandala is Wrong
+
+The Mandala is scientific only if it can be proven wrong. Here are explicit falsification criteria:
+
+### Critical Falsifiers
+1. **If communities with Foundation scores ≥3 show no capacity for 2D integration**, the threshold model is falsified
+2. **If Dialectical Conductance cannot be reliably measured by independent raters** (ICC &lt; 0.6), the concept is not operational
+3. **If the 8 Intelligences do not factor into 4 dimensions** in factor analysis, the Tesseract mapping is arbitrary
+
+### Auxiliary Falsifiers
+4. **If Levin's scale-free cognition is retracted**, the Mandala loses its biological grounding
+5. **If communities show inverse relationships** (high individual scores, low collective functioning), the micro-macro link is broken
+6. **If adversarial contexts cannot be mapped** onto the framework, it's ideologically biased
+
+### Consequence
+**If any critical falsifier is met**, the Mandala must be revised or abandoned. If auxiliary falsifiers mount, the model loses parsimony.
+
 ## 🔄 Pedagogical Bridge: From Theory to Practice
 
 ### Why This Order?
