@@ -224,9 +224,9 @@ flowchart TD
 ```
 
 #### Scientific Validation: Scale-Free Cognition and the Tesseract
-The choice of a multi-scale geometric model finds robust support in contemporary cognitive biology. The work of Michael Levin demonstrates that **cognition is a scale-free property** of living systems. Capabilities like problem-solving, memory, and goal-directedness are not exclusive to human brains but exist on a continuum from single cells to complex animal collectives.
+🔍 **Scientific Grounding**: Levin (2019) demonstrates that cognition operates across biological scales through bioelectric networks with computational boundaries. The Tesseract models this topology formally. [Levin, M. (2019). The Computational Boundary of a "Self": Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition. *Frontiers in Psychology*, 10, 2688.]. 
 
-This means that the intelligence and agency modeled within one "cube" of the Tesseract (e.g., the individual in the **MAN** cube) is of the same fundamental nature, though different in degree and expression, as the intelligence of a community (**SOCIETY** cube) or an ecosystem (**ECOLOGY** cube). The Tesseract is therefore not merely a useful metaphor but a **geometric map of isomorphic cognitive processes** unfolding at different levels of organization. The connections between cubes represent the real communicative and regulatory channels through which these nested cognitive systems influence one another.
+Capabilities like problem-solving, memory, and goal-directedness are not exclusive to human brains but exist on a continuum from single cells to complex animal collectives. This means that the intelligence and agency modeled within one "cube" of the Tesseract (e.g., the individual in the **MAN** cube) is of the same fundamental nature, though different in degree and expression, as the intelligence of a community (**SOCIETY** cube) or an ecosystem (**ECOLOGY** cube). The Tesseract is therefore not merely a useful metaphor but a **geometric map of isomorphic cognitive processes** unfolding at different levels of organization. The connections between cubes represent the real communicative and regulatory channels through which these nested cognitive systems influence one another.
 
 ### The Mandala as Cultural Tesseract
 
