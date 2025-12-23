@@ -25,9 +25,9 @@ Solarpunk is a movement and aesthetic that envisions how the future might look i
 
 The Solarpunk Mandala framework takes these principles and provides a practical, actionable structure for implementing them in real-world contexts.
 
-## 🌀 The Mandala Framework: Five Dimensions of Regeneration
+## 🌀 The Mandala Framework: Five Domains of Regeneration
 
-The framework is organized as a mandala—a circular symbol representing wholeness and interconnectedness—with five core dimensions that must be balanced and integrated:
+The framework is organized as a mandala—a circular symbol representing wholeness and interconnectedness—with five core domains that must be balanced and integrated:
 
 ### 🌿 **Ecological Regeneration**
 - **Purpose**: Restore and enhance natural ecosystems
