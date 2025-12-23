@@ -149,38 +149,17 @@ This lens allows precise diagnosis of pathologies **within** a phase, not just *
 
 ---
 
-## The Dialectical Velocity Metric
+## The Phase Conductance Metric
 
-Healthy transformation follows an optimal pace—not too slow (stagnation), not too fast (disintegration). The Dialectical Velocity Metric provides a 0.0–1.0 scale for assessing this pace.
+Healthy transformation follows an optimal pace—not too slow (stagnation), not too fast (disintegration). The Phase Conductance Metric provides a 0.0–1.0 scale for assessing this pace.
 
 ### Understanding the Scale:
 
-```mermaid
-flowchart LR
-    subgraph Stagnation["Stagnation Zone (0.0–0.4)"]
-        direction LR
-        A1["0.0–0.2<br><i>Static systems</i><br>Rigid patterns"]
-        A2["0.2–0.4<br><i>Slow movement</i><br>Incremental change"]
-    end
-
-    subgraph Healthy["Healthy Flow Zone (0.6–0.8)"]
-        direction LR
-        B1["0.6<br><i>Optimal pace</i>"]
-        B2["0.8<br><i>Dynamic flow</i>"]
-    end
-
-    subgraph Risk["Disintegration Risk Zone (0.8–1.0)"]
-        direction LR
-        C1["0.8–0.9<br><i>Rapid change</i><br>Coherence risk"]
-        C2["0.9–1.0<br><i>Chaotic transformation</i><br>System overwhelm"]
-    end
-
-    Stagnation --> Healthy --> Risk
-
-    style Stagnation fill:#ffebee,stroke:#d32f2f
-    style Healthy fill:#e8f5e8,stroke:#388e3c
-    style Risk fill:#fff3e0,stroke:#f57c00
-```
+| Zone | Score Range | Description | Key Characteristics |
+|------|-------------|-------------|---------------------|
+| **Stagnation Zone** | 0.0–0.4 | Static systems, rigid patterns | Resistance to change, minimal progress, high friction |
+| **Healthy Flow Zone** | 0.6–0.8 | Optimal transformation pace | Goldilocks zone—balanced growth and stability |
+| **Disintegration Risk Zone** | 0.8–1.0 | Chaotic transformation | Loss of coherence, system overwhelm, potential collapse |
 
 **0.0–0.4: Stagnation Zone**
 - **0.0–0.2:** Static systems, rigid patterns, resistance to change
@@ -197,8 +176,13 @@ flowchart LR
 ### How to Apply the Metric:
 1. **Assess current phase** of the system
 2. **Track movement** through phases over time
-3. **Calculate velocity** = (phase change) / (time period)
+3. **Calculate conductance** = (phase change) / (time period)
 4. **Adjust interventions** to maintain 0.6–0.8 range
+
+### Relationship to Foundations & Protocols:
+Phase Conductance is **constrained by** Embodied Foundations. A system cannot maintain high conductance (&gt;0.6) if any foundation score is &lt;2. Conversely, high foundation scores enable but don't guarantee high conductance—the system must actively engage the Four Axes to generate directional movement.
+
+**Activation Rule:** No pathway or protocol should be activated if Phase Conductance &lt; 0.3 **or** if any Embodied Foundation score &lt; 2.0. This is a core systems safeguard.
 
 ---
 
@@ -207,33 +191,38 @@ flowchart LR
 When systems move too quickly or too slowly through phases, they exhibit "contraction signals" indicating distress.
 
 ```mermaid
-flowchart TD
-    Start["Observe System Behavior"] --> Signal{Identify Primary<br>Contraction Signal}
-
-    Signal --> C1["Rigidity / Repetition<br>Stuck patterns"]
-    Signal --> C2["Fragmentation / Chaos<br>Loss of coherence"]
-    Signal --> C3["Numbness / Disconnection<br>Loss of vitality"]
-    Signal --> C4["Hyper-urgency / Paralysis<br>Time distortion"]
-
-    C1 --> D1["Diagnosis: Excess Structure<br>Phase regression (3D → 1D)"]
-    C2 --> D2["Diagnosis: Structure Collapse<br>Phase regression (2D → -1D)"]
-    C3 --> D3["Diagnosis: Relational Rupture<br>Dualistic splitting (0D)"]
-    C4 --> D4["Diagnosis: Temporal Dysregulation<br>Misaligned tempo"]
-
-    D1 --> Rx1["Prescription: Introduce play,<br>weaken over-strong boundaries"]
-    D2 --> Rx2["Prescription: Simple rules,<br>restore minimum viable structure"]
-    D3 --> Rx3["Prescription: Repair trust,<br>re-establish safe connection"]
-    D4 --> Rx4["Prescription: Rhythm restoration,<br>align pace with capacity"]
-
-    Rx1 & Rx2 & Rx3 & Rx4 --> Goal["Outcome: Restored Flow<br>Healthy Dialectical Velocity<br>(0.6-0.8)"]
-
-    style Signal fill:#e1f5fe,stroke:#0288d1
-    style C1 fill:#ffebee,stroke:#d32f2f
-    style C2 fill:#f3e5f5,stroke:#7b1fa2
-    style C3 fill:#e8f5e8,stroke:#388e3c
-    style C4 fill:#fff3e0,stroke:#f57c00
-    style Goal fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+graph LR
+    subgraph Stagnation["Stagnation Zone (0.0–0.4)"]
+        direction LR
+        A1["0.0–0.2<br/>Static systems<br/>Rigid patterns"]
+        A2["0.2–0.4<br/>Slow movement<br/>Incremental change"]
+    end
+    
+    subgraph Healthy["Healthy Flow Zone (0.6–0.8)"]
+        direction LR
+        B1["0.6<br/>Optimal pace"]
+        B2["0.8<br/>Dynamic flow"]
+    end
+    
+    subgraph Risk["Disintegration Risk Zone (0.8–1.0)"]
+        direction LR
+        C1["0.8–0.9<br/>Rapid change<br/>Coherence risk"]
+        C2["0.9–1.0<br/>Chaotic transformation<br/>System overwhelm"]
+    end
+    
+    Stagnation --> Healthy --> Risk
 ```
+
+### How to Apply the Metric:
+1. **Assess current phase** of the system
+2. **Track movement** through phases over time
+3. **Calculate conductance** = (phase change) / (time period)
+4. **Adjust interventions** to maintain 0.6–0.8 range
+
+### Relationship to Foundations & Protocols:
+Phase Conductance is **constrained by** Embodied Foundations. A system cannot maintain high conductance (&gt;0.6) if any foundation score is &lt;2. Conversely, high foundation scores enable but don't guarantee high conductance—the system must actively engage the Four Axes to generate directional movement.
+
+**Activation Rule:** No pathway or protocol should be activated if Phase Conductance &lt; 0.3 **or** if any Embodied Foundation score &lt; 2.0. This is a core systems safeguard.
 
 ### Common Contraction Signals:
 
