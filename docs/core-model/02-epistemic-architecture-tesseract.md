@@ -26,11 +26,11 @@ structured_concepts:
 ---
 # Epistemic Architecture: The Tesseract
 
-If consciousness is primary, how does it appear as a multi-perspectival reality? The answer is the tesseract—a four-dimensional hypercube used not as a literal claim, but as a cognitive prosthetic to map the eight cubes of epistemic access, which are observed and integrated from the Central Core (ॐ).
+If consciousness is primary, how does it appear as a multi-perspectival reality? The answer is the tesseract—a four-dimensional hypercube used not as a literal claim, but as a cognitive prosthetic to map the eight cubes of epistemic access, which are observed and integrated from the Central Core (ॐ). The Tesseract claims scale-free applicability. This protocol makes that claim operational through explicit translation rules.
 
 ## 🧊 The Knowledge Hypercube
 
-*With our reality defined (01), we now need a structure to organize knowledge within it. Enter the tesseract: a 4D structure that helps us think beyond 3D limitations.*
+*With our reality defined (01), we now need a structure to organize knowledge within it. Enter the tesseract: a 4D structure that helps us think beyond 3D limitations.* 
 
 **Pedagogical Warning:** This is intentionally disorienting. If you feel confused, that's the point—you're experiencing dimensional expansion.
 
