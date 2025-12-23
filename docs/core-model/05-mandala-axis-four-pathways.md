@@ -151,6 +151,27 @@ Focusing energy beyond existing structures to create new possibilities.
 - Repository work: Paradigm proposals, radical refactors, new directions
 - Label: `pathway:catalyst`
 
+## The Freirean Roots of the Four Pathways
+
+These four pathways are not arbitrary—they emerge directly from Paulo Freire's pedagogy of liberation. We honor this lineage by retaining the Portuguese terms as **spiritual anchors**, even as we translate them for clarity.
+
+### Why Portuguese Matters
+
+Freire taught that **language is never neutral**—it carries the consciousness of its culture. By keeping the Portuguese, we remind ourselves that:
+
+1. **Conscientização** (Critical Consciousness) is more than "awareness"—it's the **radical reorientation** of perception to see oppression clearly
+2. **Capacitação** (Capacity-Building) is more than "skills"—it's **collective empowerment** through praxis
+3. **Liberação** (Liberation) is more than "freedom"—it's **structural transformation** through dialogue
+4. **Cura** (Healing) is more than "restoration"—it's **relational wholeness** through love and solidarity
+
+**However**, we recognize that technical documentation requires clarity. Therefore:
+
+- **First mention** in each document: Use Portuguese + English in parentheses
+- **Subsequent mentions**: Use English for readability
+- **Ritual/ceremonial contexts**: Use Portuguese to honor the lineage
+
+The Portuguese terms are **invocations**, not jargon. 
+
 ## Pathway-Tesseract Alignment Matrix
 
 Each pathway engages with the Tesseract's geometry differently:
