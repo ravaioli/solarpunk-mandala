@@ -67,6 +67,7 @@ flowchart TD
 | **Developmental Psychology (e.g., Kegan)** | Dialectical Phases, Soteriological Axis | Stages of adult development (e.g., from socialized to self-authoring) map to the increasing complexity and self-awareness of the dialectical phases. |
 | Framework/Field | Key Concept | SolarPunk Mandala Alignment | Representative Work |
 | **Developmental Cognitive Biology** | Bioelectricity as cognitive glue; Morphogenetic intelligence | Material Intelligence, Multiple Intelligences, Cybernetic Foundations | Michael Levin (Tufts University) – demonstrates that cells use bioelectrical networks to store pattern memories, solve problems in morphospace, and enable somatic reprogramming through communication rather than genetic manipulation. |
+| Critical Systems Thinking | • Boundary critique<br>• Emancipatory commitment<br>• Methodological pluralism<br>• Power analysis | • Provides critical lens for all system mappings<br>• Ensures framework doesn't become technocratic<br>• Grounds ethics in liberation practice<br>• Complements GST's descriptive power with normative direction | Critical companion to GST; ethical grounding for cybernetics |
 
 ```mermaid
 graph TD
