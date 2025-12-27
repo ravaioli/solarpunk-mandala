@@ -78,6 +78,12 @@ Take that decision you thought of earlier. Plot it here, informed by the insight
 | **Relational Depth**<br>*How connected are we?* | □□□□□ <br> **Principle:** Complexity that honors connection. | Does this simplify appropriately or add destructive noise? Does it foster **authentic communication** between differing "intelligences" (people, communities, ecologies)? |
 | **Temporal Orientation**<br>*How wisely do we hold time?* | □□□□□ <br> **Principle:** Courage to repair the past and seed the future. | What old pattern is being challenged? Does this action heal temporal ruptures? Does it have the **foresight of goal-directed morphogenesis**, aiming for a sustainable future state? |
 
+**CST Integration:** This axis operationalizes CST's emancipatory commitment through:
+- **Systemic Justice:** Beyond interpersonal fairness to addressing structural violence embedded in system boundaries and flows.
+- **Epistemic Justice:** Ensuring all relevant ways of knowing (embodied, indigenous, intuitive, etc.) are included in community decision-making.
+- **Intergenerational Justice:** Expanding system boundaries temporally to include future generations and ancestors.
+- **Interspecies Justice:** Expanding system boundaries to include non-human stakeholders as legitimate participants.
+
 ### Repository-Specific & Systemic Guidance
 
 **When designing any intervention (code, policy, bioengineering):**
