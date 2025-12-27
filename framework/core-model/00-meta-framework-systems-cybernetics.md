@@ -65,6 +65,19 @@ flowchart TD
     style Global fill:#64b5f6,stroke:#333
 ```
 
+### Critical Systems Thinking: Power, Pluralism, and Emancipation
+
+While General Systems Theory provides descriptive models, Critical Systems Thinking (CST) adds necessary normative and emancipatory dimensions. CST acknowledges that:
+1. **All systems boundaries are political choices:** Who/what is included/excluded reflects power dynamics.
+2. **Multiple perspectives are inevitable:** Different stakeholders have irreducibly different valid perspectives on any complex situation.
+3. **Emancipation is central:** Systems thinking must serve human flourishing and liberation from unnecessary constraints.
+
+**CST Principles Applied to Mandala Framework:**
+- **Boundary Critique:** Each community must explicitly question: "Whose voices are shaping our Tesseract mapping? What perspectives are we excluding?"
+- **Pluralism:** The Multiple Intelligences Framework ensures diverse ways of knowing are valued, not just dominant cognitive styles.
+- **Emancipatory Intent:** The movement from Necrocene to Symbiotic Commonwealth explicitly aims to liberate both human and non-human communities from extractive systems.
+- **Methodological Commitment:** We commit to methodological pluralism—using different systems methodologies as appropriate to context, not imposing one rigid approach.
+
 **Summary:** GST provides the Mandala with its **geometric and relational validity**. It answers *why* the Tesseract, cubes, and pathways are structured as they are: they are instantiations of universal systems logic.
 
 ## 2. Cybernetics: The Logic of Process
