@@ -76,11 +76,15 @@ Development and regeneration are cybernetic processes where biological systems r
 
 ### The Reflexive Turn: Second-Order Cybernetics
 
-First-order cybernetics studies **observed systems**. Second-order cybernetics studies **observing systems**—including ourselves as observers. This is crucial because:
+**Critical Cybernetics:** Building on second-order cybernetics' recognition of observer inclusion, Critical Systems Thinking asks:
+1. **Whose observations count?** (Power dynamics in observation)
+2. **What purposes does this cybernetic system serve?** (Emancipatory or controlling?)
+3. **How are boundaries being drawn, and who benefits?** (Political nature of system definition)
 
-1. **The Observer is Inescapably Part of the System:** When we analyze a community using the mandala framework, we're not outside observers but participants shaping what we observe
-2. **Circular Causality:** Our models create the reality they describe—the mandala framework, once adopted, changes how communities organize
-3. **Eigenvalues as Stable Concepts:** Repeated interactions in communities produce stable patterns (like your dialectical phases) that appear as "objective" but are co-created
+**Practical Application:** Every use of the Mandala Framework should include a "boundary critique" step where the community explicitly discusses:
+- What are we excluding from our system definition, and why?
+- Who is not represented in our mapping process?
+- What power structures are influencing our choice of metrics and goals?
 
 **Integration with Enactivism:** Second-order cybernetics aligns with enactive cognition—both emphasize that **knowing is doing, and the knower is part of the known**.
 
