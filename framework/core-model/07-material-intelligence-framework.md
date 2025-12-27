@@ -124,6 +124,19 @@ The Solarpunk focus on ecological design, regenerative materials, and bioregiona
 
 3. **Hardware is Boundary Medicine**: When we design permeable membranes (composting toilets), regenerative cycles (circular economies), or nested scales (village-to-bioregion structures), we are **calibrating dissociation boundaries** to allow more coherent flow of MAL across what appear to be separate scales.
 
+### Material Engagement as Enactive Cognition
+
+Material intelligence isn't about "smart materials" but about recognizing that **cognition extends into our tools, architectures, and environments**. Following the enactivist view:
+
+1. **Tools as Cognitive Extensions:** The tesseract, mandalas, and ritual objects aren't just representations—they become **components of our cognitive system**
+2. **Built Environment as Memory:** Settlements literally "remember" patterns of living through their structures
+3. **Bodily Skill as Knowing:** The protocols work because they engage embodied skills, not just conceptual understanding
+
+**Practical Implications:**
+- Your "Ritual Cube Dissolving Technology" (Appendix B) works because it's an **enactive ritual**, not just a conceptual exercise
+- The hexagonal mapping in the Arena is effective because it's a **perceptually-guided action space**
+- Material intelligence emerges through **doing**, not just planning
+
 ### Eliminating the "Collaboration" Fallacy
 
 **Imprecise framing**: "We collaborate with material intelligence."  
