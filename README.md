@@ -6,6 +6,27 @@
 
 ---
 
+```mermaid
+mindmap
+  root((Solarpunk Mandala))
+    Individual
+      Self-Care
+      Ethical Consumption
+      Personal Growth
+    Community
+      Mutual Aid
+      Local Governance
+      Shared Resources
+    Infrastructure
+      Renewable Energy
+      Open Source Tech
+      Public Transit
+    Biosphere
+      Regenerative Ag
+      Rewilding
+      Circular Economy
+```
+
 ## 🌍 Vision: Regeneration Through Dimensional Literacy
 
 The Solarpunk Mandala is not another sustainability toolkit. It is a **meta-framework** that integrates **Analytic Idealism** (consciousness as primary reality), **General Systems Theory**, and **Cybernetics** into a practicable geometric architecture—the **Tesseract** (4D hypercube)—for navigating the complex, multi-perspectival nature of regenerative transformation.
