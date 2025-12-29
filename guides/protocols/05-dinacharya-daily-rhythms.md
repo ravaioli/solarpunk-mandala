@@ -63,27 +63,30 @@ This protocol integrates ancient wisdom with contemporary medical and biological
 
 ```mermaid
 gantt
-    title SPM Dinacharya: Daily Core Flow
+    title Solarpunk Mandala Dinacharya: Integrated Daily Flow
     dateFormat HH:mm
     axisFormat %H:%M
-    
-    section Crystallization (4:00-9:00)
-    Consciousness-First Meditation :04:00, 1h
+
+    section Phase 1: Crystallization (4:00-9:00)
+    Bodily Temple Cleansing :04:00, 30m
+    Pre-Dawn Awareness (Analytic Idealism Meditation) :04:30, 30m
     Four Axes Alignment :05:00, 1h
-    Systems Connection :06:00, 1h
-    Mandala Setup :07:00, 2h
-    
-    section Expression (9:00-16:00)
+    Systems Connection (Nested Systems Visualization) :06:00, 1h
+    Daily Mandala Setup (Tesseract Mapping) :07:00, 2h
+
+    section Phase 2: Expression (9:00-16:00)
     Cybernetic Work Cycles :09:00, 6h
-    Dialectical Check-ins :09:00, 7h
-    
-    section Liquefaction (16:00-22:00)
-    Pattern Release :16:00, 1h
-    Resource Assessment :17:00, 1h
-    Symbiotic Connection :19:00, 2h
-    
-    section Reintegration (22:00-4:00)
-    Day Integration :22:00, 1h
+    Dialectical Check-ins (incl. Hygiene Micro-practices) :09:00, 7h
+
+    section Phase 3: Liquefaction (16:00-22:00)
+    Evening Cleansing & Pattern Release :16:00, 30m
+    Pattern Recognition (Daily Audit) :16:30, 30m
+    Resource Flow Assessment :17:00, 1h
+    Symbiotic Connection (Dialogic Engagement) :19:00, 2h
+    Material Intelligence Practice :21:00, 30m
+
+    section Phase 4: Reintegration (22:00-4:00)
+    Day Integration & Sleep Sanctuary Preparation :22:00, 1h
     Dream Incubation :23:00, 1h
     Sacred Sleep :00:00, 4h
 ```
