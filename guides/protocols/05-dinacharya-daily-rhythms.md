@@ -49,6 +49,33 @@
 
 ## 📝 Detailed Protocol Steps
 
+```mermaid
+gantt
+    title SPM Dinacharya: Daily Core Flow
+    dateFormat HH:mm
+    axisFormat %H:%M
+    
+    section Crystallization (4:00-9:00)
+    Consciousness-First Meditation :04:00, 1h
+    Four Axes Alignment :05:00, 1h
+    Systems Connection :06:00, 1h
+    Mandala Setup :07:00, 2h
+    
+    section Expression (9:00-16:00)
+    Cybernetic Work Cycles :09:00, 6h
+    Dialectical Check-ins :09:00, 7h
+    
+    section Liquefaction (16:00-22:00)
+    Pattern Release :16:00, 1h
+    Resource Assessment :17:00, 1h
+    Symbiotic Connection :19:00, 2h
+    
+    section Reintegration (22:00-4:00)
+    Day Integration :22:00, 1h
+    Dream Incubation :23:00, 1h
+    Sacred Sleep :00:00, 4h
+```
+
 ### 🌅 Phase 1: Morning Crystallization (4:00-9:00)
 
 #### Step 1: Pre-Dawn Awareness (4:00-5:00)
@@ -263,10 +290,94 @@
 - **Saturday**: Dialectical Day - Phase awareness, use `tools/assessments/dialectical-velocity-metric/`
 - **Sunday**: Meta-Narrative Day - Paradigm witnessing, apply `appendices/F-meta-narrative-mapping.md`
 
+```mermaid
+gantt
+    title SPM Dinacharya: Weekly Integration Cycle
+    dateFormat HH:mm
+    axisFormat %H:%M
+    excludes weekends
+    
+    section Monday: Contraction Day
+    Alpha Coefficient Check :crit, m1, 04:15, 15m
+    Deep Inner Awareness :04:30, 1.5h
+    Embodied Foundation Assessor :06:00, 30m
+    Contraction Focus Tasks :09:00, 6h
+    Evening Reflection (Inward) :19:00, 1h
+    
+    section Tuesday: Expansion Day
+    Loving-Kindness Meditation :crit, t1, 04:30, 1h
+    Bioregional Awareness :05:30, 30m
+    Community Connection Planning :06:00, 1h
+    Expansion Focus Tasks :09:00, 6h
+    Evening Sharing Ritual :19:00, 1h
+    
+    section Wednesday: Coherence Day
+    Alignment Meditation :crit, w1, 04:30, 1h
+    Four Axes Balance Check :05:30, 30m
+    Conflict Diagnostic Prep :06:00, 1h
+    Coherence Focus Tasks :09:00, 6h
+    Integration Review :19:00, 1h
+    
+    section Thursday: Radiance Day
+    Generosity Practice :crit, th1, 04:30, 1h
+    Resource Inventory :05:30, 30m
+    Necrocene Decoupling Check :06:00, 1h
+    Radiance Focus Tasks :09:00, 6h
+    Contribution Celebration :19:00, 1h
+    
+    section Friday: Systems Day
+    Systems Visualization :crit, f1, 04:30, 1h
+    Hexagonal Mapping Practice :05:30, 30m
+    Network Analysis :06:00, 1h
+    Systems Focus Tasks :09:00, 6h
+    Community Feedback Loop :19:00, 1h
+    
+    section Saturday: Dialectical Day
+    Phase Transition Practice :crit, sa1, 04:30, 1h
+    Velocity Metric Assessment :05:30, 30m
+    Weekly Pattern Analysis :06:00, 1h
+    Project Phase Work :09:00, 6h
+    Weekend Integration :19:00, 1h
+    
+    section Sunday: Meta-Narrative Day
+    Paradigm Witnessing :crit, su1, 04:30, 1h
+    Narrative Mapping :05:30, 30m
+    Weekly Synthesis :06:00, 1h
+    Rest & Visioning :09:00, 6h
+    Next Week Planning :19:00, 1h
+```
+
 ### Monthly Deep Practices:
 1. **First Weekend**: Complete full Mandala Project Generator session (`knowledge_base/templates/mandala-project-generator.md`)
 2. **Third Weekend**: Apply Universal Case Study Template (`tools/universal-case-study-template.md`)
 3. **Month End**: Use Compatible Frameworks Matrix (`framework/core-model/09-compatible-frameworks-matrix.md`)
+
+```mermaid
+gantt
+    title SPM Dinacharya: Monthly Dialectical Rhythm
+    dateFormat YYYY-MM-DD
+    axisFormat %d
+    
+    section New Moon: Contraction Cycle (Days 1-7)
+    Seed Planting Phase :crit, 2024-01-01, 7d
+    Inner Work Focus :2024-01-01, 7d
+    Foundation Building :2024-01-01, 7d
+    
+    section First Quarter: Expansion Cycle (Days 8-14)
+    Growth Phase :crit, 2024-01-08, 7d
+    Community Engagement :2024-01-08, 7d
+    Skill Sharing :2024-01-08, 7d
+    
+    section Full Moon: Expression Cycle (Days 15-21)
+    Harvest Phase :crit, 2024-01-15, 7d
+    Manifestation Work :2024-01-15, 7d
+    Celebration :2024-01-15, 7d
+    
+    section Last Quarter: Reintegration Cycle (Days 22-28)
+    Composting Phase :crit, 2024-01-22, 7d
+    Release & Letting Go :2024-01-22, 7d
+    Integration & Planning :2024-01-22, 7d
+```
 
 ### Seasonal Alignments:
 - **Spring** (Mar-May): Crystallization focus - new beginnings, planting seeds
