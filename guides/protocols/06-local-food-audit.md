@@ -88,6 +88,23 @@ flowchart TD
     *   **Actions:** Trace the journey of one local item (e.g., cheese) from producer to your table. Attend a community garden meeting.
     *   **Questions to Ask/Answer:** "Do you deliver or sell directly to consumers?" "Is there a food hub or cooperative distributor?" "Where do unused crops go?"
 
+```mermaid
+flowchart TD
+    Start["Evaluating a Local Producer"] --> Q1{"Can you visit the farm<br>or speak directly with the grower?"}
+    
+    Q1 -->|Yes| A1["Ask about:<br>- Soil management<br>- Water use & biodiversity<br>- Pest/weed strategy<br>- Labor practices & fairness"]
+    Q1 -->|No| A2["Look for:<br>- Regenerative certifications<br>- Transparency in marketing<br>- Local food alliances<br>- Reviews from other buyers"]
+    
+    A1 --> D{"Do their practices align with<br>regenerative & ethical principles?"}
+    A2 --> D
+    
+    D -->|Yes| Y["Prioritize this source.<br>Consider a CSA or regular commitment."]
+    D -->|No / Unclear| N["Note as secondary source.<br>Opportunity for dialogue."]
+    
+    Y --> Final["Integrate into your<br>Local Food Mandala Map"]
+    N --> Final
+```
+
 *   **Quadrant III (Alchemy of Digestion):**
     *   **Actions:** Analyze your market haul for the **Six Tastes**. Conduct a personal one-week *agni* log (energy after meals, digestion).
     *   **Questions to Ask/Answer:** "Can I find all six tastes locally?" (Bitter: dandelion, pungent: radish). "Do my meal times align with the sun's strength?"
@@ -118,6 +135,21 @@ Based on your interpretation, formulate a **personal covenant** for the next sea
 | **Strengthen *Agni* (Coherence)** | Make lunch my largest, sit-down meal, focusing on local, cooked vegetables. | Meal prep time on Sundays. | Improved energy at 3 PM, less bloating. |
 | **Deepen Web of Relations (Expansion)** | Join a CSA share from [Farm Name] and volunteer 4 hours per season. | CSA membership fee; scheduling. | Direct relationship with one grower; understanding of farm challenges. |
 | **Eat Seasonally (Contraction)** | Preserve (ferment/freeze) one seasonal glut (e.g., summer berries) for winter. | Canning jars, recipe. | 3 jars of preserves in pantry by autumn. |
+
+```mermaid
+flowchart TD
+    Start["Seasonal Food Decision"] --> Q1{"What is the primary<br>seasonal influence now?"}
+    
+    Q1 -->|"Early Spring: Cold, Damp"| A1["Focus on:<br>Light, Warming, Drying foods<br>e.g., steamed greens, spices, light grains"]
+    Q1 -->|"Late Summer: Hot, Intense"| A2["Focus on:<br>Cooling, Sweet, Substantial foods<br>e.g., melons, cucumber, dairy, coconut"]
+    Q1 -->|"Late Autumn/Winter: Cold, Dry, Windy"| A3["Focus on:<br>Warming, Moist, Grounding foods<br>e.g., stews, root vegetables, nuts, ghee"]
+    Q1 -->|"Harvest Abundance"| A4["Focus on:<br>Preservation & Sharing<br>e.g., fermenting, canning, community feast"]
+    
+    A1 --> End["Source Locally & Eat Mindfully"]
+    A2 --> End
+    A3 --> End
+    A4 --> End
+```
 
 ## 5.0 Protocol Integration & Ritual
 
