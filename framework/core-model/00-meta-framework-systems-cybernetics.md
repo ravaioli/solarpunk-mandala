@@ -35,6 +35,28 @@ Together, they form the transdisciplinary foundation that allows the Mandala to 
 - **Purpose:** Understand the *why* behind the entire system
 - **Next Steps:** This document sets the stage for everything that follows
 
+```mermaid
+flowchart TD
+    subgraph Input Phase [Input/Perception]
+        direction LR
+        P[Phenomena & Sensations] --> C[Consciousness<br>as Ground]
+        C --> O[Observation &<br>Data Gathering]
+    end
+
+    O --> M[Model & Analyze<br>Create/Update Mental Map]
+
+    subgraph Output Phase [Output/Action]
+        A[Plan & Execute Action] --> F[Feedback from System]
+    end
+
+    M --> A
+    F -->|New Data| O
+    F -->|Model Incongruent| M
+
+    style Input Phase fill:#e1f5fe
+    style Output Phase fill:#f3e5f5
+```
+
 ## 1. General Systems Theory: The Logic of Wholeness
 
 General Systems Theory (GST), pioneered by Ludwig von Bertalanffy, is the study of the abstract organization of phenomena. It looks for universal patterns and principles that apply to systems of any kind, regardless of their specific content.
