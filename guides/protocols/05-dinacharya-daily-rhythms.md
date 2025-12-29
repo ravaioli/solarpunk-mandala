@@ -25,6 +25,7 @@ This protocol integrates ancient wisdom with contemporary medical and biological
 - **Time‑restricted eating**: Aligning eating windows with daylight hours improves metabolic markers[reference:14].
 - **Sleep regularity**: Consistent sleep‑wake timing is a stronger predictor of long‑term health than sleep duration alone[reference:15].
 - **Exercise as a zeitgeber**: Regular physical activity, especially when timed appropriately, helps entrain the biological clock[reference:16].
+-   **Hygiene & Circadian Health:** Foundational hygiene practices (skin, oral, digital) are supported by circadian biology. Morning light exposure advances circadian phase [reference:12], while evening digital detox protects melatonin production [reference: Anandpara et al., 2024]. Consistent routines synergize to regulate the sleep-wake cycle.
 
 > **Note on Scientific Integration**: This protocol synthesizes ancient Ayurvedic wisdom with contemporary circadian biology research. Each phase aligns with specific physiological rhythms, from cortisol awakening response in the morning to melatonin onset in the evening. The cited research demonstrates how these practices support metabolic health, cognitive function, and emotional regulation through alignment with our innate biological clocks [1, 2, 5].
 
@@ -89,7 +90,20 @@ gantt
 
 ### 🌅 Phase 1: Morning Crystallization (4:00-9:00)
 
-#### Step 1: Pre-Dawn Awareness (4:00-5:00)
+#### Step 1: Bodily Temple Cleansing (4:00-4:30)
+*Activity:* Foundational Somatic Hygiene
+*Focus:* "The physical vessel is the primary instrument of consciousness."
+*Duration:* 20-30 minutes
+*SPM Integration:* Establishes the Contraction Axis (inner focus) and prepares the physical system for higher-order practices.
+*Scientific Rationale:* A daily cleansing-moisturizing routine maintains skin-barrier integrity [reference: Mijaljica et al., 2025]. Oral hygiene prevents systemic inflammation [reference: Cleveland Clinic, 2024]. Delaying digital engagement reduces stress and improves cognitive setpoint for the day [reference: Anandpara et al., 2024].
+
+*Instructions:*
+1.  **Skin & Oral Cleansing:** Perform face washing, tooth brushing, and flossing with mindful attention to sensations. Use this time to transition from sleep to wakefulness.
+2.  **Mental & Digital Hygiene:** Before checking devices, spend 5 minutes in silent awareness or gentle movement. Set an intentional boundary for digital engagement.
+3.  **Hydration:** Drink a glass of water (filtered if possible) to support the body's natural detoxification pathways and cellular function.
+4.  **Somatic-Intentional Bridge:** As you cleanse, set a simple intention: "With this water, I cleanse not just my body but my attention for the day ahead."
+
+#### Step 2: Pre-Dawn Awareness (4:00-5:00)
 **Activity:** Analytic Idealism Meditation  
 **Focus:** "I am not a body with consciousness, but consciousness experiencing a body"  
 **Duration:** 20-30 minutes  
@@ -102,7 +116,7 @@ gantt
 3. Ask: "What remains when all sensations, thoughts, and emotions are observed as objects?"
 4. Rest as the awareness that witnesses all phenomena
 
-#### Step 2: Four Axes Alignment (5:00-6:00)
+#### Step 3: Four Axes Alignment (5:00-6:00)
 **Activity:** Ethical Axis Embodiment  
 **Duration:** 20 minutes (5 minutes per axis)
 
@@ -114,7 +128,7 @@ gantt
 **SPM Integration:** From `03-ethics-four-axes.md`
 **Why it works**: Mindfulness practices reduce perceived stress and improve sleep quality, supporting the contraction–expansion cycle [3]. This period of intentional reflection activates prefrontal regulation systems that help maintain emotional balance throughout the day.
 
-#### Step 3: Systems Connection (6:00-7:00)
+#### Step 4: Systems Connection (6:00-7:00)
 **Activity:** Nested Systems Visualization  
 **Duration:** 15 minutes
 
@@ -126,7 +140,7 @@ gantt
 **SPM Integration:** GST application from `00-meta-framework-systems-cybernetics.md`
 **Why it works**: Spending time outdoors in daylight is associated with lower depression risk, better sleep, and earlier chronotype [7]. Even on cloudy days, outdoor light intensity (1000-25,000 lux) is significantly higher than indoor lighting (100-500 lux), providing stronger circadian signals.
 
-#### Step 4: Daily Mandala Setup (7:00-9:00)
+#### Step 5: Daily Mandala Setup (7:00-9:00)
 **Activity:** Tesseract Day Mapping  
 **Duration:** 5-10 minutes
 
@@ -169,6 +183,12 @@ gantt
 3. **Liquefaction Check** (12:00): "What's dissolving? What needs releasing?"
 4. **Reintegration Check** (13:30): "What's integrating? What's being synthesized?"
 
+##### Hygiene as Cybernetic Feedback
+Incorporate the following micro-practices into your work cycles and check-ins:
+- **Before the 12:00 (Liquefaction) Check-in:** Perform a 5-minute **Environmental Micro-Cleanse**. Tidy your immediate workspace using reusable cloths. This act of ordering external space signals a release of cognitive clutter.
+- **Before Meals:** Practice **Conscious Handwashing**. As you wash, contemplate the nested system of health: your personal hygiene contributes to community well-being, a direct expression of the Expansion Axis.
+- **Hydration Check:** Use the act of drinking water as a moment to pause and assess your body's signals, integrating somatic intelligence into the workday.
+
 **SPM Integration:** From `04-temporal-unfolding-dialectical-phases.md`
 **Why it works**: Brief mindfulness breaks enhance emotional regulation and reduce cognitive fatigue. Research shows that 5-minute mindful pauses can significantly improve subsequent cognitive performance and decision-making quality.
 
@@ -201,7 +221,7 @@ gantt
 
 ### 🌇 Phase 3: Evening Liquefaction (16:00-22:00)
 
-#### Step 1: Pattern Recognition (16:00-17:00)
+#### Step 1a: Pattern Recognition (16:00-17:00)
 **Activity:** Daily Pattern Audit  
 **Duration:** 10-15 minutes
 
@@ -210,6 +230,18 @@ gantt
 2. What Symbiotic moments occurred?
 3. How balanced were the Four Axes in my actions?
 4. What feedback loops completed successfully?
+
+#### Step 1b: Evening Cleansing & Pattern Release (16:00-16:30)
+*Activity:* Ritual Unwinding and Digital Detox Initiation
+*Focus:* "Wash away the day's accumulated patterns; create space for connection and reflection."
+*Duration:* 20-30 minutes
+*SPM Integration:* This is the physical enactment of the Liquefaction phase. It directly supports the "Pattern Release" and "Resource Assessment" that follow.
+*Scientific Rationale:* Evening cleansing removes environmental pollutants and supports skin health. A digital curfew 1-2 hours before bed improves sleep onset and quality by reducing blue light exposure and mental arousal [reference: Anandpara et al., 2024].
+
+*Instructions:*
+1.  **Second Skin & Oral Cleanse:** Remove sunscreen, pollutants, and makeup. Let the act of brushing your teeth symbolize clearing the "debris" of the day's conversations and consumed materials.
+2.  **Initiate Digital Detox:** Set a "digital curfew." Turn off non-essential notifications and place devices in another room. This creates a container for the evening's symbiotic connections and reflection.
+3.  **Transition Ritual:** As you cleanse, ask: "What three things from today am I consciously choosing to wash away?" (e.g., a stress, a distraction, an outdated thought).
 
 **SPM Integration:** Using `tools/necrocene-decoupling-protocol.md`
 
@@ -253,9 +285,15 @@ gantt
 
 ### 🌌 Phase 4: Night Reintegration (22:00-4:00)
 
-#### Step 1: Day Integration (22:00-23:00)
-**Activity:** Mandala Completion  
-**Duration:** 10-15 minutes
+#### Step 1: Day Integration & Sleep Sanctuary Preparation (22:00-23:00)
+*Activity:* Reflective Closure and Environment Optimization
+*Focus:* "Prepare the temple of the body for the sacred journey of sleep."
+*SPM Integration:* This is the practical application of the Reintegration phase, ensuring the physical environment supports subconscious processing.
+
+*Instructions:*
+1.  **Reflective Closure:** Spend 2-3 minutes reviewing the day. Acknowledge one act of successful cleansing (physical, digital, or mental) and one opportunity for tomorrow.
+2.  **Air Quality:** Open a window for 5 minutes (if air is clean) or run a HEPA air purifier. This literal act of cleansing the sleep environment improves respiratory health and sleep quality.
+3.  **Sleep Hygiene Audit:** Ensure your bedroom is cool, dark, and quiet. The use of breathable, natural-fiber bedding is not just a comfort but a practice of **Material Intelligence**, choosing materials that support the body's ecosystem.
 
 **Visualization:**
 1. Recall today's experiences as colors/patterns
@@ -287,6 +325,8 @@ gantt
 - Notice shift from dream consciousness to waking consciousness
 - Practice "conscious sleeping": Awareness resting in awareness
 - Maintain thread of consciousness through sleep states
+
+*Scientific Rationale Augmentation:* Consistent sleep-wake timing is a stronger predictor of long-term health than duration alone [reference: Dinacharya Ref 15]. The practices of sleep hygiene and air quality optimization directly create the conditions for this consistency and for the critical physical restoration of deep (N3) sleep.
 
 **SPM Integration:** Analytic Idealism applied to sleep states
 **Why it works**: Maintaining a consistent sleep schedule is linked to lower mortality risk, independent of sleep duration [5]. The first half of the night contains the highest proportion of deep (N3) sleep, critical for physical restoration and memory consolidation.
