@@ -139,27 +139,27 @@ Named in Portuguese to honor Paulo Freire's liberatory pedagogy:
 ---
 
 ## 📂 Complete Repository Structure
-solarpunk-mandala/
-├── framework/
-│   ├── core-model/           # The 11 core documents (00-10)
-│   │   ├── 00-meta-framework-systems-cybernetics.md
-│   │   ├── 01-ontology-analytic-idealism.md
-│   │   └── ... (through 10-cybernetic-foundations.md)
-│   ├── arena/               # Practical applications & community tools
-│   └── meta-narratives/     # Necrocene vs. Symbiotic Commonwealth dialectic
-├── guides/
-│   ├── facilitator-toolkit/ # 4-week implementation cycle
-│   └── protocols/           # Assessment protocols (00-04)
-├── tools/
-│   ├── assessments/         # Alpha coefficient calculator, velocity metrics
-│   ├── protocols/           # Worksheets for each pathway
-│   └── *-generator.md       # Various scaffolding tools
-├── knowledge_base/
-│   ├── case-studies/        # Puerto Rico, Detroit, Barcelona, etc.
-│   ├── circles/            # 4 Knowledge Circles (UL, UR, LL, LR)
-│   └── rhizomes/           # Framework integrations (SDG, GND, etc.)
-└── appendices/             # Technical reference tables
-
+```mermaid
+graph TD
+    A[solarpunk-mandala] --> B[framework]
+    A --> C[guides]
+    A --> D[tools]
+    A --> E[knowledge_base]
+    
+    B --> B1[core-model: 11 docs]
+    B --> B2[arena]
+    B --> B3[meta-narratives]
+    
+    C --> C1[facilitator-toolkit: 6 parts]
+    C --> C2[protocols: 5 docs]
+    
+    D --> D1[assessments]
+    D --> D2[protocols: 4 worksheets]
+    
+    E --> E1[case-studies: 8 cases]
+    E --> E2[circles: 4 domains]
+    E --> E3[rhizomes: 4 frameworks]
+```
 
 **Key Integration Points**:
 - **Rhizomatic Network**: The "glue" connecting all components
