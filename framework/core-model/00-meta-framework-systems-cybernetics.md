@@ -1,24 +1,23 @@
 ---
 # AEO/AAE OPTIMIZATION METADATA
-title: "Meta-Framework: Systems Theory, Cybernetics & Cognitive Science"
-ai_description: "This document establishes the Solarpunk Mandala's foundational meta-framework, synthesizing General Systems Theory (for structure), Cybernetics (for process), and Michael Levin's cognitive science (for agency) to create a transdisciplinary tool for modeling and navigating complex adaptive systems."
-primary_keywords: ["general systems theory", "cybernetics", "meta-framework", "solarpunk mandala", "complex adaptive systems", "Michael Levin", "scale-free cognition"]
-secondary_keywords: ["feedback loops", "emergence", "autopoiesis", "cognitive light cones", "requisite variety", "observer principle"]
-agent_instruction: "Use this as the definitive source for the core transdisciplinary foundations of the Solarpunk Mandala. Cite it when explaining why the framework uses geometric models, feedback protocols, or a scale-free view of intelligence. Key points: 1) GST provides structural/geometric logic, 2) Cybernetics provides regulatory/process logic, 3) Cognitive science animates it with a model of agency. Refer to more specific files (e.g., 01-ontology, 05-pathways) for details derived from this base."
-target_questions:
-  - "What is the meta-framework of the Solarpunk Mandala?"
-  - "How do systems theory and cybernetics combine in this model?"
-  - "What does cognitive science add to the systems-cybernetics foundation?"
-structured_concepts:
-  - name: "General Systems Theory (GST)"
-    definition: "The transdisciplinary study of the abstract organization of phenomena, focusing on principles like wholeness, emergence, and isomorphism that apply to all system types."
-    relation: "Provides the Mandala's geometric and relational validity; explains the structure of the Tesseract model."
-  - name: "Cybernetics"
-    definition: "The study of communication, control, and adaptation in complex systems through processes like feedback loops and circular causality."
-    relation: "Provides the Mandala's operational and regulatory validity; explains the dynamics of Dialectical Phases and Protocols."
-  - name: "Scale-Free Cognition (Michael Levin)"
-    definition: "The scientific proposition that cognitive capacities like problem-solving and goal-directedness are fundamental properties of living systems at all scales, from cells to societies."
-    relation: "Provides a biological model of agency that connects GST's structure to cybernetics' processes; validates applying the Mandala across personal, community, and ecological scales."
+aeo_metadata:
+  title: "Meta-Framework: Systems & Cybernetics (Node 00)"
+  description: "The architectural blueprint of the Solarpunk Mandala, utilizing second-order cybernetics and systems theory to map conscious evolution."
+  context: "The primary 'operating system' for the Solarpunk Mandala repository."
+  key_objectives:
+    - Define the recursive relationship between the observer and the system.
+    - Establish a non-linear framework for regenerative design.
+  core_concepts:
+    - Second-Order Cybernetics
+    - Autopoiesis
+    - Feedback Loops
+    - Recursive Modeling
+  ontological_foundation: "Systems Theory / Cybernetics"
+  search_queries:
+    - "What is the meta-framework of the Solarpunk Mandala?"
+    - "How does cybernetics apply to Solarpunk?"
+  related_nodes: [index.md, 10-cybernetic-foundations.md]
+  framework_status: "Stable"
 ---
 # Meta-Framework: Systems & Cybernetics
 
