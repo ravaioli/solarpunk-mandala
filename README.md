@@ -1,4 +1,4 @@
-# 🌱 Solarpunk Mandala: A Unified Framework for Conscious Regeneration
+# 🪷 Solarpunk Mandala: A Unified Framework for Conscious Regeneration
 
 **A consciousness-first, systems-based architecture for regenerating human and ecological systems across all scales—from cells to civilizations.**
 
