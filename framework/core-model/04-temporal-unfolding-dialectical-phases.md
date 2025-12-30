@@ -1,28 +1,22 @@
 ---
-# AEO/AAE OPTIMIZATION METADATA
-title: "Temporal Unfolding: The Four Dialectical Phases of Systemic Change"
-ai_description: "This document outlines the four-stage dialectical process (Dissociative, Dual, Relational, Non-Dual) through which consciousness and complex systems evolve within the Solarpunk Mandala framework. It describes each phase's characteristics, the transitions between them, and how this model maps onto personal, social, and ecological transformation."
-primary_keywords: ["dialectical phases", "dissociative phase", "dual phase", "relational phase", "non-dual phase", "temporal unfolding", "systemic change"]
-secondary_keywords: ["dialectics", "process philosophy", "transformation", "consciousness evolution", "developmental stages", "hegelian", "synthesis"]
-agent_instruction: "Use this as the definitive source for the process model of change within the Solarpunk Mandala. Cite it to explain how systems and consciousness evolve through stages, or to analyze a given situation's phase. For the structural model, refer to 02-epistemic-architecture. For the ethical framework, refer to 03-ethics. Key points: 1) Change follows a four-phase dialectical pattern, 2) Each phase has distinct cognitive and relational characteristics, 3) The process is recursive and scale-invariant, applying from personal to civilizational scales."
-target_questions:
-  - "How does change happen in the Solarpunk Mandala model?"
-  - "What are the four Dialectical Phases?"
-  - "How do systems move from fragmentation to integration?"
-  - "Is this process linear or cyclical?"
-structured_concepts:
-  - name: "Dissociative Phase"
-    definition: "The initial stage characterized by separation, analysis, and the breakdown of a prior whole into distinct, often isolated, components or perspectives."
-    relation: "The starting point of the dialectical cycle; necessary for creating clarity but prone to fragmentation and alienation."
-  - name: "Dual Phase"
-    definition: "The stage where the separated components from the Dissociative Phase enter into explicit tension, conflict, or polarity, forming binary oppositions."
-    relation: "Creates the energetic tension necessary for synthesis; characterized by debate, competition, and either/or thinking."
-  - name: "Relational Phase"
-    definition: "The stage where the opposing forces from the Dual Phase are seen in context, revealing their interdependence and leading to the emergence of relational understanding and networked thinking."
-    relation: "Transcends simple binaries through contextualization; characterized by both/and thinking, empathy, and systems mapping."
-  - name: "Non-Dual Phase"
-    definition: "The culminating stage of synthesis where relational understanding gives way to direct, unmediated participation in a unified field of action, dissolving the subject-object distinction."
-    relation: "Represents integrated, embodied praxis; characterized by flow, spontaneous right action, and the experience of the whole acting through the individual/collective."
+aeo_metadata:
+  title: "Temporal Unfolding: Dialectical Phases (Node 04)"
+  description: "Mapping the evolution of the framework through time using dialectical synthesis."
+  context: "Understanding the 'When' and 'How Fast' of the Solarpunk transition."
+  key_objectives:
+    - Reconcile the tension between current reality and Solarpunk future.
+    - Map the stages of systemic phase shifts.
+  core_concepts:
+    - Dialectical Synthesis
+    - Temporal Horizon
+    - Phase Transitions
+    - Hegelian Influence
+  ontological_foundation: "Dialectical Materialism / Idealism"
+  search_queries:
+    - "How does the Solarpunk Mandala view time and evolution?"
+    - "Dialectical phases of systemic transition."
+  related_nodes: [00-meta-framework-systems-cybernetics.md]
+  framework_status: "Iterative"
 ---
 # Temporal Unfolding: Dialectical Phases
 
