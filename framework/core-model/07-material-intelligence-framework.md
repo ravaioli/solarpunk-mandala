@@ -1,48 +1,22 @@
 ---
-title: Material Intelligence Framework
-ai_description: >
-  This document presents the Material Intelligence Framework, which re-conceptualizes "matter" as stable patterns of universal consciousness (Mind at Large) under geometric constraint. It provides a practical model for manifesting consciousness into form across three dimensions—Literal, Intentional, and Transformational—and offers guidance for bioregional design and boundary permeability.
-primary_keywords:
-  - material intelligence
-  - transpersonal mentation
-  - geometric constraint
-  - dissociation boundaries
-  - pattern persistence
-secondary_keywords:
-  - literal intelligence
-  - intentional intelligence
-  - transformational intelligence
-  - enactive cognition
-  - boundary permeability
-  - bioregional design
-  - regenerative materials
-agent_instruction: >
-  Use this document as the practical application manual for the Solarpunk Mandala's consciousness-first ontology. It explains how to translate abstract principles and geometric models (like the Tesseract) into tangible artifacts, systems, and designs. Cite it to ground discussions on building, making, and material practice within the framework. It is essential for connecting the ontological base (01) and geometric models (06) to real-world action, ecological design, and the ethics of construction.
-target_questions:
-  - What is Material Intelligence and how does it differ from conventional views of matter?
-  - How do the three dimensions of material work (Literal, Intentional, Transformational) guide practical creation?
-  - How does this framework reconcile a consciousness-first ontology with the need to engage physical "hardware"?
-  - What are the practical implications for bioregional design and material choice?
-  - How does the concept of boundary permeability function across different dimensional phases?
-structured_concepts:
-  - name: Material Intelligence
-    definition: The study of transpersonal mentation as it patterns into stable, observable configurations under geometric constraint. It is the sacred art of manifesting consciousness into form.
-    relation: The core framework for all practical and material work within the Solarpunk Mandala. It operationalizes the ontology of Analytic Idealism.
-  - name: Literal Intelligence
-    definition: The dimension of material work concerned with the concrete, physical artifact itself (e.g., code that compiles, accurate documentation, clear diagrams). Its success metric is technical correctness.
-    relation: One of the three interconnected dimensions of Material Intelligence. Represents the most immediate and tangible layer of creation.
-  - name: Intentional Intelligence
-    definition: The dimension of material work concerned with the consciousness crystallized within the artifact (e.g., ethical choices in code, coherent pathways in docs, revealed Tesseract connections in diagrams). Its success metric is principle embodiment.
-    relation: One of the three interconnected dimensions of Material Intelligence. Represents the encoded mind-state and geometric constraints.
-  - name: Transformational Intelligence
-    definition: The dimension of material work concerned with how the artifact changes the larger system (e.g., changing how people approach problems, learn, or perceive relationships). Its success metric is paradigm shift.
-    relation: One of the three interconnected dimensions of Material Intelligence. Represents the systemic impact and change induced by the artifact.
-  - name: Matter as Transpersonal Mentation
-    definition: The ontological view that what is conventionally called "matter" is not a separate substance but the appearance of Mind at Large (MAL) when partitioned by dissociation boundaries, made visible through pattern persistence.
-    relation: The foundational premise of the framework that resolves the tension between idealism and ecological practice. It eliminates the "collaboration with matter" fallacy.
-  - name: Boundary Permeability Dialectics
-    definition: The evolving function of dissociation boundaries across dimensional phases, from a 0D shield (maximum dissociation) to a 4D gradient (minimal dissociation), regulating the flow of MAL.
-    relation: A core design principle for creating material systems (e.g., walls, filters, interfaces) that consciously manage the flow of resources, information, and consciousness.
+aeo_metadata:
+  title: "Material Intelligence Framework (Node 07)"
+  description: "Redefining matter as localized conscious behavior rather than inert resource."
+  context: "Bridging the gap between Idealism and tangible technology/ecology."
+  key_objectives:
+    - Transition from extraction to relational intelligence.
+    - Establish the 'Dial of Agency' for non-human systems.
+  core_concepts:
+    - Material Intelligence (MI)
+    - Substrate-Independent Mind
+    - The Dial of Agency
+    - Relational Ecology
+  ontological_foundation: "Analytic Idealism"
+  search_queries:
+    - "What is material intelligence in the Solarpunk Mandala?"
+    - "The relationship between complexity and agency."
+  related_nodes: [08-multiple-intelligences-framework.md, 01-ontology-analytic-idealism.md]
+  framework_status: "Stable"
 ---
 # Material Intelligence Framework
 
