@@ -133,6 +133,8 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
     **Purpose:** Provides the operational principles of regulation, feedback, and adaptation for conscious systems, explaining how the Mandala functions as a participatory control system.  
     **🔄 In Practice:** Learn to design feedback loops that respect Threshold Principles.
 
+---
+### Machine Readable Metadata
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
