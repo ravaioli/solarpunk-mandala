@@ -127,7 +127,7 @@ The Tesseract's 8 cubic cells correspond 1:1 to the 8 Intelligences. This is not
 
 | Tesseract Cell | Geometric Signature | Intelligence (from Doc 08) | Dissociation Function |
 |----------------|---------------------|---------------------------|------------------------|
-| **Cell Ø (Seed)** | Internal × Individual × Static | **Intrapersonal** | Self-reflection within bounded alter |
+| **Cell ॐ (Seed)** | Internal × Individual × Static | **Intrapersonal** | Self-reflection within bounded alter |
 | **Cell 1 (Grid)** | Internal × Individual × Dynamic | **Bodily-Kinesthetic** | Movement intelligence within alter |
 | **Cell 2 (Web)** | Internal × Collective × Static | **Interpersonal** | Empathy across dissociation boundaries |
 | **Cell 3 (Spire)** | Internal × Collective × Dynamic | **Existential-Spiritual** | Transcendence of boundary constraints |
