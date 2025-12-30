@@ -132,3 +132,31 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
     *📄 Read time: 15 min*  
     **Purpose:** Provides the operational principles of regulation, feedback, and adaptation for conscious systems, explaining how the Mandala functions as a participatory control system.  
     **🔄 In Practice:** Learn to design feedback loops that respect Threshold Principles.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWorkSeries",
+  "name": "Solarpunk Mandala Core Model",
+  "description": "A unified framework for conscious regeneration, bridging Analytic Idealism, systems cybernetics, and solarpunk ethics.",
+  "author": {
+    "@type": "Organization",
+    "name": "Solarpunk Mandala Project"
+  },
+  "keywords": "Analytic Idealism, Solarpunk, Systems Theory, Cybernetics, Conscious Agency, Tesseract Epistemology",
+  "hasPart": [
+    {"@type": "CreativeWork", "name": "Meta-Framework", "url": "00-meta-framework-systems-cybernetics.md"},
+    {"@type": "CreativeWork", "name": "Ontology", "url": "01-ontology-analytic-idealism.md"},
+    {"@type": "CreativeWork", "name": "Epistemic Architecture", "url": "02-epistemic-architecture-tesseract.md"},
+    {"@type": "CreativeWork", "name": "Ethics & Agency", "url": "03-ethics-four-axes.md"},
+    {"@type": "CreativeWork", "name": "Temporal Unfolding", "url": "04-temporal-unfolding-dialectical-phases.md"},
+    {"@type": "CreativeWork", "name": "Mandala Axis", "url": "05-mandala-axis-four-pathways.md"},
+    {"@type": "CreativeWork", "name": "Geometric Unpacking", "url": "06-geometric-unpacking-tesseract.md"},
+    {"@type": "CreativeWork", "name": "Material Intelligence", "url": "07-material-intelligence-framework.md"},
+    {"@type": "CreativeWork", "name": "Multiple Intelligences", "url": "08-multiple-intelligences-framework.md"},
+    {"@type": "CreativeWork", "name": "Compatible Frameworks", "url": "09-compatible-frameworks-matrix.md"},
+    {"@type": "CreativeWork", "name": "Cybernetic Foundations", "url": "10-cybernetic-foundations.md"}
+  ],
+  "license": "https://opensource.org/licenses/MIT"
+}
+</script>
