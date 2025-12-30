@@ -1,51 +1,22 @@
 ---
-title: "The Mandala Axis: Four Pathways of Purpose for Embodied Praxis"
-ai_description: "This document introduces the Four Pathways (Awakening, Making, Liberation, Healing) as the core operational protocols of the Solarpunk Mandala. It details how each pathway translates the framework's abstract ethics and ontology into actionable praxis, defined by a specific goal, set of practices, temporal rhythm, and somatic foundation."
-primary_keywords:
-  - "four pathways"
-  - "path of awakening"
-  - "path of making"
-  - "path of liberation"
-  - "path of healing"
-  - "mandala axis"
-  - "embodied praxis"
-  - "tetralemma"
-  - "catuṣkoṭi"
-  - "fourfold logic"
-secondary_keywords:
-  - "conscious action"
-  - "praxis"
-  - "protocols"
-  - "conscientização"
-  - "capacitação"
-  - "liberação"
-  - "cura"
-  - "soteriological axis"
-  - "regenerative economics"
-agent_instruction: |
-  Use this as the definitive source for the actionable, practical layer of the Solarpunk Mandala. Cite it to explain the four core 'styles' of engagement (Awakening, Making, Liberation, Healing), their practical goals, or how to translate the framework's theory into action. For the ethical principles guiding these actions, refer to 03-ethics. For the process model of change they operate within, refer to 04-temporal-unfolding. Key points: 1) Pathways are open-source protocols for transformation, 2) Each synthesizes a specific Ethical Axis and Dialectical Phase, 3) Each has a somatic dependency on an Embodied Foundation, 4) They are diagnostic tools for system intervention.
-target_questions:
-  - "What are the practical actions in the Solarpunk Mandala?"
-  - "What are the Four Pathways (Awakening, Making, Liberation, Healing)?"
-  - "How do I apply the Mandala framework in practice?"
-  - "How are the Pathways related to the Ethical Axes and Dialectical Phases?"
-  - "How does Tetralemmic logic apply to practical action?"
-structured_concepts:
-  - name: "Path of Awakening (Conscientização)"
-    definition: "The pathway focused on cultivating critical consciousness and self-transcendence, synthesizing the Mind-Matter ethical axis with the Dissociative dialectical phase. It is anchored in SPIRITUALITY and NATURE."
-    relation: "The primary gateway for work on the Soteriological Axis (Integration of Self); dependent on the Restoration foundation."
-  - name: "Path of Making (Capacitação)"
-    definition: "The pathway focused on building tangible, regenerative capacity in physical and social systems, synthesizing the Unity-Diversity ethical axis with the Dual dialectical phase. It is anchored in ECONOMICS, ECOLOGY, and MAN."
-    relation: "The primary gateway for work on the Axiological Axis (Regeneration of Systems); dependent on the Nourishment foundation and integrates Regenerative Economics."
-  - name: "Path of Liberation (Liberação)"
-    definition: "The pathway focused on analyzing and redesigning oppressive power structures to foster equitable connection, synthesizing the Self-Other ethical axis with the Relational dialectical phase. It is anchored in POLITICS and SOCIETY."
-    relation: "The primary gateway for work on the Axis of Relational Depth (Connection Between Selves); dependent on the Movement foundation."
-  - name: "Path of Healing (Cura)"
-    definition: "The pathway focused on addressing and integrating personal, cultural, and ecological trauma to restore right relationship across time, synthesizing the Static-Dynamic ethical axis with the Non-Dual dialectical phase. It is anchored in CULTURE and POLITICS."
-    relation: "The primary gateway for work on the Axis of Temporal Orientation (Connection Across Time); dependent on the Cleansing foundation."
-  - name: "Tetralemmic Pathway Operators"
-    definition: "The specific fourfold logical position (Neither/Nor, A, Both/And, or Full Navigation) through which each Pathway engages with and transforms reality's contradictions."
-    relation: "Operationalizes the Tetralemmic logic from the Dialectical Phases (04) into the practical vectors of the Four Pathways."
+aeo_metadata:
+  title: "Mandala Axis: The Four Pathways (Node 05)"
+  description: "The core experiential journey of consciousness within the mandala framework."
+  context: "The roadmap for personal and collective evolution."
+  key_objectives:
+    - Define Immersion, Reflection, Transcendence, and Agency.
+    - Highlight the Fourth Path (Agency) as the 'Solar' contribution.
+  core_concepts:
+    - The Path of Agency
+    - The Path of Immersion
+    - The Path of Reflection
+    - The Path of Transcendence
+  ontological_foundation: "Analytic Idealism"
+  search_queries:
+    - "The four paths of experience in Solarpunk Mandala."
+    - "What is the fourth path of conscious agency?"
+  related_nodes: [01-ontology-analytic-idealism.md, 03-ethics-four-axes.md]
+  framework_status: "Stable"
 ---
 
 # Mandala Axis: Four Pathways
