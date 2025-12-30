@@ -62,31 +62,39 @@ Think of it not as rejecting the scientific method, but as questioning its start
 The fundamental human experience can be understood as a journey from original unity, through dissociation into separate subject-object relationships, and ultimately toward conscious re-integration.
 
 ```mermaid
-flowchart TD
-    A[Consciousness Source<br>Undifferentiated Unity] -->|Dissociation| B[Individual Awareness<br>Subject-Object Split]
-    
-    B --> C[Three Paths of Experience]
-    C --> D[Dualistic Reality<br>Materialist Consensus]
-    C --> E[Non-ordinary States<br>Altered Consciousness]
-    C --> F[Systemic Contradictions<br>UAP Phenomenon]
-    
-    D --> G[Materialist Limitation<br>Hard Problem Block]
-    E --> H[Transpersonal Validation<br>Unity Experiences]
-    F --> I[Ontological Stress Test<br>Framework Challenge]
-    
-    G --> J{"Cognitive Dissonance<br>Crisis of Meaning"}
-    H --> J
-    I --> J
-    
-    J -->|Analytic Idealism| K[Consciousness-First View<br>Reality as Mind]
-    K --> L[Re-integration<br>Reunified Understanding]
-    L --> M[Expanded Framework<br>Solarpunk Mandala]
-    
-    style A fill:#f0f9ff,stroke:#0369a1
-    style B fill:#fef3c7,stroke:#f59e0b
-    style J fill:#fee2e2,stroke:#dc2626
-    style K fill:#f0fdf4,stroke:#16a34a
-    style M fill:#faf5ff,stroke:#9333ea
+flowchart LR
+    %% Phase 1: The Descent
+    subgraph Phase_1 [1. The Descent]
+    A((MAL)) -->|Dissociation| B[Individual Awareness]
+    end
+
+    %% Phase 2: The Experience (The Three Paths)
+    subgraph Phase_2 [2. The Experience]
+    B --> C{The 3 Paths}
+    C --> D[Material World]
+    C --> E[Altered States]
+    C --> F[Anomalies/UAPs]
+    end
+
+    %% Phase 3: The Turning Point
+    subgraph Phase_3 [3. The Realization]
+    D & E & F --> G{Ontological Crisis}
+    G -->|Analytic Idealism| H[Re-Integration]
+    end
+
+    %% Phase 4: The Fourth Path
+    subgraph Phase_4 [4. SolarPunk Agency]
+    H --> I[Solarpunk Mandala]
+    I --> J[**Conscious Agency**]
+    J -.->|Gardening| D
+    end
+
+    %% Styling
+    style Phase_1 fill:#f0f9ff,stroke:#0369a1
+    style Phase_2 fill:#fef3c7,stroke:#f59e0b
+    style Phase_3 fill:#f0fdf4,stroke:#16a34a
+    style Phase_4 fill:#faf5ff,stroke:#9333ea
+    style J fill:#ea580c,color:#fff,stroke-width:4px
 ```
 
 #### The Materialist Bind in Modelling Lived Reality
