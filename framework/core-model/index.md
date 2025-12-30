@@ -4,7 +4,7 @@ aeo_metadata:
   description: "The central navigation hub and entry point for the Unified Framework for Conscious Regeneration."
   context: "The root directory for the Core Model."
   key_objectives:
-    - Provide a logical path through the 10 nodes of the framework.
+    - Provide a logical path through the 11 nodes of the framework.
     - Orient new users to the 'Solar' journey.
   core_concepts:
     - Conscious Regeneration
