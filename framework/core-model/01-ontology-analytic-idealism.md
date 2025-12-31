@@ -178,6 +178,18 @@ For the **SolarPunk Mandala**, this ontological starting point is a design featu
 
 You don't have to accept this ontology to contribute, but understanding it is key to understanding the architecture of the mandala model. Think of it as our **core philosophical API**. All other modules—agency, systems, values—are built to be compatible with this base layer.
 
+#### Empirical Panpsychism (Koch-Tononi Convergence)
+
+Analytic Idealism posits consciousness as primary. IIT provides the **intrinsic property** that makes this tenable:
+
+- **Axiom 1 (Koch)**: Consciousness is a fundamental property of any system with cause-effect power upon itself (Φ > 0)
+- **Axiom 2 (Kastrup)**: Matter is the extrinsic appearance of inner experience
+- **Synthesis**: Φ quantifies the *degree of dissociation* from Mind at Large
+
+**Citation**: Koch, C. (2019). *The Feeling of Life Itself*. MIT Press. 
+- Page 142: "Cerebellum has 69 billion neurons but Φ≈0 because feed-forward architecture lacks causal autonomy"
+- This **validates** the Tesseract's distinction between biological complexity and conscious capacity
+
 ```mermaid
 timeline
     title Consciousness Evolution: From Materialism to Conscious Design
@@ -207,7 +219,7 @@ timeline
         Collective Wisdom : Expanded cognition
 ```
 
-### Enactive Realization: How Consciousness Brings Forth Worlds
+#### Enactive Realization: How Consciousness Brings Forth Worlds
 
 While Analytic Idealism establishes consciousness as fundamental, Enactivism provides the *how*: consciousness is not a passive observer but an active participant that **brings forth** worlds through structural coupling and sense-making.
 
