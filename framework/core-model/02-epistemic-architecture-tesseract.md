@@ -161,23 +161,24 @@ The Tesseract's 8 cubic cells correspond 1:1 to the 8 Intelligences. This is not
 
 8. **Naturalist-Ecological ↔ Cell 7**: "Rhythm" is the temporal intelligence of transpersonal patterns in their material configuration.
 
-## Neurophysiological Validation: Neural Correlates Mapping
+## Neurophysiological Validation with Perceptual Markers
 
-The Tesseract architecture is not merely a conceptual model—it is empirically constrained by documented neural correlates of consciousness (NCC). Each cube corresponds to anatomically and functionally distinct neural circuits that have been identified through decades of neuroimaging, lesion studies, and electrophysiological research (Koch et al., 2016; Northoff et al., 2006). This mapping provides falsifiable predictions for the framework's dimensional structure.
+Each Tesseract cube is validated not only by neural correlates, but by **predictable, dissociable changes in conscious perception**. Neural activity that does not produce the expected experiential alteration is insufficient to support a cube mapping.
 
-**Mapping Principle**: A cube's assignment is valid only if its assigned circuit (1) performs the cube's dimensional function, (2) can be doubly-dissociated from other cubes' circuits, and (3) exhibits connectivity patterns matching the Tesseract's 24 faces.
+| Cube | Primary Neural Correlates (NCCs) | Dominant Perceptual Markers | Disruption Signature | Falsification Condition |
+|-----|----------------------------------|-----------------------------|----------------------|-------------------------|
+| **ॐ Core (Embodied Foundations)** | Brainstem, vagal networks, hypothalamus | Baseline bodily coherence, safety, affective stability | Autonomic dysregulation, perceptual chaos | Stable experience despite core dysregulation |
+| **UR (Exterior–Individual)** | Posterior hot zone (occipital–parietal) | Stable sensory objects, spatial coherence, body/world boundary | Fragmented perception, hallucinations, derealization | Intact object perception under posterior disruption |
+| **UL (Interior–Individual)** | CMS, insula, ACC | Felt meaning, emotional tone, self-presence | Emotional flattening, depersonalization | Normal subjective valence despite CMS impairment |
+| **LL (Interior–Collective)** | IFG, IPL, mirror neuron systems | Empathy, social attunement, shared meaning | Social blindness, loss of resonance | Preserved social understanding despite mirror disruption |
+| **LR (Exterior–Collective)** | dlPFC, executive networks | Rule-based cognition, institutional perception | Disorganized systems thinking | Intact systemic reasoning under executive disruption |
+| **Cube 5 (Dissociation Boundary)** | Claustrum, salience network | Pain, threat, perceptual prioritization | Hypervigilance or numbing | Normal salience gating under perturbation |
+| **Cube 6 (Intersubjective Gateway)** | TPJ, striatum | Synchrony, “mine → ours” transitions | Social desynchronization | Collective attunement preserved despite TPJ impairment |
+| **Cube 7 (Emergence / Scale)** | Hippocampal–entorhinal system | Temporal depth, scale navigation | Present-lock, loss of future sense | Long-horizon orientation intact |
+| **Cube 8 (Meta-Perspective)** | ACC, frontoparietal meta-control | Perceptual decentering, awareness of awareness | Cognitive fixation | Meta-awareness intact under ACC disruption |
 
-| Cube | Dimension | Primary Neural Correlate | Established Function | Key Studies |
-|------|-----------|-------------------------|---------------------|-------------|
-| **ॐ** | Core: Dissociative Boundary of MAL | Thalamocortical Loop (Intralaminar nuclei + Layer 5p pyramidal neurons) | Causal integration bottleneck coupling state and content of consciousness | Kozma et al. (2019) [^25^] |
-| **UR** | 3rd-person exterior, individual | Posterior Cortical Hot Zone (Parietal-Occipital-Temporal association cortex) | Sensory binding and minimal mechanisms for any conscious percept | Koch et al. (2016) [^27^] |
-| **UL** | 1st-person interior | Cortical Midline Structures (ACC, vmPFC, PCC, Precuneus) | Self-referential processing and subjective experience generation | Northoff et al. (2006) [^29^] |
-| **LL** | 2nd-person interior | Mirror Neuron System (IFG, IPL) + Hyperscanning inter-brain networks | Direct intersubjective mapping and live social contingency | Ferrari et al. (2012) [^26^] |
-| **LR** | 3rd-person exterior, collective | Fronto-Parietal Control Network (dlPFC, FEF, IPS) | Task monitoring, rule-based sequencing, institutional regulation | Koch (2024) [^28^] |
-| **5** | Dissociation Boundary | Claustrum + Anterior Insula | Salience gateway and inter-cube integration hub | Crick & Koch (2005) |
-| **6** | Intersubjective Gateway | Ventral Striatum (social reward) + TPJ | "Mine→Ours" transition and perspective-shifting | — |
-| **7** | Systemic Emergence | Entorhinal-Hippocampal Grid-Place System | Abstract state space navigation and scale transition | — |
-| **8** | Meta-Perspective | Anterior Cingulate Cortex (conflict monitoring) | Non-perspectival conflict detection between cubes | — |
+**Validation Criterion:**  
+A cube is considered empirically supported only if **neural, perceptual, and functional markers converge**.
 
 ### Falsification Tests for Mapping Validity
 
