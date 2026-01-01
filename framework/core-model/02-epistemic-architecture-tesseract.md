@@ -258,6 +258,21 @@ Neural correlates alone are insufficient to validate an epistemic architecture u
 
 A cube mapping is considered *invalid* if neural disruption does not produce the corresponding perceptual change.
 
+```mermaid
+flowchart TD
+    Cube["Tesseract Cube"]
+    Neural["Neural Correlates<br/>(NCCs)"]
+    Perceptual["Perceptual Markers<br/>(Lived Experience)"]
+    Functional["Functional Outcomes<br/>(Behavior / Systems)"]
+
+    Cube --> Neural
+    Neural --> Perceptual
+    Perceptual --> Functional
+    Functional --> Cube
+
+    Perceptual -.->|"Mismatch"| Fail["Falsification"]
+```
+
 #### Perceptual Predictions by Cube (Testable)
 
 | Cube | Neural Perturbation | Required Perceptual Effect | Falsification Condition |
