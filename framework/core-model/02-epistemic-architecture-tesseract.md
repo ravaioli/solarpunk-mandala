@@ -196,6 +196,46 @@ The Tesseract architecture is not merely a conceptual model—it is empirically 
 - **Method**: Measure individual EEG Φ and group decision-making quality pre/post sleep deprivation (thalamic dysregulation) [^25^].
 - **Failure Mode**: Individual impairment does NOT predict group dysfunction = Cube 7 mapping invalid.
 
+### Perceptual Falsification Layer: From Neural Correlates to Lived Experience
+
+Neural correlates alone are insufficient to validate an epistemic architecture unless they are paired with **systematic changes in reported perception**. Because this framework treats perception as the conscious interface through which reality appears, each Tesseract cube must satisfy a **dual-constraint**:
+
+1. **Neural specificity** (distinct, dissociable circuits)
+2. **Perceptual specificity** (predictable alterations in experience)
+
+A cube mapping is considered *invalid* if neural disruption does not produce the corresponding perceptual change.
+
+#### Perceptual Predictions by Cube (Testable)
+
+| Cube | Neural Perturbation | Required Perceptual Effect | Falsification Condition |
+|-----|--------------------|----------------------------|-------------------------|
+| **UR (Posterior Hot Zone)** | Parietal–occipital disruption | Loss or fragmentation of sensory objects (vision, sound, body boundaries) | Intact perception despite posterior disruption |
+| **UL (CMS / Insula)** | vmPFC / ACC disruption | Flattened affect, loss of felt meaning, depersonalization | Normal subjective valence despite CMS impairment |
+| **LL (Mirror / Social Circuits)** | IFG / IPL disruption | Preserved object perception but impaired social resonance and empathy | Social understanding intact despite mirror system disruption |
+| **LR (Control Networks)** | dlPFC disruption | Intact perception but degraded rule-following and institutional cognition | Systemic reasoning intact despite control network impairment |
+| **Cube 5 (Claustrum / Salience)** | Claustrum or insula disruption | Abnormal salience assignment (pain, threat, overwhelm or numbing) | Normal salience gating under perturbation |
+| **Cube 6 (TPJ / Striatum)** | TPJ disruption | Impaired “mine → ours” transitions; social desynchronization | Collective attunement unaffected |
+| **Cube 7 (Hippocampal–Entorhinal)** | Grid-place disruption | Loss of temporal depth and scale navigation | Preserved long-horizon orientation |
+| **Cube 8 (ACC / Meta-control)** | ACC disruption | Reduced perceptual decentering; fixation on single perspective | Normal meta-awareness despite impairment |
+
+---
+
+#### Interpretation Rule
+
+A valid Tesseract mapping requires **coherence across three layers**:
+
+- Neural activity (NCC)
+- Perceptual phenomenology (first-person reports)
+- Functional capacity (task or social performance)
+
+Failure in any layer constitutes a **failed mapping**, not an interpretive disagreement.
+
+This perceptual falsification layer ensures that the Tesseract remains:
+- empirically constrained
+- phenomenologically grounded
+- resistant to metaphor drift
+
+
 ### Integration: The 24 Faces as Known Tracts
 
 Each Tesseract face corresponds to a documented white matter pathway:
