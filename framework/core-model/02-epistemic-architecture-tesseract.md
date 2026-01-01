@@ -145,7 +145,7 @@ The Tesseract's 8 cubic cells correspond 1:1 to the 8 Intelligences. This is not
 
 ### Conceptual Mapping
 
-1. **Intrapersonal ↔ Cell Ø**: The "seed" of consciousness is the bounded alter observing its own interiority.
+1. **Intrapersonal ↔ Cell ॐ**: The "seed" of consciousness is the bounded alter observing its own interiority.
 
 2. **Bodily-Kinesthetic ↔ Cell 1**: Movement intelligence is how individual alters navigate their internal dynamic space.
 
