@@ -1,22 +1,100 @@
 ---
 aeo_metadata:
   title: "Ontology: Analytic Idealism (Node 01)"
-  description: "The metaphysical foundation of the framework, positing that reality is fundamentally mental and transpersonal."
-  context: "Defining the 'Nature of Reality' that supports all other nodes."
+  description: >
+    A consciousness-first ontological foundation in which reality is understood
+    as structured experience, with the physical world emerging as a perceptual
+    interface across dissociative boundaries.
+  context: >
+    Establishes what is fundamentally real within the Solarpunk Mandala:
+    consciousness as primary, perception as interface, and matter as appearance.
   key_objectives:
-    - Move beyond physicalist/materialist limitations.
-    - Define the relationship between 'Mind-at-Large' and individual dissociation.
+    - Define consciousness as ontologically fundamental.
+    - Explain physical reality as a multimodal perceptual interface.
+    - Account for individuality via dissociation within Mind-at-Large.
+    - Ground ethics and regeneration in lived experience rather than abstraction.
   core_concepts:
+    - Analytic Idealism
+    - Consciousness-First Ontology
     - Mind-at-Large
-    - Dissociative Alters
-    - The Screen of Perception
-    - Four Paths of Experience
-  ontological_foundation: "Analytic Idealism (Bernardo Kastrup)"
+    - Dissociation
+    - Screen of Perception
+    - Perceptual Interface
+    - Regeneration vs Extraction
+  ontological_commitments:
+    - Consciousness is fundamental; matter is derivative.
+    - Perception is an interface, not a representation of objective reality.
+    - Individual minds are dissociated segments of a unified conscious field.
+    - Causation is experiential at its base, not material.
+  perceptual_framework:
+    description: >
+      Perception is the structured set of experiential modalities through which
+      conscious dynamics appear as a world.
+    modalities:
+      - vision
+      - audition
+      - touch
+      - olfaction
+      - gustation
+      - interoception
+      - proprioception
+      - thermoception
+      - nociception
+      - affective_valence
+    functional_role:
+      - enables adaptive action
+      - constrains access to Mind-at-Large
+      - grounds meaning, value, and agency
+  dissociation_model:
+    description: >
+      Dissociation explains the emergence of individual perspectives by limiting
+      perceptual bandwidth within consciousness.
+    perceptual_effects:
+      - salience gating
+      - boundary formation
+      - identity stabilization
+    modulation_examples:
+      - trauma
+      - meditation
+      - psychedelics
+      - ritual
+  ethical_implications:
+    description: >
+      Ethics arises from the modulation of experience. Harm and flourishing are
+      defined perceptually, not abstractly.
+    guiding_principle: >
+      Systems that systematically narrow perceptual access produce suffering;
+      systems that restore perceptual coherence enable regeneration.
+  perceptual_regeneration:
+    definition: >
+      The restoration of healthy perceptual bandwidth, salience balance, and
+      intersubjective attunement within conscious systems.
+    relevance:
+      - individual well-being
+      - collective coherence
+      - ecological attunement
+  theoretical_references:
+    - name: "Analytic Idealism"
+      author: "Bernardo Kastrup"
+      relevance: >
+        Provides the metaphysical framework for treating consciousness as
+        ontologically primary.
+    - name: "Interface Theory of Perception"
+      author: "Donald D. Hoffman"
+      relevance: >
+        Offers convergent empirical support for treating perception as an adaptive
+        interface rather than a veridical depiction of reality.
+      usage_note: >
+        Referenced as supportive evidence, not as a complete ontology.
   search_queries:
-    - "Relationship between Analytic Idealism and Solarpunk."
-    - "How does the Solarpunk Mandala define consciousness?"
-  related_nodes: [05-mandala-axis-four-pathways.md, 07-material-intelligence-framework.md]
-  framework_status: "Core"
+    - "Analytic idealism consciousness ontology"
+    - "perception as interface philosophy neuroscience"
+    - "dissociation consciousness theory"
+    - "ontology of experience regeneration"
+  related_nodes:
+    - 02-epistemic-architecture-tesseract.md
+    - 05-dissociation-boundary-medicine.md
+    - 07-ethics-regeneration-extraction.md
 ---
 
 # Ontological Ground: Analytic Idealism
