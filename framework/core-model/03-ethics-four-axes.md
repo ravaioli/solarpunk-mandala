@@ -213,6 +213,20 @@ The Pathway of **Making (Capacitação)**—developing the skill to build—find
 
 No pathway or protocol can be fully activated when any of the four embodied foundations (**Restoration, Nourishment, Movement, Cleansing**) scores below 2 on a 1-5 scale. This is a non-negotiable systems law. Attempting higher-dimensional ethical work (e.g., deep reconciliation or regenerative design) on unstable foundations leads to **ethical and systemic bypassing**—where lofty goals are co-opted by unaddressed contraction, causing collapse or harm.
 
+```mermaid
+flowchart LR
+    Extractive["Extractive Systems"]
+    Regenerative["Regenerative Systems"]
+
+    Extractive -->|"Narrowing"| P1["Perceptual Bandwidth"]
+    Extractive -->|"Distortion"| P2["Salience"]
+    Extractive -->|"Collapse"| P3["Future Sense"]
+
+    Regenerative -->|"Expansion"| R1["Perceptual Bandwidth"]
+    Regenerative -->|"Proportionality"| R2["Salience"]
+    Regenerative -->|"Depth"| R3["Temporal Horizon"]
+```
+
 ### Embodied Foundations: Operational Protocol & Assessment
 
 #### Foundation Scores: Observable Indicators
