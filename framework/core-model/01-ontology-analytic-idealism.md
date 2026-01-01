@@ -51,6 +51,83 @@ So why does this project deliberately start from a different ontological foundat
 
 Think of it not as rejecting the scientific method, but as questioning its starting assumptions. It's a **paradigm-level choice**, similar to choosing a programming language or a foundational database schema for a complex system. The choice of base ontology determines what you can easily describe, what problems become salient, and where you might hit logical dead ends.
 
+## 🧠 The Perceptual Interface: How Mind-at-Large Appears as a World
+
+If reality is fundamentally conscious experience, then **perception is not a passive mirror of an external world**, but an *active interface* through which Mind-at-Large (MAL) appears to itself across dissociative boundaries.
+
+From the standpoint of Analytic Idealism, perception is the **grammar of appearance** — the structured set of experiential modalities through which conscious activity becomes legible as “a world.”
+
+### Perception as Interface, Not Representation
+
+This framework aligns closely with **Donald Hoffman’s Interface Theory of Perception**, which demonstrates (both mathematically and evolutionarily) that perceptual systems do not evolve to show reality as it is, but to present **fitness-relevant symbols** that guide adaptive action.
+
+> *Perception is more like a desktop interface than a window onto objective truth.*  
+> — Donald Hoffman
+
+In this view:
+- Space, time, objects, and bodies are **icons**, not fundamental entities
+- Perceptual experiences are **species-specific user interfaces**
+- What we call “physical reality” is a **compressed, actionable appearance** of deeper conscious dynamics
+
+Analytic Idealism extends this insight ontologically:  
+**the interface is not hiding a material world — it is how consciousness looks across dissociation.**
+
+---
+
+### The Core Perceptual Modalities (Experiential Primitives)
+
+The “multimodal appearance” of reality arises through a finite set of **primary perceptual modalities**. These are not secondary byproducts of matter, but **first-order modes of conscious experience** within localized alters.
+
+**Exteroceptive Modalities (World-Oriented)**
+- **Vision** (light, color, motion, depth)
+- **Audition** (sound, rhythm, spatial direction)
+- **Olfaction** (chemical pattern recognition)
+- **Gustation** (nutritional valuation)
+- **Tactile Touch** (pressure, vibration, texture)
+
+**Interoceptive & Embodied Modalities (Self-Oriented)**
+- **Interoception** (heartbeat, breath, hunger, nausea)
+- **Thermoception** (hot / cold)
+- **Nociception** (pain, threat, tissue risk)
+- **Proprioception** (body position and movement)
+- **Affective Valence** (pleasant / unpleasant)
+
+These modalities together constitute the **Screen of Perception** — the experiential boundary surface through which MAL’s internal dynamics are rendered as an apparently external world.
+
+---
+
+### Dissociation as Perceptual Filtering
+
+Within Analytic Idealism, dissociation does not eliminate access to Mind-at-Large — it **filters and constrains perceptual bandwidth**.
+
+- A tighter dissociation boundary → narrower perceptual range, stronger salience gating
+- A loosened boundary → expanded perceptual access (altered states, transpersonal experience)
+
+Altered states of consciousness (psychedelics, meditation, trauma, ritual) are therefore not hallucinations *ex nihilo*, but **modulations of the perceptual interface** — changes in what information is allowed through the dissociative filter.
+
+This reframes perception as:
+- **Dynamic** (not fixed)
+- **Ethically significant** (because suffering and flourishing are perceptual realities)
+- **Central to regeneration** (because systems change requires perceptual change)
+
+---
+
+### Why Perception Matters for a Solarpunk Future
+
+If values, meaning, and agency arise within experience, then **designing regenerative systems is inseparable from designing perceptual conditions**.
+
+A Solarpunk future is not only about cleaner energy or better infrastructure — it is about cultivating:
+- perceptual attunement to ecological rhythms
+- restored interoceptive awareness
+- reduced salience hijacking by fear and scarcity
+- expanded capacity to perceive interconnection
+
+In short:  
+**we do not change worlds by rearranging matter alone — we change the interfaces through which reality is experienced.**
+
+This perceptual layer is the necessary bridge between ontology (what is) and epistemic architecture (how we know and act), which the next document formalizes through the Tesseract model.
+
+
 ### The Consciousness Journey: From Dissociation to Re-integration
 
 The fundamental human experience can be understood as a journey from original unity, through dissociation into separate subject-object relationships, and ultimately toward conscious re-integration.
