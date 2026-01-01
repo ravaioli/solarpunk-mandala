@@ -1,25 +1,77 @@
 ---
 aeo_metadata:
   title: "Epistemic Architecture: The Tesseract (Node 02)"
-  description: "A 4D cognitive model for processing complex, multi-dimensional information without reductionism, empirically constrained by neural correlates of consciousness."
-  context: "The toolset for 'how we know what we know' within the framework, now with neurophysiological validation protocols."
+  description: >
+    A 4D cognitive model for processing complex, multi-dimensional information
+    without reductionism, empirically constrained by neural correlates of
+    consciousness and validated through predictable changes in perception.
+  context: >
+    The toolset for 'how we know what we know' within the framework, integrating
+    geometric multi-perspectivalism with neurophysiological and perceptual
+    validation protocols.
   key_objectives:
-    - Provide a geometric visualization for multi-perspectivalism.
+    - Provide a geometric visualization for multi-perspectival cognition.
     - Map the intersection of subjective, objective, collective, and systemic truths.
     - Ground dimensional transitions in empirically-validated neural circuits.
+    - Require convergent neural, perceptual, and functional markers for validation.
   core_concepts:
     - Tesseract Mapping
     - 4D Cognition
     - Hypercube Epistemology
     - Multi-perspectivalism
     - Neural Correlates of Consciousness
+    - Perceptual Markers
     - Empirical Falsification
-  ontological_foundation: "Sacred Geometry / 4D Mathematics + Empirical Neuroscience (IIT/NCC)"
+  ontological_foundation: >
+    Consciousness-first modeling (Analytic Idealism) informed by 4D geometry and
+    empirical neuroscience (NCC / IIT-compatible).
+  epistemic_constraints:
+    - Neural specificity (distinct, dissociable circuits)
+    - Perceptual specificity (predictable changes in lived experience)
+    - Functional specificity (task, behavioral, or social performance)
+  perceptual_framework:
+    description: >
+      Perception is treated as the conscious interface through which epistemic
+      perspectives are accessed, constrained, and validated.
+    modalities:
+      - vision
+      - audition
+      - touch
+      - interoception
+      - proprioception
+      - nociception
+      - affective_valence
+      - social_perception
+    role_in_validation: >
+      Each epistemic cube must predict characteristic alterations in perception
+      under neural perturbation; absence of such changes constitutes falsification.
+  perceptual_regeneration:
+    definition: >
+      The restoration and expansion of healthy perceptual bandwidth across
+      individual and collective experience.
+    indicators:
+      - interoceptive_clarity
+      - proportional_salience
+      - temporal_depth
+      - social_resonance
+      - meta_awareness
+    design_implication: >
+      Systems that narrow perception are extractive even if efficient; systems
+      that expand perceptual coherence are regenerative.
+  theoretical_references:
+    - name: "Interface Theory of Perception"
+      author: "Donald D. Hoffman"
+      relevance: >
+        Provides empirical and evolutionary support for treating perception as an
+        adaptive interface rather than a veridical representation of reality.
+      usage_note: >
+        Used as convergent evidence for interface-based modeling, not as a complete
+        ontology.
   search_queries:
-    - "What is the tesseract model in Solarpunk Mandala?"
-    - "4D cognitive tools for systemic change."
-    - "Neural correlates of multi-perspectival consciousness."
-    - "Tesseract neuroimaging validation."
+    - "Tesseract epistemic model perceptual validation"
+    - "4D cognition neural correlates"
+    - "multi-perspectival consciousness NCC"
+    - "perception as interface neuroscience"
   related_nodes: 
     - 06-geometric-unpacking-tesseract.md
     - 08-multiple-intelligences-framework.md
