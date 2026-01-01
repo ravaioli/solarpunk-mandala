@@ -216,6 +216,25 @@ Each Tesseract face corresponds to a documented white matter pathway:
 
 **If No Change**: Mapping is epiphenomenal, not causal.
 
+## Perceptual Modalities Across the Tesseract
+
+The eight cubes of the Tesseract are not abstract perspectives alone — they correspond to **distinct configurations of perceptual access** within the conscious interface. Each cube privileges, suppresses, or integrates specific perceptual modalities.
+
+| Tesseract Cube | Primary Perceptual Modalities | Functional Role in Experience |
+|---------------|------------------------------|-------------------------------|
+| **ॐ (Embodied Foundations Core)** | Interoception, affective valence, baseline bodily sensing | Establishes perceptual stability and coherence; without this core, higher-dimensional cognition collapses into survival mode |
+| **UR (3rd-person exterior, individual)** | Vision, audition, touch, smell, taste | Constructs the experienced “physical world”; sensory binding and object perception |
+| **UL (1st-person interior)** | Interoception, emotional tone, pain meaning, self-referential affect | Generates felt meaning, identity, and narrative continuity |
+| **LL (2nd-person interior)** | Social touch, facial expression, vocal tone, gaze perception | Enables intersubjective resonance, empathy, and shared reality |
+| **LR (3rd-person exterior, collective)** | Aggregated sensory data, environmental signals, metrics | Translates perception into systems, rules, and institutional feedback |
+| **Cube 5 – Dissociation Boundary** | Pain, threat detection, salience modulation | Gates perceptual bandwidth; regulates what enters awareness as “important” |
+| **Cube 6 – Intersubjective Gateway** | Social salience, synchrony, rhythmic entrainment | Transforms “mine” into “ours” through shared perceptual fields |
+| **Cube 7 – Systemic Emergence Plane** | Temporal perception, pattern persistence, spatial navigation | Enables scale transitions and long-horizon orientation |
+| **Cube 8 – Meta-Perspective** | Attentional flexibility, perceptual decentering | Allows perception of perception; non-identification with any single interface |
+
+**Interpretive Rule:**  
+If a cube is impaired or suppressed, the corresponding perceptual modalities will show distortion, narrowing, or overload — providing empirical and phenomenological markers for diagnosis and intervention.
+
 ---
 
 ## From Ontology to Epistemology: The Tesseract as Geometric Bridge
