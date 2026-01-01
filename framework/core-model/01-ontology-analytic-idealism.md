@@ -72,8 +72,6 @@ In this view:
 Analytic Idealism extends this insight ontologically:  
 **the interface is not hiding a material world — it is how consciousness looks across dissociation.**
 
----
-
 ### The Core Perceptual Modalities (Experiential Primitives)
 
 The “multimodal appearance” of reality arises through a finite set of **primary perceptual modalities**. These are not secondary byproducts of matter, but **first-order modes of conscious experience** within localized alters.
@@ -94,8 +92,6 @@ The “multimodal appearance” of reality arises through a finite set of **prim
 
 These modalities together constitute the **Screen of Perception** — the experiential boundary surface through which MAL’s internal dynamics are rendered as an apparently external world.
 
----
-
 ### Dissociation as Perceptual Filtering
 
 Within Analytic Idealism, dissociation does not eliminate access to Mind-at-Large — it **filters and constrains perceptual bandwidth**.
@@ -109,8 +105,6 @@ This reframes perception as:
 - **Dynamic** (not fixed)
 - **Ethically significant** (because suffering and flourishing are perceptual realities)
 - **Central to regeneration** (because systems change requires perceptual change)
-
----
 
 ### Why Perception Matters for a Solarpunk Future
 
@@ -127,6 +121,12 @@ In short:
 
 This perceptual layer is the necessary bridge between ontology (what is) and epistemic architecture (how we know and act), which the next document formalizes through the Tesseract model.
 
+> **Interface Theory of Perception (ITP)**  
+> Hoffman, D. D. (2019). *The Case Against Reality*. W.W. Norton & Company.
+>
+> Hoffman demonstrates that perceptual systems optimized by evolution do not track objective truth, but fitness-relevant structure. Space, time, and objects function as adaptive symbols — comparable to a user interface — that guide action while concealing underlying complexity.
+>
+> Within the Solarpunk Mandala, Interface Theory is not treated as a complete ontology, but as **convergent empirical support** for the claim that perception is an interface rather than a depiction. Analytic Idealism extends this insight by identifying consciousness itself — not matter — as the underlying reality that interfaces make actionable.
 
 ### The Consciousness Journey: From Dissociation to Re-integration
 
