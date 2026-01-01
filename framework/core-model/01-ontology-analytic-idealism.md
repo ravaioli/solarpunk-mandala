@@ -135,6 +135,20 @@ If reality is fundamentally conscious experience, then **perception is not a pas
 
 From the standpoint of Analytic Idealism, perception is the **grammar of appearance** — the structured set of experiential modalities through which conscious activity becomes legible as “a world.”
 
+```mermaid
+flowchart TD
+    MAL["Mind-at-Large<br/>(Unified Conscious Field)"]
+    Diss["Dissociation<br/>(Perceptual Constraint)"]
+    Interface["Perceptual Interface<br/>(Screen of Perception)"]
+    World["Experienced World<br/>(Objects, Space, Time)"]
+
+    MAL --> Diss
+    Diss --> Interface
+    Interface --> World
+
+    World -.->|"Action / Feedback"| Interface
+```
+
 ### Perception as Interface, Not Representation
 
 This framework aligns closely with **Donald Hoffman’s Interface Theory of Perception**, which demonstrates (both mathematically and evolutionarily) that perceptual systems do not evolve to show reality as it is, but to present **fitness-relevant symbols** that guide adaptive action.
@@ -183,6 +197,19 @@ This reframes perception as:
 - **Dynamic** (not fixed)
 - **Ethically significant** (because suffering and flourishing are perceptual realities)
 - **Central to regeneration** (because systems change requires perceptual change)
+
+```mermaid
+flowchart LR
+    Low["High Dissociation<br/>Narrow Bandwidth"]
+    Mid["Moderate Dissociation<br/>Stable Identity"]
+    High["Low Dissociation<br/>Expanded Bandwidth"]
+
+    Low -->|"Regulation / Healing"| Mid
+    Mid -->|"Attunement / Practice"| High
+
+    Low ---|"Pain, Threat"| Salience1["Salience Hijack"]
+    High ---|"Meaning, Connection"| Salience2["Salience Integration"]
+```
 
 ### Why Perception Matters for a Solarpunk Future
 
