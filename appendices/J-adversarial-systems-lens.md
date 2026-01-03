@@ -7,7 +7,7 @@
 
 ## Core Principle: The Tesseract as Shadow & Light
 
-The Tesseract architecture does not require a 9th "Shadow Cube." Instead, **adversarial and oppressive dynamics manifest as *distortions* within the existing 8 cubes**—specifically as decouplings, inversions, and parasitic couplings that violate the framework's ethical axes. The entire model's **light operation** is **dialogic** (Freire) and **daivi** (Gita: compassionate, truth-abiding, self-controlled). Its **shadow operation** is **antidialogic** and **asuri** (Gita: ego-driven, deceitful, oppressive).
+The Tesseract architecture integrates **adversarial and oppressive dynamics manifest as *distortions* within the existing 8 cubes**—specifically as decouplings, inversions, and parasitic couplings that violate the framework's ethical axes. The entire model's **light operation** is **dialogic** (Freire) and **daivi** (Gita: compassionate, truth-abiding, self-controlled). Its **shadow operation** is **antidialogic** and **asuri** (Gita: ego-driven, deceitful, oppressive).
 
 This lens provides **detection and intervention protocols** without breaking the 8-cube geometry.
 
