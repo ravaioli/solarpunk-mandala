@@ -1,4 +1,4 @@
-# Ethics: The Adversarial Systems Lens — Shadow & Light Operations within the Tesseract
+# Appendix J: Ethics: The Adversarial Systems Lens — Shadow & Light Operations within the Tesseract
 
 **Status**: Critical Supplement to 03-ethics-four-axes.md  
 **Theoretical Debts**: Paulo Freire (antidialogic), Bernardo Kastrup (dissociation pathology), Bhagavad Gita Chapter 16 (Daivi vs Asuri natures), Michael Levin (cancer as rebellious agency)
