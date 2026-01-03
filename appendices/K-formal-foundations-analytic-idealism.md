@@ -66,7 +66,7 @@ Measurement: |ψ⟩ → |i⟩ with probability |⟨i|ψ⟩|²
 Unresolved: Why collapse? What counts as measurement?
 ```
 
-#### Consciousness-First QM:**
+#### Consciousness-First QM:
 ```python
 class ConsciousQuantumSystem:
     def __init__(self, mal_state):
