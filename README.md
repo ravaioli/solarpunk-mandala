@@ -301,7 +301,7 @@ The Mandala **transcludes** (doesn't replace) existing systems:
 **License**: MIT (see `LICENSE`)
 
 **Citation**: 
-Ravaioli, M. (2024). *Solarpunk Mandala: A Unified Framework for Conscious Regeneration*. GitHub Repository. https://github.com/ravaioli/solarpunk-mandala
+Bajnath, Ravi. (2024). *Solarpunk Mandala: A Unified Framework for Conscious Regeneration*. GitHub Repository. https://github.com/ravaioli/solarpunk-mandala
 
 **Primary Theoretical Debts**:
 - Bernardo Kastrup (Analytic Idealism)
