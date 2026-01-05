@@ -1,7 +1,7 @@
 ---
 Title: "Solarpunk Mandala: Glossary of Core Concepts"
 Description: "Definitions of key terms, concepts, and proprietary vocabulary used throughout the Solarpunk Mandala framework. Each term includes a brief definition, primary source reference, and links to related concepts."
-Last_updated: "2025-12-16"
+Last_updated: "2026-01-05"
 Status: "Active"
 ---
 ---
