@@ -4,6 +4,12 @@ Description: "Definitions of key terms, concepts, and proprietary vocabulary use
 Last_updated: "2025-12-16"
 Status: "Active"
 ---
+---
+Title: "Solarpunk Mandala: Glossary of Core Concepts"
+Description: "Definitions of key terms, concepts, and proprietary vocabulary used throughout the Solarpunk Mandala framework. Each term includes a brief definition, primary source reference, and links to related concepts."
+Last_updated: "2025-12-16"
+Status: "Active"
+---
 # Solarpunk Mandala: Glossary of Core Concepts
 
 This glossary provides definitions for the key terms, concepts, and proprietary vocabulary used throughout the Solarpunk Mandala framework. Each term is linked to the primary document where it is defined and operationalized.
@@ -19,6 +25,11 @@ This glossary provides definitions for the key terms, concepts, and proprietary 
 **Primary Reference:** [01 - Ontology: Analytic Idealism](./01-ontology-analytic-idealism.md)
 **Related Terms:** Consciousness-first ontology, Idealism, Panpsychism, Phenomenology
 
+### **Consciousness-Only Postulate**
+**Definition:** The foundational assumption that consciousness is the sole ontological primitive from which all appearances arise.
+**Primary Reference:** [K - Formal Foundations of Analytic Idealism](./appendices/K-formal-foundations-analytic-idealism.md)
+**Related Terms:** Fundamental consciousness, Ontological primitive, First principle
+
 ### **Cybernetic Meta-Framework**
 **Definition:** The outermost conceptual container of the Solarpunk Mandala model, positioning it within the transdisciplinary sciences of General Systems Theory (structure) and Cybernetics (process/regulation).
 **Primary Reference:** [00 - Meta-Framework: Systems & Cybernetics](./00-meta-framework-systems-cybernetics.md)
@@ -28,6 +39,11 @@ This glossary provides definitions for the key terms, concepts, and proprietary 
 **Definition:** The scientific concept (from Michael Levin's work) that cognition operates similarly across scales from cells to societies, providing a biological validation for the model's multi-scale logic.
 **Primary Reference:** [00 - Meta-Framework: Systems & Cybernetics](./00-meta-framework-systems-cybernetics.md)
 **Related Terms:** Cognition, Bioelectricity, Morphogenesis, Collective intelligence
+
+### **Hard Problem Dissolution**
+**Definition:** How analytic idealism addresses Chalmers' "hard problem" of consciousness by eliminating the explanatory gap between physical processes and subjective experience.
+**Primary Reference:** [K - Formal Foundations of Analytic Idealism](./appendices/K-formal-foundations-analytic-idealism.md)
+**Related Terms:** Explanatory gap, Mind-body problem, Qualia, Subjective experience
 
 ---
 
@@ -52,6 +68,99 @@ This glossary provides definitions for the key terms, concepts, and proprietary 
 **Definition:** A 0–5 scale metric for measuring cross-cube integration and systemic wholeness within the tesseract model.
 **Primary Reference:** [06 - Geometric Completion: The Tesseract](./06-geometric-completion-tesseract.md)
 **Related Terms:** Integration score, Wholeness metric, Systemic coherence
+
+### **Geometric Intuition**
+**Definition:** The capacity for direct, non-conceptual apprehension of geometric truths and relationships.
+**Primary Reference:** [N - Epistemic Tesseract: Geometric Knowing](./appendices/N-epistemic-tesseract-geometric-knowing.md)
+**Related Terms:** Spatial reasoning, Direct knowing, Mathematical intuition, Pattern recognition
+
+### **4D Visualization**
+**Definition:** The cognitive capacity for mentally modeling and manipulating four-dimensional geometric structures.
+**Primary Reference:** [N - Epistemic Tesseract: Geometric Knowing](./appendices/N-epistemic-tesseract-geometric-knowing.md)
+**Related Terms:** Hyperdimensional thinking, Mental rotation, Spatial intelligence, Geometric imagination
+
+### **Topological Reasoning**
+**Definition:** Understanding systems through their shape properties and transformations that preserve continuous relationships.
+**Primary Reference:** [N - Epistemic Tesseract: Geometric Knowing](./appendices/N-epistemic-tesseract-geometric-knowing.md)
+**Related Terms:** Shape invariance, Continuous transformation, Qualitative geometry, Connectivity patterns
+
+### **Projective Geometry**
+**Definition:** The mathematical framework for understanding perspective and how higher-dimensional forms project into lower-dimensional representations.
+**Primary Reference:** [N - Epistemic Tesseract: Geometric Knowing](./appendices/N-epistemic-tesseract-geometric-knowing.md)
+**Related Terms:** Perspective geometry, Dimensional projection, Visual representation, Geometric mapping
+
+---
+
+## 🧬 Formal Philosophical Concepts
+
+### **Formal Operators**
+**Definition:** The logical symbols and operators (□, ◇, →, etc.) used to construct rigorous proofs within analytic idealism's formal system.
+**Primary Reference:** [K - Formal Foundations of Analytic Idealism](./appendices/K-formal-foundations-analytic-idealism.md)
+**Related Terms:** Modal logic, Formal system, Logical proof, Symbolic reasoning
+
+### **Externality Relation**
+**Definition:** How apparent external reality relates to consciousness within the analytic idealist framework, explaining the experience of an objective world.
+**Primary Reference:** [K - Formal Foundations of Analytic Idealism](./appendices/K-formal-foundations-analytic-idealism.md)
+**Related Terms:** Objectivity appearance, Phenomenal externality, World representation, Experiential interface
+
+### **Transcendental Arguments**
+**Definition:** Reasoning from the necessary conditions of experience to conclusions about reality's fundamental nature.
+**Primary Reference:** [K - Formal Foundations of Analytic Idealism](./appendices/K-formal-foundations-analytic-idealism.md)
+**Related Terms:** Conditional reasoning, Necessary conditions, Kantian epistemology, First principles
+
+### **Māyā (as epistemic veil)**
+**Definition:** The principle that phenomenal reality appears as separate from consciousness due to epistemic constraints, not ontological difference.
+**Primary Reference:** [L - Synthesis: Analytic Idealism & Indic Philosophy](./appendices/L-synthesis-analytic-idealism-indic-philosophy.md)
+**Related Terms:** Epistemic veil, Phenomenal appearance, Illusory separation, Appearance principle
+
+### **Līlā (cosmic play)**
+**Definition:** The creative, spontaneous, and playful aspect of consciousness manifesting as phenomenal reality.
+**Primary Reference:** [L - Synthesis: Analytic Idealism & Indic Philosophy](./appendices/L-synthesis-analytic-idealism-indic-philosophy.md)
+**Related Terms:** Creative expression, Divine play, Spontaneous manifestation, Joyful creation
+
+### **Neti Neti (negation method)**
+**Definition:** The via negativa approach to reality through successive negation of what something is not, leading toward direct realization.
+**Primary Reference:** [L - Synthesis: Analytic Idealism & Indic Philosophy](./appendices/L-synthesis-analytic-idealism-indic-philosophy.md)
+**Related Terms:** Apophatic approach, Negative theology, Subtraction method, Elimination practice
+
+### **Pratītyasamutpāda (dependent arising)**
+**Definition:** The principle of interdependent origination understood within idealist terms as patterns within consciousness.
+**Primary Reference:** [L - Synthesis: Analytic Idealism & Indic Philosophy](./appendices/L-synthesis-analytic-idealism-indic-philosophy.md)
+**Related Terms:** Interdependence, Conditional arising, Relational ontology, Networked causality
+
+### **Jñāna (direct knowing)**
+**Definition:** Non-conceptual, immediate awareness that transcends subject-object duality.
+**Primary Reference:** [L - Synthesis: Analytic Idealism & Indic Philosophy](./appendices/L-synthesis-analytic-idealism-indic-philosophy.md)
+**Related Terms:** Direct awareness, Non-dual knowing, Immediate apprehension, Intuitive knowledge
+
+---
+
+## 🧠 Idealist Psychopathology
+
+### **Ontological Confusion**
+**Definition:** The pathological state where appearance is mistaken for fundamental reality, leading to suffering and distorted perception.
+**Primary Reference:** [M - Idealist Psychopathology](./appendices/M-idealist-psychopathology.md)
+**Related Terms:** Reality distortion, Metaphysical error, Delusional thinking, Fundamental misapprehension
+
+### **Boundary Pathology**
+**Definition:** Distortions in the perception and maintenance of healthy boundaries between self and other within an idealist framework.
+**Primary Reference:** [M - Idealist Psychopathology](./appendices/M-idealist-psychopathology.md)
+**Related Terms:** Self-other confusion, Permeability issues, Containment failure, Differentiation pathology
+
+### **Dissolution Anxiety**
+**Definition:** The fear response that can arise when approaching ego dissolution or non-dual realization within idealist practice.
+**Primary Reference:** [M - Idealist Psychopathology](./appendices/M-idealist-psychopathology.md)
+**Related Terms:** Spiritual emergency, Ego death, Transformation resistance, Existential fear
+
+### **Hyper-Reflexivity Trap**
+**Definition:** Excessive self-monitoring of experience that creates a recursive loop preventing spontaneous being.
+**Primary Reference:** [M - Idealist Psychopathology](./appendices/M-idealist-psychopathology.md)
+**Related Terms:** Observer syndrome, Recursive monitoring, Self-consciousness spiral, Meta-awareness excess
+
+### **Idealist Bypassing**
+**Definition:** Using idealist metaphysics to avoid necessary psychological work, emotional processing, or embodied integration.
+**Primary Reference:** [M - Idealist Psychopathology](./appendices/M-idealist-psychopathology.md)
+**Related Terms:** Spiritual bypassing, Metaphysical avoidance, Conceptual escape, Disembodied idealism
 
 ---
 
@@ -183,6 +292,8 @@ This glossary provides definitions for the key terms, concepts, and proprietary 
 - **MAL:** Mandala Axis & Pathways (collective term for the operational model)
 - **α:** Alpha (integration metric)
 - **DVP:** Dialectical Velocity Metric
+- **COS:** Consciousness-Only System
+- **IP:** Idealist Psychopathology
 
 ---
 
@@ -190,11 +301,13 @@ This glossary provides definitions for the key terms, concepts, and proprietary 
 
 1. **For Understanding Documents:** When encountering an unfamiliar term in core documents, look it up here for a concise definition and link to its primary source.
 
-2. **For Framework Navigation:** Use the "Related Terms" to explore conceptual clusters and understand how concepts interconnect.
+2. **For Framework Navigation:** Use the "Related Terms" to explore conceptual clusters and understand how concepts interconnect across philosophical, geometric, psychopathological, and practical domains.
 
-3. **For Contributions:** If you identify a missing term or have suggestions for improvement, please submit an issue or pull request via [GitHub](https://github.com/solarpunk-mandala/docs).
+3. **For Philosophical Inquiry:** The Formal Philosophical and Idealist Psychopathology sections provide specialized terminology for rigorous discussion of metaphysical and psychological dimensions.
 
-4. **For Community Discussions:** Reference glossary terms to ensure shared understanding in conversations about the framework.
+4. **For Contributions:** If you identify a missing term or have suggestions for improvement, please submit an issue or pull request via [GitHub](https://github.com/solarpunk-mandala/docs).
+
+5. **For Community Discussions:** Reference glossary terms to ensure shared understanding in conversations about the framework.
 
 ---
 
@@ -203,10 +316,10 @@ This glossary provides definitions for the key terms, concepts, and proprietary 
 | Date | Version | Changes |
 |------|---------|---------|
 | 2025-12-16 | 1.0 | Initial glossary created from core documentation |
-| Future updates will track term additions, refinements, and community contributions |
+| 2026-01-05 | 1.1 | Added terms from appendices K, L, M, and N. Added "Formal Philosophical Concepts" and "Idealist Psychopathology" sections. |
 
 ---
 
 **Return to:** [Core Model Index](./index.md) | [All Documentation](./)
 
-*This glossary is maintained by the Solarpunk Mandala documentation community. Definitions are based on the framework's core documents (00-10) as of December 2025.*
+*This glossary is maintained by the Solarpunk Mandala documentation community. Definitions are based on the framework's core documents (00-10) and appendices (K-N) as of January 2026.*
