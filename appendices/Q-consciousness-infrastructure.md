@@ -37,6 +37,9 @@ Infrastructure must be designed to heal the dissociation inherent in Necrocene s
 | **NETWORKS** | The circulatory system for resources, information, and consciousness flow. | **Collective Φ-Monitoring Array**; **Regen Currency Digital Ledger**; low-energy mesh networks. |
 
 ### 2.2 The Tesseract Village Prototype
+
+A complete Ekistics blueprint for a 100-person settlement that physically instantiates the geometric principles of the Epistemic Tesseract (Appendix N) and the Learning Tesseract (Appendix O). The layout is a navigable mandala where spatial zones ("Cubes") correspond to primary consciousness functions, and connecting paths ("Edges") are engineered for perspective-bridging.
+
 ```mermaid
 ---
 config:
@@ -44,47 +47,47 @@ config:
   theme: neutral
 ---
 flowchart TD
-    subgraph "NORTH: Contemplative Cube"
+    subgraph "NORTH: Contemplative Cube<br/>(W-Axis | Depth/Being)"
         direction LR
-        N1[Meditation Halls]
-        N2[Dream Lodges]
-        N3[Silent Forest Walks]
+        N1["Meditation Halls &<br/>Dream Lodges"]
+        N2["Silent Forest<br/>Walking Labyrinths"]
+        N3["Wisdom Keeper<br/>Residences"]
     end
 
-    subgraph "WEST: Cognitive Cube"
+    subgraph "WEST: Cognitive Cube<br/>(X-Axis | Logic/Thinking)"
         direction LR
-        W1[Logic Galleries]
-        W2[Systems Studios]
-        W3[Philosopher Rooms]
+        W1["Logic Galleries &<br/>Libraries"]
+        W2["Systems Modeling<br/>Studios"]
+        W3["Philosopher<br/>Debrief Rooms"]
     end
 
-    subgraph "CENTER: Integration Atrium"
-        C1[Central Council Fire]
-        C2[Reflective Pool & Dashboard]
-        C3[Vertex Initiation Space]
+    subgraph "CENTER: Integration Atrium<br/>(All Axes | Synthesis)"
+        C1["Central Council<br/>Fire Pit"]
+        C2["Reflective Pool &<br/>Φ-Dashboard"]
+        C3["Vertex Transition<br/>Initiation Space"]
     end
 
-    subgraph "EAST: Connective Cube"
+    subgraph "EAST: Connective Cube<br/>(Y-Axis | Relational)"
         direction LR
-        E1[Communal Kitchens]
-        E2[Conflict Studios]
-        E3[Visitor Welcome]
+        E1["Communal Kitchens &<br/>Feast Halls"]
+        E2["Conflict Transformation<br/>Studios"]
+        E3["Guest Houses &<br/>Visitor Welcome"]
     end
 
-    subgraph "SOUTH: Maker's Cube"
+    subgraph "SOUTH: Maker's Cube<br/>(Z-Axis | Pragmatic/Doing)"
         direction LR
-        S1[Workshop Barns]
-        S2[Fab Labs]
-        S3[Agriculture Plots]
+        S1["Regenerative<br/>Workshop Barns"]
+        S2["Circular Economy<br/>Fab Labs"]
+        S3["Living Systems<br/>Agriculture Plots"]
     end
 
-    %% Define Connections (The "Edges")
-    N1 -- "W-Axis Path" --> C1
-    W1 -- "X-Axis Path" --> C1
-    E1 -- "Y-Axis Path" --> C1
-    S1 -- "Z-Axis Path" --> C1
+    %% Primary Axis Paths to Center
+    N1 -- "Awe Path (W-Axis)" --> C1
+    W1 -- "Logic Path (X-Axis)" --> C1
+    E1 -- "Dialogue Path (Y-Axis)" --> C1
+    S1 -- "Craft Path (Z-Axis)" --> C1
 
-    %% Inter-Cube Paths (Forced Perspective-Sharing)
+    %% Critical Inter-Cube Edges (Forced Perspective-Sharing)
     W3 <-.->|"Dialogic Bridge"| E2
     N2 <-.->|"Dream-to-Soil Path"| S3
 
@@ -100,6 +103,29 @@ flowchart TD
     classDef cube-S fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
     classDef cube-C fill:#ffebee,stroke:#c62828,stroke-width:3px
 ```
+
+#### Design Principles:
+
+1. **Cubes as Developmental Zones**: Each cardinal zone correlates to a primary axis of the Epistemic Tesseract and hosts infrastructure supporting that mode of consciousness. Residents are encouraged to live in the zone matching their current growth edge.
+
+2. **Edges as Transformative Pathways**: The paths between cubes are not neutral. They are designed landscapes that facilitate a cognitive and perceptual shift:
+
+  - The Dialogic Bridge between the Cognitive and Connective Cubes is lined with debate alcoves and listening benches.
+
+  - The Dream-to-Soil Path between the Contemplative and Maker's Cubes winds through a garden where plants mentioned in community dream reports are cultivated.
+
+3. **Center as Integration Engine**: The Integration Atrium is the only space with direct visual and physical access to all four cubes. It hosts the Dialectical Council and the public Consciousness Dashboard (Phi_br), making collective awareness tangible.
+
+4. **Permeable Boundaries**: While cubes have distinct identities, their boundaries are gardens, workshops, or commons that blend functions (e.g., a pottery studio in the Maker's Cube that is also used for somatic therapy from the Healing pathway).
+
+**Operationalization (via Arena Protocol 2)**:
+This prototype is not an artistic rendering but an engineering spec. When implementing:
+
+- **Ekistics Analysis**: Each Cube must score highly on its corresponding Embodied Foundation (Contemplative→Restoration, Cognitive→Nourishment, Connective→Movement, Maker→Cleansing).
+
+- **Circles Integration**: Each Cube's function must actively serve at least three Circles domains (e.g., the Maker's Cube serves Economics, Ecology, and Culture).
+
+- **Mandala Axis Check**: The Village's master plan must allocate equal resource budgets to infrastructure supporting all four Pathways, ensuring no developmental axis is neglected.
 
 ## 3.0 Functional Blueprint: Circles of Conscious Domain
 
@@ -150,6 +176,7 @@ The **16 Vertices** of the Arena (intersection of 4 Pathways and 4 primary Ekist
 ## 5.0 Core Protocols: From Blueprint to Reality
 
 ### 5.1 Mandatory Project Integration (Arena Protocol 2)
+
 All Consciousness Infrastructure projects must follow this protocol:
 
 1.  **Embodied Gate Check:** Verify all four foundation scores are ≥ 3.
@@ -190,6 +217,7 @@ The power of this design lies in the **24 Interfaces** of the Arena—the hexago
 This is the operational centerpiece, a **Digital/Informational Layer** tool spanning multiple domains.
 
 ### 7.1 Component Architecture
+
 ```markdown
 1.  Acoustic Coherence Sensors:
     - Placement: Public squares, community centers, natural gathering points.
