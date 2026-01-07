@@ -111,6 +111,13 @@ flowchart LR
     style Reward fill:#d5f5e3,stroke:#2ecc71
 ```
 
+### 4.3 Anarchic Equilibrium: The Governance of the Mesh
+In the Symbiotic Commonwealth, governance is not an external authority imposed upon agents, but an emergent property of the "Mesh." By transcluding models of **Democratic Confederalism** (Öcalan) and **Social Ecology** (Bookchin), we move from top-down command to **Anarchic Equilibrium**.
+
+* **Dissolving the Principal-Agent Problem:** Traditional states suffer from "Institutional Capture," where the agent (the state) prioritizes its own survival over the principals (the people). The Commonwealth resolves this by ensuring all coordination roles are functional, temporary, and recallable (the **CNT Model**).
+* **The Malatesta Constraint:** Formalizing Errico Malatesta’s voluntarism, the mechanism design ensures that participation in any "sub-cube" of the Tesseract is voluntary. If a node becomes coercive, the "Dimensional Rotation" protocol allows the network to route around it, effectively isolating the "authoritative" node from the $\Phi$-signal.
+* **Mutual Aid as Game-Theoretic Dominance:** In a high-$W$ population (where agents recognize their shared ontological ground), Mutual Aid (Kropotkin) becomes the most rational strategy. The "utility of the other" is recognized as a direct extension of the "utility of the self."
+
 ---
 
 ## 5. Mathematical Notation Guide for Implementation
