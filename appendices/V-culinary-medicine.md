@@ -196,5 +196,3 @@ This appendix is a living document. Contributions are welcomed to the following 
 *   **Community Kitchen Models:** Design blueprints, operational guides, and case studies from diverse bioregions.
 *   **Educational Modules:** Lesson plans for teaching Culinary Medicine skills to different age groups and communities.
 *   **Research Links:** Ongoing studies linking specific food practices, microbiome health, and psychological or social well-being.
-
-*To contribute, please submit a pull request to the `[solarpunk-mandala/appendices/culinary-medicine]` repository branch.*
