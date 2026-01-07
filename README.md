@@ -321,6 +321,7 @@ The Mandala **transcludes** (doesn't replace) existing systems:
 | **[S: The Symbiotic Commonwealth](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/S-symbiotic-commonwealth-mesh.md)** | Organize non-authoritative, mesh-based governance | Local Assembly protocols, Confederal Mesh logic | Appendix R (game theory), Appendix T (economy) |
 | **[T: The Regenerative Economy](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/T-regen-economy.md)** | Facilitate metabolic resource flow without debt | $\Phi$-Currency minting, Demurrage (decay) mechanics | Appendix S (governance), Appendix Q (infrastructure) |
 | **[U: The Alter’s Biology – Post-Materialist Morphogenesis](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/U-post-materialist-morphogenesis.md)** | Coordinate bioelectric agency and morphogenesis | Anatomical Compilers, Bioelectric Sensory Mesh | Appendix Q (sensors), Appendix M (psychopathology) |
+| **[V: Appendix V: Culinary Medicine – A Synthesis of Nourishment, Healing and Regeneration](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/V-culinary-medicine.md)** | A Synthesis of Nourishment, Healing and Regeneration | Treats food as “boundary medicine,” integrating the entire food cycle—from soil to compost—as a conscious practice that repairs dissociative boundaries between self, community, and ecology. | Appendix Q (sensors), Appendix M (psychopathology), Appendix U (biology) |
 
 ---
 
