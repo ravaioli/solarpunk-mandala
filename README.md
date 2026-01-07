@@ -320,7 +320,7 @@ The Mandala **transcludes** (doesn't replace) existing systems:
 | **[R: Game-Theoretic Formalization](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/R-game-theoretic-formalization.md)** | Transition from extractive to regenerative coordination | Dimensional Lifting logic, Regenerative Attractor mapping | Appendix S (governance), Appendix T (incentives) |
 | **[S: The Symbiotic Commonwealth](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/S-symbiotic-commonwealth-mesh.md)** | Organize non-authoritative, mesh-based governance | Local Assembly protocols, Confederal Mesh logic | Appendix R (game theory), Appendix T (economy) |
 | **[T: The Regenerative Economy](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/T-regen-economy.md)** | Facilitate metabolic resource flow without debt | $\Phi$-Currency minting, Demurrage (decay) mechanics | Appendix S (governance), Appendix Q (infrastructure) |
-| **[U: The Alter’s Biology](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/U-alter-biology.md)** | Coordinate bioelectric agency and morphogenesis | Anatomical Compilers, Bioelectric Sensory Mesh | Appendix Q (sensors), Appendix M (psychopathology) |
+| **[U: The Alter’s Biology – Post-Materialist Morphogenesis](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/U-post-materialist-morphogenesis.md)** | Coordinate bioelectric agency and morphogenesis | Anatomical Compilers, Bioelectric Sensory Mesh | Appendix Q (sensors), Appendix M (psychopathology) |
 
 ---
 
