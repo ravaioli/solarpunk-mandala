@@ -282,17 +282,17 @@ The Mandala **transcludes** (doesn't replace) existing systems:
 
 | # | Document | Primary Question | Key Deliverable |
 |---|----------|------------------|-----------------|
-| **00** | Meta-Framework: Systems & Cybernetics | *Why this architecture?* | GST + Cybernetics synthesis |
-| **01** | Ontology: Analytic Idealism | *What kind of reality?* | Consciousness-first foundation |
-| **02** | Epistemology: The Tesseract | *How do we know?* | 4D geometric modeling |
-| **03** | Ethics: Four Axes | *How do we navigate?* | Integrated moral compass |
-| **04** | Temporal: Dialectical Phases | *How do we move through time?* | Dialectical Velocity metric |
-| **05** | Pathways: Four Gateways | *How do we act?* | Praxis methods (Awakening, Making, Liberation, Healing) |
-| **06** | Geometry: Unpacking Tesseract | *How is it structured?* | 8 Cubes ↔ 8 Intelligences |
-| **07** | Material Intelligence | *How does matter think?* | Levin's bioelectric agency |
-| **08** | Multiple Intelligences | *What capacities?* | 8 intelligences across scales |
-| **09** | Compatible Frameworks | *What does it connect to?* | Integration matrix |
-| **10** | Cybernetic Foundations | *How does it self-regulate?* | Feedback & control systems |
+| **00** | [Meta-Framework: Systems & Cybernetics](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/00-meta-framework-systems-cybernetics.md) | *Why this architecture?* | GST + Cybernetics synthesis |
+| **01** | [Ontology: Analytic Idealism](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/01-ontology-analytic-idealism.md) | *What kind of reality?* | Consciousness-first foundation |
+| **02** | [Epistemology: The Tesseract](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/02-epistemic-architecture-tesseract.md) | *How do we know?* | 4D geometric modeling |
+| **03** | [Ethics: Four Axes](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/03-ethics-four-axes.md) | *How do we navigate?* | Integrated moral compass |
+| **04** | [Temporal: Dialectical Phases](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/04-temporal-unfolding-dialectical-phases.md) | *How do we move through time?* | Dialectical Velocity metric |
+| **05** | [Pathways: Four Gateways](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/05-mandala-axis-four-pathways.md) | *How do we act?* | Praxis methods (Awakening, Making, Liberation, Healing) |
+| **06** | [Geometry: Unpacking Tesseract](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/06-geometric-unpacking-tesseract.md) | *How is it structured?* | 8 Cubes ↔ 8 Intelligences |
+| **07** | [Material Intelligence](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/07-material-intelligence-framework.md) | *How does matter think?* | Levin's bioelectric agency |
+| **08** | [Multiple Intelligences](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/08-multiple-intelligences-framework.md) | *What capacities?* | 8 intelligences across scales |
+| **09** | [Compatible Frameworks](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/09-compatible-frameworks-matrix.md) | *What does it connect to?* | Integration matrix |
+| **10** | [Cybernetic Foundations](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/10-cybernetic-foundations.md) | *How does it self-regulate?* | Feedback & control systems |
 
 ---
 
