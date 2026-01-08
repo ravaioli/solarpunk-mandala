@@ -110,9 +110,9 @@ flowchart TD
 
 2. **Edges as Transformative Pathways**: The paths between cubes are not neutral. They are designed landscapes that facilitate a cognitive and perceptual shift:
 
-  - The Dialogic Bridge between the Cognitive and Connective Cubes is lined with debate alcoves and listening benches.
+    - The Dialogic Bridge between the Cognitive and Connective Cubes is lined with debate alcoves and listening benches.
 
-  - The Dream-to-Soil Path between the Contemplative and Maker's Cubes winds through a garden where plants mentioned in community dream reports are cultivated.
+    - The Dream-to-Soil Path between the Contemplative and Maker's Cubes winds through a garden where plants mentioned in community dream reports are cultivated.
 
 3. **Center as Integration Engine**: The Integration Atrium is the only space with direct visual and physical access to all four cubes. It hosts the Dialectical Council and the public Consciousness Dashboard (Phi_br), making collective awareness tangible.
 
@@ -181,8 +181,8 @@ All Consciousness Infrastructure projects must follow this protocol:
 
 1.  **Embodied Gate Check:** Verify all four foundation scores are ≥ 3.
 2.  **Dual-Framework Briefing:** Define success through both:
-    - **Ekistics:** What Elements (Nature, Man, Society, Shells, Networks) will be altered?
-    - **Circles:** What Domains (Politics, Economics, etc.) will be impacted?
+      - **Ekistics:** What Elements (Nature, Man, Society, Shells, Networks) will be altered?
+      - **Circles:** What Domains (Politics, Economics, etc.) will be impacted?
 3.  **Stakeholder Mapping:** Use the **24 Interfaces** hexagon map to identify all affected community intersections.
 4.  **Pathway Alignment & Checkpoint:** Declare the primary Pathway and ensure its corresponding foundation threshold is met.
 5.  **Iterative Refinement:** Pilot the project on a micro-scale, using the **Bioregional Nervous System** to measure changes in collective Φ before scaling.
