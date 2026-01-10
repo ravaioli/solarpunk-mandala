@@ -1,81 +1,66 @@
 ---
 aeo_metadata:
   title: "Epistemic Architecture: The Tesseract (Node 02)"
-  description: >
-    A 4D cognitive model for processing complex, multi-dimensional information
-    without reductionism, empirically constrained by neural correlates of
-    consciousness and validated through predictable changes in perception.
-  context: >
-    The toolset for 'how we know what we know' within the framework, integrating
-    geometric multi-perspectivalism with neurophysiological and perceptual
-    validation protocols.
+  description: "A 4D cognitive model for processing complex, multi-dimensional information without reductionism, empirically constrained by neural correlates of consciousness and validated through predictable changes in perception."
+  context: "The toolset for 'how we know what we know' within the framework, integrating geometric multi-perspectivalism with neurophysiological and perceptual validation protocols."
   key_objectives:
-    - Provide a geometric visualization for multi-perspectival cognition.
-    - Map the intersection of subjective, objective, collective, and systemic truths.
-    - Ground dimensional transitions in empirically-validated neural circuits.
-    - Require convergent neural, perceptual, and functional markers for validation.
+    - "Provide a geometric visualization for multi-perspectival cognition."
+    - "Map the intersection of subjective, objective, collective, and systemic truths."
+    - "Ground dimensional transitions in empirically-validated neural circuits."
+    - "Require convergent neural, perceptual, and functional markers for validation."
   core_concepts:
-    - Tesseract Mapping
-    - 4D Cognition
-    - Hypercube Epistemology
-    - Multi-perspectivalism
-    - Neural Correlates of Consciousness
-    - Perceptual Markers
-    - Empirical Falsification
-  ontological_foundation: >
-    Consciousness-first modeling (Analytic Idealism) informed by 4D geometry and
-    empirical neuroscience (NCC / IIT-compatible).
+    - "Tesseract Mapping"
+    - "4D Cognition"
+    - "Hypercube Epistemology"
+    - "Multi-perspectivalism"
+    - "Neural Correlates of Consciousness"
+    - "Perceptual Markers"
+    - "Empirical Falsification"
+    - "Experiential Topography"
+    - "Qualia of Civilizational Paradigms"
+  ontological_foundation: "Consciousness-first modeling (Analytic Idealism) informed by 4D geometry and empirical neuroscience (NCC / IIT-compatible)."
   epistemic_constraints:
-    - Neural specificity (distinct, dissociable circuits)
-    - Perceptual specificity (predictable changes in lived experience)
-    - Functional specificity (task, behavioral, or social performance)
+    - "Neural specificity (distinct, dissociable circuits)"
+    - "Perceptual specificity (predictable changes in lived experience)"
+    - "Functional specificity (task, behavioral, or social performance)"
   perceptual_framework:
-    description: >
-      Perception is treated as the conscious interface through which epistemic
-      perspectives are accessed, constrained, and validated.
+    description: "Perception is treated as the conscious interface through which epistemic perspectives are accessed, constrained, and validated."
     modalities:
-      - vision
-      - audition
-      - touch
-      - interoception
-      - proprioception
-      - nociception
-      - affective_valence
-      - social_perception
-    role_in_validation: >
-      Each epistemic cube must predict characteristic alterations in perception
-      under neural perturbation; absence of such changes constitutes falsification.
+      - "vision"
+      - "audition"
+      - "touch"
+      - "interoception"
+      - "proprioception"
+      - "nociception"
+      - "affective_valence"
+      - "social_perception"
+    role_in_validation: "Each epistemic cube must predict characteristic alterations in perception under neural perturbation; absence of such changes constitutes falsification."
   perceptual_regeneration:
-    definition: >
-      The restoration and expansion of healthy perceptual bandwidth across
-      individual and collective experience.
+    definition: "The restoration and expansion of healthy perceptual bandwidth across individual and collective experience."
     indicators:
-      - interoceptive_clarity
-      - proportional_salience
-      - temporal_depth
-      - social_resonance
-      - meta_awareness
-    design_implication: >
-      Systems that narrow perception are extractive even if efficient; systems
-      that expand perceptual coherence are regenerative.
+      - "interoceptive_clarity"
+      - "proportional_salience"
+      - "temporal_depth"
+      - "social_resonance"
+      - "meta_awareness"
+    design_implication: "Systems that narrow perception are extractive even if efficient; systems that expand perceptual coherence are regenerative."
   theoretical_references:
     - name: "Interface Theory of Perception"
       author: "Donald D. Hoffman"
-      relevance: >
-        Provides empirical and evolutionary support for treating perception as an
-        adaptive interface rather than a veridical representation of reality.
-      usage_note: >
-        Used as convergent evidence for interface-based modeling, not as a complete
-        ontology.
+      relevance: "Provides empirical and evolutionary support for treating perception as an adaptive interface rather than a veridical representation of reality."
+      usage_note: "Used as convergent evidence for interface-based modeling, not as a complete ontology."
   search_queries:
     - "Tesseract epistemic model perceptual validation"
     - "4D cognition neural correlates"
     - "multi-perspectival consciousness NCC"
     - "perception as interface neuroscience"
-  related_nodes: 
-    - 06-geometric-unpacking-tesseract.md
-    - 08-multiple-intelligences-framework.md
-    - 01-ontology-analytic-idealism.md
+    - "experiential facets necrocene symbiotic"
+  related_nodes:
+    - "06-geometric-unpacking-tesseract.md"
+    - "08-multiple-intelligences-framework.md"
+    - "01-ontology-analytic-idealism.md"
+    - "03-ethics-four-axes.md"
+    - "04-temporal-unfolding-dialectical-phases.md"
 ---
 # Epistemic Architecture: The Tesseract
 
@@ -212,6 +197,112 @@ The Tesseract's 8 cubic cells correspond 1:1 to the 8 Intelligences. This is not
 7. **Spatial-Visual ↔ Cell 6**: "Weave" maps how patterns persist across space—visual intelligence as pattern topology recognition.
 
 8. **Naturalist-Ecological ↔ Cell 7**: "Rhythm" is the temporal intelligence of transpersonal patterns in their material configuration.
+
+## Experiential Topography: The Qualia of Civilizational Paradigms
+
+If the Tesseract provides the geometric and epistemic structure for navigating multi-perspectival reality ("how it's organized"), then the **qualitative experiential facets** define the felt content of that reality ("what it feels like").
+
+```mermaid
+flowchart TD
+    subgraph N[Necrocene Paradigm]
+        A1[Alienation]
+        A2[Scarcity]
+        A3[Domination]
+        A4[Anxiety]
+        A5[Exploitation]
+        A6[Numbness]
+        A7[Linear Urgency]
+        A8[Reductionism]
+    end
+
+    subgraph S[Symbiotic Commonwealth Paradigm]
+        B1[Symbiosis]
+        B2[Abundance]
+        B3[Collaboration]
+        B4[Courageous Trust]
+        B5[Reverence]
+        B6[Aliveness]
+        B7[Cyclical Patience]
+        B8[Holism]
+    end
+
+    A1 -- "transforms via connection" --> B1
+    A2 -- "transforms via generativity" --> B2
+    A3 -- "transforms via co-creation" --> B3
+    A4 -- "transforms via grounding" --> B4
+    A5 -- "transforms via reverence" --> B5
+    A6 -- "transforms via presence" --> B6
+    A7 -- "transforms via rhythm" --> B7
+    A8 -- "transforms via integration" --> B8
+
+    style N fill:#ffebee,stroke:#d32f2f
+    style S fill:#e8f5e8,stroke:#2e7d32
+```
+
+Building upon the ontological premise that consciousness is primary, this section maps two dominant, coherent sets of core experiential facets. These sets represent the deep qualia of contrasting civilizational paradigms: the **Necrocene** (a degenerative, extractive reality tunnel) and the **Symbiotic Commonwealth** (a regenerative, life-affirming reality tunnel).
+
+The 8 facets of each paradigm correspond structurally to the 8 cubes of the Tesseract, providing a diagnostic interface for perceptual regeneration. They answer a core question of the framework: If our fundamental reality is experiential, what are the primary qualities we are cultivating or suppressing at systemic scales?
+
+### 🏴‍☠️ The Necrocene Facets: Qualia of a Degenerative Paradigm
+These eight facets constitute the dominant, interlocking qualia of an extractive civilization rooted in separation, control, and scarcity. They represent a coherent but pathological configuration of the Mind at Large's (MAL's) dissociative process.
+
+| # | Facet | Definition (As Primary Quality of Conscious Experience) | Presumptive Tesseract Cube Resonance |
+| :--- | :--- | :--- | :--- |
+| 1 | **Alienation** | The primal feeling of separation from self, others, nature, and meaning. The experiential ground of objectification. | **LL (Interior-Collective)** & **Cube 6:** Corrupts the intersubjective gateway, preventing the "mine → ours" transition. |
+| 2 | **Scarcity** | The pervasive, anxious sense of lack and limitation, breeding competition and hoarding. | **LR (Exterior-Collective):** Distorts systemic perception toward zero-sum economics and politics. |
+| 3 | **Domination** | The will-to-control as primary relational mode: over others, nature, and one's own psyche. | **Cube 5 (Dissociation Boundary):** Hardens the boundary into a barrier; agency manifests as control over other alters/patterns. |
+| 4 | **Anxiety** | The background hum of existential threat and chronic uncertainty, keeping consciousness in survival mode. | **ॐ Core:** Dysregulates the embodied foundation, disrupting baseline safety and affective stability. |
+| 5 | **Exploitation** | The reduction of beings (including humans) to mere resources or instruments, eroding intrinsic value. | **UR (Exterior-Individual):** Distorts perception of the exterior-individual (self/other/ecosystem) into a set of objects for use. |
+| 6 | **Numbness** | Defensive desensitization to suffering, beauty, and subtle signal; the shutdown of empathy and vibrant perception. | **UL (Interior-Individual):** Flattens subjective interiority, leading to depersonalization and loss of felt meaning. |
+| 7 | **Linear Urgency** | Time experienced as a scarce, linear, and accelerating commodity, producing hurry, burnout, and present-future collapse. | **Cube 7 (Systemic Emergence):** Disrupts healthy scale transition, locking temporal perception into a frantic, short-horizon mode. |
+| 8 | **Reductionism** | Perception of reality as fragmented, mechanistic, and devoid of inherent meaning, connection, or telos. | **Cube 8 (Meta-Perspective):** A "meta-cube" of fragmented perception; the inability to hold multiple perspectives, leading to a reductive collapse. |
+
+### 🌱 The Symbiotic Commonwealth Facets: Qualia of a Regenerative Paradigm
+These eight facets constitute the cultivated, interlocking qualia of a civilization rooted in mutualism, reverence, and abundance. They represent a coherent and salutary configuration of MAL's dissociative process toward integration and complexity.
+
+| # | Facet | Definition (As Primary Quality of Conscious Experience) | Presumptive Tesseract Cube Resonance |
+| :--- | :--- | :--- | :--- |
+| 1 | **Symbiosis** | The felt sense of mutual interdependence and co-arising; the deep pleasure of collaboration across difference. | **LL (Interior-Collective)** & **Cube 6:** Activates the intersubjective gateway, enabling fluid "mine → ours → ours-all" transitions. |
+| 2 | **Abundance** | The experience of sufficiency, generativity, and trust in life's capacity for renewal and reciprocal flow. | **LR (Exterior-Collective):** Shapes systemic perception toward regenerative economics and polycentric governance. |
+| 3 | **Collaboration** | Agency expressed as co-creation and participatory governance, where power is shared, decentralized, and enabling. | **Cube 5 (Dissociation Boundary):** Softens the boundary into a communicative membrane; agency manifests as coordination with other alters/patterns. |
+| 4 | **Courageous Trust** | The capacity to act from love, faith, and agency amid fundamental uncertainty, embracing wise vulnerability. | **ॐ Core:** Regulates the embodied foundation, establishing a baseline of somatic safety and resilient affective tone. |
+| 5 | **Reverence** | Deep respect for the intrinsic value, sanctity, and mystery of all beings and patterns, grounding ethical stewardship. | **UR (Exterior-Individual):** Transforms perception of the exterior-individual into a subject-of-experience worthy of care and wonder. |
+| 6 | **Aliveness** | Full, embodied presence and sensitivity to the full spectrum of feeling and signal; vibrant, unarmored perception. | **UL (Interior-Individual):** Enriches subjective interiority with clarity, emotional granularity, and authentic self-presence. |
+| 7 | **Cyclical Patience** | Time experienced as rhythmic, spacious, and regenerative, aligning agency with natural, recursive cycles and long horizons. | **Cube 7 (Systemic Emergence):** Enables fluid navigation across scales and time, supporting foresight and graceful phase transitions. |
+| 8 | **Holism** | Perception of reality as an interconnected, meaning-saturated whole; seeing patterns within patterns (meta-pattern recognition). | **Cube 8 (Meta-Perspective):** A "meta-cube" of integrated perception; the capacity to hold multiple, irreducible perspectives simultaneously. |
+
+### ⚙️ Operationalizing the Topography: Diagnosis & Design
+This mapping is not merely descriptive but operational. It provides a **qualitative coordinate system** for the work of perceptual and systemic regeneration outlined in the Tesseract.
+
+```mermaid
+graph TB
+    subgraph Axes[The Four Ethical Axes]
+        direction LR
+        A1[Soteriological<br>Self-Integration]
+        A2[Axiological<br>System Regeneration]
+        A3[Relational Depth<br>Connection]
+        A4[Temporal Orientation<br>Time Wisdom]
+    end
+
+    A1 --> F1[Alienation → Symbiosis]
+    A1 --> F2[Numbness → Aliveness]
+    
+    A2 --> F3[Scarcity → Abundance]
+    A2 --> F4[Exploitation → Reverence]
+    
+    A3 --> F5[Domination → Collaboration]
+    
+    A4 --> F6[Linear Urgency → Cyclical Patience]
+    A4 --> F7[Reductionism → Holism]
+    
+    A1 --> F8[Anxiety → Courageous Trust]
+```
+
+1.  **Diagnostic Analysis**: Any system (personal, community, institutional) can be analyzed by which facets dominate its experiential field. A predominance of Necrocene facets indicates a system in a degenerative, extractive, or oppressive configuration.
+2.  **Intervention Design**: Pathways and protocols can be designed to specifically cultivate target Symbiotic Commonwealth facets. For example, a protocol to foster **Cyclical Patience** would differ from one designed to instill **Reverence**, targeting different cubes and intelligences.
+3.  **Validating Perceptual Regeneration**: The shift from a Necrocene-dominant to a Symbiotic-dominant experiential field is the empirical marker of successful "perceptual regeneration." This can be tracked through first-person report, intersubjective dialogue, and behavioral shifts aligned with the target facets.
+
+**In essence, the transition from the Necrocene to the Symbiotic Commonwealth is not first a material transition, but a qualitative one: a deliberate, collective shift in the core facets of experience that constitute our shared reality tunnel.** The Tesseract is the tool for navigating this shift across all scales of consciousness.
 
 ## Neurophysiological Validation with Perceptual Markers
 
@@ -471,112 +562,6 @@ The **Nested Observer Windows (NOW) Model** provides the structural mechanism fo
 
 ### Operational Rule
 **Always check boundary equivalence before applying micro insights to macro problems.**
-
-## Experiential Topography: The Qualia of Civilizational Paradigms
-
-If the Tesseract provides the geometric and epistemic structure for navigating multi-perspectival reality ("how it's organized"), then the **qualitative experiential facets** define the felt content of that reality ("what it feels like").
-
-```mermaid
-flowchart TD
-    subgraph N[Necrocene Paradigm]
-        A1[Alienation]
-        A2[Scarcity]
-        A3[Domination]
-        A4[Anxiety]
-        A5[Exploitation]
-        A6[Numbness]
-        A7[Linear Urgency]
-        A8[Reductionism]
-    end
-
-    subgraph S[Symbiotic Commonwealth Paradigm]
-        B1[Symbiosis]
-        B2[Abundance]
-        B3[Collaboration]
-        B4[Courageous Trust]
-        B5[Reverence]
-        B6[Aliveness]
-        B7[Cyclical Patience]
-        B8[Holism]
-    end
-
-    A1 -- "transforms via connection" --> B1
-    A2 -- "transforms via generativity" --> B2
-    A3 -- "transforms via co-creation" --> B3
-    A4 -- "transforms via grounding" --> B4
-    A5 -- "transforms via reverence" --> B5
-    A6 -- "transforms via presence" --> B6
-    A7 -- "transforms via rhythm" --> B7
-    A8 -- "transforms via integration" --> B8
-
-    style N fill:#ffebee,stroke:#d32f2f
-    style S fill:#e8f5e8,stroke:#2e7d32
-```
-
-Building upon the ontological premise that consciousness is primary, this section maps two dominant, coherent sets of core experiential facets. These sets represent the deep qualia of contrasting civilizational paradigms: the **Necrocene** (a degenerative, extractive reality tunnel) and the **Symbiotic Commonwealth** (a regenerative, life-affirming reality tunnel).
-
-The 8 facets of each paradigm correspond structurally to the 8 cubes of the Tesseract, providing a diagnostic interface for perceptual regeneration. They answer a core question of the framework: If our fundamental reality is experiential, what are the primary qualities we are cultivating or suppressing at systemic scales?
-
-### 🏴‍☠️ The Necrocene Facets: Qualia of a Degenerative Paradigm
-These eight facets constitute the dominant, interlocking qualia of an extractive civilization rooted in separation, control, and scarcity. They represent a coherent but pathological configuration of the Mind at Large's (MAL's) dissociative process.
-
-| # | Facet | Definition (As Primary Quality of Conscious Experience) | Presumptive Tesseract Cube Resonance |
-| :--- | :--- | :--- | :--- |
-| 1 | **Alienation** | The primal feeling of separation from self, others, nature, and meaning. The experiential ground of objectification. | **LL (Interior-Collective)** & **Cube 6:** Corrupts the intersubjective gateway, preventing the "mine → ours" transition. |
-| 2 | **Scarcity** | The pervasive, anxious sense of lack and limitation, breeding competition and hoarding. | **LR (Exterior-Collective):** Distorts systemic perception toward zero-sum economics and politics. |
-| 3 | **Domination** | The will-to-control as primary relational mode: over others, nature, and one's own psyche. | **Cube 5 (Dissociation Boundary):** Hardens the boundary into a barrier; agency manifests as control over other alters/patterns. |
-| 4 | **Anxiety** | The background hum of existential threat and chronic uncertainty, keeping consciousness in survival mode. | **ॐ Core:** Dysregulates the embodied foundation, disrupting baseline safety and affective stability. |
-| 5 | **Exploitation** | The reduction of beings (including humans) to mere resources or instruments, eroding intrinsic value. | **UR (Exterior-Individual):** Distorts perception of the exterior-individual (self/other/ecosystem) into a set of objects for use. |
-| 6 | **Numbness** | Defensive desensitization to suffering, beauty, and subtle signal; the shutdown of empathy and vibrant perception. | **UL (Interior-Individual):** Flattens subjective interiority, leading to depersonalization and loss of felt meaning. |
-| 7 | **Linear Urgency** | Time experienced as a scarce, linear, and accelerating commodity, producing hurry, burnout, and present-future collapse. | **Cube 7 (Systemic Emergence):** Disrupts healthy scale transition, locking temporal perception into a frantic, short-horizon mode. |
-| 8 | **Reductionism** | Perception of reality as fragmented, mechanistic, and devoid of inherent meaning, connection, or telos. | **Cube 8 (Meta-Perspective):** A "meta-cube" of fragmented perception; the inability to hold multiple perspectives, leading to a reductive collapse. |
-
-### 🌱 The Symbiotic Commonwealth Facets: Qualia of a Regenerative Paradigm
-These eight facets constitute the cultivated, interlocking qualia of a civilization rooted in mutualism, reverence, and abundance. They represent a coherent and salutary configuration of MAL's dissociative process toward integration and complexity.
-
-| # | Facet | Definition (As Primary Quality of Conscious Experience) | Presumptive Tesseract Cube Resonance |
-| :--- | :--- | :--- | :--- |
-| 1 | **Symbiosis** | The felt sense of mutual interdependence and co-arising; the deep pleasure of collaboration across difference. | **LL (Interior-Collective)** & **Cube 6:** Activates the intersubjective gateway, enabling fluid "mine → ours → ours-all" transitions. |
-| 2 | **Abundance** | The experience of sufficiency, generativity, and trust in life's capacity for renewal and reciprocal flow. | **LR (Exterior-Collective):** Shapes systemic perception toward regenerative economics and polycentric governance. |
-| 3 | **Collaboration** | Agency expressed as co-creation and participatory governance, where power is shared, decentralized, and enabling. | **Cube 5 (Dissociation Boundary):** Softens the boundary into a communicative membrane; agency manifests as coordination with other alters/patterns. |
-| 4 | **Courageous Trust** | The capacity to act from love, faith, and agency amid fundamental uncertainty, embracing wise vulnerability. | **ॐ Core:** Regulates the embodied foundation, establishing a baseline of somatic safety and resilient affective tone. |
-| 5 | **Reverence** | Deep respect for the intrinsic value, sanctity, and mystery of all beings and patterns, grounding ethical stewardship. | **UR (Exterior-Individual):** Transforms perception of the exterior-individual into a subject-of-experience worthy of care and wonder. |
-| 6 | **Aliveness** | Full, embodied presence and sensitivity to the full spectrum of feeling and signal; vibrant, unarmored perception. | **UL (Interior-Individual):** Enriches subjective interiority with clarity, emotional granularity, and authentic self-presence. |
-| 7 | **Cyclical Patience** | Time experienced as rhythmic, spacious, and regenerative, aligning agency with natural, recursive cycles and long horizons. | **Cube 7 (Systemic Emergence):** Enables fluid navigation across scales and time, supporting foresight and graceful phase transitions. |
-| 8 | **Holism** | Perception of reality as an interconnected, meaning-saturated whole; seeing patterns within patterns (meta-pattern recognition). | **Cube 8 (Meta-Perspective):** A "meta-cube" of integrated perception; the capacity to hold multiple, irreducible perspectives simultaneously. |
-
-### ⚙️ Operationalizing the Topography: Diagnosis & Design
-This mapping is not merely descriptive but operational. It provides a **qualitative coordinate system** for the work of perceptual and systemic regeneration outlined in the Tesseract.
-
-```mermaid
-graph TB
-    subgraph Axes[The Four Ethical Axes]
-        direction LR
-        A1[Soteriological<br>Self-Integration]
-        A2[Axiological<br>System Regeneration]
-        A3[Relational Depth<br>Connection]
-        A4[Temporal Orientation<br>Time Wisdom]
-    end
-
-    A1 --> F1[Alienation → Symbiosis]
-    A1 --> F2[Numbness → Aliveness]
-    
-    A2 --> F3[Scarcity → Abundance]
-    A2 --> F4[Exploitation → Reverence]
-    
-    A3 --> F5[Domination → Collaboration]
-    
-    A4 --> F6[Linear Urgency → Cyclical Patience]
-    A4 --> F7[Reductionism → Holism]
-    
-    A1 --> F8[Anxiety → Courageous Trust]
-```
-
-1.  **Diagnostic Analysis**: Any system (personal, community, institutional) can be analyzed by which facets dominate its experiential field. A predominance of Necrocene facets indicates a system in a degenerative, extractive, or oppressive configuration.
-2.  **Intervention Design**: Pathways and protocols can be designed to specifically cultivate target Symbiotic Commonwealth facets. For example, a protocol to foster **Cyclical Patience** would differ from one designed to instill **Reverence**, targeting different cubes and intelligences.
-3.  **Validating Perceptual Regeneration**: The shift from a Necrocene-dominant to a Symbiotic-dominant experiential field is the empirical marker of successful "perceptual regeneration." This can be tracked through first-person report, intersubjective dialogue, and behavioral shifts aligned with the target facets.
-
-**In essence, the transition from the Necrocene to the Symbiotic Commonwealth is not first a material transition, but a qualitative one: a deliberate, collective shift in the core facets of experience that constitute our shared reality tunnel.** The Tesseract is the tool for navigating this shift across all scales of consciousness.
 
 ## Key Integration Principles
 
