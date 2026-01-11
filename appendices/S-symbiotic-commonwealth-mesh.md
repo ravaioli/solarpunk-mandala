@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix S: Symbiotic Commonwealth Mesh"
+  description: "A governance and organizational model based on decentralized, interdependent networks that coordinate through mutual benefit, shared consciousness, and distributed sovereignty rather than hierarchical control."
+  context: "Political and organizational framework within the Solarpunk Mandala that extends consciousness-first principles to governance, creating structures that balance autonomy with interconnection and local agency with global coordination."
+  key_objectives:
+    - "Define the principles of symbiotic governance and distributed sovereignty."
+    - "Model mesh network structures for resource sharing, decision-making, and collective action."
+    - "Develop protocols for conflict resolution and coordination in decentralized systems."
+    - "Establish consciousness-based criteria for participation and contribution in commonwealth networks."
+    - "Design interfaces between local bioregional autonomy and global solidarity networks."
+  core_concepts:
+    - "Distributed Sovereignty and Subsidiarity"
+    - "Mutual Benefit Coordination Protocols"
+    - "Mesh Network Governance"
+    - "Consciousness-Based Legitimacy"
+    - "Polycentric Decision-Making"
+    - "Resource Sharing and Mutual Aid Networks"
+  ontological_foundation: "Complex Systems Theory & Network Science"
+  epistemic_stance: "Systems Thinking & Participatory Design"
+  search_queries:
+    - "symbiotic commonwealth governance model"
+    - "decentralized mesh network organization"
+    - "distributed sovereignty systems"
+    - "consciousness-based governance"
+    - "polycentric decision-making networks"
+  related_nodes:
+    - "appendices/R-game-theory-mandala.md"
+    - "appendices/T-regen-economy.md"
+    - "framework/applied/05-governance-systems.md"
+  framework_status: "Developmental"
+  version: "0.9"
+  last_reviewed: "2026-01-12"
+---
 # Appendix S: The Symbiotic Commonwealth—Daily Life in the Mesh
 
 ## 1. Introduction: From "State" to "Social Body"
