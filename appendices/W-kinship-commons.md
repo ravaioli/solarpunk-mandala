@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix W: Kinship Commons"
+  description: "A framework for extending the concept of kinship beyond biological ties to include ecological, communal, and spiritual relationships, creating shared commons based on mutual care, responsibility, and interconnection."
+  context: "Social and ecological relationship framework within the Solarpunk Mandala that redefines kinship as the basis for resource sharing, collective stewardship, and interbeing consciousness across human and more-than-human communities."
+  key_objectives:
+    - "Expand kinship models to include ecological, communal, and spiritual relationships."
+    - "Develop governance and resource-sharing systems based on kinship principles."
+    - "Create rituals and practices that strengthen kinship bonds across species and ecosystems."
+    - "Establish legal and social structures that recognize more-than-human kinship rights."
+    - "Design education systems that cultivate kinship consciousness from early childhood."
+  core_concepts:
+    - "Extended Kinship Networks"
+    - "More-Than-Human Personhood"
+    - "Kinship-Based Resource Commons"
+    - "Interbeing and Interconnection"
+    - "Ancestral and Future Kinship"
+    - "Rituals of Kinship and Belonging"
+  ontological_foundation: "Relational Ontology & Ecological Psychology"
+  epistemic_stance: "Participatory Knowing & Relational Epistemology"
+  search_queries:
+    - "kinship commons framework"
+    - "more-than-human kinship"
+    - "extended kinship models"
+    - "interbeing consciousness practices"
+    - "kinship-based resource sharing"
+  related_nodes:
+    - "appendices/S-symbiotic-commonwealth-mesh.md"
+    - "appendices/T-regen-economy.md"
+    - "framework/applied/07-social-architecture.md"
+  framework_status: "Developmental"
+  version: "0.8"
+  last_reviewed: "2026-01-12"
+---
 # Appendix W: The Kinship Commons – Regenerating Care & Family
 
 ## Primary Function
