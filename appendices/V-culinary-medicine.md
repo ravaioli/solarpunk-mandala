@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix V: Culinary Medicine"
+  description: "An integrative approach to health and well-being that treats food as both physical nourishment and consciousness medicine, combining nutritional science, culinary arts, and contemplative practice for holistic healing."
+  context: "Health and wellness application of the Solarpunk Mandala, providing frameworks for using food preparation, consumption, and sharing as practices for physical health, emotional balance, and consciousness development."
+  key_objectives:
+    - "Define principles of culinary medicine that integrate nutrition, mindfulness, and community."
+    - "Develop protocols for food-based practices that support physical health and consciousness states."
+    - "Create models for regenerative food systems that heal both people and planet."
+    - "Establish culinary rituals that enhance gratitude, connection, and presence."
+    - "Bridge traditional food wisdom with modern nutritional science and consciousness research."
+  core_concepts:
+    - "Food as Consciousness Interface"
+    - "Mindful Eating and Preparation"
+    - "Nutritional Alchemy and Bioenergetics"
+    - "Regenerative Food Systems"
+    - "Culinary Rituals and Community Bonding"
+    - "Food as Medicine and Sacrament"
+  ontological_foundation: "Holistic Health & Embodied Cognition"
+  epistemic_stance: "Experiential Nutrition & Culinary Epistemology"
+  search_queries:
+    - "culinary medicine consciousness"
+    - "mindful eating practices"
+    - "food as medicine framework"
+    - "regenerative food systems health"
+    - "culinary rituals for well-being"
+  related_nodes:
+    - "appendices/M-idealist-psychopathology.md"
+    - "appendices/Q-consciousness-infrastructure.md"
+    - "practices/daily/02-mindful-nourishment.md"
+  framework_status: "Developmental"
+  version: "0.8"
+  last_reviewed: "2026-01-12"
+---
 # **Appendix V: Culinary Medicine – A Synthesis of Nourishment, Healing and Regeneration**
 
 *"Let food be thy medicine and medicine be thy food."* — Hippocrates
