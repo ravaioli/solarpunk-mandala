@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix L: Synthesis of Analytic Idealism and Indic Philosophy"
+  description: "A cross-cultural synthesis demonstrating the convergence between Western Analytic Idealism and core principles of Indic philosophical traditions, particularly Advaita Vedanta and Kashmir Shaivism. Maps correspondences in consciousness-first ontology, epistemology, and soteriology."
+  context: "Integrative philosophical appendix that bridges modern Western consciousness-first models with ancient Eastern wisdom traditions. Provides a transcultural foundation for the Solarpunk Mandala's ontological commitments and experiential practices."
+  key_objectives:
+    - "Map precise correspondences between Analytic Idealism's Mind-at-Large and Indic concepts of Brahman/Śiva."
+    - "Compare the dissociation model with Maya/Avaraṇa-Vikṣepa (veiling and projection) mechanisms."
+    - "Synthesize Western analytical rigor with Eastern contemplative methodologies."
+    - "Demonstrate how integrated framework enhances both philosophical coherence and practical realization."
+    - "Establish shared ethical and soteriological implications across traditions."
+  core_concepts:
+    - "Brahman/Mind-at-Large as Non-Dual Ground"
+    - "Maya as Dissociation Interface"
+    - "Avidya (Ignorance) vs. Vidya (Knowledge)"
+    - "Jīva (Individual) as Dissociated Boundary"
+    - "Līlā (Divine Play) as Conscious Expression"
+    - "Neti Neti (Not This, Not That) as Analytical Method"
+  ontological_foundation: "Integrated Consciousness-Only Reality (Brahman/MAL Non-Dualism)"
+  epistemic_stance: "Synthetic Comparative Philosophy & Contemplative Verification"
+  search_queries:
+    - "analytic idealism advaita vedanta comparison"
+    - "consciousness-only models East West synthesis"
+    - "Mind at Large Brahman similarities"
+    - "dissociation model Maya analogy"
+    - "Kashmir Shaivism modern idealism"
+  related_nodes:
+    - "appendices/K-formal-foundations-analytic-idealism.md"
+    - "framework/core-model/01-ontological-foundations-consciousness.md"
+    - "practices/contemplative/03-direct-path-inquiry.md"
+  framework_status: "Stable Reference"
+  version: "1.0"
+  last_reviewed: "2026-01-12"
+---
 # Appendix L: Synthesis of Analytic Idealism and Indic Philosophy
 
 ## 🔄 Executive Summary: An Integrated Consciousness Framework
