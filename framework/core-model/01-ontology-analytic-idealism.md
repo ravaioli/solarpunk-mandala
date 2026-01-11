@@ -482,72 +482,286 @@ This aligns with the view that reality is experienced by and through minds at va
 
 ## Ontological Scope: What the Model Claims vs. What It Explores
 
-### Empirical Claims (Falsifiable)
-- **Scale-free cognition**: Cognition operates across biological scales (supported by Levin 2019)
-- **Dissociation boundaries**: Systems partition and reintegrate in predictable patterns
-- **Foundation thresholds**: Systems below threshold 2 cannot sustain complex integration
+```mermaid
+flowchart TD
+    subgraph Foundation["🔷 **Analytic Idealism Foundation**<br><small>The conscious ground of reality</small>"]
+        direction LR
+        C1[Consciousness<br>as Fundamental] -->
+        C2[Boundary Conditions<br>as Structure] -->
+        C3[Pattern Logic<br>over Materialism] -->
+        C4[Ekistic-Spiritual<br>Continuum]
+    end
+    
+    Foundation --> Validation{Validation Criteria}
+    
+    subgraph Core["✅ **Core Claims**<br><small>Non-negotiable foundations</small>"]
+        direction TB
+        C1c["Consciousness<br>as Fundamental"]:::core
+        C2c["Boundary Conditions<br>as Determinants"]:::core
+        C3c["Pattern Logic<br>over Causation"]:::core
+        C4c["Ekistic-Spiritual<br>Continuum"]:::core
+    end
+    
+    Validation -->|Must satisfy all| Criteria
+    subgraph Criteria["📋 **Validation Criteria**"]
+        direction LR
+        V1["1. Maintains Analytic<br>Idealist Foundation"]
+        V2["2. Employs Boundary<br>Condition Logic"]
+        V3["3. Respects Pattern<br>Coherence"]
+        V4["4. Generates Testable<br>Implications"]
+    end
+    
+    Criteria -->|If valid| Extensions
+    
+    subgraph Extensions["🌀 **Speculative Explorations**<br><small>Extensions maintaining foundation</small>"]
+        direction TB
+        S1["🔴 **UAP & Anomalous Phenomena**<br><small>High speculation</small>"]:::high
+        S2["🟡 **Extended Consciousness**<br><small>Moderate speculation</small>"]:::moderate
+        S3["🔵 **Alternative Reality Models**<br><small>Low speculation</small>"]:::low
+        S4["🟡 **Ecological-Spiritual**<br><small>Moderate speculation</small>"]:::moderate
+    end
+    
+    Extensions --> Integration["🔄 **Living Framework Integration**<br>Extensions feed back into model evolution"]
 
-### Speculative Explorations (Not Empirical Claims)
-- **UAPs as dissociation phenomena**: This is a **thought experiment** to illustrate the model, not a claim about UAP origins
-- **Consciousness as fundamental**: This is the **ontological foundation**, not an empirical claim
-- **Geometric necessity**: The Tesseract is **structurally useful**, not mathematically proven as the only possible form
+    classDef core fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px,color:#1b5e20
+    classDef high fill:#ffebee,stroke:#c62828,stroke-width:2px,color:#b71c1c
+    classDef moderate fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#e65100
+    classDef low fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#0d47a1
+    classDef foundation fill:#f5f5f5,stroke:#616161,stroke-dasharray: 5 5
+```
 
-### Clear Boundary Markers
+### The Architecture of Ontological Commitment
 
-**When you see this icon**: 🔍 = Empirical claim with citation needed  
-**When you see this icon**: 💭 = Speculative exploration for conceptual clarity
+This framework operates with explicit, tiered ontological commitments. Unlike frameworks that either overclaim or under-specify, we maintain clarity between **core claims** (what the model asserts as fundamental) and **speculative extensions** (what the model can coherently explore). This distinction preserves intellectual rigor while allowing imaginative exploration.
 
-### Case in Point: UAPs and the Conscious Universe
+---
 
-The framework of Analytic Idealism, where reality is fundamentally conscious experience, provides a uniquely coherent lens through which to examine Unidentified Aerial Phenomena (UAPs). Rather than forcing a choice between "physical craft" and "psychic projection," idealism accommodates both facets as aspects of a deeper, conscious reality.
+### Core Claims: The Non-Negotiable Foundation
 
-#### The Analytic Idealist Interpretation
-From this perspective, UAPs are understood as legitimate contents of the universal field of mind (MAL). Their reported characteristics—seeming to defy conventional physics, displaying intelligent control, and often inducing profound psychological effects in witnesses—are consistent with phenomena arising from a reality where consciousness is primary and matter is its extrinsic appearance. This view aligns with analysis suggesting UAPs may represent a technology that is a seamless extension of mentation, where a "craft" might move as intuitively as a human moves their own body, explaining observed non-ballistic trajectories (Kastrup, 2023).
+*These propositions constitute the model's bedrock ontology, derived from analytic idealism and necessary for internal consistency.*
 
-#### Integration with the Mandala's Core Dynamics
-UAPs interact with the model's primary axes and pathways in specific, illustrative ways:
+#### 1. Consciousness as the Fundamental Ground of Reality
+- **Primary Assertion**: All reality is experiential in nature; consciousness is not emergent from matter but is the ontological primitive.
+- **Corollary**: The apparent physical world is a representation within consciousness, structured by boundary conditions that create the illusion of separation.
+- **Evidence Basis**: Philosophically derived from Bernardo Kastrup's analytic idealism; empirically consistent with the "hard problem" of consciousness and phenomena resistant to materialist explanation.
 
-*   **Soteriological Axis & Path of Awakening:** UAP encounters often trigger intense **ontological shock**, a direct assault on materialist assumptions. This can function as a powerful, if disruptive, catalyst for **Dialectical Velocity**, forcing a rapid re-evaluation of one's place in reality and potentially accelerating progress toward more integrated states of being.
-*   **Axiological Axis & Path of Making:** The seemingly impossible technology attributed to UAPs points toward a **Material Intelligence** of a radically different order. It suggests that the "grammar" of physical reality, which this axis seeks to align with, has layers of flexibility and interactivity far beyond current human paradigms, expanding the horizon of regenerative design.
-*   **Relational Depth & Temporal Orientation:** The enduring, global nature of the phenomenon demands a **long-term, cross-cultural perspective**. It fundamentally expands the scope of "relationship" to include potential non-human intelligence (NHI), challenging anthropocentrism and demanding new frameworks for intersubjective engagement.
+#### 2. Boundary Conditions as Structural Determinants
+- **Primary Assertion**: What we perceive as distinct entities, objects, or separations arise from boundary conditions within consciousness.
+- **Corollary**: These boundaries are neither arbitrary nor fixed; they can be modified, dissolved, or reconfigured through specific processes (unfolding practices).
+- **Practical Implication**: Personal and collective transformation involves boundary work—recognizing, negotiating, and sometimes dissolving these conditions.
 
-In summary, within the Solarpunk Mandala, UAPs are not merely a puzzle for aerospace engineering but a **phenomenological catalyst**. They validate the need for a consciousness-first model capable of holding physical evidence, psychological impact, and transpersonal implications in a unified view of a participatory, intelligent, and deeply mysterious reality.
+#### 3. Pattern Logic Over Material Causation
+- **Primary Assertion**: Reality follows patterns of logical relationship rather than materialist causation chains.
+- **Corollary**: Coherence and resonance between patterns determine "reality effects" more than physical proximity or mechanical interaction.
+- **Example**: Synchronicities represent pattern resonance across apparently disconnected domains of experience.
 
-## 🎭 Practical Translation: From Philosophy to GitHub
+#### 4. The Ekistic-Spiritual Continuum
+- **Primary Assertion**: Human experience requires integration across biological, built, and spiritual domains (Ekistics 1-5 extended through spiritual dimensions).
+- **Corollary**: Sustainable human flourishing (Solarpunk) requires simultaneous attention to bodily needs (MAN), built environment (SHELLS), and transcendent connection (Practice).
+- **Practical Implication**: No single domain can be optimized at the expense of others without systemic consequences.
 
-### The Repository as Conscious Manifestation
-In the terms of analytic idealism:
-- **Consciousness:** The collective intent and awareness of all contributors
-- **Physical World:** The actual codebase, issues, and documentation you see
-- **Manifestation:** The process of turning ideas (mental) into PRs (material)
+---
 
-### Concrete Implications for Contributors
+### Speculative Explorations: Extending the Model's Applications
 
-| Philosophical Concept | Practical Repository Equivalent |
-|----------------------|--------------------------------|
-| Consciousness-first reality | Intent-first contributions |
-| Mental as fundamental | Discussion threads as primary reality |
-| Physical as derivative | Code/docs as crystallized discussion |
-| World-making | Repository evolution |
+> *This section intentionally explores extended interpretations of the core model. These are not definitive claims but potential applications that remain consistent with the analytic idealist foundation. They represent different "hyperslices" of the tesseract—coherent perspectives that emerge when viewing reality through the 4D geometric framework.*
 
-### 🌉 Bridge Exercise: Idealism in Action
+#### 📐 Degree of Speculation Indicators
+Each exploration below includes a speculation level:
+- **🔵 LOW**: Strong alignment with core claims, minimal additional assumptions
+- **🟡 MODERATE**: Reasonable extension requiring some additional premises
+- **🔴 HIGH**: Creative extension that tests the model's boundaries
 
-<details>
-<summary>🔍 Try this thought experiment</summary>
+---
 
-Imagine you're about to submit a PR. According to analytic idealism:
+#### 🔴 UAP & Anomalous Phenomena Interpretation
+*How the model might explain unidentified aerial phenomena and related anomalies*
 
-1. The *ideal form* exists in your consciousness first (the intent, the vision)
-2. You engage in *mental processes* (planning, considering alternatives)
-3. You create *material representations* (code, documentation)
-4. These become part of the *shared conscious experience* when merged
+**Core Connection**: Boundary condition disturbances in collective consciousness.
 
-**Reflection Questions:**
-- How does this change your perception of "just fixing a typo"?
-- What would it mean to approach every issue as world-making?
-- How might conflicts represent different "conscious perspectives" converging?
+**Exploratory Propositions**:
+1. **Pattern Disruption Hypothesis**: UAP represent boundary condition disruptions where consensus reality patterns momentarily fail or become permeable.
+2. **Consciousness Interface Model**: Anomalous effects occur when non-human (or hyperdimensional) consciousness patterns intersect with human boundary structures.
+3. **High Strangeness as Boundary Layer Effects**: The contradictory, absurd, or physically impossible aspects of encounters result from experiencing multiple boundary configurations simultaneously.
+4. **Temporal Anomalies as 4D Projection Artifacts**: Time distortions represent glimpses of the fourth (temporal/pattern) dimension that our 3D-bound perception misinterprets.
 
-</details>
+**Supporting Observations**:
+- The "interdimensional hypothesis" in UAP research aligns with boundary permeability
+- Consciousness-correlated effects in close encounters suggest fundamental connection
+- Patterned but non-reproducible phenomena resist materialist explanation but fit pattern-logic
+
+**Open Questions**:
+- Are UAP primarily individual or collective boundary events?
+- Do they represent external consciousness or projections of human collective unconscious?
+- How might boundary practices prepare for or integrate such experiences?
+
+---
+
+#### 🟡 Extended Consciousness Phenomena
+*Applications to psi, mystical experiences, and non-ordinary states*
+
+**Core Connection**: Boundary permeability and reconfiguration.
+
+**Exploratory Propositions**:
+1. **Psi as Boundary Leakage**: Telepathy, precognition, and psychokinesis represent information/pattern transfer across typically separate boundary conditions.
+2. **Mystical States as Boundary Dissolution**: Union experiences occur when personal boundary conditions temporarily dissolve into broader consciousness.
+3. **Healing as Boundary Reconfiguration**: Trauma represents maladaptive boundary formations; healing involves safe boundary restructuring.
+4. **Collective Resonance**: Social movements and cultural shifts involve collective boundary renegotiation.
+
+**Practical Applications**:
+- Boundary mapping for therapeutic work
+- Ritual design for intentional boundary work
+- Community practices for collective boundary health
+
+---
+
+#### 🔵 Alternative Reality Models Through Analytic Idealism
+*How the framework interfaces with other metaphysical systems*
+
+**Comparative Analyses**:
+1. **Simulation Hypothesis**: If reality is consciousness-based, "simulation" becomes a boundary configuration metaphor rather than computational literalism.
+2. **Quantum Interpretations**: Quantum weirdness (entanglement, superposition) as boundary condition phenomena in consciousness-space.
+3. **Panpsychism vs. Idealism Reconciliation**: Panpsychism's consciousness-in-everything as one possible boundary configuration within fundamental consciousness.
+4. **Multiverse Theories**: Alternate realities as different boundary structure sets within the same conscious ground.
+
+**Integration Points**:
+- Each alternative model can be translated into boundary condition language
+- The tesseract model provides geometric representation where others remain abstract
+- Pattern logic unifies seemingly disparate phenomena across models
+
+---
+
+#### 🟡 Ecological-Spiritual Integration for Solarpunk
+*Applications to sustainable flourishing and nature connection*
+
+**Core Connection**: The Ekistic-Spiritual continuum requires rethinking human-nature boundaries.
+
+**Exploratory Propositions**:
+1. **Nature Consciousness**: Natural systems manifest specific boundary configurations; ecological awareness involves learning these patterns.
+2. **Built Environment as Conscious Extension**: Architecture and infrastructure create boundary conditions that either facilitate or hinder connection.
+3. **Technology as Boundary Mediation**: Tools and systems can either reinforce separation or enable new forms of connection.
+4. **Ritual as Boundary Work**: Ceremonial practices intentionally manipulate boundary conditions for specific outcomes.
+
+**Solarpunk Implications**:
+- Regenerative design as boundary healing
+- Community governance as collective boundary negotiation
+- Appropriate technology as conscious mediation choice
+
+---
+
+### Methodological Framework for Speculative Exploration
+
+```mermaid
+flowchart TD
+    subgraph Tesseract["🔳 **4D Tesseract Model**<br>Consciousness manifold with boundary conditions"]
+        direction LR
+        Dim4["🕰️ **4th Dimension**:<br>Temporal/Pattern"] -->
+        Dim3["🧊 **3D Structure**:<br>Boundary Cube"] -->
+        Dim2["📐 **2D Slices**:<br>Experiential planes"]
+    end
+    
+    Tesseract --> Projection{Hyperdimensional Projection}
+    
+    Projection --> Manifestations
+    
+    subgraph Manifestations["💠 **Manifested Ontology**"]
+        direction TB
+        subgraph CorePlane["🟢 **Core Plane**<br>Non-negotiable claims"]
+            direction LR
+            CC1["Consciousness Primacy"]
+            CC2["Boundary Determinants"]
+            CC3["Pattern Logic"]
+            CC4["Ekistic-Spiritual"]
+        end
+        
+        subgraph SpeculativePlanes["🌈 **Speculative Planes**<br>Extension hyperslices"]
+            direction LR
+            SP1["UAP Phenomena<br>🔴 High"]:::high
+            SP2["Consciousness Extensions<br>🟡 Moderate"]:::moderate
+            SP3["Reality Models<br>🔵 Low"]:::low
+            SP4["Solarpunk Integration<br>🟡 Moderate"]:::moderate
+        end
+    end
+    
+    CorePlane -->|Establishes| ValidationFramework
+    SpeculativePlanes -->|Must align with| ValidationFramework
+    
+    subgraph ValidationFramework["⚖️ **Validation Framework**"]
+        direction LR
+        VF1["Foundational<br>Consistency"]
+        VF2["Boundary<br>Logic"]
+        VF3["Pattern<br>Coherence"]
+        VF4["Testable<br>Implications"]
+    end
+    
+    ValidationFramework --> RecursiveEvolution["🔄 **Recursive Evolution**<br>Valid extensions inform new slices<br>which inform the tesseract structure"]
+    
+    RecursiveEvolution -.->|4D feedback loop| Tesseract
+
+    classDef core fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
+    classDef high fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef moderate fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    classDef low fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    classDef tesseract fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+```
+
+#### Validation Criteria for Extensions
+For any speculative proposition to be considered within the model's scope, it must:
+
+1. **Maintain Analytic Idealist Foundation**: Cannot contradict consciousness as fundamental
+2. **Employ Boundary Condition Logic**: Must use the model's structural language
+3. **Respect Pattern Coherence**: Should create more explanatory connections than it requires special exceptions
+4. **Generate Testable Implications**: Should suggest practices, observations, or experiences that could confirm/disconfirm
+
+#### Navigating Between Speculative Tiers
+- **Intra-model Exploration**: Staying within established boundary parameters
+- **Inter-model Dialogue**: Comparing with other frameworks while maintaining core integrity
+- **Trans-model Speculation**: Creative extension that might require model evolution
+
+```mermaid
+flowchart LR
+    subgraph ExplorationTiers["🧭 **Navigation Between Speculative Tiers**"]
+        direction TB
+        A[Speculative Proposition] --> B{Which Type of Exploration?}
+        
+        B -->|Most Conservative| C["🔷 **Intra-model Exploration**<br>Stays within established<br>boundary parameters"]
+        B -->|Comparative| D["🟡 **Inter-model Dialogue**<br>Compares with other frameworks<br>while maintaining core integrity"]
+        B -->|Most Expansive| E["🔴 **Trans-model Speculation**<br>Creative extension that may<br>require model evolution"]
+        
+        C --> F["✅ **Direct Application**<br>Uses existing model<br>without modification"]
+        D --> G["⚖️ **Comparative Analysis**<br>Translates other models<br>into boundary condition terms"]
+        E --> H["🌀 **Creative Extension**<br>May propose new<br>boundary configurations"]
+        
+        F & G & H --> I{Validation Process}
+        
+        I -->|Passes Criteria| J["📥 **Integrated into Framework**<br>Becomes part of the<br>living model"]
+        I -->|Fails Criteria| K["💡 **Inspirational Seed**<br>Informs future explorations<br>without direct integration"]
+    end
+    
+    J --> L["🔄 **Evolutionary Feedback**<br>Enriches the model's<br>explanatory power"]
+    K --> M["🌱 **Potential Growth**<br>May mature into valid<br>extension over time"]
+    
+    style ExplorationTiers fill:#fafafa,stroke:#666,stroke-width:2px
+```
+
+#### The Role of Speculation in a Living Framework
+Unlike rigid systems that prohibit exploration beyond core claims, this framework recognizes that:
+- Speculation drives model evolution when disciplined
+- Multiple interpretations can coexist as different boundary configurations
+- The "map is not the territory"—speculative explorations are themselves boundary conditions within consciousness
+
+---
+
+## Conclusion: A Framework for Responsible Exploration
+
+This ontological scope establishes clear boundaries while acknowledging that boundary work—including speculative exploration—is essential to the framework's purpose. By distinguishing between core claims and speculative extensions, we:
+
+1. **Maintain Philosophical Rigor** while allowing creative application
+2. **Provide Clear Navigation** for different types of inquiry
+3. **Enable Progressive Elaboration** without foundational compromise
+4. **Honor the Solarpunk Ethos** of imaginative yet grounded construction
+
+**Final Note**: The speculative sections above are not exhaustive but exemplary. New explorations that meet the validation criteria are welcome extensions of this living framework. The tesseract model's geometric nature inherently accommodates multiple simultaneous perspectives—different valid "slices" through the higher-dimensional whole.
 
 ## Analytic Idealism Integration Protocol
 
