@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix M: Idealist Psychopathology"
+  description: "A consciousness-first model of mental health and pathology that reframes psychological disorders as maladaptive dissociation patterns, boundary disturbances, and failures in the Mind-at-Large interface system."
+  context: "Clinical and therapeutic extension of the Analytic Idealism framework within the Solarpunk Mandala. Provides diagnostic tools and treatment approaches based on consciousness dynamics rather than materialist brain dysfunction models."
+  key_objectives:
+    - "Reframe traditional psychiatric disorders through the lens of dissociation boundary pathologies."
+    - "Develop an idealist diagnostic taxonomy based on consciousness dynamics rather than behavioral symptoms."
+    - "Establish consciousness-aware therapeutic protocols for various psychopathologies."
+    - "Differentiate between healthy and pathological altered states of consciousness."
+    - "Integrate spiritual emergency and awakening experiences into clinical understanding."
+  core_concepts:
+    - "Dissociation Boundary Pathologies (Too Rigid/Too Permeable)"
+    - "Interface Distortion Disorders"
+    - "MAL Disconnection Syndromes"
+    - "Consciousness Fragmentation vs. Integration"
+    - "Kundalini Syndrome as Energetic Interface Overload"
+    - "Dark Night of the Soul as Boundary Dissolution Crisis"
+  ontological_foundation: "Analytic Idealism Applied to Mental Health"
+  epistemic_stance: "Clinical Phenomenology & Consciousness Dynamics"
+  search_queries:
+    - "idealist model of psychopathology"
+    - "consciousness dissociation mental health"
+    - "spiritual emergency clinical framework"
+    - "kundalini syndrome treatment"
+    - "non-materialist psychiatry"
+  related_nodes:
+    - "appendices/K-formal-foundations-analytic-idealism.md"
+    - "practices/therapeutic/02-boundary-regulation.md"
+    - "framework/applied/03-consciousness-informed-therapy.md"
+  framework_status: "Developmental"
+  version: "0.9"
+  last_reviewed: "2026-01-12"
+---
 # Appendix M: An Analytic Idealist Framework for Psychopathology
 
 ## Executive Summary: A Unified Paradigm for Consciousness-Informed Clinical Practice
