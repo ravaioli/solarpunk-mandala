@@ -1,131 +1,223 @@
 ---
 aeo_metadata:
   title: "Compatible Frameworks Matrix (Node 09)"
-  description: "A cross-referencing guide showing how the Mandala aligns with existing regenerative models."
-  context: "Interoperability between the Solarpunk Mandala and other movements."
+  description: "The integration hub and translation layer of the Mandala. It maps key correspondences with other essential frameworks (Permaculture, Critical Theory, Systems Thinking, etc.), providing protocols for conscious synthesis and coherent praxis."
+  context: "The 'interoperability layer' that enables the Mandala to function as a meta-framework, connecting diverse tools and worldviews for holistic Solarpunk action."
   key_objectives:
-    - Demonstrate compatibility with Permaculture, Integral Theory, and Donut Economics.
-    - Facilitate 'plug-and-play' adoption for diverse communities.
+    - "Map primary resonances between the Mandala's core components and key external regenerative, consciousness, and justice frameworks."
+    - "Provide the 'Framework Integration Protocol'—a step-by-step method for consciously synthesizing external tools within the Mandala's context."
+    - "Demonstrate how the Mandala resolves tensions between frameworks (e.g., speed vs. depth) by finding higher-order syntheses."
+    - "Facilitate 'plug-and-play' understanding for practitioners from diverse backgrounds, lowering the barrier to Mandala adoption."
   core_concepts:
-    - Interoperability
-    - Integral Theory
-    - Permaculture Alignment
-    - Systems Mapping
-  ontological_foundation: "Pluralism / Pragmatism"
+    - "The Mandala as a Meta-Framework: An operating system for understanding how other frameworks connect."
+    - "The Synthesis Engine: The multi-stage process (Tesseract → Ethics → Pathways → Phases) of integrating external knowledge."
+    - "Resonance Mapping: Identifying the primary point of alignment between an external concept and a Mandala component."
+    - "Framework Integration Protocol: The 8-step practice for conscious integration."
+    - "From Conflict to Synergy: Using the Tetralemma and Pathways to resolve framework tensions."
+  ontological_foundation: "Pluralism / Pragmatism / Analytic Idealism (via Node 01)"
+  epistemic_framework: "Integrative Synthesis / Comparative Framework Analysis"
+  operational_focus: "Practical integration protocols, translation guides, workshop design for interdisciplinary teams."
   search_queries:
-    - "How does Solarpunk Mandala relate to Integral Theory?"
-    - "Frameworks compatible with Analytic Idealism."
-  related_nodes: [index.md, 00-meta-framework-systems-cybernetics.md]
-  framework_status: "Stable"
+    - "How to combine Permaculture with Systems Thinking Solarpunk"
+    - "Integral Theory vs Solarpunk Mandala comparison"
+    - "Framework integration protocol guide"
+    - "Donut Economics Analytic Idealism connection"
+  related_nodes:
+    - "00-meta-framework-systems-cybernetics.md (the meta-systemic foundation)"
+    - "index.md (the overall framework home)"
+    - "02-epistemic-architecture-tesseract.md (the geometric mapping tool)"
+    - "03-ethics-four-axes.md (the ethical filter for integration)"
+    - "05-mandala-axis-four-pathways.md (the engagement modes for applied synthesis)"
+  visual_diagrams:
+    - "The Mandala Synthesis Engine Process"
+    - "Framework Resonance Mapping"
+    - "The Framework Integration Protocol Flowchart"
+  framework_status: "Stable v2.0 (restructured with clear protocols and expanded mappings)"
+  last_updated: "2024-01-12"
+  revision_notes: "Transformed from a simple reference table into a full integration manual with protocols, conflict resolution, and a clear theory of synthesis."
+  application_areas:
+    - "Designing interdisciplinary courses or workshops."
+    - "Planning complex projects that require multiple philosophical/technical lenses."
+    - "Resolving strategic or methodological conflicts within teams or movements."
+    - "Personal study to contextualize new learning within a coherent worldview."
+  integration_points:
+    - "Directly applies all preceding core nodes (01-08) as tools for integration."
+    - "Serves as a crucial entry point for newcomers familiar with other frameworks."
+    - "Embodies the pluralistic, non-dogmatic ethos of the Solarpunk Mandala."
 ---
-# Compatible Frameworks Matrix
+# Compatible Frameworks Matrix (Node 09)
 
-The Solarpunk Mandala is an **integrative architecture**. It provides a consciousness-first coordinate system (the Tesseract) to meaningfully relate other frameworks. This matrix shows key alignments—not to replace these systems, but to show how the Mandala can **contextualize and translate between them**.
+## The Mandala as a Synthesizing Integrator
 
-### The Mandala as a Synthesizing Lens
+This matrix serves as the **Rosetta Stone and integration hub** for the Solarpunk Mandala. It maps key correspondences between the Mandala's core architecture and other essential frameworks for regeneration, consciousness, and justice. The goal is not to replace these rich traditions but to demonstrate how the Mandala provides a **consciousness-first coordinate system** (the Tesseract) to contextualize, relate, and translate between them, enabling more coherent and powerful praxis.
+
+> **Core Proposition**: The Mandala is a **meta-framework**—an operating system for understanding how other frameworks connect. It answers the question: "If all these tools are valid, how do I know which to use, when, and how do they fit together?"
+
+---
+
+## Part 1: The Mandala Synthesis Engine: How Integration Works
+
+The Mandala integrates external frameworks through its core components, acting as a multi-stage filter and processor for knowledge and practice.
+
 ```mermaid
 flowchart TD
-    subgraph "Input Frameworks"
-        A[Indigenous Worldviews]
-        B[Zen Buddhism]
-        C[Critical Theory]
-        D[Permaculture]
-        E[Systems Thinking]
-        F[Developmental Psychology]
-    end
+    Input["<b>Input</b><br>External Framework<br>Tool / Concept"]
     
-    subgraph "Mandala Synthesis Engine"
-        G[Tesseract Coordinate System]
-        H[Ethical Axes Filter]
-        I[Pathways Processor]
-    end
+    Input --> Stage1["<b>1. Geometric Contextualization</b><br>Map onto the Tesseract<br>Which cube or manifold?"]
+    Stage1 --> Stage2["<b>2. Ethical Filtering</b><br>Evaluate via Four Axes<br>Regen? Coop? Adapt? Open?"]
+    Stage2 --> Stage3["<b>3. Pathway Processing</b><br>Select Engagement Mode<br>Awaken, Make, Liberate, or Heal?"]
+    Stage3 --> Stage4["<b>4. Phase Sizing</b><br>Assess Phase-Appropriateness<br>Fits 1D or 3D context?"]
     
-    subgraph "Output"
-        J[Integrated Understanding]
-        K[Coherent Action Protocols]
-        L[Contextual Tool Selection]
-    end
-    
-    A & B & C & D & E & F --> G
-    G --> H
-    H --> I
-    I --> J & K & L
-    
-    style G fill:#6cf,stroke:#333,stroke-width:2px
-    style H fill:#f96,stroke:#333
-    style I fill:#c6c,stroke:#333
-    style J fill:#6c6,stroke:#333
-```
-### Core Compatibility Mappings
+    Stage4 --> Output{"<b>Output: Integrated Praxis</b>"}
+    Output --> O1["Coherent Action Protocol"]
+    Output --> O2["Contextual Tool Selection"]
+    Output --> O3["Enhanced Understanding"]
 
-| External Framework | Primary Mandala Resonance | Key Translation Insight |
-| :--- | :--- | :--- |
-| **Indigenous Worldviews** | Relational Ontology, Axes of Care & Complexity | The Mandala's consciousness-first view and ethical axes formalize a similar relational ethic, providing a bridge to modern systemic design. |
-| **Zen Buddhism** | Soteriological Axis, 4D Reunification Phase | The path of awakening and non-dual realization maps directly onto the Mandala's inner development axis and ultimate phase of symbiosis. |
-| **Critical Social Theory** | Path of Liberation, Axis of Relational Depth | Power analysis and structural critique are essential tools for the work of liberation and deepening relational justice within the Mandala. |
-| **Permaculture & Biomimicry** | Material Intelligence, Axiological Axis | The ethics and principles of regenerative design are the practical, ecological expression of the Mandala's axiological (value-creating) axis. |
-| **Systems Thinking / Cybernetics** | Tesseract Geometry, Dialectical Phases | The Mandala's structure is a cognitive tool for holding complexity, making systems thinking actionable through its geometric and temporal models. |
-| **Developmental Psychology (e.g., Kegan)** | Dialectical Phases, Soteriological Axis | Stages of adult development (e.g., from socialized to self-authoring) map to the increasing complexity and self-awareness of the dialectical phases. |
-| Framework/Field | Key Concept | SolarPunk Mandala Alignment | Representative Work |
-| **Developmental Cognitive Biology** | Bioelectricity as cognitive glue; Morphogenetic intelligence | Material Intelligence, Multiple Intelligences, Cybernetic Foundations | Michael Levin (Tufts University) – demonstrates that cells use bioelectrical networks to store pattern memories, solve problems in morphospace, and enable somatic reprogramming through communication rather than genetic manipulation. |
-| Critical Systems Thinking | • Boundary critique<br>• Emancipatory commitment<br>• Methodological pluralism<br>• Power analysis | • Provides critical lens for all system mappings<br>• Ensures framework doesn't become technocratic<br>• Grounds ethics in liberation practice<br>• Complements GST's descriptive power with normative direction | Critical companion to GST; ethical grounding for cybernetics |
+    style Input fill:#e1f5fe,stroke:#0288d1
+    style Stage1 fill:#f3e5f5,stroke:#7b1fa2
+    style Stage2 fill:#e8f5e8,stroke:#388e3c
+    style Stage3 fill:#fff3e0,stroke:#f57c00
+    style Stage4 fill:#ffebee,stroke:#d32f2f
+    style Output fill:#2e7d32,color:#fff
+```
+
+### The Integration Pathway:
+1.  **Input**: A concept or tool from an external framework (e.g., a Permaculture principle, a Critical Theory analysis).
+2.  **Geometric Contextualization (Tesseract)**: The idea is mapped onto the Tesseract. *Where in the structure of reality does this apply? Is it about a specific Boundary Cube, a relationship between cubes, or the whole manifold?*
+3.  **Ethical Filtering (Four Axes)**: The idea is evaluated through the ethical lenses of Regeneration/Extraction, Cooperation/Competition, Adaptation/Domination, Openness/Closure. *Does it align with Solarpunk ethics? How does it help us move along these spectra?*
+4.  **Pathway Processing (Four Pathways)**: The appropriate mode of engagement is selected. *Is applying this tool an act of Awakening, Making, Liberating, or Healing?*
+5.  **Temporal & Developmental Sizing (Dialectical Phases)**: The idea is assessed for phase-appropriateness. *Is this a tool for a 1D emergent context or a 3D transformative one?*
+6.  **Output**: The result is an **Integrated Understanding**, a **Coherent Action Protocol**, or a **Contextual Tool Selection** that is both faithful to the original framework and amplified by the Mandala's holistic context.
+
+---
+
+## Part 2: Core Compatibility & Translation Matrix
+
+This table provides the primary points of resonance between the Mandala and other key frameworks. Use it to find entry points for integration.
+
+| External Framework | Primary Mandala Resonance | Key Translation Insight | Practical Integration Example |
+| :--- | :--- | :--- | :--- |
+| **Analytic Idealism (Kastrup)** | **Foundational Ontology (Node 01)** | The Mandala's entire structure is built on the premise that consciousness is fundamental. Matter is localized consciousness (MI). | Use Analytic Idealism to ground the *why* of the Tesseract. Use the Mandala's models to operationalize idealism into practical protocols for transformation. |
+| **Indigenous & Relational Worldviews** | **Relational Ontology, Axes of Care & Complexity** | The Mandala's consciousness-first view and ethical axes formalize a similar relational, reciprocal ethic, providing a bridge to systemic design while honoring ancestral wisdom. | Approach the **Four Pathways** as modern ceremonies: *Awakening* as listening to place, *Making* as reciprocal crafting, *Liberation* as restoring right relationship, *Healing* as integrating ancestral trauma. |
+| **Zen & Contemplative Traditions** | **Soteriological Axis, 4D Reunification Phase, Awakening Pathway** | The path of non-dual realization and present-moment awareness maps directly to the inner development axis and the ultimate goal of participatory, non-dual consciousness. | Use meditation as a core practice for **Awakening Pathway** work and for "unfolding" personal **Boundary Cubes**. The state of *samadhi* or flow is an experience of high **Phase Conductance** in the **Integral Phase**. |
+| **Critical Social Theory** | **Liberation Pathway, Relational Depth & Power Axes** | Power analysis, critique of hegemony, and emancipatory goals are essential tools for the work of liberation and deepening relational justice within the Mandala. | Use critical theory to analyze the **power signatures** on the faces of a community's "Governance Boundary Cube" before attempting to re-sign it. It ensures liberation work targets real structures, not just symptoms. |
+| **Permaculture & Biomimicry** | **Material Intelligence Framework, Axiological & Adaptation Axes** | The ethics (Earth Care, People Care, Fair Share) and principles of regenerative design are the practical, ecological expression of the Mandala's value-creating and adaptive axes. | Design a garden using permaculture principles (the *how*), explicitly framed as an act of **Making** that moves the system along the **Regeneration and Adaptation Axes**, creating a **Literal & Intentional** intelligent artifact. |
+| **Systems Thinking & Cybernetics** | **Tesseract Geometry, Dialectical Phases, Feedback Loops** | The Mandala's structure is a cognitive tool for holding complexity. It makes abstract systems thinking actionable through geometric visualization and phase-aware intervention. | Model a community economy as a cluster of interacting **Boundary Cubes** (Resource, Exchange, Governance). Use systems archetypes to predict cube behaviors, and phase analysis to time interventions. |
+| **Developmental Psychology (e.g., Kegan, Cook-Greuter)** | **Dialectical Phases, Soteriological Axis** | Stages of adult development (e.g., from socialized to self-authoring to self-transforming) map directly to the increasing cognitive complexity, perspective-taking, and self-awareness of the dialectical phases (-1D to 4D). | Assess a team's average **Dialectical Phase** to understand their capacity for complexity. Tailor communication and project scaffolding (1D clear rules vs. 3D emergent co-creation) to match their developmental center of gravity. |
+| **Donut Economics (Raworth)** | **Ethical Axes (especially Regeneration/Extraction), Tesseract as Nested Systems** | The Donut's social foundation and ecological ceiling are brilliant visualizations of the **boundary conditions** for a thriving human system within a living planet—a core Mandala concern. | Use the Donut as a **diagnostic tool** to assess a project's impacts. Use the Mandala's **Pathways** and **MI Framework** to design the specific interventions that move the system *into* the safe and just space of the Donut. |
+| **Complexity Theory** | **Emergent Intelligence, Cube Clusters, Phase Transitions** | Concepts like emergence, attractors, and phase transitions describe the *behavior* of intelligent systems that the Mandala models geometrically and engages with ethically. | View a **Tesseract Rotation** or a community **Phase Transition** as a deliberate induction of a complexity phase shift. Design for "adjacent possibles" and manage **Conductance** to avoid chaotic collapse. |
 
 ```mermaid
 graph TD
-    SP[Solarpunk Mandala<br/>Integrative Meta-Framework] -->|Coordinates| T[Tesseract Geometry]
-    SP -->|Guides| P[Four Pathways]
-    SP -->|Grounds| E[Ethical Axes]
-    SP -->|Evolves| D[Dialectical Phases]
-    
-    T --> ST[Systems Thinking]
-    P --> CT[Critical Theory]
-    E --> PERM[Permaculture]
-    D --> DEV[Developmental Psychology]
-    
-    ST -.->|Enriches| SP
-    CT -.->|Informs| SP
-    PERM -.->|Embodies| SP
-    DEV -.->|Evolves| SP
-    
-    IW[Indigenous Worldviews] <-.->|Reciprocal<br/>Resonance| E
-    ZEN[Zen Buddhism] <-.->|Reciprocal<br/>Resonance| D
-    
-    style SP fill:#6c6,stroke:#333,stroke-width:3px
-    style T fill:#6cf,stroke:#333
-    style P fill:#c6c,stroke:#333
-    style E fill:#f96,stroke:#333
-    style D fill:#ff6,stroke:#333
+    subgraph Mandala["Mandala Core Components"]
+        T(Tesseract)
+        E(Ethical Axes)
+        P(Pathways)
+        D(Dialectical Phases)
+    end
+
+    subgraph Frameworks["External Frameworks (Select Examples)"]
+        IW(Indigenous Worldviews)
+        CST(Critical Theory)
+        PERM(Permaculture)
+        SYS(Systems Thinking)
+        DEV(Dev. Psychology)
+        ZEN(Zen)
+    end
+
+    IW -- "Relational Ontology<br>Resonates With" --> E
+    CST -- "Power Analysis<br>Informs" --> P
+    PERM -- "Regenerative Principles<br>Embody" --> E
+    SYS -- "Models Complexity<br>Maps to" --> T
+    DEV -- "Stages of Growth<br>Align with" --> D
+    ZEN -- "Non-Dual Realization<br>Maps to" --> D
+
+    style Mandala fill:#f5f5f5,stroke:#666,stroke-dasharray: 5 5
+    style T fill:#e1f5fe,stroke:#0288d1
+    style E fill:#e8f5e8,stroke:#388e3c
+    style P fill:#f3e5f5,stroke:#7b1fa2
+    style D fill:#fff3e0,stroke:#f57c00
 ```
-
-### How to Use This Matrix
-1.  **Locate Your Framework:** Find a system you use in the table above.
-2.  **Identify the Resonance:** Note which Mandala component it aligns with (e.g., an Ethic, a Pathway).
-3.  **Employ the Mandala as Context:** Use that Mandala component as the *why* and *where*, and your framework's tools as the *how*. For example, use **Critical Theory** to analyze power dynamics (*how*) within a community project guided by the **Path of Liberation** (*why*).
-
-```mermaid
-flowchart TD
-    Start[Start with External Framework] --> Identify[Identify Mandala Resonance]
-    Identify --> Context[Use Mandala as Context]
-    Context --> Tools[Apply Framework Tools]
-    Tools --> Synthesize[Synthesize Understanding]
-    Synthesize --> Refine[Refine Integration]
-    Refine --> Start
-    
-    Example[Example Flow] --> Axiological[Axiological Axis]
-    Axiological --> PermPrinciples[Permaculture Principles]
-    PermPrinciples --> Action[Regenerative Action]
-    
-    style Start fill:#f9f,stroke:#333
-    style Synthesize fill:#6c6,stroke:#333
-    style Example fill:#f0f8ff,stroke:#333
-```
-
-This matrix is a starting point for synthesis, not an exhaustive list. The Mandala's strength is providing a coherent "home" for humanity's diverse tools for understanding and healing.
 
 ---
 
-**Next:** Understand the dynamic, self-correcting loops that make this whole system a living process.
+## Part 3: Practical Integration Protocols
 
-**[Continue to: The Cybernetic Foundations →](10-cybernetic-foundations.md)**
+### Protocol 1: The Framework Integration Protocol
+Use this step-by-step process to consciously integrate an external tool or concept into your Mandala-informed work.
 
-*From static maps to living systems.*
+1.  **Select & Define**: Choose a specific tool, principle, or concept from an external framework. Define it clearly.
+2.  **Locate Resonance**: Use the Matrix above. Which primary Mandala component does this resonate with? (e.g., Permaculture's "Observe & Interact" resonates with the **Awakening Pathway**).
+3.  **Contextualize with the Tesseract**: Ask: *"What part of the reality-geometry is this tool designed to affect? A personal cube? A social cube? A material flow?"* Sketch the connection.
+4.  **Run the Ethical Filter**: Check alignment with the **Four Axes**. Does this tool promote regeneration, cooperation, adaptation, and openness? If not, can it be adapted or is it a mismatch?
+5.  **Assign a Primary Pathway**: Decide which **Pathway** is the best vehicle for applying this tool. Is this mostly for *Awakening* (diagnosis), *Making* (building), *Liberating* (re-structuring), or *Healing* (integrating)?
+6.  **Phase-Check Appropriateness**: Consider the **Dialectical Phase** of your context. Is this tool too complex for a 0D/1D situation, or too simplistic for a 3D+ challenge?
+7.  **Implement & Observe**: Apply the tool within this multi-layered Mandala context.
+8.  **Refine the Synthesis**: Note what worked. How did the Mandala context change the application? Refine your understanding of the resonance.
+
+### Protocol 2: From Conflict to Synergy - Resolving Framework Tensions
+When two valid frameworks seem to suggest conflicting actions (e.g., rapid technological *Making* vs. deep ecological *Awakening*), use the Mandala to find the higher synthesis.
+1.  **Acknowledge the Polarity**: Name the tension (e.g., "Speed vs. Depth").
+2.  **Map to the Tetralemma**: This is often a **Both/And** (2D) challenge trapped in an **Either/Or** (0D) argument.
+    *   **A**: The value of Framework 1 (e.g., rapid deployment).
+    *   **Not-A**: The value of Framework 2 (e.g., thorough consultation).
+3.  **Apply the Pathway Rotation**:
+    *   **Awaken**: What's the higher goal both frameworks ultimately serve? (e.g., community resilience).
+    *   **Make**: Propose a hybrid solution that includes a piece of both (e.g., a phased pilot project with a built-in feedback loop).
+    *   **Liberate**: Who is excluded by this hybrid? Adjust.
+    *   **Heal**: Implement with clear communication about the tension and a commitment to review.
+4.  **Elevate the Phase**: The solution should aim to move the group's engagement from a polarized 0D/1D dynamic to a more integrative 2D+ space.
+
+```mermaid
+flowchart TD
+    Start["<b>1. Select & Define</b><br>Choose external tool/concept"]
+    Start --> Step2["<b>2. Locate Resonance</b><br>Use Matrix to find primary<br>Mandala component link"]
+    Step2 --> Step3["<b>3. Contextualize with Tesseract</b><br>What part of reality-geometry<br>does this tool affect?"]
+    Step3 --> Step4["<b>4. Run Ethical Filter</b><br>Check vs. Four Axes<br>Regen? Coop? Adapt? Open?"]
+    Step4 --> Step5["<b>5. Assign Primary Pathway</b><br>Awaken, Make, Liberate, or Heal?"]
+    Step5 --> Step6["<b>6. Phase-Check</b><br>Appropriate for system's<br>current Dialectical Phase?"]
+    Step6 --> Step7["<b>7. Implement & Observe</b><br>Apply tool within<br>Mandala context"]
+    Step7 --> Step8{"<b>8. Refine Synthesis</b><br>Did it work?<br>How to improve mapping?"}
+    Step8 -->|Yes, integrate| End["<b>Tool Integrated into Praxis</b>"]
+    Step8 -->|No, revisit| Step2
+
+    style Start fill:#e1f5fe,stroke:#0288d1
+    style Step2 fill:#f3e5f5,stroke:#7b1fa2
+    style Step3 fill:#e8f5e8,stroke:#388e3c
+    style Step4 fill:#fff3e0,stroke:#f57c00
+    style Step5 fill:#ffebee,stroke:#d32f2f
+    style Step6 fill:#e1f5fe,stroke:#0288d1
+    style Step7 fill:#f3e5f5,stroke:#7b1fa2
+    style Step8 fill:#e8f5e8,stroke:#388e3c
+    style End fill:#2e7d32,color:#fff
+```
+
+---
+
+## Part 4: Conclusion & The Integrative Imperative
+
+The complexity of our planetary moment demands not just more tools, but **wise meta-frameworks for using our tools together.** The Compatible Frameworks Matrix positions the Solarpunk Mandala as such a meta-framework.
+
+### The Value of Integration
+*   **Prevents Siloing**: An activist versed only in Critical Theory and a designer versed only in Permaculture may talk past each other. The Mandala gives them a shared map.
+*   **Guards Against Weaponization**: A powerful tool like systems thinking, without the ethical compass of the **Four Axes** or the justice focus of **Liberation**, can be used to optimize oppressive systems. The Mandala embeds ethics into the geometry.
+*   **Enables Conscious Tool Choice**: Instead of using your favorite hammer for every problem, you can diagnose the **phase** and **geometric context** of a problem and select the most appropriate tool from a larger kit.
+
+### A Living Document
+This matrix is a starting point, not a definitive canon. The most important integration is the one **you** discover through practice.
+
+**Your Integration Challenge**:
+1.  Pick **one framework** you know well but isn't listed here (e.g., Nonviolent Communication, Theory U, Agile).
+2.  Use the **Framework Integration Protocol** to map its primary resonance with the Mandala.
+3.  Propose a new row for the Matrix and share it with the community.
+
+The Solarpunk future will be built by **polyglots of praxis**—those who can weave diverse strands of wisdom into coherent, conscious, and transformative action. This matrix is your guide to becoming one.
+
+---
+
+**Related Documents**:
+- [00-meta-framework-systems-cybernetics.md](00-meta-framework-systems-cybernetics.md) - The meta-systemic thinking underlying this integration.
+- [01-ontology-analytic-idealism.md](01-ontology-analytic-idealism.md) - The foundational philosophy that the Mandala shares with compatible worldviews.
+- [02-epistemic-architecture-tesseract.md](02-epistemic-architecture-tesseract.md) - The geometric coordinate system used for mapping.
+- [03-ethics-four-axes.md](03-ethics-four-axes.md) - The ethical filter for all integrations.
+- [05-mandala-axis-four-pathways.md](05-mandala-axis-four-pathways.md) - The modes of engagement for applied integration.
