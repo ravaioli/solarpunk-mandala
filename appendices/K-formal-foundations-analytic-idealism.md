@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix K: Formal Foundations of Analytic Idealism"
+  description: "A rigorous, first-principles formalization of Analytic Idealism as a consciousness-first ontology. Establishes logical axioms, mathematical proofs, and computational models to demonstrate that reality is best understood as manifestations of a fundamental consciousness (Mind-at-Large)."
+  context: "Technical and philosophical foundation for the consciousness-first paradigm within the Solarpunk Mandala. Provides the logical, mathematical, and scientific scaffolding that undergirds the framework's core ontological commitment."
+  key_objectives:
+    - "Formalize the core axioms and theorems of Analytic Idealism using logic, mathematics, and type theory."
+    - "Reinterpret key scientific domains (quantum mechanics, neuroscience, information theory) through a consciousness-first lens."
+    - "Define the Dissociation-Perception Interface Model as the mechanism for individual conscious experience."
+    - "Derive testable empirical predictions that distinguish idealism from materialist models."
+    - "Provide computational implementations that simulate a consciousness-first reality."
+  core_concepts:
+    - "Analytic Idealism"
+    - "Mind-at-Large (MAL)"
+    - "Dissociation-Perception Interface"
+    - "Consciousness as Fundamental Reality"
+    - "Matter as Derivative Appearance"
+    - "Boundary Formation & Modulation"
+  ontological_foundation: "Analytic Idealism (Consciousness-First Ontology)"
+  epistemic_stance: "Formal/Logical Derivation & Empirical Correlation"
+  search_queries:
+    - "analytic idealism formal foundation"
+    - "consciousness-first ontology mathematical proof"
+    - "mind at large dissociation model"
+    - "idealist interpretation of quantum mechanics"
+    - "consciousness as fundamental reality"
+  related_nodes:
+    - "framework/core-model/02-epistemic-architecture-tesseract.md"
+    - "framework/core-model/04-dialectical-phases-velocity.md"
+    - "appendices/L-empirical-testing-protocols.md"
+  framework_status: "Stable Reference"
+  version: "1.0"
+  last_reviewed: "2026-01-12"
+---
 # Appendix K: Formal Foundations of Analytic Idealism
 
 ## Executive Summary: A Complete First-Principles Framework
