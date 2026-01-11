@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix Q: Consciousness Infrastructure"
+  description: "A framework for designing physical, digital, and social infrastructures that actively support and enhance consciousness development, contemplative practice, and collective awakening at individual, community, and planetary scales."
+  context: "Applied infrastructure design within the Solarpunk Mandala, extending consciousness-first principles to built environments, technology systems, and social architectures that facilitate awakening and integration."
+  key_objectives:
+    - "Define design principles for consciousness-supportive physical environments (architecture, landscapes, sacred spaces)."
+    - "Develop frameworks for digital infrastructures that enhance rather than fragment attention and awareness."
+    - "Create models for social and organizational structures that facilitate collective consciousness development."
+    - "Establish evaluation criteria for infrastructure projects based on consciousness enhancement metrics."
+    - "Integrate contemplative, epistemic, ethical, and practical dimensions into infrastructure design."
+  core_concepts:
+    - "Contemplative Architecture and Sacred Space Design"
+    - "Attention-Preserving Digital Environments"
+    - "Consciousness-Supportive Social Architectures"
+    - "Infrastructure as Practice Support System"
+    - "Technologies of Self-Transcendence"
+    - "Consciousness-Enhancing Urban Planning"
+  ontological_foundation: "Extended Mind Theory & Consciousness-First Design"
+  epistemic_stance: "Applied Design Science & Phenomenological Evaluation"
+  search_queries:
+    - "consciousness infrastructure design"
+    - "contemplative architecture principles"
+    - "attention-preserving technology design"
+    - "sacred space design for awakening"
+    - "consciousness-supportive urban planning"
+  related_nodes:
+    - "appendices/P-consciousness-based-education.md"
+    - "framework/applied/04-infrastructure-design.md"
+    - "practices/architectural/01-consciousness-enhancing-spaces.md"
+  framework_status: "Developmental"
+  version: "0.8"
+  last_reviewed: "2026-01-12"
+---
 # Appendix Q: Consciousness Infrastructure — Protocols for Scaling Regenerative Awareness
 
 ## Executive Summary: Engineering Civilizations of Connection
