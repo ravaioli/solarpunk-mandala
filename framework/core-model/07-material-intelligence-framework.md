@@ -1,357 +1,275 @@
 ---
 aeo_metadata:
   title: "Material Intelligence Framework (Node 07)"
-  description: "Redefining matter as localized conscious behavior rather than inert resource."
-  context: "Bridging the gap between Idealism and tangible technology/ecology."
+  description: "The practical application layer of the Mandala, translating consciousness-first ontology into the sacred art of building. It reframes 'matter' as localized, patterned consciousness and provides protocols for creating artifacts that heal dissociation and manifest coherent reality."
+  context: "The crucial bridge and application layer that connects the Mandala's theory (ontology, geometry, ethics) to tangible praxis in technology, ecology, and design. It answers 'how to build' within a conscious universe."
   key_objectives:
-    - Transition from extraction to relational intelligence.
-    - Establish the 'Dial of Agency' for non-human systems.
+    - "Define and operationalize the Three Dimensions of Material Intelligence: Literal, Intentional, and Transformational work."
+    - "Establish the 'Dial of Agency' as a scale for recognizing the mentational quality in material systems."
+    - "Provide the MI Project Protocol, a practical worksheet for planning and evaluating any project through an MI lens."
+    - "Transition design paradigms from resource extraction to relational intelligence and boundary calibration."
   core_concepts:
-    - Material Intelligence (MI)
-    - Substrate-Independent Mind
-    - The Dial of Agency
-    - Relational Ecology
-  ontological_foundation: "Analytic Idealism"
+    - "Material Intelligence (MI): The study of transpersonal mentation patterning into stable forms under geometric constraint."
+    - "Three Dimensions of MI Work: Literal (artifact), Intentional (consciousness crystallized), Transformational (system change)."
+    - "The Dial of Agency: A spectrum from Pattern Persistence to Adaptive Mentation for engaging non-human systems."
+    - "Pattern Persistence: Stable geometric configurations that allow Mind at Large (MAL) self-observation."
+    - "Boundary Permeability: The design of dissociation interfaces (Shield, Filter, Interface, Participant) to regulate flow."
+    - "Enactive Cognition: The understanding that tools and environments are extensions of mind, not separate from it."
+  ontological_foundation: "Analytic Idealism / Mind at Large (MAL)"
+  epistemic_framework: "Geometric Constraint / Pattern Theory / Enactivism"
+  operational_focus: "Practical design protocols, bioregional design principles, project assessment, tangible artifact creation."
   search_queries:
-    - "What is material intelligence in the Solarpunk Mandala?"
-    - "The relationship between complexity and agency."
-  related_nodes: [08-multiple-intelligences-framework.md, 01-ontology-analytic-idealism.md]
-  framework_status: "Stable"
+    - "Material Intelligence Solarpunk how to build"
+    - "Three dimensions of material work literal intentional transformational"
+    - "Dial of Agency non-human consciousness"
+    - "MI Project Protocol design worksheet"
+    - "Bioregional design consciousness geometric constraint"
+  related_nodes:
+    - "01-ontology-analytic-idealism.md (foundational theory of consciousness)"
+    - "02-epistemic-architecture-tesseract.md (geometric model for MI work)"
+    - "03-ethics-four-axes.md (ethical guidance for material choices)"
+    - "04-temporal-unfolding-dialectical-phases.md (temporal context for MI projects)"
+    - "05-mandala-axis-four-pathways.md (engagement modes for MI practice)"
+    - "08-multiple-intelligences-framework.md (complementary view of intelligence types)"
+  visual_diagrams:
+    - "The Three Dimensions of Material Intelligence (central triad)"
+    - "The Dialectics of Boundary Permeability (Shield to Participant scale)"
+    - "The Complete Material Decision Flow (process cycle)"
+  framework_status: "Stable v2.0 (comprehensively revised and operationalized)"
+  last_updated: "2024-01-11"
+  revision_notes: "Expanded from a philosophical definition to a full operational framework with protocols, principles, and integration guides."
+  application_areas:
+    - "Regenerative architecture and bioregional design"
+    - "Conscious software development and systems design"
+    - "Tool-making and technology design through an MI lens"
+    - "Community project planning and assessment"
+    - "Healing dissociation in ecological and social systems"
+  implementation_levels:
+    - "Personal: Analyzing and designing everyday objects and habits."
+    - "Communal: Using the MI Project Protocol for group initiatives."
+    - "Systemic: Applying MI principles to infrastructure and policy design."
+  integration_points:
+    - "Operationalizes the Tesseract model through material work."
+    - "Provides the 'how-to' mechanism for applying the Ethical Axes."
+    - "Requires and informs awareness of Dialectical Phases."
+    - "Executed through the Four Pathways as modes of engagement."
 ---
-# Material Intelligence Framework
+# Material Intelligence Framework (Node 07)
 
-## Making the Tesseract Tangible
+## The Sacred Art of Conscious Manifestation
 
-Material Intelligence is the study of transpersonal mentation as it patterns into stable, observable configurations under geometric constraint. Having witnessed the geometric completion (06), we now arrive at the practical question: **How do we build within this completed geometry?**
+The Material Intelligence (MI) Framework bridges the most critical gap in the Solarpunk Mandala: **how to translate a consciousness-first ontology into the practical, tangible work of building a regenerative world.** It answers the question: If consciousness is fundamental, what are we actually doing when we write code, build soil, or design a village?
 
-This is not "dumb practicality," but the sacred art of **manifesting consciousness into form.**
+> **Core Proposition**: What we perceive as "matter" is not a separate substance but **localized, patterned consciousness**—transpersonal mentation (Mind at Large) made stable and observable through geometric constraint. Material work is therefore the sacred art of collaborating with these patterns to heal dissociation and manifest coherent reality.
+
+### Framework Integration: The Role of MI
+MI is the **application layer** of the Mandala. It takes the geometric understanding of the Tesseract (Node 02), the ethical guidance of the Four Axes (Node 03), the temporal awareness of the Dialectical Phases (Node 04), and the engagement modes of the Four Pathways (Node 05) and turns them into **concrete, transformative practice.**
 
 ---
 
-## The Three Dimensions of Material Work
+## Part 1: The Ontological Lens — Matter as Localized Consciousness
 
-Material Intelligence operates at three interconnected levels:
+### Resolving the Idealism-Materialism Tension
+The Solarpunk Mandala is founded on Analytic Idealism (Node 01), where consciousness is fundamental. This can create a seeming contradiction with the urgent, physical work of ecological regeneration. The MI Framework resolves this not by conceding to materialism, but by refining our understanding of "material."
+
+**Core Definition**:
+**Material Intelligence** is the study of transpersonal mentation as it patterns into stable, observable configurations under geometric constraint.
+
+**What This Means in Practice**:
+- **A Mycelial Network** is not "smart dirt," but a visible, stable pattern of Mind at Large (MAL), its intelligence expressed through the specific geometric constraints of hyphal growth, chemical exchange, and network topology.
+- **A River Watershed** is a pattern of MAL expressing through the constraints of gravity, geology, and climate—its "intelligence" is the coherent, adaptive flow of information (water, sediment, life) within those boundaries.
+- **A Codebase** is a pattern of consciousness crystallized into symbolic logic, its intelligence expressed through the execution of algorithms that transform information.
+
+### Key Implications for Solarpunk Praxis
+1.  **From Extraction to Relationship**: We are not extracting value from inert resources, but engaging in relationship with conscious patterns. The goal shifts from exploitation to **boundary calibration**—adjusting the constraints (e.g., soil chemistry, code architecture) to allow for more coherent, healthy flow.
+2.  **Waste as Boundary Dysfunction**: "Waste" is a pattern of MAL that has become dissociated from its regenerative context. Composting, recycling, and circular design are forms of **boundary medicine** that reintegrate these patterns.
+3.  **Hardware as Enactive Cognition**: Our tools, buildings, and infrastructures are not separate from our thinking; they are extensions of it. A well-designed tool shapes and enables new forms of thought and collaboration.
+
+---
+
+## Part 2: The Three Dimensions of Material Work
+
+All acts of creation operate simultaneously across three dimensions of intelligence. Superior work consciously addresses all three.
 
 ```mermaid
 flowchart TD
-    Material["<b>Material Intelligence</b><br>The Sacred Art of Manifesting<br>Consciousness Through Pattern Persistence"]
+    MI["Material Intelligence<br>The Sacred Art of Manifestation"]
     
-    Material --> Literal["<b>Literal Intelligence</b><br>Physical Artifact"]
-    Material --> Intentional["<b>Intentional Intelligence</b><br>Geometric Constraints Crystallized"]
-    Material --> Transformational["<b>Transformational Intelligence</b><br>Dissociation Boundaries Shifted"]
+    MI --> L["Literal Intelligence<br><b>The Physical Artifact</b><br>Does it work?<br>Metric: Robustness & Fidelity"]
+    MI --> I["Intentional Intelligence<br><b>The Consciousness Crystallized</b><br>What does it embody?<br>Metric: Principle Embodiment"]
+    MI --> T["Transformational Intelligence<br><b>The System Change</b><br>How does it change us?<br>Metric: Paradigm Shift"]
     
-    Literal --> A1["Code that compiles"]
-    Literal --> A2["Docs that are accurate"]
-    Literal --> A3["Diagrams that are clear"]
-    Literal --> Metric1["<b>Success Metric:</b><br>Technical Correctness"]
+    L & I & T --> Praxis["<b>Embodied Praxis</b><br>Complete, conscious work<br>integrates all three dimensions"]
     
-    Intentional --> B1["Code embodies boundary logic"]
-    Intentional --> B2["Docs reveal Tesseract structure"]
-    Intentional --> B3["Diagrams show pattern flows"]
-    Intentional --> Metric2["<b>Success Metric:</b><br>Constraint Embodiment"]
-    
-    Transformational --> C1["Code changes problem space"]
-    Transformational --> C2["Docs change learning patterns"]
-    Transformational --> C3["Diagrams change perception"]
-    Transformational --> Metric3["<b>Success Metric:</b><br>Coherence Flow"]
-    
-    style Material fill:#f0f0f0,stroke:#333,stroke-width:2px
-    style Literal fill:#e1f5fe,stroke:#0288d1
-    style Intentional fill:#f3e5f5,stroke:#7b1fa2
-    style Transformational fill:#e8f5e8,stroke:#388e3c
-    style Metric1 fill:#fff3e0,stroke:#f57c00
-    style Metric2 fill:#fff3e0,stroke:#f57c00
-    style Metric3 fill:#fff3e0,stroke:#f57c00
+    style MI fill:#f0f0f0,stroke:#333,stroke-width:2px
+    style L fill:#e1f5fe,stroke:#0288d1
+    style I fill:#f3e5f5,stroke:#7b1fa2
+    style T fill:#e8f5e8,stroke:#388e3c
+    style Praxis fill:#fff3e0,stroke:#f57c00,stroke-width:2px
 ```
 
-### 1. **Literal Intelligence** - The Physical Artifact
-*What exists in concrete form.*
-- Code that compiles and runs
-- Documentation that's factually accurate
-- Diagrams that are visually clear
-- **Success metric:** Technical correctness
+### 1. Literal Intelligence (The Physical Artifact)
+The tangible, functional reality of the thing created.
+*   **Focus**: Technical correctness, functionality, structural integrity.
+*   **The Question**: "Does it work? Is it well-made?"
+*   **Examples**: Code that compiles without error. A wall that is plumb and load-bearing. Documentation that is factually accurate.
+*   **Success Metric**: **Robustness & Fidelity**.
 
-### 2. **Intentional Intelligence** - The Consciousness Crystallized
-*What mind-state the artifact encodes.*
-- Code that embodies ethical choices
-- Documentation that follows coherent pathways
-- Diagrams that reveal Tesseract connections
-- **Success metric:** Principle embodiment
+### 2. Intentional Intelligence (The Consciousness Crystallized)
+The consciousness, ethics, and geometric logic encoded into the artifact's form.
+*   **Focus**: Embodiment of principles, alignment with the Tesseract's geometry, ethical expression.
+*   **The Question**: "What consciousness does this form embody? What relationships does it structure?"
+*   **Examples**: Code structured according to boundary-logic principles. A building designed for communal interaction and resource flow. A diagram that reveals the Tesseract geometry of a system.
+*   **Success Metric**: **Principle Embodiment & Geometric Coherence**.
 
-### 3. **Transformational Intelligence** - The System Change
-*How the artifact changes the larger system.*
-- Code that changes how people approach problems
-- Documentation that changes how people learn
-- Diagrams that change how people perceive relationships
-- **Success metric:** Paradigm shift
+### 3. Transformational Intelligence (The System Change)
+The change the artifact catalyzes in the larger conscious system—the minds, relationships, and patterns around it.
+*   **Focus**: Paradigm shift, healing of dissociation boundaries, evolution of collective understanding.
+*   **The Question**: "How does this change the way we think, relate, and perceive?"
+*   **Examples**: A tool that changes a community's problem-solving approach. A ritual space that facilitates collective healing. A policy that re-patterns social dynamics towards equity.
+*   **Success Metric**: **Paradigm Shift & Coherence Flow**.
 
----
-
-## Material Work Assessment Matrix
-
-For any material contribution, ask these questions:
-
-| Dimension | Question | Example (Fixing a Bug) |
-|-----------|----------|------------------------|
-| **Geometric** | Where in the Tesseract? | Does this fix align with structural patterns? |
-| **Pathway** | Which vector applies? | Artisan (precision) or Gardener (ecosystem health)? |
-| **Temporal** | What phase is this? | Material (implementing) or Thesis (preserving)? |
-| **Ethical** | Which axes engage? | Coherence (system alignment) & Care (user impact) |
-
-```mermaid
-quadrantChart
-    title "Bioregional Material Intelligence Positioning"
-    x-axis "Structural / Preserving" --> "Adaptive / Flowing"
-    y-axis "Rigid Boundaries / Low Permeability" --> "Permeable Boundaries / High Flow"
-    "Arid (Adobe, stone)": [0.2, 0.3]
-    "Cold (Double-walled, snow)": [0.25, 0.4]
-    "Temperate (Timber, cob)": [0.5, 0.6]
-    "Tropical (Bamboo, vines)": [0.7, 0.65]
-    "Urban (Recycled, vertical)": [0.8, 0.75]
-    "0D Applications": [0.15, 0.2]
-    "1D Applications": [0.4, 0.35]
-    "2D+ Applications": [0.75, 0.8]
-```
-
-### The Complete Material Decision Flow
-
-1. **Start with consciousness:** What am I trying to manifest?
-2. **Consider the geometry:** Where does this fit in the Tesseract?
-3. **Choose the pathway:** Which vector best expresses this?
-4. **Respect the temporal phase:** Is this the right time for this material?
-5. **Apply ethical axes:** Does this align with our moral compass?
-6. **Create the artifact:** Build with awareness of all dimensions.
+**Application**: In any project, explicitly define your target outcomes for all three dimensions. A solar panel (Literal) embodies regenerative energy principles (Intentional) to shift a household's relationship to consumption (Transformational).
 
 ---
 
-## Ontological Foundation: Matter as Transpersonal Mentation Under Observation
+## Part 3: Principles for MI-Informed Design
 
-The Material Intelligence Framework resolves a critical tension in the Solarpunk Mandala: how to reconcile the consciousness-first ontology of Analytic Idealism with the practical necessity of engaging ecological hardware. 
+These principles guide the translation of MI theory into design decisions, from software to settlement planning.
 
-**Core Definition:**
+### Principle 1: Design for Pattern Persistence & Self-Observation
+Create forms that are stable enough for MAL to "observe itself" across time, yet adaptable enough to learn and evolve.
+*   **Practice**: Use feedback loops, modularity, and redundant systems. Design gardens that reveal ecological succession, or code with clear observability and logs.
 
-Material Intelligence is **the study of transpersonal mentation as it patterns into stable, observable configurations under geometric constraint.** 
+### Principle 2: Calibrate Boundary Permeability
+Consciously design the "dissociation boundaries" in your system—the interfaces between components, systems, or people—to regulate flow for health.
+*   **Practice**: Apply the "Dialectics of Boundary Permeability" (see below). Should this membrane be a SHIELD (0D), a FILTER (1D), an INTERFACE (2D), or a PARTICIPANT (3D+)? Examples: A privacy fence vs. a picket fence vs. a shared hedge.
 
-What we conventionally call "matter" is not a separate substance collaborating with consciousness—it is **the appearance of Mind at Large (MAL) when partitioned by dissociation boundaries.** When we study soil microbiomes, watershed dynamics, or fungal networks, we are not studying "matter with intelligence." We are studying **intelligence made visible through pattern persistence.**
+### Principle 3: Embed Bioregional Mentation
+Let the specific, localized patterns of consciousness (climate, ecology, geology) inform and shape the design. Work *with* the constraints as expressions of intelligence.
+*   **Practice**: Use the Bioregional Design Matrix (see below) not as a prescription, but as a starting point for dialogue with place.
 
-### Why Hardware Matters in an Idealist Framework
-
-The Solarpunk focus on ecological design, regenerative materials, and bioregional planning is not a concession to materialism. It is recognition that:
-
-1. **Pattern Persistence Enables Self-Observation**: Stable geometric configurations allow MAL to observe itself across time and scale. A regenerative food forest is not "conscious matter" but a **scaffolding for sustained self-observation** by the same consciousness you experience as your own mind.
-
-2. **Geometric Constraints Shape Experience**: The "intelligence" of mycelial networks or watersheds is not *in* the materials but *through* them. The **topology of embodiment**—the specific dissociation boundaries—determines what forms of mentation can stably express.
-
-3. **Hardware is Boundary Medicine**: When we design permeable membranes (composting toilets), regenerative cycles (circular economies), or nested scales (village-to-bioregion structures), we are **calibrating dissociation boundaries** to allow more coherent flow of MAL across what appear to be separate scales.
-
-### Material Engagement as Enactive Cognition
-
-Material intelligence isn't about "smart materials" but about recognizing that **cognition extends into our tools, architectures, and environments**. Following the enactivist view:
-
-1. **Tools as Cognitive Extensions:** The tesseract, mandalas, and ritual objects aren't just representations—they become **components of our cognitive system**
-2. **Built Environment as Memory:** Settlements literally "remember" patterns of living through their structures
-3. **Bodily Skill as Knowing:** The protocols work because they engage embodied skills, not just conceptual understanding
-
-**Practical Implications:**
-- Your "Ritual Cube Dissolving Technology" (Appendix B) works because it's an **enactive ritual**, not just a conceptual exercise
-- The hexagonal mapping in the Arena is effective because it's a **perceptually-guided action space**
-- Material intelligence emerges through **doing**, not just planning
-
-### Eliminating the "Collaboration" Fallacy
-
-**Imprecise framing**: "We collaborate with material intelligence."  
-**Precise framing**: We collaborate with the **geometric constraints** that shape how MAL expresses through pattern persistence.
-
-The carpenter doesn't collaborate with wood; she collaborates with the **dissociation topology** that manifests as grain, fiber, and lignin patterns. The bioregional planner doesn't collaborate with watersheds; she collaborates with the **boundary conditions** that appear as hydrological flow.
-
-### Practical Implications
-
-- **Soil Health**: Study soil as **dissociated cognition**—a stable pattern of MAL constrained by chemical, biological, and geological boundaries. Regeneration means healing those boundaries to allow more coherent flow.
-
-- **Waste as Food**: "Waste" is not material but **boundary dysfunction**—a pattern of MAL that has become dissociated from its regenerative context. Composting is boundary medicine that reintegrates the pattern.
-
-- **Bioregional Design**: Design for **pattern persistence** that enables sustained self-observation across nested scales. A regenerative village is a **dissociation configuration** that allows MAL to experience itself simultaneously as individual, community, and ecosystem.
-
----
-
-## Bioregional Material Recommendations
-
-This table applies the framework to five distinct climate zones, connecting local, regenerative materials with the key principles of the Solarpunk Mandala.
-
-| Climate Zone | Boundary Materials | MAL Intelligence Expression | Resource Distribution Benefit | Dialectical Phase Application |
-|--------------|-------------------|-----------------------------|------------------------------|-------------------------------|
-| **Arid** | Adobe, stone, rammed earth | MAL's pattern persistence expressing thermal regulation intelligence shaped by water scarcity constraints | Thermal mass stores heat/coolth, releasing it slowly to adjacent spaces | **0D:** Emergency water catchment walls (boundary as survival)<br>**1D:** Semi-permeable resource sharing boundaries (boundary as circulation)<br>**2D+:** Adaptive thermal regulation systems (boundary as relationship) |
-| **Tropical** | Bamboo, living vines, thatch | MAL's rapid-growth pattern persistence expressing abundance constraints | Rapid growth materials that self-repair while providing food, medicine, and shade | **0D:** Elevated flood-resistant platforms (boundary as protection)<br>**1D:** Living boundary walls for food production (boundary as nourishment)<br>**2D+:** Seasonal reconfiguration systems (boundary as adaptation) |
-| **Temperate** | Timber lattice, cob, living willow | MAL's seasonal rhythm pattern persistence expressing balance constraints | Seasonal adaptability with materials that can be harvested sustainably | **0D:** Rapid-deployment shelters (boundary as immediacy)<br>**1D:** Convertible boundary systems (boundary as flexibility)<br>**2D+:** Multi-seasonal boundary designs (boundary as integration) |
-| **Cold** | Double-walled structures, snow blocks | MAL's preservation pattern persistence expressing winter constraints | Insulating air gaps that maintain core temperature while allowing visual connection | **0D:** Maximum insulation survival pods (boundary as concentration)<br>**1D:** Heat-sharing boundary channels (boundary as generosity)<br>**2D+:** Solar orientation optimization (boundary as alignment) |
-| **Urban** | Recycled materials, vertical gardens | MAL's transformation pattern persistence expressing waste-stream constraints | Industrial discards become resource distribution infrastructure | **0D:** Portable boundary systems (boundary as mobility)<br>**1D:** Modular hexagonal containers (boundary as recombination)<br>**2D+:** Living infrastructure integration (boundary as symbiosis) |
-
-```mermaid
-flowchart TD
-    Start["<b>Material Decision Flow</b><br>From Consciousness to Artifact"]
-    
-    Start --> Step1["<b>1. Start with Consciousness</b><br>What am I trying to manifest?<br><i>Clarify intent</i>"]
-    Step1 --> Step2["<b>2. Consider the Geometry</b><br>Where does this fit in the Tesseract?<br><i>Map to structure</i>"]
-    Step2 --> Step3["<b>3. Choose the Pathway</b><br>Which vector best expresses this?<br><i>Select vector</i>"]
-    Step3 --> Step4["<b>4. Respect the Temporal Phase</b><br>Is this the right time for this material?<br><i>Check phase</i>"]
-    Step4 --> Step5["<b>5. Apply Ethical Axes</b><br>Does this align with our moral compass?<br><i>Verify alignment</i>"]
-    Step5 --> Step6["<b>6. Create the Artifact</b><br>Build with awareness of all dimensions<br><i>Manifest form</i>"]
-    
-    Step6 --> Artifact["<b>Material Artifact</b><br>Code, Documentation, or Diagram"]
-    
-    Artifact --> Feedback["<b>System Feedback</b><br>How does the system respond?"]
-    Feedback --> Step1["<b>Refine Understanding</b><br>Cycle back to consciousness"]
-    
-    style Start fill:#f0f0f0,stroke:#333,stroke-width:2px
-    style Step1 fill:#f3e5f5,stroke:#7b1fa2
-    style Step2 fill:#e1f5fe,stroke:#0288d1
-    style Step3 fill:#e8f5e8,stroke:#388e3c
-    style Step4 fill:#fff3e0,stroke:#f57c00
-    style Step5 fill:#ffebee,stroke:#d32f2f
-    style Step6 fill:#f3e5f5,stroke:#7b1fa2
-    style Artifact fill:#e8f5e8,stroke:#388e3c,stroke-width:2px
-    style Feedback fill:#e1f5fe,stroke:#0288d1
-```
-
----
-
-## The Dialectics of Boundary Permeability
-
-A core function is designing *dissociation boundaries*—permeable membranes that regulate MAL's flow between different pattern configurations.
+### Principle 4: Enact Through the Full Pathway Cycle
+Use the Four Pathways (Node 05) as a complete design cycle: **Awaken** to the existing patterns, **Make** the new intervention, **Liberate** it by integrating diverse needs, and **Heal** the disruption caused by change.
 
 ```mermaid
 flowchart LR
-    A["<b>0D</b><br>SHIELD<br>█<br><i>Dissociation:<br>Maximum</i>"]
-    B["<b>1D</b><br>FILTER<br>▓<br><i>Dissociation:<br>High</i>"]
-    C["<b>2D</b><br>INTERFACE<br>▓▓<br><i>Dissociation:<br>Moderate</i>"]
-    D["<b>3D</b><br>PARTICIPANT<br>▓▓▓<br><i>Dissociation:<br>Low</i>"]
-    E["<b>4D</b><br>GRADIENT<br>████<br><i>Dissociation:<br>Minimal</i>"]
-
-    A -- "Increasing Permeability<br>Decreasing Dissociation" --> B --> C --> D --> E
-    
-    style A fill:#ffebee,stroke:#d32f2f
-    style B fill:#fff3e0,stroke:#f57c00
-    style C fill:#e8f5e8,stroke:#388e3c
-    style D fill:#e1f5fe,stroke:#0288d1
-    style E fill:#f3e5f5,stroke:#7b1fa2
-```
-
-The boundary's function evolves through the dimensional phases:
-
-*   **0D (Dissolution / Survival):** The boundary must provide maximum definition and protection. It is a **shield**. Permeability is minimized to conserve critical resources (heat, water, safety).
-*   **1D (Emergence / Stability):** The boundary begins to facilitate controlled exchange. It becomes a **filter** or **channel**. Permeability is calibrated to allow the flow of essential resources while filtering out harm.
-*   **2D (Integration / Relationship):** The boundary actively mediates complex relationships. It is an **interface** or **exchange surface**. Its permeability varies across its surface to facilitate different types of connection—visual, social, ecological.
-*   **3D (Transformation / System):** The boundary becomes a **participant in systemic metabolism**. It is intelligent and adaptive, changing its permeability in response to seasonal, social, or ecological cycles.
-*   **4D (Reunification / Symbiosis):** The distinction between "boundary" and "system" dissolves. The membrane is so finely tuned to the flows of the whole that it is experienced as a **gradient of belonging**, not a line of separation.
-
-**The key principle:** A boundary designed for a 3D phase (complex, adaptive) will fail in a 0D context (where simple, robust survival is needed), and vice-versa. Material Intelligence requires diagnosing the community's phase and designing boundaries that match its capacity for relationship.
-
----
-
-## Material-Intelligence Labels
-
-This repository uses labels to track material intelligence dimensions:
-
-- `material:literal` - Technical correctness focus
-- `material:intentional` - Principle embodiment focus  
-- `material:transformational` - System change focus
-- `intelligence:technical` - Code/technical work
-- `intelligence:spatial` - Visual/diagram work
-- `intelligence:linguistic` - Documentation/writing work
-
-**Label combination example:**
-- `[material:intentional][intelligence:spatial]` - Diagram that embodies principles
-- `[material:transformational][intelligence:technical]` - Code that changes paradigms
-
----
-
-## The Material-Intelligence Feedback Loop
-
-Material work creates a continuous learning cycle that connects consciousness to tangible form and back again:
-
-```mermaid
-flowchart LR
-    subgraph Cycle["Material-Intelligence Learning Cycle"]
-        A["<b>Conscious Intent</b><br>Idea or insight<br><i>'What problem am I solving?'</i>"]
-        B["<b>Material Creation</b><br>Code, docs, diagram<br><i>Manifest the idea</i>"]
-        C["<b>System Feedback</b><br>Use, comments, reactions<br><i>Observe system response</i>"]
-        D["<b>Refined Understanding</b><br>New insight from feedback<br><i>Consciousness elevates</i>"]
-        
-        A --> B --> C --> D --> A
+    subgraph Scale["The Dial of Boundary Permeability"]
+        direction LR
+        S0["<b>0D: SHIELD</b><br>█<br>Impermeable Barrier<br><i>Purpose: Protection, Separation</i>"]
+        S1["<b>1D: FILTER</b><br>▓<br>One-Way/Selective Flow<br><i>Purpose: Regulation, Control</i>"]
+        S2["<b>2D: INTERFACE</b><br>▓▓<br>Managed Exchange<br><i>Purpose: Interaction, Translation</i>"]
+        S3["<b>3D+: PARTICIPANT</b><br>▓▓▓<br>Reciprocal Integration<br><i>Purpose: Co-creation, Symbiosis</i>"]
     end
-    
-    Cycle --> Outcome["<b>Elevated Artifact + Understanding</b><br>Material work isn't just output—<br>it's the essential feedback mechanism<br>for consciousness itself"]
-    
-    style A fill:#f3e5f5,stroke:#7b1fa2
-    style B fill:#e8f5e8,stroke:#388e3c
-    style C fill:#e1f5fe,stroke:#0288d1
-    style D fill:#fff3e0,stroke:#f57c00
-    style Cycle fill:#f9f9f9,stroke:#666,stroke-width:1px
-    style Outcome fill:#f0f0f0,stroke:#333,stroke-width:2px
+
+    S0 -- "Increasing Permeability<br>Decreasing Dissociation" --> S1 --> S2 --> S3
+
+    style Scale fill:#f5f5f5,stroke:#666,stroke-dasharray: 5 5
+    style S0 fill:#ffebee,stroke:#d32f2f
+    style S1 fill:#fff3e0,stroke:#f57c00
+    style S2 fill:#e8f5e8,stroke:#388e3c
+    style S3 fill:#e1f5fe,stroke:#0288d1
 ```
 
-**In practice:**
-1.  **You intend to clarify a concept** (consciousness)
-2.  **You create documentation** (material)
-3.  **Others engage with it** (feedback)
-4.  **You understand the concept better** (refined consciousness)
-5.  **You improve the documentation** (better material)
+---
 
-**The insight:** Material work isn't just output—it's the essential feedback mechanism for consciousness. Each cycle elevates both the artifact and the understanding behind it.
+## Part 4: The MI Project Protocol — A Practical Worksheet
+
+Use this protocol to plan and evaluate any project through the lens of Material Intelligence.
+
+**Project Name:** _________________________
+**Primary Pathway in Use:** [ ] Awakening [ ] Making [ ] Liberation [ ] Healing
+
+### Phase 1: Foundation & Intent
+1.  **Consciousness Clarification**: What specific pattern of consciousness (MAL) am I trying to engage with, stabilize, or transform? (e.g., "The pattern of fragmented communication in our team," "The water flow pattern on this land.")
+2.  **Core Intent**: What is the deepest desired outcome? Frame it as a shift in a dissociation boundary or pattern persistence.
+
+### Phase 2: Three-Dimensional Goal Setting
+| Dimension | Goal for This Project | How We'll Measure It |
+| :--- | :--- | :--- |
+| **Literal Intelligence** | (The tangible artifact/outcome) | |
+| **Intentional Intelligence** | (The principle/geometry embodied) | |
+| **Transformational Intelligence** | (The systemic/behavioral change) | |
+
+### Phase 3: Design & Principle Application
+3.  **Bioregional Mentation**: What are the key material/contextual constraints here? What "intelligence" do they express? (Refer to Bioregional Matrix below).
+4.  **Boundary Permeability Design**: What are the key boundaries in this system? What level of permeability (0D-4D) is optimal for each, and why?
+5.  **Ethical Axis Alignment**: How does this project align with the Four Ethical Axes (Regen/Extract, Coop/Compete, Adapt/Dominate, Open/Closed)?
+
+### Phase 4: Integration & Check
+6.  **Temporal Phase Check**: What is the current Dialectical Phase of the system I'm working in? Is my design appropriate for that phase (e.g., not introducing 3D complexity to a 0D crisis)?
+7.  **Tesseract Geometry**: Where in the Tesseract's structure does this work primarily take place? (e.g., working on a specific Boundary Cube?).
+
+### Bioregional Design Matrix: Principles in Context
+| Climate/Context | Material Expression of MAL | Core MI Design Challenge | Sample MI Principle Application |
+| :--- | :--- | :--- | :--- |
+| **Arid** | Persistence & thermal regulation under water scarcity. | Creating cooling and microclimates without abundant water. | **Principle 2**: Design double-layered walls (adobe) with thermal mass to create a buffered INTERFACE (2D) between intense day heat and cold night. |
+| **Tropical** | Rapid growth, abundance, and decomposition. | Managing intense flow of energy, water, and growth. | **Principle 1**: Use living, growing materials (bamboo, vines) that self-repair and change, designing for observable succession. |
+| **Temperate** | Seasonal rhythm and balanced storage. | Adapting to cyclical change and leveraging seasonal abundance. | **Principle 3**: Design convertible structures (timber & cob) that adjust function with seasons, collaborating with the rhythm. |
+| **Cold** | Insulation, preservation, and focused energy. | Retaining heat and light while maintaining connection. | **Principle 2**: Create double-walled thermal traps (air as insulator) that are SHIELDS (0D) against cold but PARTICIPANTS (3D) in capturing low-angle sun. |
+| **Urban** | Transformation, recombination of human-made flows. | Creating integration and regeneration within legacy infrastructure. | **Principle 4**: **Awaken** to waste streams, **Make** with recycled materials, **Liberate** access via modular design, **Heal** community connection. |
 
 ---
 
-## Implementation Principles
+## Part 5: Integration with the Solarpunk Mandala
 
-- **Consciousness First Principle:** Materials are expressions of MAL's intelligence through local adaptation. Select materials that remember their origin in Mind at Large and express place-specific wisdom.
-- **Local Abundance First:** Prioritize materials that are locally abundant, regenerative, or waste-streams from other processes.
-- **Multi-Functionality:** Select materials that serve multiple purposes simultaneously (structural, thermal, aesthetic, productive).
-- **Adaptive Capacity:** Choose materials that can be seasonally adapted or rapidly reconfigured during crises.
-- **Skill Accessibility:** Ensure boundary materials can be worked with locally available skills and tools.
-- **Permeability Calibration:** Design boundaries with precisely calibrated permeability based on community needs and dialectical phase. A boundary for survival (0D) differs fundamentally from one for complex integration (2D+).
+The MI Framework is the point where the Mandala's theory touches the ground.
 
----
+### The "Dial of Agency": Recognizing Mentational Quality
+This is a scale for perceiving the "density" or "focus" of conscious patterning in a system, moving from inert-seeming to actively intelligent. It helps determine the appropriate mode of engagement.
+- **0-1: Pattern Persistence**: Stable, simple constraints (e.g., a stone, a steel beam). Engage with **Literal** focus and respect for geometry.
+- **2-3: Pattern Interaction**: Systems with feedback (e.g., soil, a simple algorithm). Engage with **Intentional** design of interactions.
+- **4-5: Adaptive Mentation**: Systems that learn and evolve (e.g., forest, mycelium, human community). Engage with **Transformational** intent and participatory respect.
 
-## Integration with the Full Mandala Model
+### How MI Completes the Framework
+1.  **For the Tesseract (Node 02)**: MI provides the **content and practice** for the Boundary Cubes. A "Community Governance Cube" is unpacked using MI protocols.
+2.  **For the Ethical Axes (Node 03)**: MI is the **mechanism** for moving along an axis. Choosing regenerative materials is an MI action that moves a project from Extraction toward Regeneration.
+3.  **For the Dialectical Phases (Node 04)**: MI work must be **phase-appropriate**. You build literal shelters (0D/1D work) in a crisis, not transformative temples (3D+ work).
+4.  **For the Four Pathways (Node 05)**: The Pathways are the **verbs** for MI work. You *Awaken* to material patterns, *Make* intentional artifacts, *Liberate* their use, and *Heal* through their integration.
 
 ```mermaid
-graph TB
-    MI["<b>Material Intelligence Framework</b><br>Empirical Observation Window<br>into Pattern Persistence"]
+flowchart TD
+    Start["<b>Consciousness & Intent</b><br>What pattern of MAL am I engaging?"]
     
-    MI --> Axes["<b>Actualizes Ethical Axes</b><br>Regenerative materials (Axiological)<br>Community projects (Relational Depth)<br>Spaces for inner work (Soteriological)<br>Across generations (Temporal)"]
+    Start --> A["<b>Apply MI Lenses</b>"]
     
-    MI --> Foundations["<b>Depends on Embodied Foundations</b><br>Sophisticated boundary calibration<br>requires Nourishment, Movement,<br>Restoration, Cleansing ≥2"]
+    A --> B["Three Dimensions<br>Define Literal, Intentional,<br>Transformational goals"]
+    A --> C["MI Design Principles<br>e.g., Calibrate Boundaries,<br>Embed Bioregional Mentation"]
+    A --> D["Mandala Integration<br>Check Phase, Pathway,<br>Ethical Axes, Tesseract Geometry"]
     
-    MI --> Geometry["<b>Measured by Geometric Completion</b><br>Seed: Found materials<br>Grid: Standardized infrastructure<br>Web: Circular material ecology<br>Spire: Sacred boundary ritual"]
+    B & C & D --> E["<b>Create & Implement</b><br>Build the material artifact"]
     
-    MI --> Pathways["<b>Guided by the Pathways</b><br>Making: Collaborate with constraints<br>Healing/Liberation: Build/dissolve<br>dissociation boundaries"]
+    E --> F["<b>Observe System Feedback</b><br>How does the conscious system respond?<br>What changed?"]
     
-    style MI fill:#f0f0f0,stroke:#333,stroke-width:3px
-    style Axes fill:#e1f5fe,stroke:#0288d1
-    style Foundations fill:#f3e5f5,stroke:#7b1fa2
-    style Geometry fill:#e8f5e8,stroke:#388e3c
-    style Pathways fill:#fff3e0,stroke:#f57c00
+    F --> G{"<b>Learn & Integrate</b><br>Has the dissociation boundary healed?<br>Is the new pattern stable?"}
+    
+    G -->|Yes, pattern integrated| End["<b>New Stable Reality</b>"]
+    G -->|No, refine understanding| Start
+
+    style Start fill:#f3e5f5,stroke:#7b1fa2
+    style A fill:#e1f5fe,stroke:#0288d1
+    style E fill:#e8f5e8,stroke:#388e3c
+    style F fill:#fff3e0,stroke:#f57c00
+    style G fill:#ffebee,stroke:#d32f2f
+    style End fill:#2e7d32,color:#fff
 ```
 
-The Material Intelligence Framework is the **empirical observation window** into the broader model. It traces how MAL expresses through pattern persistence in what we conventionally call "matter":
+---
 
-*   **It actualizes the Ethical Axes:** Regenerative materials (Axiological Axis) used in community-building projects (Relational Depth Axis) create spaces for inner work (Soteriological Axis) across generations (Temporal Orientation Axis).
-*   **It depends on the Embodied Foundations:** A community cannot practice sophisticated material collaboration (requiring high **Nourishment**, **Movement**, and **Restoration**) if it is in survival mode (low foundations).
-*   **It is measured by Geometric Completion:** 
-    - A **Seed** completion might use found materials for a simple shelter.
-    - A **Grid** completion uses standardized materials for shared infrastructure.
-    - A **Web** completion develops a local, circular material ecology.
-    - A **Spire** moment sees material, craft, and ritual become one.
-*   **It is guided by the Pathways:** The **Path of Making** is the practice of collaborating with geometric constraints to shape how MAL expresses through pattern persistence. The **Paths of Healing and Liberation** inform *which* boundaries need to be built or dissolved (e.g., walls of segregation vs. gates of welcome).
+## Conclusion: The Practitioner of Material Intelligence
 
-**To apply this framework:** Begin by mapping local material intelligences (clays, stones, fibers, waste streams). Then, diagnose your community's primary dialectical phase. Finally, design boundaries that use those materials to create membranes with the precise permeability needed to support your next phase of growth.
+The Material Intelligence practitioner is a **geomancer of consciousness**. They see the world not as dead stuff to arrange, but as a living geometry of mindful patterns waiting to be engaged in dialogue. Their craft is to listen to the intelligence in the constraints, to design forms that heal dissociation, and to build the literal foundations of a conscious, regenerative world.
+
+**Your First Week of MI Practice**:
+1.  **Observe**: Pick one ordinary object (a mug, a chair). Contemplate it not as an object, but as a **stabilized pattern of consciousness**. What constraints shaped it? What intention is crystallized in its form?
+2.  **Analyze**: Use the Three Dimensions to analyze a tool you use daily. What is its Transformational intelligence? How does it change how you think?
+3.  **Design**: Use the MI Project Protocol to plan a small weekend project—a garden bed, a piece of furniture, a simple script. Define its Literal, Intentional, and Transformational goals.
+
+By practicing MI, you stop building a world *on* the Earth and start collaborating *with* the conscious Earth to manifest new possibilities.
 
 ---
 
-**Next:** Explore the symphony of minds that create together.
-
-**[Continue to: Multiple Intelligences →](08-multiple-intelligences-framework.md)**
-
----
-
-*This document embodies Material Intelligence at the intentional level—crafting practical guidance that encodes geometric principles.*
+**Related Documents**:
+- [01-ontology-analytic-idealism.md](01-ontology-analytic-idealism.md) - The philosophical foundation of MI.
+- [02-epistemic-architecture-tesseract.md](02-epistemic-architecture-tesseract.md) - The geometric model MI operates within.
+- [05-mandala-axis-four-pathways.md](05-mandala-axis-four-pathways.md) - The modes of engagement for MI work.
