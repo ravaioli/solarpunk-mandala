@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix N: Epistemic Tesseract and Geometric Knowing"
+  description: "A mathematical and geometric exploration of the epistemic tesseract as a four-dimensional knowledge architecture, enabling multidimensional reasoning, integrative pattern recognition, and transformation between complementary knowledge systems."
+  context: "Advanced epistemic architecture within the Solarpunk Mandala framework. Provides geometric and topological models for knowledge representation, transformation, and integration beyond linear or hierarchical structures."
+  key_objectives:
+    - "Define the epistemic tesseract as a 4D geometric structure for knowledge mapping."
+    - "Explain how tesseract rotations enable perspective shifts between complementary knowledge systems."
+    - "Develop geometric visualization tools for complex, multidimensional reasoning."
+    - "Apply tesseract geometry to integrate seemingly contradictory paradigms."
+    - "Establish protocols for geometric meditation and pattern recognition enhancement."
+  core_concepts:
+    - "4D Epistemic Tesseract Architecture"
+    - "Geometric Transformation Between Paradigms"
+    - "Hyperdimensional Pattern Recognition"
+    - "Non-Linear Knowledge Integration"
+    - "Tesseract Rotation as Perspective Shift"
+    - "Topological Knowledge Mapping"
+  ontological_foundation: "Geometric Structuralism & Topological Epistemology"
+  epistemic_stance: "Multi-Perspectival Geometric Intuition"
+  search_queries:
+    - "epistemic tesseract four-dimensional knowledge"
+    - "geometric models of consciousness"
+    - "hyperdimensional pattern recognition"
+    - "topological epistemology"
+    - "non-linear knowledge integration"
+  related_nodes:
+    - "framework/core-model/02-epistemic-architecture-tesseract.md"
+    - "appendices/K-formal-foundations-analytic-idealism.md"
+    - "practices/contemplative/04-geometric-meditations.md"
+  framework_status: "Developmental"
+  version: "0.8"
+  last_reviewed: "2026-01-12"
+---
 # Appendix N: The Epistemic Tesseract—A Geometry of Conscious Knowing
 
 ## Executive Summary: The Operative Geometry of a Regenerative Mind
