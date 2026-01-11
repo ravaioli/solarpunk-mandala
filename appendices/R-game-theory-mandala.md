@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix R: Game Theory of the Mandala"
+  description: "A game-theoretic analysis of strategic interactions and cooperation dynamics within the four-axis Mandala framework, modeling how consciousness, ethics, knowledge, and action interact in multi-agent systems."
+  context: "Strategic interaction framework within the Solarpunk Mandala that applies game theory to analyze cooperation, competition, and collective outcomes in conscious systems from dyadic relationships to civilizational scales."
+  key_objectives:
+    - "Model the four Mandala axes as dimensions in strategic decision spaces."
+    - "Analyze traditional game theory dilemmas (Prisoner's Dilemma, Tragedy of Commons) through consciousness-first assumptions."
+    - "Develop models for consciousness-aware strategies and higher-order game dynamics."
+    - "Explore how expanded epistemic and ethical frameworks transform strategic equilibria."
+    - "Design protocols for transcending zero-sum dynamics through axis integration."
+  core_concepts:
+    - "Four-Axis Strategy Spaces"
+    - "Consciousness-Expanded Equilibrium Concepts"
+    - "Meta-Games and Higher-Order Strategies"
+    - "Coordination Games of Collective Awakening"
+    - "Transformative Game Dynamics"
+    - "Non-Zero-Sum Consciousness"
+  ontological_foundation: "Game Theory & Strategic Interaction Analysis"
+  epistemic_stance: "Strategic Modeling & Equilibrium Analysis"
+  search_queries:
+    - "game theory Solarpunk Mandala"
+    - "consciousness-aware strategic interaction"
+    - "four-axis decision modeling"
+    - "non-zero-sum awakening dynamics"
+    - "transformative game theory"
+  related_nodes:
+    - "framework/core-model/03-ethical-architecture-values.md"
+    - "appendices/K-formal-foundations-analytic-idealism.md"
+    - "framework/applied/02-collective-intelligence-systems.md"
+  framework_status: "Developmental"
+  version: "0.8"
+  last_reviewed: "2026-01-12"
+---
 # Appendix R: A Game-Theoretic Formalization of the Solarpunk Mandala
 
 ## 1. Introduction: The Necrocene as a Coordination Failure
