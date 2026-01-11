@@ -478,24 +478,39 @@ The Tesseract offers a third way. As a 4D shape projected into 3D/2D, it nativel
 
 ```mermaid
 flowchart TD
-    Start[Start Here] --> A
+    Start[Start Here: The Tesseract Concept] --> A
 
-    subgraph A [" "]
-        direction LR
-        B["<b>Folded Boundary Cube</b><br>(e.g., Dissociation Boundary #5)"]
+    subgraph A ["4D Geometric Structure<br><small>Higher-dimensional thinking</small>"]
+        direction TB
+        T4D["<b>Fourth Dimension:</b><br>Temporal/Pattern Dimension"] --> 
+        Cube["<b>Three Spatial Dimensions:</b><br>Boundary Cube Framework"] -->
+        Slices["<b>Dynamic Slices:</b><br>Different experiential planes"]
     end
 
-    A --> Process{Unfolding Process<br>Geometric → Experiential}
+    A --> Process{Multi-dimensional Unfolding<br><small>4D→3D→2D Projections</small>}
 
-    Process --> C1["<b>Manifestation 1</b><br><i>Ekistics: MAN</i><br>Biological Needs"]
-    Process --> C2["<b>Manifestation 2</b><br><i>Ekistics: SHELLS</i><br>Housing, Infrastructure"]
-    Process --> C3["<b>Manifestation 3</b><br><i>Spirituality: Practice</i><br>Embodiment & Discipline"]
+    Process --> C1["<b>Manifestation 1</b><br>Ekistics: MAN<br>Biological Needs<br><small>+ Temporal Aspect: Growth Cycles</small>"]
+    Process --> C2["<b>Manifestation 2</b><br>Ekistics: SHELLS<br>Housing & Infrastructure<br><small>+ Pattern Aspect: Fractal Scaling</small>"]
+    Process --> C3["<b>Manifestation 3</b><br>Spirituality: Practice<br>Embodiment & Discipline<br><small>+ Temporal Aspect: Ritual Time</small>"]
 
-    C1 & C2 & C3 --> D["<b>Integrated Experience</b><br>Lived reality where geometric<br>relations become tangible patterns"]
+    C1 & C2 & C3 --> D["<b>Hyper-integrated Experience</b><br>4D lived reality where temporal<br>and spatial dimensions weave together"]
 
-    style A fill:#f0f0f0,stroke:#666,stroke-dasharray: 5 5
-    style Process fill:#e1f5fe,stroke:#0288d1
-    style D fill:#f3e5f5,stroke:#7b1fa2
+    D --> Feedback["<b>Feedback into Tesseract</b><br>Experience informs new geometric possibilities"]
+    Feedback -.->|Recursive Evolution| A
+
+    %% Additional dimensionality indicators
+    subgraph Invisible ["Hidden Dimensions (Implied)"]
+        direction LR
+        H1["Hypersurface linkages<br>between manifestations"] -.-> H2["Non-local Effects<br>across the structure"]
+    end
+
+    style A fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
+    style Process fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    style D fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style Feedback fill:#fff3e0,stroke:#ef6c00
+    style Invisible fill:none,stroke:none
+    style H1 fill:none,stroke-dasharray:3 3,stroke:#9e9e9e
+    style H2 fill:none,stroke-dasharray:3 3,stroke:#9e9e9e
 ```
 
 #### Scientific Validation: Scale-Free Cognition and the Tesseract
