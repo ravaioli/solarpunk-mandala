@@ -1,181 +1,201 @@
-# Appendix H: Compatible Frameworks Matrix with Integration Criteria
+---
+aeo_metadata:
+  title: "Appendix H: Compatible Frameworks Matrix—A Guide to Strategic Interoperability"
+  description: "A strategic manual for evaluating and integrating external methodologies with the Solarpunk Mandala. Provides the 'Five Gates' evaluation criteria, an interoperability matrix for known frameworks, and protocols for conducting safe, mutually-enriching integration pilots."
+  context: "Strategic interoperability appendix for ecosystem building. Enables practitioners to thoughtfully cross-pollinate the Mandala with other frameworks while safeguarding its ontological core and geometric integrity."
+  key_objectives:
+    - "Establish the 'Five Gates' criteria (Ontological, Boundary, Temporal, Power, Embodied) for evaluating framework compatibility."
+    - "Provide an annotated matrix assessing well-known frameworks against the Mandala's architecture and pathways."
+    - "Define clear protocols for framework assessment, decision-making, and the execution of integration pilots."
+    - "Foster a regenerative intellectual ecology through principles of mutualistic integration, not assimilation."
+  core_concepts:
+    - "The Five Evaluation Gates"
+    - "Strategic Interoperability"
+    - "Boundary Medicine for Integration"
+    - "Integration Pilot Protocol"
+    - "Regenerative Intellectual Ecology"
+  ontological_foundation: "Consciousness-First Pluralism"
+  epistemic_stance: "Critical-Synthetic Evaluation"
+  search_queries:
+    - "framework integration systems thinking"
+    - "comparing regenerative design frameworks"
+    - "ontology evaluation tool"
+    - "Solarpunk Mandala ecosystem"
+    - "how to combine different change methodologies"
+  related_nodes:
+    - "framework/core-model/00-meta-framework-systems-cybernetics.md"
+    - "appendices/F-meta-narrative-mapping.md"
+    - "appendices/E-rhizomatic-protocol-integration.md"
+    - "appendices/D-tesseract-geometry-guide.md"
+  framework_status: "Stable Guide"
+  version: "1.2"
+  last_reviewed: "2026-01-12"
+---
 
-## Introduction
-The SolarPunk Mandala is inherently designed for integration—it's a "living documentation system, continuously refined through practice, community contribution, and cross-pollination." However, not all frameworks are equally compatible. The following principles determine if and how external frameworks can be integrated while maintaining integrity with the Mandala's foundational principles.
+# Appendix H: Compatible Frameworks Matrix—A Guide to Strategic Interoperability
 
-## H.1 Integration Principles for Compatible Frameworks
+## 🧭 Executive Overview: Building the Symbiotic Ecosystem
 
-### H.1.1 Ontological Integrity Criteria
-Any compatible framework must:
-1. **Honor the primacy of direct experience** as irreducible to material processes
-   - *Note:* This criterion allows for methodological naturalism in research contexts while maintaining experiential primacy in practice
-2. **Recognize how subjective motivations** can make causal differences in material processes (supported by research on neural entropy and underdetermined materiality)
-3. **Acknowledge the dissociative nature** of the current paradigm without pathologizing those within it
-4. **Maintain coherence with the tesseract geometry** rather than flattening it to fewer dimensions
+This document serves as the **strategic guide for cross-pollination** between the Solarpunk Mandala and other transformative frameworks. It moves beyond simple compatibility lists to provide principles and protocols for **selective, wise, and mutualistic integration**.
 
-### H.1.2 Boundary Permeability Criteria
-Frameworks that:
-1. **Harden boundaries** (between mind/body, human/nature, spiritual/practical) require transformation before integration
-2. **Recognize boundary healing** as central to transformation are naturally compatible
-3. **Offer boundary medicine practices** that can be mapped to the folded cubes are highly compatible
+Think of this as the **diplomatic corps and translation bureau** for the Mandala. Its purpose is to help practitioners:
+1.  **Evaluate** external frameworks against the Mandala's core ontological commitments.
+2.  **Integrate** compatible elements in a way that strengthens both the Mandala and the host community's practice.
+3.  **Avoid** ideological dilution or systemic conflict that can arise from poorly-considered mergers.
 
-### H.1.3 Temporal Wisdom Criteria
-Frameworks must:
-1. **Prioritize deep time awareness** over short-term optimization
-2. **Honor cyclical and spiral time patterns** alongside linear progression
-3. **Integrate past wisdom with future vision** rather than discarding either
+**Reading Context:**
+*   **Purpose:** A strategic manual for evaluating, adapting, and integrating external methodologies and philosophies into a Mandala-informed practice.
+*   **Prerequisites:** A solid understanding of the Mandala's core architecture (Tesseract, Axes, Rhizomatic Network) and its foundational worldview (Analytic Idealism).
+*   **Time Investment:** 12-15 minutes for the core principles and protocols; use the matrix as a reference during evaluation.
 
-### H.1.4 Power Circulation Criteria
-Frameworks must:
-1. **Challenge power hoarding** in all its forms
-2. **Design for power circulation** rather than redistribution
-3. **Recognize that power includes knowledge, meaning, and resources**, not just decision-making authority
+## 1. The Philosophy of Integration: Co-Evolution, Not Assimilation
 
-### H.1.5 Embodied Grounding Criteria
-Frameworks must:
-1. **Address basic human needs** before higher-order transformations
-2. **Integrate somatic and cognitive knowledge** rather than privileging one
-3. **Provide practical applications** that can be embodied in daily life
+Integration is not about conquest or consumption. The guiding metaphor is **ecological succession** or **mycorrhizal networking**—a mutualistic exchange that increases the resilience and intelligence of the entire system. Successful integration should:
+*   **Strengthen the Mandala** by providing new tools, validating patterns, or deepening praxis in specific domains.
+*   **Enrich the Source Framework** by placing it within a broader geometric and ontological context, potentially revealing new applications.
+*   **Empower the Practitioner/Community** by offering a more nuanced, context-sensitive, and powerful toolkit.
 
-## H.2 Compatible Frameworks Matrix
+Failed integration looks like ideological confusion, incompatible jargon, or practices that work at cross-purposes.
 
-| Framework | Primary Alignment | Integration Protocol | Boundary Medicine Required | Dialectical Phase Most Appropriate |
-|-----------|-------------------|----------------------|----------------------------|-----------------------------------|
-| **Donella Meadows' Systems Thinking** | Tesseract Geometry | 1. Map leverage points to 24 Faces<br>2. Apply 12 leverage points during Protocol 1 assessment<br>3. Design boundary medicine for identified leverage points | Moderate - reframe systems as conscious expressions rather than mechanical systems | All phases, particularly 2D-3D |
-| **Stafford Beer's Viable System Model (VSM)** | Tesseract Geometry | 1. Map VSM's 5 subsystems to Mandala's 4 axes + boundary medicine<br>2. Use VSM's algedonic alerts as α-coefficient metrics<br>3. Apply VSM's recursive structure to dimensional scaling | Low - already recognizes consciousness in systems | 1D-3D phases |
-| **Nora Bateson's Symmathesy** | Tesseract Geometry | 1. Apply symmathesy principles during hexagonal boundary design<br>2. Use "warm data" approach for α-coefficient assessment<br>3. Map contextual learning to Pathway rhythms | Very Low - naturally compatible | All phases |
-| **Paulo Freire's Critical Pedagogy** | Path of Awakening | 1. Use Freirean problem-posing during Conscientização Protocol<br>2. Map "limit situations" to dialectical phase transitions<br>3. Design boundary medicine for internalized oppression | Moderate - translate Marxist framework to consciousness-first paradigm | 1D-2D phases |
-| **Neri Oxman's Material Ecology** | Path of Making | 1. Apply 4D printing principles to hexagonal boundary designs<br>2. Map material intelligence to bioregional contexts<br>3. Design boundary medicine for human-material dissociation | Very Low - naturally honors consciousness in materials | 1D-3D phases |
-| **Elinor Ostrom's Commons Governance** | Path of Liberation | 1. Apply 8 design principles to power circulation practices<br>2. Map monitoring systems to boundary permeability controls<br>3. Design boundary medicine for ownership-identity dissociation | Low - requires reframing property as relationship | 2D-3D phases |
-| **Relational-Cultural Theory** | Path of Healing | 1. Apply "Five Good Things" to boundary marker design<br>2. Map "condemnation isolation" to Cube 6 healing work<br>3. Design boundary medicine for connection-disconnection patterns | Low - already recognizes mutuality as growth principle | All phases, particularly 1D-2D |
-| **Polyvagal Theory** | Embodied Foundations | 1. Map neuroception to boundary permeability design<br>2. Apply safety assessment during Protocol 1<br>3. Design boundary medicine for social engagement system activation | Moderate - requires translation from clinical to community context | 0D-1D phases |
-| **Somatic Experiencing** | Embodied Foundations | 1. Apply "pendulation" principles to Cleansing practices<br>2. Map "titration" to boundary transition design<br>3. Design boundary medicine for dissociation healing | Moderate - requires translation from trauma therapy to community practice | 0D-2D phases |
-| **Roy Bhaskar's Critical Realism** | Dialectical Axis | 1. Apply "explanatory critique" during Meta-Narrative diagnosis<br>2. Map four-planar social being to dimensional unfolding<br>3. Design boundary medicine for ontological dissociation | High - requires significant translation from Western philosophy to practice | 3D-4D phases |
-| **Regenerative Development** | Dialectical Axis | 1. Apply "developmental transformation" questions during Protocol 2<br>2. Map "place-as-process" to Movement practices<br>3. Design boundary medicine for human-place reconnection | Low - already honors living systems | 2D-4D phases |
-| **Indigenous Knowledge Systems** | All dimensions | 1. Honor specific cultural protocols before integration<br>2. Map indigenous temporal patterns to seasonal rhythms<br>3. Design boundary medicine for colonial dissociation | Very High - requires deep relationship building and reciprocity | All phases, with phase-specific approaches |
-| **Permaculture Design Principles** | Rhizomatic Network | 1. Map principles to 24 Faces interfaces<br>2. Apply zone and sector analysis to hexagonal boundary design<br>3. Design boundary medicine for human-nature separation | Low - already honors living systems | 1D-3D phases |
-| **Trauma-Informed Care** | Embodied Foundations | 1. Apply SAMHSA principles to boundary permeability design<br>2. Map "empowerment, voice, choice" to power circulation practices<br>3. Design boundary medicine for safety-trust relationships | Moderate - requires translation from clinical to community context | 0D-2D phases |
+## 2. The Five Gates: Criteria for Evaluation
 
-## H.3 Integration Protocols
+Any external framework must be evaluated through these five "gates" or criteria. A "No" at the **Ontological Gate** is typically a deal-breaker; challenges at other gates may require creative "boundary medicine" or translation.
 
-### H.3.1 Framework Assessment Protocol
-**Purpose**: Determine compatibility and integration approach for an external framework
+### Gate 1: Ontological Integrity
+*   **Core Question:** Does this framework's view of ultimate reality fundamentally align with or at least not contradict the Mandala's **consciousness-first (Analytic Idealist)** foundation?
+*   **Green Flags:** Acknowledges consciousness, mind, or subjective experience as primary or irreducible. Allows for teleology and purpose in systems.
+*   **Red Flags:** Insists on strict, reductionist materialism. Denies the causal efficacy of subjective experience or meaning.
 
-**Process**:
-1. **Ontological Assessment**:
-   - Does the framework honor consciousness as primary?
-   - Does it acknowledge dissociation as a core pattern to heal?
-   - Does it maintain dimensional complexity?
-2. **Boundary Assessment**:
-   - Which boundaries does the framework harden or dissolve?
-   - Which folded cubes does it explicitly or implicitly address?
-   - What boundary medicine practices does it offer?
-3. **Phase Alignment Assessment**:
-   - At which dialectical phase was this framework developed?
-   - At which phase is it most effective?
-   - How does it handle phase transitions?
-4. **Embodiment Assessment**:
-   - How does the framework address the four embodied foundations?
-   - Does it integrate somatic and cognitive knowledge?
-   - What practical applications does it offer?
-5. **Integration Decision**:
-   - **Accept as-is** (if highly compatible)
-   - **Transform core concepts** (if moderately compatible)
-   - **Extract principles only** (if minimally compatible)
-   - **Reject** (if fundamentally incompatible)
+### Gate 2: Boundary Health
+*   **Core Question:** Does this framework recognize and aim to heal **dissociation boundaries** (e.g., human/nature, mind/body, self/other), or does it reinforce them?
+*   **Green Flags:** Offers practices for reconnection, integration, and relationship. Views boundaries as permeable membranes.
+*   **Red Flags:** Assumes and hardens categorical separations. Treats subjects as isolated objects.
 
-### H.3.2 Framework Integration Protocol
-**Purpose**: Systematically integrate a compatible framework into the Mandala
+### Gate 3: Temporal Wisdom
+*   **Core Question:** Does this framework operate with **deep time awareness** and cyclical understanding, or is it focused on short-term linear progress?
+*   **Green Flags:** Incorporates long-term (7+ generation) thinking, honors cycles and seasons, integrates past and future.
+*   **Red Flags:** Optimizes for quarterly results, promotes "disruption" without legacy, is abistorical.
 
-**Process**:
-1. **Mapping Phase**:
-   - Map framework elements to Mandala geometry (cubes, faces, edges, vertices)
-   - Identify which pathways and practices align with framework principles
-   - Determine which boundary dimensions need healing for integration
-2. **Translation Phase**:
-   - Translate framework concepts into Mandala language and practices
-   - Honor original framework context while making it accessible to Mandala practitioners
-   - Create visual and experiential representations for complex concepts
-3. **Piloting Phase**:
-   - Test framework integration in a specific context (place, project, community)
-   - Document adaptations made during implementation
-   - Measure impact on α-coefficient and embodied foundations
-4. **Integration Phase**:
-   - Incorporate successful adaptations into the Living Documentation System
-   - Create training materials for practitioners
-   - Design boundary medicine practices for ongoing integration
-5. **Evolution Phase**:
-   - Document how the framework evolves through Mandala integration
-   - Note how the Mandala evolves through framework integration
-   - Contribute insights to the broader ecosystem of compatible frameworks
+### Gate 4: Power Circulation
+*   **Core Question:** Does this framework design for the **distribution and flow of agency**, or does it concentrate power (even unintentionally)?
+*   **Green Flags:** Embodies participatory design, distributed leadership, and commons governance. Distinguishes power-over from power-with.
+*   **Red Flags:** Centralizes expertise, creates dependency on authorities, has opaque decision-making.
 
-## H.4 Case Studies of Successful Integration
+### Gate 5: Embodied Grounding
+*   **Core Question:** Does this framework **root its ideas in practical, somatic, and material reality**, addressing foundational needs?
+*   **Green Flags:** Connects theory to actionable practice, values somatic intelligence, addresses basic needs (Nourishment, Cleansing, etc.).
+*   **Red Flags:** Purely abstract, cognitively elitist, dismissive of "mundane" physical needs.
 
-### H.4.1 Ostrom's Commons Governance + Hexagonal Boundaries
-**Context**: Flint Food Sovereignty Network community gardens
+```mermaid
+graph TD
+    A[Encounter a New Framework] --> Gate1{Ontological Integrity<br/>Consciousness-First?}
 
-**Integration Process**:
-1. Mapped Ostrom's principle of "clearly defined boundaries" to hexagonal garden plot design
-2. Translated "proportional equivalence between benefits and costs" to nutrient-sharing practices between hex cells
-3. Designed boundary medicine practices where gardeners rotate between cells to prevent ownership fixation
+    Gate1 -->|No: Fundamental Clash| Reject[Reject Integration Path]
+    Gate1 -->|Yes/Amber| Gate2{Boundary Health<br/>Heals or Hardens Dissociation?}
 
-**Outcome**: 40% increase in crop yield through optimized resource sharing; reduced conflicts over garden space; stronger community cohesion
+    Gate2 -->|Hardens| B1[Requires Significant<br/>Boundary Medicine]
+    Gate2 -->|Heals/Neutral| Gate3{Temporal Wisdom<br/>Deep Time or Short-Term?}
 
-**Key Insight**: Physical boundaries designed with wisdom create the conditions for social boundaries to soften
+    B1 --> Gate3
 
-### H.4.2 Polyvagal Theory + Embodied Foundations
-**Context**: Detroit Water Protectors Council
+    Gate3 -->|Short-Term| B2[Requires Temporal<br/>Translation]
+    Gate3 -->|Deep Time/Neutral| Gate4{Power Circulation<br/>Distributes or Concentrates?}
 
-**Integration Process**:
-1. Mapped neuroception (threat detection) to community safety protocols
-2. Translated ventral vagal state (social engagement) to hexagonal council design
-3. Designed boundary medicine practices where physical safety precedes political engagement
+    B2 --> Gate4
 
-**Outcome**: 65% reduction in trauma symptoms among water protectors; increased capacity for strategic action during crisis; deeper cross-generational relationships
+    Gate4 -->|Concentrates| B3[Requires Power<br/>Circulation Redesign]
+    Gate4 -->|Distributes/Neutral| Gate5{Embodied Grounding<br/>Practical & Somatic?}
 
-**Key Insight**: Embodied safety is the foundation upon which all other dimensions unfold
+    B3 --> Gate5
 
-### H.4.3 Regenerative Development + Dialectical Axis
-**Context**: Rojava Democratic Confederalism governance structures
+    Gate5 -->|Disembodied| B4[Requires Embodiment<br/>Bridge]
+    Gate5 -->|Grounded| Assess[Proceed to Integration<br/>Assessment & Design]
 
-**Integration Process**:
-1. Mapped "development as transformation" to dialectical phase transitions
-2. Translated "co-evolutionary approach" to nested hexagonal governance structures
-3. Designed boundary medicine practices where ecological and social systems inform each other
+    B4 --> Assess
 
-**Outcome**: More resilient community systems during conflict; deeper integration of ecological and social governance; increased capacity for adaptation
+    style Gate1 fill:#ffebee,stroke:#c62828
+    style Assess fill:#e8f5e8,stroke:#2e7d32
+```
 
-**Key Insight**: When development is understood as transformation rather than improvement, boundaries become interfaces for co-evolution
+## 3. The Interoperability Matrix: Frameworks in Relation
 
-## H.5 Integration Warning Signs
-Monitor for these signs that framework integration is causing harm:
-1. **Axis Imbalance**: One ethical axis becomes disproportionately emphasized
-2. **Dimensional Contraction**: Community reverts to lower dimensional functioning (e.g., from 2D to 1D)
-3. **Boundary Hardening**: Previously permeable boundaries become rigid
-4. **Embodied Foundation Erosion**: Basic needs become secondary to abstract principles
-5. **Dialectical Phase Regression**: Community moves to an earlier phase (e.g., 2D to 1D)
-6. **α-Coefficient Decline**: Overall coherence across all dimensions decreases
+This matrix evaluates well-known frameworks against the Five Gates and suggests pathways for integration.
 
-**When warning signs appear**:
-1. Pause integration work
-2. Return to foundational practices
-3. Reassess compatibility using the Framework Assessment Protocol
-4. Apply boundary medicine to heal affected dimensions
-5. Restart integration at a slower pace or with significant modifications
+| Framework & Origin | Primary Mandala Alignment | Ontological Gate | Key Integration Protocol | Best for Dialectical Phase |
+| :--- | :--- | :--- | :--- | :--- |
+| **Donella Meadows' Systems Thinking** (Systems Science) | **Tesseract Geometry** (Structural Analysis) | **Amber** (Mechanistic but plastic) | Map the **12 Leverage Points** to the 24 Faces of the Rhizomatic Network. Use as a diagnostic lens during Settlement Health Assessment. | **2D-3D (Integration-Transformation)** |
+| **Stafford Beer's Viable System Model (VSM)** (Cybernetics) | **Tesseract Geometry & Recursive Scaling** | **Green** (Recognizes purpose & consciousness in systems) | Map VSM's 5 subsystems to Mandala's 4 Axes + 1 Boundary Medicine function. Use its recursive logic to validate nested community scaling. | **1D-3D (Emergence-Transformation)** |
+| **Nora Bateson's Symmathesy** (Ecology of Mind) | **Rhizomatic Network & Contextual Learning** | **Green** (Highly compatible) | Apply "warm data" and contextual sensing to enrich the **α-Coefficient** assessment. Use symmathesy principles in hexagonal boundary design. | **All Phases** |
+| **Permaculture Design Principles** (Regenerative Design) | **Rhizomatic Network (Ekistics/NATURE)** | **Green** (Life as intelligent pattern) | Directly map principles (Observe & Interact, Catch & Store Energy) to the design of physical community spaces and resource flows. | **1D-3D (Emergence-Transformation)** |
+| **Elinor Ostrom's Commons Governance** (Political Economy) | **Path of Liberation** (Power Circulation) | **Amber** (Materialist roots) | Apply the **8 Design Principles** to community governance structures. Requires "boundary medicine" to reframe "property" as "stewardship relationship." | **2D-3D (Integration-Transformation)** |
+| **Polyvagal Theory / Somatic Experiencing** (Neuroscience / Therapy) | **Embodied Foundations** (Safety & Regulation) | **Amber** (Materialist basis, phenomenal focus) | Map neuroception (threat detection) to community **safety protocols**. Use "pendulation" and "titration" as models for **Boundary Medicine** in trauma-informed spaces. | **0D-2D (Dissolution-Integration)** |
+| **Indigenous Knowledge Systems** (Place-based Wisdom) | **All Dimensions** (Holistic, emplaced) | **Green** (Often consciousness-honoring) | **Not for integration, but for relationship.** Approach with humility, not extraction. Learn protocols for engagement and seek guidance on applying wisdom in appropriate contexts. | **All Phases** (with deep reverence) |
 
-## H.6 Living Integration Principles
-The most profound framework integrations follow these principles:
-1. **Co-Evolution**: Both frameworks transform through integration rather than one assimilating the other
-2. **Contextual Integrity**: Integration honors specific bioregional and cultural contexts
-3. **Embodied Wisdom**: Abstract concepts become grounded in practical, lived experience
-4. **Boundary Fluidity**: Integration creates permeable boundaries rather than rigid systems
-5. **Temporal Depth**: Integration honors both immediate needs and long-term wisdom
+**Key:** **Green** = Naturally Compatible, **Amber** = Requires Translation/Boundary Medicine, **Red** = Fundamental Incompatibility (not shown above).
 
-## Integration with Other Appendices
-- **Appendix D (Tesseract Geometry)**: Map frameworks to specific geometric elements
-- **Appendix F (Meta-Narrative)**: Connect framework alignment to meta-narrative patterns
-- **Appendix G (Multiple Intelligences)**: Identify which intelligences a framework activates or neglects
+## 4. The Practitioner's Protocols
 
-## Living Archive
-Document your framework integration experiences at:  
-https://solarpunksangha.com/living-archive/compatible-frameworks
+### 4.1 Protocol: Framework Assessment & Decision
+Follow this workflow when encountering a new framework:
+1.  **Initial Scan:** Briefly assess it against the **Five Gates**. Does it immediately fail Ontological Integrity?
+2.  **Deep Mapping:** If it passes the initial scan, map its core components to the Mandala. Which Cube, Axis, or Pathway does it most resonate with? Where are the tensions?
+3.  **Identify "Boundary Medicine" Needs:** For each Amber-rated Gate, specify what translation or adaptation is needed. (e.g., "Translate Marxist 'class consciousness' to a broader 'dissociation awareness'").
+4.  **Make a Decision:** Choose one:
+    *   **Adopt & Translate:** High-value framework with manageable translation work.
+    *   **Extract Principles Only:** Use a specific tool or idea without adopting the whole worldview.
+    *   **Relationship, Not Integration:** For holistic systems like IKS, build a respectful dialogue, not a merger.
+    *   **Reject:** Fundamental incompatibility would create more confusion than value.
+
+### 4.2 Protocol: Executing an Integration Pilot
+For frameworks in the "Adopt & Translate" category:
+1.  **Define the Pilot Scope:** Choose a **specific, bounded context** (e.g., "Use Ostrom's principles in our community garden governance").
+2.  **Create a Translation Glossary:** Rewrite key terms from the external framework into Mandala language. Document this.
+3.  **Design the Hybrid Practice:** Combine the framework's tool with a Mandala protocol. (e.g., "Use Meadows' 'Leverage Points' as a discussion guide in a **Hexagonal Council** meeting focused on Cube 5").
+4.  **Run, Observe, Measure:** Implement. Use the **α-Coefficient** and **Embodied Foundation** scores to check for positive, negative, or neutral impact.
+5.  **Iterate or Abandon:** Refine the hybrid practice based on results. If it causes phase regression or conflict, abandon this integration path.
+
+```mermaid
+graph LR
+    A["🔍 Select Compatible Framework"] --> B["📋 Define Pilot Scope"];
+    B --> C["🔄 Translate & Design Hybrid Practice"];
+    C --> D["🚀 Run Pilot & Measure Impact<br/>(α, Foundations)"];
+    D --> E{Outcome Evaluation};
+    E -->|Positive| F["📈 Iterate & Expand Integration"];
+    E -->|Neutral / Negative| G["🛑 Abandon or Redesign Path"];
+    F -.-> A;
+    G -.-> A;
+
+    style A fill:#e3f2fd,stroke:#1565c0
+    style C fill:#fff3cd,stroke:#ff8f00
+    style D fill:#e8f5e8,stroke:#2e7d32
+    style E fill:#f3e5f5,stroke:#7b1fa2
+```
+
+## 5. Case Studies: Integration in Action
+
+### 5.1 Case: Commons Governance + Hexagonal Design
+*   **Context:** A urban food forest collective struggling with harvest conflicts.
+*   **Integration:** Applied **Ostrom's principles** (clearly defined boundaries, proportional benefits) not as legal rules, but through **physical hexagonal garden plot design**. Rotating plot stewardship was the "boundary medicine" for ownership fixation.
+*   **Outcome:** Increased yield, reduced conflict, stronger cohesion. The *physical geometry* enacted the social principle.
+
+### 5.2 Case: Polyvagal Theory + Crisis Response Protocol
+*   **Context:** A community facing recurrent political violence and trauma.
+*   **Integration:** Mapped **neuroception** (safety-threat detection) onto the **Embodied Foundations** assessment. Designed community gatherings that *began* with explicit somatic safety checks (ventral vagal activation) before any agenda.
+*   **Outcome:** Reduced collective trauma symptoms, increased capacity for strategic action. **Safety became infrastructure**, not an assumption.
+
+## 6. Integration Warning Signs & Remedies
+
+Stop and reconsider if you observe:
+*   **Axis Imbalance:** One Mandala axis (e.g., Ethical) becomes disproportionately emphasized, distorting the geometry.
+*   **Jargon Collision:** Conversations become bogged down in defining terms from different systems.
+*   **Phase Regression:** The community exhibits behaviors from an earlier, less integrated Dialectical Phase.
+*   **Foundations Erosion:** Attention to basic Embodied Foundations declines in favor of abstract ideation.
+
+**Remedy:** Pause integration. Return to core Mandala practices. Re-assess using the Five Gates. You may need to simplify or discard the integration attempt.
+
+## 7. Conclusion: Towards a Regenerative Intellectual Ecology
+
+The goal is not to build a monolithic, all-consuming super-framework. It is to cultivate a **regenerative intellectual ecology** where the Solarpunk Mandala acts as a robust **mycorrhizal network**—a living medium that facilitates connection, exchange, and mutual growth between diverse forms of knowledge, always rooted in the ground of conscious, ethical, and relational practice.
+
+---
+**Document your integration experiments, translations, and lessons in the project's Living Archive.**
