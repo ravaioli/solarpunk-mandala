@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix P: Consciousness-Based Education"
+  description: "A comprehensive framework for educational systems rooted in consciousness-first principles, integrating contemplative practices, epistemic development, and ethical formation through the Mandala's four axes."
+  context: "Applied educational framework within the Solarpunk Mandala that reimagines learning as consciousness development, moving beyond information transmission to transformative awakening and integration."
+  key_objectives:
+    - "Define consciousness-based educational principles and pedagogical approaches."
+    - "Design curricula that integrate contemplative, epistemic, ethical, and praxeological development."
+    - "Create assessment methods for consciousness development and integration."
+    - "Establish teacher training protocols for consciousness-informed educators."
+    - "Develop institutional models for consciousness-based schools and learning communities."
+  core_concepts:
+    - "Contemplative Pedagogy"
+    - "Epistemic Development Pathways"
+    - "Ethical Formation Through Education"
+    - "Embodied and Experiential Learning"
+    - "Consciousness Literacy and Fluency"
+    - "Holistic Educational Ecosystems"
+  ontological_foundation: "Consciousness-First Epistemology & Developmental Psychology"
+  epistemic_stance: "Integrative Experiential Learning"
+  search_queries:
+    - "consciousness-based education framework"
+    - "contemplative pedagogy techniques"
+    - "holistic education models"
+    - "epistemic development curriculum"
+    - "transformative learning consciousness"
+  related_nodes:
+    - "appendices/O-learning-tesseract-developmental-geometry.md"
+    - "framework/applied/01-educational-architecture.md"
+    - "practices/educational/02-contemplative-pedagogy.md"
+  framework_status: "Developmental"
+  version: "0.9"
+  last_reviewed: "2026-01-12"
+---
 # **Appendix P: Consciousness-Based Education — Cultivating the Regenerative Mind**
 
 ## **Executive Summary: Education as Consciously Engineered Evolution**
