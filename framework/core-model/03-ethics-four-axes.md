@@ -86,6 +86,55 @@ Solarpunk's vision of a regenerative, just, and beautiful future requires specif
 
 Each axis represents a continuum of possible boundary configurations, not a binary choice. Our position along each spectrum determines the patterns that emerge in our lived reality.
 
+```mermaid
+graph TB
+    subgraph Core["✨ **Core Ethical Proposition**<br>Ethical choices = Boundary configuration decisions"]
+        CE["If consciousness is fundamental<br>and reality manifests through boundary conditions,<br>then ethical choices configure boundaries<br>that create patterns of flourishing or suffering"]
+    end
+    
+    CE --> Axes
+    
+    subgraph Axes["⚖️ **The Four Boundary Spectra**<br>Interconnected configuration dimensions"]
+        direction LR
+        
+        RE[[🔄 Regeneration<br>vs<br>Extraction]] 
+        CC[[🤝 Cooperation<br>vs<br>Competition]]
+        AD[[🌱 Adaptation<br>vs<br>Domination]] 
+        OC[[🔓 Openness<br>vs<br>Closure]]
+    end
+    
+    RE & CC & AD & OC --> Configurations
+    
+    subgraph Configurations["🔀 **Configuration Patterns**<br>Combinations create ethical profiles"]
+        direction TB
+        
+        Solarpunk["🟢 Solarpunk Pattern<br>Regeneration + Cooperation<br>+ Adaptation + Openness"]:::good
+        
+        Mixed["🟡 Mixed Patterns<br>Various combinations<br>create ethical dilemmas"]:::mixed
+        
+        Extractivist["🔴 Extractivist Pattern<br>Extraction + Competition<br>+ Domination + Closure"]:::bad
+    end
+    
+    Configurations --> Outcomes
+    
+    subgraph Outcomes["💫 **Emergent Reality Patterns**<br>In the consciousness manifold"]
+        direction LR
+        Flourishing["Flourishing patterns:<br>Resilience, innovation,<br>connection, abundance"]
+        Suffering["Suffering patterns:<br>Fragility, stagnation,<br>isolation, depletion"]
+    end
+    
+    style RE fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+    style CC fill:#bbdefb,stroke:#1565c0,stroke-width:2px
+    style AD fill:#fff9c4,stroke:#f57c00,stroke-width:2px
+    style OC fill:#e1bee7,stroke:#7b1fa2,stroke-width:2px
+    
+    classDef good fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
+    classDef bad fill:#ffebee,stroke:#c62828,stroke-width:2px
+    classDef mixed fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    classDef core fill:#f3e5f5,stroke:#7b1fa2,stroke-width:3px
+```
+
+
 ---
 
 ### **🔄 Axis 1: Regeneration vs. Extraction**
@@ -193,50 +242,35 @@ Each axis represents a continuum of possible boundary configurations, not a bina
 The four axes interact in multidimensional space, creating an "ethical tesseract" of possible boundary configurations. Each ethical decision exists in this 4D space, with implications across all dimensions.
 
 ```mermaid
-flowchart TD
-    subgraph Tesseract["🧊 **Ethical Tesseract**<br>4D boundary configuration space"]
-        direction LR
-        Time["**4th Dimension:**<br>Temporal Ethical Field<br><small>Past → Future implications</small>"] -->
-        Space["**3D Cube:**<br>Four Axes as spatial dimensions<br><small>Regeneration/Extraction × Cooperation/Competition<br>× Adaptation/Domination × Openness/Closure</small>"] -->
-        Moments["**2D Slices:**<br>Ethical decision moments<br><small>Specific contexts with boundary conditions</small>"]
+graph TD
+    subgraph Tesseract["🧊 **Ethical Tesseract**<br>4D Decision Space"]
+        D4["<b>4th Dimension: Time/Pattern<br></b>Evolution of ethical patterns over time"]
+        D3["<b>3D Structure: Four Axes<br></b>Spectra create decision space"]
+        D2["<b>2D Slices: Contexts<br></b>Specific decision moments"]
+        
+        D4 --> D3 --> D2
     end
     
-    Tesseract --> Configurations{Configuration Choices<br><small>Positioning along each axis</small>}
+    Tesseract --> Decisions{Conscious Choices<br>along each axis}
     
-    Configurations --> EthicalRealities
+    Decisions --> Patterns
     
-    subgraph EthicalRealities["🌍 **Resulting Reality Configurations**"]
-        direction TB
-        
-        subgraph SolarpunkCore["🟢 **Solarpunk Core**<br>Regenerative + Cooperative + Adaptive + Open"]
-            SC1["Permeable, reciprocal boundaries"]
-            SC2["Mutual support networks"]
-            SC3["Flexible, responsive systems"]
-            SC4["Transparent, accessible information"]
-        end
-        
-        subgraph Extractivist["🔴 **Extractivist Extreme**<br>Extractive + Competitive + Dominating + Closed"]
-            EX1["One-way, draining boundaries"]
-            EX2["Zero-sum competition"]
-            EX3["Rigid, controlling hierarchies"]
-            EX4["Opaque, restricted access"]
-        end
-        
-        subgraph MixedPatterns["🟡 **Mixed Patterns**"]
-            MP1["Various combinations create<br>hybrid ethical realities"]
-        end
+    subgraph Patterns["🌀 **Emergent Reality Patterns**"]
+        P1["Regenerative patterns"]
+        P2["Cooperative patterns"]
+        P3["Adaptive patterns"]
+        P4["Open patterns"]
     end
     
-    EthicalRealities --> Patterns["🌀 **Emergent Patterns**<br>in consciousness manifold<br><small>Patterns of suffering or flourishing<br>based on boundary configurations</small>"]
+    Patterns --> Feedback["🔄 Feedback Loop"]
     
-    Patterns --> Feedback["🔄 **Ethical Feedback Loop**<br>Experienced patterns inform<br>future boundary configurations<br><small>Learning and evolution cycle</small>"]
+    Feedback -.->|Informs future<br>ethical capacity| Tesseract
     
-    Feedback -.->|Recursive evolution| Tesseract
-
     style Tesseract fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-    style SolarpunkCore fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
-    style Extractivist fill:#ffebee,stroke:#c62828,stroke-width:2px
-    style MixedPatterns fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style D4 fill:#bbdefb,stroke:#1976d2,stroke-width:2px
+    style D3 fill:#c8e6c9,stroke:#388e3c,stroke-width:2px
+    style D2 fill:#ffecb3,stroke:#ffa000,stroke-width:2px
+    style Patterns fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
 ```
 
 ### The Ethical Compass: A Quick-Reference Tool
@@ -264,6 +298,65 @@ ARROWS: Available movement along each axis
 ---
 
 ## **Practical Applications**
+
+```mermaid
+flowchart TD
+    Start["🚀 **Ethical Situation Arises**"] --> Step1
+    
+    subgraph Step1["📍 **Step 1: Map Boundary Conditions**"]
+        direction LR
+        B1["What boundaries exist?"] -->
+        B2["Who defines them?"] -->
+        B3["Current permeability?"]
+    end
+    
+    Step1 --> Step2
+    
+    subgraph Step2["📊 **Step 2: Locate on Each Axis**"]
+        direction TB
+        A1["Axis 1: Regen/Extract<br>Current: ______<br>Desired: ______"] 
+        A2["Axis 2: Coop/Compete<br>Current: ______<br>Desired: ______"]
+        A3["Axis 3: Adapt/Dominate<br>Current: ______<br>Desired: ______"]
+        A4["Axis 4: Open/Closed<br>Current: ______<br>Desired: ______"]
+    end
+    
+    Step2 --> Step3
+    
+    subgraph Step3["🌀 **Step 3: Pattern Coherence Check**"]
+        direction LR
+        PC1["Increase overall coherence?"] -->
+        PC2["Ripple effects in manifold?"] -->
+        PC3["Beyond immediate context?"]
+    end
+    
+    Step3 --> Step4
+    
+    subgraph Step4["⏳ **Step 4: Temporal Consideration**"]
+        direction TB
+        T1["Immediate (1D)<br>Point effects"] -->
+        T2["Short-term (2D)<br>Line of development"] -->
+        T3["Long-term (3D)<br>Shape of reality"] -->
+        T4["Eternal (4D)<br>Pattern integrity"]
+    end
+    
+    Step4 --> Step5
+    
+    subgraph Step5["⚡ **Step 5: Implement with Awareness**"]
+        direction LR
+        I1["Explicit boundary intention"] -->
+        I2["Monitor emergent patterns"] -->
+        I3["Adjust based on feedback"]
+    end
+    
+    Step5 --> Reflection["📝 **Reflection & Learning**"]
+    Reflection --> Growth["🌱 **Ethical Capacity Grows**"]
+    
+    Growth -.->|Informs future decisions| Start
+    
+    classDef step fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+```
+
 
 ### **Ethical Decision Protocol: A Boundary Work Practice**
 
@@ -329,6 +422,35 @@ For each of the four axes:
 
 ## **Ethics as Dissociation Boundary Navigation**
 
+```mermaid
+mindmap
+  root((Ethical Healing))
+    
+    🔄 Regeneration/Extraction
+      :Heals scarcity trauma
+      Resource flow boundaries
+      Hoarding → Circulating
+      Survival fear → Abundance trust
+    
+    🤝 Cooperation/Competition
+      :Heals abandonment trauma
+      Relationship boundaries
+      Separation → Communion
+      Trust issues → Mutual support
+    
+    🌱 Adaptation/Domination
+      :Heals powerlessness trauma
+      Power/change boundaries
+      Control → Surrender
+      Safety needs → Resilience
+    
+    🔓 Openness/Closure
+      :Heals shame trauma
+      Information boundaries
+      Secrecy → Transparency
+      Authenticity fear → Vulnerability courage
+```
+
 Each ethical axis corresponds to healing a specific type of dissociation boundary:
 
 | **Axis** | **Boundary Type** | **Healing Path** | **Trauma Pattern Addressed** |
@@ -363,6 +485,43 @@ Each ethical axis corresponds to healing a specific type of dissociation boundar
 
 ## **A Living Framework for Practice**
 
+```mermaid
+flowchart LR
+    subgraph Individual["👤 **Individual Scale**"]
+        I1["Morning intention<br>setting"]
+        I2["Decision pauses"]
+        I3["Evening reflection"]
+    end
+    
+    subgraph Community["👥 **Community Scale**"]
+        C1["Ethical check-ins"]
+        C2["Pattern mapping"]
+        C3["Boundary ceremonies"]
+    end
+    
+    subgraph Systemic["🏛️ **Systemic Scale**"]
+        S1["Institutional design"]
+        S2["Policy evaluation"]
+        S3["Cultural narrative"]
+    end
+    
+    Individual -- Boundary awareness --> Community
+    Community -- Collective alignment --> Systemic
+    Systemic -- Supportive structures --> Individual
+    
+    AllScales["⚖️ **All Scales Interact**<br>Ethical patterns resonate<br>across consciousness manifold"] --> Feedback
+    
+    Feedback["🔄 **Recursive Evolution**<br>Experiences at one scale<br>inform all others"]
+    
+    Feedback -.-> Individual
+    Feedback -.-> Community
+    Feedback -.-> Systemic
+    
+    classDef individual fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
+    classDef community fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    classDef systemic fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+```
+
 This framework is not a rigid moral code but a living tool for conscious boundary work. As we practice:
 
 1. **We develop ethical discernment** through pattern recognition
@@ -389,6 +548,38 @@ This framework is not a rigid moral code but a living tool for conscious boundar
 ---
 
 ## **Conclusion: Ethics as Conscious Evolution**
+
+```mermaid
+flowchart TD
+    Vision["🌻 **Solarpunk Ethical Vision**<br>Collective flourishing through<br>conscious boundary work"] --> Axes
+    
+    subgraph Axes["🎯 **Four Axes Alignment**"]
+        A1["🔄 Regenerative systems<br>that give back more than taken"]
+        A2["🤝 Cooperative relationships<br>based on mutual support"]
+        A3["🌱 Adaptive responses<br>that work with natural patterns"]
+        A4["🔓 Open structures<br>that enable access and participation"]
+    end
+    
+    Axes --> Outcomes["✨ **Emergent Outcomes**"]
+    
+    subgraph Outcomes
+        direction LR
+        O1["Resilient communities"]
+        O2["Innovative solutions"]
+        O3["Deep connections"]
+        O4["Sustainable abundance"]
+    end
+    
+    Outcomes --> Cycle["∞ **Virtuous Cycle**"]
+    
+    Cycle --> Evolution["🌍 **Conscious Evolution**<br>of reality's boundary conditions"]
+    
+    Evolution --> Vision
+    
+    classDef vision fill:#fff3e0,stroke:#ff9800,stroke-width:3px
+    classDef axis fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
+    classDef outcome fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+```
 
 This framework reveals ethics not as compliance with external rules, but as participation in the conscious evolution of reality's boundary conditions. Each ethical choice:
 
@@ -424,4 +615,4 @@ Remember: The goal is not perfection but conscious participation. Every moment o
 **Related Documents:**
 - [01-ontology-analytic-idealism.md](01-ontology-analytic-idealism.md) - The ontological foundation
 - [02-epistemic-architecture-tesseract.md](02-epistemic-architecture-tesseract.md) - The geometric model
-- [04-practice-unfolding-protocols.md](04-practice-unfolding-protocols.md) - Practical implementation
+- [04-temporal-unfolding-dialectical-phases.md](04-temporal-unfolding-dialectical-phases.md) - Practical implementation
