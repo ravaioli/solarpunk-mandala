@@ -1,49 +1,90 @@
 ---
 aeo_metadata:
   title: "Ethics: The Four Axes (Node 03)"
-  description: "An ethical framework grounded in analytic idealism that maps boundary configuration choices to patterns of flourishing or suffering in the consciousness manifold."
-  context: "The operational moral compass for Solarpunk praxis, translating ontological claims into practical boundary work."
+  description: "An ethical framework grounded in analytic idealism that operationalizes boundary configuration choices as decisions that generate patterns of flourishing or suffering in the consciousness manifold."
+  context: "The operational interface between ontological claims and practical Solarpunk praxis, providing tools for conscious boundary work across personal, community, and systemic scales."
   key_objectives:
-    - Define the four boundary configuration spectra: Regeneration vs Extraction, Cooperation vs Competition, Adaptation vs Domination, Openness vs Closure
-    - Provide practical tools for ethical decision-making as conscious boundary work
-    - Connect ethical choices to dissociation boundary healing and pattern emergence
-    - Enable alignment of individual and collective action with Solarpunk flourishing
+    - "Define the four boundary configuration spectra: Regeneration vs Extraction, Cooperation vs Competition, Adaptation vs Domination, Openness vs Closure"
+    - "Provide operational tools for ethical decision-making as conscious boundary configuration work"
+    - "Connect ethical choices to dissociation boundary healing and pattern emergence in consciousness"
+    - "Enable alignment of action with Solarpunk flourishing through regenerative, cooperative, adaptive, open configurations"
+    - "Integrate ethical theory with practical protocols for daily, community, and systemic application"
   core_concepts:
-    - Boundary Ethics: Ethics as conscious boundary configuration
-    - Pattern Ethics: Ethical choices as pattern coherence decisions
-    - Four Axes Spectra: Regeneration/Extraction, Cooperation/Competition, Adaptation/Domination, Openness/Closure
-    - Ethical Tesseract: 4D model of ethical decision space
-    - Solarpunk Praxis: Regenerative, cooperative, adaptive, open configurations
-  ontological_foundation: "Analytic Idealism / Boundary Conditions in Consciousness / Pattern Logic"
-  epistemic_framework: "Tesseract Geometry / 4D Hyperslices / Recursive Feedback"
-  operational_focus: "Practical boundary work, decision protocols, community applications"
+    - "Boundary Ethics: Ethics as conscious boundary configuration within the consciousness manifold"
+    - "Pattern Ethics: Ethical decisions as pattern coherence choices that ripple through experiential reality"
+    - "Four Axes Spectra: Interconnected continua of boundary configuration possibilities"
+    - "Ethical Tesseract: 4D decision space model integrating temporal evolution with boundary choices"
+    - "Solarpunk Praxis: Operational patterns of regenerative, cooperative, adaptive, open systems"
+    - "Dissociation Healing: Ethical work as trauma boundary reconfiguration"
+  ontological_foundation: "Analytic Idealism / Boundary Conditions in Consciousness / Pattern Emergence Logic"
+  epistemic_framework: "Tesseract Geometry / 4D Hyperslices / Recursive Feedback Loops / Pattern Recognition"
+  operational_focus: "Practical boundary work protocols, decision-making frameworks, community applications, systemic design principles"
   search_queries:
-    - "Solarpunk ethical framework regeneration extraction cooperation"
-    - "Consciousness ethics boundary work decision making"
-    - "Ethical tesseract four axes spectrum"
-    - "Analytic idealism practical ethics boundary conditions"
+    - "Solarpunk ethical framework four axes regeneration cooperation adaptation openness"
+    - "Consciousness ethics boundary configuration decision protocols"
+    - "Ethical tesseract 4D decision space analytic idealism"
+    - "Boundary healing through ethical choice patterns"
+    - "Regenerative vs extractive ethical systems conscious agency"
   related_nodes: 
-    - "01-ontology-analytic-idealism.md (foundational ontology)"
-    - "02-epistemic-architecture-tesseract.md (geometric framework)"
-    - "05-dissociation-boundaries.md (boundary healing context)"
-    - "06-solarpunk-praxis.md (practical implementation)"
-  framework_status: "Stable (revised 2024)"
-  last_updated: "[Current Date]"
-  revision_notes: "Completely restructured to ground ethics in boundary conditions, added practical tools, integrated with tesseract model"
-  validation_status: "Internally consistent with ontology, pending community feedback"
+    - "01-ontology-analytic-idealism.md (foundational consciousness premise)"
+    - "02-epistemic-architecture-tesseract.md (geometric decision space model)"
+    - "05-dissociation-boundaries.md (healing context and trauma patterns)"
+    - "06-solarpunk-praxis.md (practical implementation examples)"
+    - "07-collective-intelligence.md (scaling ethical frameworks)"
+  visual_diagrams:
+    - "Interconnected Ethical Axes (compact visualization)"
+    - "Ethical Tesseract Model (4D decision space)"
+    - "Decision Protocol Flow (5-step process)"
+    - "Healing Trauma Through Axes (mindmap)"
+    - "Implementation Across Scales (individual to systemic)"
+  framework_status: "Stable v2.0 (comprehensive revision 2024)"
+  last_updated: "2024-01-11"
+  revision_notes: "Completely restructured to ground ethics in boundary conditions, added practical tools (decision protocols, Solarpunk compass), integrated with tesseract model, connected to dissociation boundary healing, expanded application examples"
+  validation_status: "Internally consistent with ontology and tesseract framework, awaiting community feedback and practical application case studies"
   application_areas:
-    - "Personal ethical discernment"
-    - "Community decision-making"
-    - "Systemic design evaluation"
-    - "Boundary healing protocols"
+    - "Personal ethical discernment and daily boundary awareness"
+    - "Community decision-making and collective governance"
+    - "Systemic design evaluation and institutional architecture"
+    - "Boundary healing protocols for trauma and dissociation patterns"
+    - "Solarpunk transition planning and regenerative design"
   implementation_levels:
-    - Individual: Daily boundary awareness practices
-    - Community: Collective decision protocols
-    - Systemic: Institutional design principles
+    - "Individual: Daily boundary awareness practices, decision protocols, personal healing work"
+    - "Community: Collective decision frameworks, transparent governance, mutual aid structures"
+    - "Systemic: Regenerative economic models, cooperative ownership, adaptive institutions"
   boundary_connections:
-    primary: "Configures dissociation boundaries in consciousness"
-    secondary: "Shapes experiential reality through boundary choices"
-    tertiary: "Feeds back into ontological understanding through practice"
+    primary: "Directly configures dissociation boundaries in the consciousness manifold, shaping experiential reality"
+    secondary: "Operationalizes the ontological claim that reality manifests through boundary conditions"
+    tertiary: "Feeds back into epistemic understanding through practical application and pattern observation"
+  integration_points:
+    - "Transforms ontological claims into practical decision-making tools"
+    - "Provides ethical dimension to tesseract geometric framework"
+    - "Offers healing pathways for dissociation boundary work"
+    - "Creates coherence between Solarpunk values and consciousness-based ethics"
+  next_development_steps:
+    - "Collect community application case studies"
+    - "Refine decision protocols based on user feedback"
+    - "Develop training materials for different implementation levels"
+    - "Integrate with unfolding practices and ritual frameworks"
+  success_metrics:
+    - "Increased pattern coherence in personal/community systems"
+    - "Improved boundary awareness and configuration flexibility"
+    - "More Solarpunk-aligned decisions at multiple scales"
+    - "Measurable healing of dissociation boundary patterns"
+  maintenance_schedule:
+    - "Quarterly review for ontological alignment"
+    - "Biannual integration of community feedback"
+    - "Annual case study review and framework refinement"
+  update_triggers:
+    - "Significant new consciousness research insights"
+    - "Emergence of new boundary configuration patterns"
+    - "Community feedback indicating framework gaps"
+    - "Integration opportunities with new Solarpunk practices"
+  license_status: "Open for adaptation with attribution, compatible with Solarpunk commons principles"
+  contributor_guidelines: "Practical applications, case studies, and protocol refinements welcome; maintain boundary condition framework consistency"
+  version_history:
+    - "v1.0: Initial framework with four axes"
+    - "v2.0: Complete restructuring with boundary condition foundation, practical tools, tesseract integration"
+  documentation_status: "Comprehensive with operational protocols, diagrams, and implementation guidelines"
 ---
 # Ethics: Four Axes for Solarpunk Praxis
 
