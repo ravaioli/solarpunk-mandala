@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix O: Learning Tesseract and Developmental Geometry"
+  description: "A geometric model of learning and development that maps how knowledge, skills, and consciousness evolve through multidimensional transformations within a four-dimensional tesseract architecture."
+  context: "Educational and developmental extension of the epistemic tesseract framework within the Solarpunk Mandala. Provides geometric models for understanding learning pathways, developmental stages, and transformative growth processes."
+  key_objectives:
+    - "Map developmental trajectories through the geometric structure of the learning tesseract."
+    - "Define four developmental axes and their geometric representations within the tesseract."
+    - "Create visualization tools for tracking learning progress and identifying developmental blocks."
+    - "Establish geometric patterns for optimal learning sequences and integration points."
+    - "Apply developmental geometry to individual, organizational, and civilizational learning."
+  core_concepts:
+    - "Developmental Vectors and Trajectories"
+    - "Learning Hypercubes and Progressions"
+    - "Geometric Maturation Patterns"
+    - "Tesseract Pathways for Skill Integration"
+    - "Developmental Plateaus as Dimensional Transitions"
+    - "Holonic Learning (Fractal Developmental Patterns)"
+  ontological_foundation: "Developmental Systems Theory & Geometric Epistemology"
+  epistemic_stance: "Structural Developmentalism & Pattern Recognition"
+  search_queries:
+    - "geometric models of learning development"
+    - "tesseract learning pathways"
+    - "developmental stages geometric visualization"
+    - "multidimensional skill acquisition"
+    - "holonic learning patterns"
+  related_nodes:
+    - "appendices/N-epistemic-tesseract-geometric-knowing.md"
+    - "framework/applied/01-educational-architecture.md"
+    - "practices/developmental/03-growth-trajectory-mapping.md"
+  framework_status: "Developmental"
+  version: "0.8"
+  last_reviewed: "2026-01-12"
+---
 # Appendix O: The Learning Tesseract — A Developmental Geometry of Consciousness
 
 ## Executive Summary: The Dynamics of Conscious Becoming
