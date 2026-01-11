@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix T: Regenerative Economy"
+  description: "An economic framework that aligns production, distribution, and consumption with ecological regeneration, social equity, and consciousness development, moving beyond extractive growth models to thriving within planetary boundaries."
+  context: "Economic and ecological application of the Solarpunk Mandala, providing models for circular, regenerative economic systems that enhance rather than degrade life-support systems and human flourishing."
+  key_objectives:
+    - "Define principles of regenerative economics and circular production systems."
+    - "Develop metrics for measuring well-being, ecological health, and consciousness development beyond GDP."
+    - "Create models for regenerative finance, investment, and currency systems."
+    - "Establish protocols for just transitions from extractive to regenerative economies."
+    - "Design economic incentives that reward regeneration, cooperation, and consciousness expansion."
+  core_concepts:
+    - "Circular and Regenerative Production"
+    - "Multi-Capital Accounting (Ecological, Social, Consciousness)"
+    - "Commons-Based Stewardship Economics"
+    - "Regenerative Finance and Complementary Currencies"
+    - "Just Transition Pathways"
+    - "Thriving Within Planetary Boundaries"
+  ontological_foundation: "Ecological Economics & Complex Systems Theory"
+  epistemic_stance: "Systems Ecology & Multi-Criteria Evaluation"
+  search_queries:
+    - "regenerative economic model"
+    - "circular economy consciousness"
+    - "multi-capital accounting framework"
+    - "regenerative finance systems"
+    - "just transition economic pathways"
+  related_nodes:
+    - "appendices/S-symbiotic-commonwealth-mesh.md"
+    - "appendices/W-kinship-commons.md"
+    - "framework/applied/06-economic-systems.md"
+  framework_status: "Developmental"
+  version: "0.9"
+  last_reviewed: "2026-01-12"
+---
 # Appendix T: The Φ-Currency and the Regenerative Economy
 
 ## 1. Introduction: From Debt-Scarcity to Vitality-Signals
