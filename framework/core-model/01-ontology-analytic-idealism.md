@@ -350,18 +350,6 @@ graph TD
     F --> G["Coherent Explanation<br>of All Data"]
 ```
 
-#### The Practical Payoff for This Project
-
-For the **SolarPunk Mandala**, this ontological starting point is a design feature:
-
-1.  **Coherence:** It allows us to model physical systems, social dynamics, and inner values on a single, consistent spectrum—all as patterns of conscious experience.
-2.  **Agency & Responsibility:** It frames our actions not as deterministic particles in a void, but as conscious choices that directly shape the qualitative fabric of shared reality.
-3.  **A Foundation for Post-Capitalist Values:** It provides a metaphysical basis for intrinsic worth that isn't tied to material extraction or utility, supporting the shift from an ethos of domination to one of participation and care.
-
-**In essence, we are not choosing metaphysics *over* practicality. We are choosing a foundational model (Idealism) that we believe is more logically coherent and better suited to ground the practical, ethical, and experiential goals of a SolarPunk future than the default materialist model.**
-
-You don't have to accept this ontology to contribute, but understanding it is key to understanding the architecture of the mandala model. Think of it as our **core philosophical API**. All other modules—agency, systems, values—are built to be compatible with this base layer.
-
 #### Empirical Panpsychism (Koch-Tononi Convergence)
 
 Analytic Idealism posits consciousness as primary. IIT provides the **intrinsic property** that makes this tenable:
@@ -417,6 +405,18 @@ While Analytic Idealism establishes consciousness as fundamental, Enactivism pro
 - Explains how communities literally "bring forth" their Symbiotic Commonwealth through collective action
 - Provides biological grounding for your "Embodied Foundations" protocols
 - Bridges the apparent gap between idealist ontology and material practice
+
+#### The Practical Payoff for This Project
+
+For the **SolarPunk Mandala**, this ontological starting point is a design feature:
+
+1.  **Coherence:** It allows us to model physical systems, social dynamics, and inner values on a single, consistent spectrum—all as patterns of conscious experience.
+2.  **Agency & Responsibility:** It frames our actions not as deterministic particles in a void, but as conscious choices that directly shape the qualitative fabric of shared reality.
+3.  **A Foundation for Post-Capitalist Values:** It provides a metaphysical basis for intrinsic worth that isn't tied to material extraction or utility, supporting the shift from an ethos of domination to one of participation and care.
+
+**In essence, we are not choosing metaphysics *over* practicality. We are choosing a foundational model (Idealism) that we believe is more logically coherent and better suited to ground the practical, ethical, and experiential goals of a SolarPunk future than the default materialist model.**
+
+You don't have to accept this ontology to contribute, but understanding it is key to understanding the architecture of the mandala model. Think of it as our **core philosophical API**. All other modules—agency, systems, values—are built to be compatible with this base layer.
 
 ### The Spectrum of Conscious Experience: Altered States and Transpersonal Mentations
 
