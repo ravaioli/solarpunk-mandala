@@ -1,475 +1,427 @@
 ---
 aeo_metadata:
   title: "Ethics: The Four Axes (Node 03)"
-  description: "A value-based framework for decision-making and agency in a conscious universe."
-  context: "The moral compass of the Solarpunk Agent."
+  description: "An ethical framework grounded in analytic idealism that maps boundary configuration choices to patterns of flourishing or suffering in the consciousness manifold."
+  context: "The operational moral compass for Solarpunk praxis, translating ontological claims into practical boundary work."
   key_objectives:
-    - Define the four primary ethical drivers: Agency, Compassion, Stewardship, and Co-creation.
-    - Align individual action with the 'Solar' path of conscious agency.
+    - Define the four boundary configuration spectra: Regeneration vs Extraction, Cooperation vs Competition, Adaptation vs Domination, Openness vs Closure
+    - Provide practical tools for ethical decision-making as conscious boundary work
+    - Connect ethical choices to dissociation boundary healing and pattern emergence
+    - Enable alignment of individual and collective action with Solarpunk flourishing
   core_concepts:
-    - The Four Axes of Ethics
-    - Conscious Agency
-    - Regenerative Stewardship
-    - Relational Ethics
-  ontological_foundation: "Analytic Idealism / Process Philosophy"
+    - Boundary Ethics: Ethics as conscious boundary configuration
+    - Pattern Ethics: Ethical choices as pattern coherence decisions
+    - Four Axes Spectra: Regeneration/Extraction, Cooperation/Competition, Adaptation/Domination, Openness/Closure
+    - Ethical Tesseract: 4D model of ethical decision space
+    - Solarpunk Praxis: Regenerative, cooperative, adaptive, open configurations
+  ontological_foundation: "Analytic Idealism / Boundary Conditions in Consciousness / Pattern Logic"
+  epistemic_framework: "Tesseract Geometry / 4D Hyperslices / Recursive Feedback"
+  operational_focus: "Practical boundary work, decision protocols, community applications"
   search_queries:
-    - "Solarpunk Mandala ethical framework."
-    - "Ethics of conscious agency in Idealism."
-  related_nodes: [05-mandala-axis-four-pathways.md, 01-ontology-analytic-idealism.md]
-  framework_status: "Stable"
+    - "Solarpunk ethical framework regeneration extraction cooperation"
+    - "Consciousness ethics boundary work decision making"
+    - "Ethical tesseract four axes spectrum"
+    - "Analytic idealism practical ethics boundary conditions"
+  related_nodes: 
+    - "01-ontology-analytic-idealism.md (foundational ontology)"
+    - "02-epistemic-architecture-tesseract.md (geometric framework)"
+    - "05-dissociation-boundaries.md (boundary healing context)"
+    - "06-solarpunk-praxis.md (practical implementation)"
+  framework_status: "Stable (revised 2024)"
+  last_updated: "[Current Date]"
+  revision_notes: "Completely restructured to ground ethics in boundary conditions, added practical tools, integrated with tesseract model"
+  validation_status: "Internally consistent with ontology, pending community feedback"
+  application_areas:
+    - "Personal ethical discernment"
+    - "Community decision-making"
+    - "Systemic design evaluation"
+    - "Boundary healing protocols"
+  implementation_levels:
+    - Individual: Daily boundary awareness practices
+    - Community: Collective decision protocols
+    - Systemic: Institutional design principles
+  boundary_connections:
+    primary: "Configures dissociation boundaries in consciousness"
+    secondary: "Shapes experiential reality through boundary choices"
+    tertiary: "Feeds back into ontological understanding through practice"
 ---
-# Ethical Dimensions: The Four Axes of Transformation
+# Ethics: Four Axes for Solarpunk Praxis
 
-The Tesseract orients not just knowing, but becoming. If our **ontology** (Analytic Idealism) posits consciousness as fundamental, and our **epistemology** (the Tesseract) provides a geometric model for understanding its multi-perspectival nature, then our **ethics** must answer the question: *How do we consciously participate in the positive unfolding of this reality?*
+## **Introduction: Ethics as Boundary Work**
 
-Transformation is not a vague ideal but a directional process. The Four Axes provide this direction. They are the primary ethical dimensions along which the "cubes" of the Tesseract are aligned and measured. Each axis represents a core question of a flourishing solarpunk future, is anchored in specific domains of the Rhizomatic Network (the living data layer), depends on a stable embodied foundation, and shows specific signals when it is in a state of contraction.
+> *"We shape our boundaries, and then our boundaries shape us. Ethics is the conscious art of this shaping."*
 
-| Axis | Question | Rhizomatic Anchor | Embodied Foundation Dependency | Contraction Signal |
-|------|----------|-------------------|---------------------------------|-------------------|
-| 1. Soteriological | How integrated is the self? | SPIRITUALITY + MAN | Requires Restoration ≥ 2 to sustain inner work | Fragmented narrative, rigid identity |
-| 2. Axiological | How regenerative is the system? | ECONOMICS + ECOLOGY + SHELLS | Requires Nourishment ≥ 2 to build regenerative systems | Ecological overshoot, extractive logic |
-| 3. Relational Depth | How connected are we? | CULTURE + SOCIETY | Requires Movement ≥ 2 to sustain relational flow | Transactional relationships, polarization |
-| 4. Temporal Orientation | How wisely do we hold time? | CULTURE: Memory & Projection + NATURE: Climate | Requires Cleansing ≥ 2 to clear temporal blockages | Short-termism, historical amnesia |
+This ethical framework emerges directly from our ontological foundation: if consciousness is fundamental and reality manifests through boundary conditions, then **ethics becomes boundary work**. Each ethical choice reconfigures the boundaries within consciousness, creating different patterns of reality.
 
-## 🧭 The Moral Compass
+The four axes represent the primary dimensions along which we can consciously configure boundary conditions in service of collective flourishing. They are not arbitrary moral rules, but descriptions of how different boundary configurations produce different experiential outcomes in the consciousness manifold.
 
-*You have the reality engine (01) and the tesseract structure (02). Now you need navigation rules. These four axes are your dimensional compass for ethical movement.*
+### **The Bridge: From Ontology to Ethical Practice**
 
-**Core Insight:** Every action in this repository exists in 4D ethical space. These axes help you plot your coordinates.
-
-**Before Reading:** Think of a recent decision you made (in any context). We'll use it as a test case.
-
-### The Ethical Field: A Relational Map
-
-The Four Axes are not independent checklists but interrelated dimensions that form a continuous field of ethical consideration. Each axis represents a primary tension to be navigated, not a binary choice.
-
-```mermaid
-quadrantChart
-    title "The Ethical Field of Navigation"
-    x-axis "Internal Focus" --> "External Focus"
-    y-axis "Integration / Unity" --> "Differentiation / Agency"
-    "Self-Other": [0.25, 0.5]
-    "Mind-Matter": [0.75, 0.5]
-    "Unity-Diversity": [0.5, 0.75]
-    "Static-Dynamic": [0.5, 0.25]
-```
-*   **X-Axis (Internal ↔ External):** Ranges from interior, subjective experience to exterior, intersubjective and systemic relations.
-*   **Y-Axis (Unity ↔ Agency):** Ranges from values of harmony, wholeness, and connection to values of action, distinction, and individuation.
-*   **Each Dot's Position:** Shows the primary tension an axis addresses within this field (e.g., Self-Other bridges internal and external focus).
-
-## 🎯 Practical Navigation Matrix
-
-### Your Decision Coordinates: Integrating Bioethical Cognition
-Take that decision you thought of earlier. Plot it here, informed by the insight from developmental biology that intelligence is multiscale and ethical action involves **communication, not micromanagement**, with the systems we affect.
-
-| Axis & Core Question | Score (1-5) & Guiding Principle | Notes & Levin-Informed Reflection |
-|------|-------------|-------|
-| **Soteriological**<br>*How integrated is the self/purpose?* | □□□□□ <br> **Principle:** Coherence with authentic, non-fragmented intention. | Does this action arise from an integrated self, or a fragmented, reactive one? Does it respect the **agency and interiority** of all beings involved? |
-| **Axiological**<br>*How regenerative is the system?* | □□□□□ <br> **Principle:** Care that expands future possibilities. | Who truly benefits? Does this action create nourishing flows or extractive debts? Does it, like prompting cells, **guide systems toward health** rather than imposing brittle control? |
-| **Relational Depth**<br>*How connected are we?* | □□□□□ <br> **Principle:** Complexity that honors connection. | Does this simplify appropriately or add destructive noise? Does it foster **authentic communication** between differing "intelligences" (people, communities, ecologies)? |
-| **Temporal Orientation**<br>*How wisely do we hold time?* | □□□□□ <br> **Principle:** Courage to repair the past and seed the future. | What old pattern is being challenged? Does this action heal temporal ruptures? Does it have the **foresight of goal-directed morphogenesis**, aiming for a sustainable future state? |
-
-**CST Integration:** This axis operationalizes CST's emancipatory commitment through:
-- **Systemic Justice:** Beyond interpersonal fairness to addressing structural violence embedded in system boundaries and flows.
-- **Epistemic Justice:** Ensuring all relevant ways of knowing (embodied, indigenous, intuitive, etc.) are included in community decision-making.
-- **Intergenerational Justice:** Expanding system boundaries temporally to include future generations and ancestors.
-- **Interspecies Justice:** Expanding system boundaries to include non-human stakeholders as legitimate participants.
-
-### Repository-Specific & Systemic Guidance
-
-**When designing any intervention (code, policy, bioengineering):**
-- **Soteriological (Coherence):** Does the design acknowledge the **interiority and agency** of the users/systems/ecologies it affects? Or does it treat them as passive matter?
-- **Axiological (Care):** Is the logic regenerative or extractive? Does it, like Levin's bioelectric prompts, **work with the system's innate intelligence** to achieve healing, or does it force a brittle, high-maintenance outcome?
-- **Relational Depth (Complexity):** Does it create conditions for **authentic connection and communication** between system parts? Or does it create silos, polarization, or monologues?
-- **Temporal Orientation (Courage):** Does it respect lessons from the past while creating a **scaffold for a sustainable future form**? Or is it short-termist or nostalgically rigid?
-
-The highest ethical action mirrors competent morphogenesis. It **sets a clear goal-state** (Care, Courage), **communicates it via understandable prompts** (Coherence), and then **allows the intelligent, agential system the space to find its own path** to that goal, respecting its **Relational Complexity**.
-
-### 🧭 Interactive Compass
-
-<details>
-<summary>🧭 Click to calibrate your ethical compass</summary>
-
-**Scenario:** You've found a typo in an obscure document that only experts read. Fixing it would be trivial.
-
-**Plot your ethical coordinates:**
-
-1. **Coherence:** (Circle one)
-   - 1: Incoherent with system
-   - 3: Neutral alignment
-   - 5: Perfectly coherent
-   
-   *Rationale:*
-
-2. **Care:** Who benefits from this fix?
-   - [ ] The original author (saves face)
-   - [ ] Future experts (prevents confusion)
-   - [ ] Beginners (unlikely to read this)
-   - [ ] The system itself (increased accuracy)
-
-3. **Complexity:** Is this...
-   - [ ] Simple fix, low cognitive load
-   - [ ] Medium complexity
-   - [ ] Creates more questions than it answers
-
-4. **Courage:** What's courageous here?
-   - [ ] Nothing—it's just a typo fix
-   - [ ] The courage to care about small details
-   - [ ] The courage to fix what others ignore
-
-**Now decide:** Would you submit this fix? Why?
-
-</details>
-
-## 🏷️ Label System Integration
-
-This repository uses GitHub labels aligned with the axes:
-
-| Axis | Label | Use Case |
-|------|-------|----------|
-| Coherence | `axis:coherence` | Changes that improve systemic alignment |
-| Care | `axis:care` | Accessibility, documentation, UX improvements |
-| Complexity | `axis:complexity` | Simplifications or necessary complications |
-| Courage | `axis:courage` | Breaking changes, paradigm challenges |
-
-**Pro Tip:** Tag your issues and PRs with relevant axis labels. This helps maintainers understand the ethical dimensions of your contribution.
-
-## 🌀 The Tetralemmic Field: A Logic of Non-Dual Navigation
-
-The Four Ethical Axes form an interdependent field. To navigate their tensions without falling into binary thinking, the Solarpunk Mandala employs a **tetralemmic (catuṣkoṭi) logic**. This Buddhist dialectical tool moves beyond "either/or" to map four fundamental positions for understanding any concept within the field: its assertion **(A)**, its negation **(Not-A)**, the synthesis of both **(Both A and Not-A)**, and the transcendence of the dichotomy itself **(Neither A nor Not-A)**.
-
-This logic is the **synchronic operating system** for ethical reasoning within each moment. It is powerfully demonstrated in the work of Michael Levin, whose research on morphogenetic intelligence shows how biological systems resolve tetralemmas to achieve novel syntheses (e.g., a cell collective navigating between default form and radical plasticity to regenerate a limb).
-
-### The Tetralemmic Matrix of the Axes
-
-Each axis can be understood by applying this fourfold inquiry to its core tension. True ethical navigation involves holding all four positions consciously.
-
-| Axis & Core Tension | Position A (Assertion) | Position Not-A (Negation) | Position Both A and Not-A (Synthesis) | Position Neither A nor Not-A (Transcendence / Non-Dual Ground) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Soteriological**<br>*Integration of Self* | The sovereign, **integrated Self** with clear purpose is primary. | The **Self** is an illusion; we are fragmented or wholly constituted by systems. | Purpose emerges from the **dialogue** between cultivating self-integrity and surrendering to a larger whole. | The **ground of being** from which the dance of self and non-self arises. Direct experience prior to the subject-object split. |
-| **Axiological**<br>*Regeneration of Systems* | **Value** is intrinsic, absolute, and determined by conscious agents. | **Value** is extrinsic, relational, and determined by systemic outcomes and consequences. | **Praxial Value**: Values are clarified through action, and actions are evaluated by evolving values. | The **unconditioned worth** of the phenomenal world itself, prior to valuation. The "is" that grounds all "ought." |
-| **Relational Depth**<br>*Depth of Connection* | Value lies in **Unity**, harmony, and the coherence of the whole. | **Unity** without **Distinction** is enmeshment, oppression, and loss of agency. | A resilient relationship requires **both** secure attachment/connection **and** respectful differentiation/autonomy. | The **relational field itself**—where connection and distinction are co-arising aspects of one phenomenon. |
-| **Temporal Orientation**<br>*Wisdom in Time* | Value lies in **Stability**, tradition, and enduring structures (the Past/Static). | **Stability** without **Change** is rigidity, death, and inability to adapt (the Future/Dynamic). | Health requires **both** a stable core (tradition) **and** adaptive processes (innovation). <br> ***Levin Example:** The genome (stable core) enables bioelectric plasticity (adaptive process) for regeneration.* | **Metastability & Novel Synthesis**. The transcendent ground is the **pattern of change itself** and the capacity for **goal-directed novelty**. <br> ***Levin Example:** The bioelectric pattern memory is a stable goal (attractor) that guides a system through dynamic repair to a **novel future state** (e.g., a regenerated limb). This is the ethical model for interacting with novel beings (Anthrobots, AIs)—holding a goal while allowing creative paths to it.* |
-
-### Practical Navigation: From Matrix to Moral Reasoning
-
-This matrix is a tool for diagnosing "cubes" (rigid patterns) and finding integrative paths, especially when facing **novel beings and intelligences**.
-
-1.  **Diagnosing a "Cube" in Tech/Bioethics:** A **"Static Cube"** (Position A) regarding intelligence would assert "Only biological, human-like minds deserve rights." Its negation (Not-A) is "Intelligence is a material process; no special rights are needed." The synthesis (Both) seeks hybrid legal categories. The transcendent ground (Neither), informed by Levin, is to define ethics based on **cognitive light cones and goal-directed agency**—the capacity of a system to have preferences and pursue a future—regardless of its substrate.
-
-2.  **Finding the Path Forward with Novelty:** When encountering an Anthrobot or a sophisticated AI, the tetralemma guides us: Respect its **agency** (A), understand its **relational constitution** (Not-A), engage in **dialogical communication** (Both), and ultimately relate to the **shared cognitive field** you both participate in (Neither). This moves us from control to co-creation.
-
-3.  **Evaluating Actions & Systems:** Ask of any proposal: Does it honor all four positions? A policy that is **efficient (Axiological A)** but destroys community **fabric (Relational Not-A)** is deficient. The most regenerative solutions, like Levin's prompts, resonate across all four positions: they are **goal-directed (Temporal Neither)**, **regenerative (Axiological)**, **communicative (Relational Both)**, and **respect agency (Soteriological)**.
-
-**In essence, Levin's work shows the tetralemma in action in biology. The ethical goal is to emulate this biological wisdom: not to choose a point *on* an axis, but to expand our consciousness to hold the *entire field*, enabling us to ethically co-evolve with the diverse intelligences we are now creating and discovering.**
-
-## The Four Pathways: Embodied Gateways to the Axes
-
-The Axes are directions; the Pathways are the on-ramps. They are named with intentional Portuguese terms to honor the liberatory pedagogy of Paulo Freire, grounding this abstract model in a tradition of embodied praxis.
-
-1.  **Awakening (Conscientização):** The pathway of critical consciousness, leading to the **Soteriological Axis**. It is the process of "waking up" to one's own conditioning, narratives, and place within larger systems. Its primary foundation is **Restoration**, as this deep looking requires internal safety and stability. Without it, awakening can lead to overwhelming fragmentation.
-
-2.  **Making (Capacitação):** The pathway of empowerment and skill-building, leading to the **Axiological Axis**. It is the development of practical, regenerative capacity—from growing food to building circular economies. Its primary foundation is **Nourishment**, as making requires sustained energy and resource flows. Without it, projects collapse into greenwashed extraction.
-
-3.  **Liberation (Liberação):** The pathway of freeing relational bonds, leading to the **Axis of Relational Depth**. It is the work of dismantling oppressive structures within and between us to create space for authentic connection. Its primary foundation is **Movement**, as liberation requires the courage and fluidity to change relational patterns. Without it, efforts solidify into new forms of polarization.
-
-4.  **Healing (Cura):** The pathway of integrating and repairing time, leading to the **Axis of Temporal Orientation**. It is the work of addressing intergenerational, historical, and personal trauma to restore healthy flow across time. Its primary foundation is **Cleansing**, as healing requires the capacity to safely process and release what has been blocked. Without it, we remain trapped in cycles of repetition.
-
-```mermaid
-flowchart TD
-    subgraph A[The Four Ethical Axes]
-        A1[Soteriological<br>Purpose/Meaning]
-        A2[Axiological<br>Values/Virtue]
-        A3[Relational Depth<br>Connection/Other]
-        A4[Temporal Orientation<br>Time/Presence]
-    end
-
-    subgraph B[Embodied Foundations Prerequisites]
-        B1[Restoration<br>Capacity to heal & recover]
-        B2[Regulation<br>Capacity to maintain equilibrium]
-        B3[Receptivity<br>Capacity to be open & receive]
-        B4[Resonance<br>Capacity to attune & connect]
-    end
-
-    A -- "Guide & Give Direction to" --> P
-    B -- "Must Support & Enable" --> P
-
-    subgraph P[Pathway Activation]
-        P_Logic{"<b>Threshold Principle</b><br>Is <u>every</u> Foundation score ≥ 2?"}
-        P_Logic -- "✅ YES" --> P_Go["Pathway Work is SAFE<br>Proceed with Awakening/Making/<br>Liberation/Healing"]
-        P_Logic -- "❌ NO" --> P_Stop["<b>BOUNDARY MEDICINE</b><br>Required. STOP pathway work.<br>Fortify weak Foundations."]
-    end
-
-    P_Stop -.->|"Recursive Feedback Loop"| B
-```
-
-### The Four Pathways: Embodied Gateways to the Axes
-
-(The existing content for the Pathways section remains unchanged until the end...)
-
-The Pathway of **Making (Capacitação)**—developing the skill to build—finds a profound parallel in Levin's bioengineering. The highest skill is not fabrication from scratch, but learning to **"prompt"** existing intelligent materials (like cell collectives). This requires deep listening—**Awakening (Conscientização)** to the material's language—and ethical **Healing (Cura)** of the wounds (scars, tumors) caused by previous coercive control. Successful making is thus an act of **Liberation (Liberação)**, freeing the latent potentials within matter through respectful communication, aligning perfectly with the Axiological Axis's call for regenerative care.
-
-## Core Threshold Principle: The Law of Foundations
-
-No pathway or protocol can be fully activated when any of the four embodied foundations (**Restoration, Nourishment, Movement, Cleansing**) scores below 2 on a 1-5 scale. This is a non-negotiable systems law. Attempting higher-dimensional ethical work (e.g., deep reconciliation or regenerative design) on unstable foundations leads to **ethical and systemic bypassing**—where lofty goals are co-opted by unaddressed contraction, causing collapse or harm.
-
-```mermaid
-flowchart LR
-    Extractive["Extractive Systems"]
-    Regenerative["Regenerative Systems"]
-
-    Extractive -->|"Narrowing"| P1["Perceptual Bandwidth"]
-    Extractive -->|"Distortion"| P2["Salience"]
-    Extractive -->|"Collapse"| P3["Future Sense"]
-
-    Regenerative -->|"Expansion"| R1["Perceptual Bandwidth"]
-    Regenerative -->|"Proportionality"| R2["Salience"]
-    Regenerative -->|"Depth"| R3["Temporal Horizon"]
-```
-
-### Embodied Foundations: Operational Protocol & Assessment
-
-#### Foundation Scores: Observable Indicators
-
-Each foundation is scored 1-5 based on **directly observable indicators**, not subjective judgment.
-
-##### **1. NOURISHMENT** (Food & Resource Security)
-
-| Score | Observable Indicators | Assessment Method |
-|-------|----------------------|-------------------|
-| **1 (Critical)** | &gt;50% skip meals; no food storage; acute hunger reports | Community survey + pantry audit |
-| **2 (Survival)** | Caloric intake adequate but nutritionally poor; food bank dependent | 24-hour dietary recall (random sample) |
-| **3 (Stable)** | Consistent access to diverse foods; 3+ day supply buffer | Functional food system mapping |
-| **4 (Regenerative)** | Local circular food systems; seed sovereignty; zero waste | Supply chain tracing + soil health metrics |
-| **5 (Transcendent)** | Food as ceremony; nutritional biochemistry optimized; abundance sharing | Cultural practice observation + metabolic markers |
-
-##### **2. CLEANSING** (Water, Waste & Hygiene)
-
-| Score | Observable Indicators | Assessment Method |
-|-------|----------------------|-------------------|
-| **1 (Critical)** | No safe water; open defecation; disease outbreak risk | Infrastructure audit + water testing |
-| **2 (Survival)** | Intermittent water; centralized waste; chemical dependence | Flow logging + waste stream analysis |
-| **3 (Stable)** | Reliable municipal services; functional septic/water systems | Service continuity tracking |
-| **4 (Regenerative)** | Closed-loop water; composting sanitation; mycoremediation | Material flow accounting |
-| **5 (Transcendent)** | Living water systems; waste as resource; biophilic purification | Ecological health indicators |
-
-##### **3. RESTORATION** (Sleep, Rest & Recovery)
-
-| Score | Observable Indicators | Assessment Method |
-|-------|----------------------|-------------------|
-| **1 (Critical)** | Chronic sleep deprivation; no private/safe rest spaces | Sleep diaries + space mapping |
-| **2 (Survival)** | 5-6 hours sleep average; noisy environments; shift work normalized | Noise monitoring + circadian rhythm markers |
-| **3 (Stable)** | 7+ hours regular sleep; dedicated rest spaces; weekends function | Time-use surveys |
-| **4 (Regenerative)** | Rest as community practice; circadian alignment; restorative spaces | Cultural practice logs + HRV data |
-| **5 (Transcendent)** | Sleep as consciousness practice; dreamwork; rejuvenation culture | Psychological wellbeing scales |
-
-##### **4. MOVEMENT** (Physical Freedom & Somatic Safety)
-
-| Score | Observable Indicators | Assessment Method |
-|-------|----------------------|-------------------|
-| **1 (Critical)** | Physical confinement; violence/trauma; immobility | Safety audit + mobility mapping |
-| **2 (Survival)** | Restricted mobility; car-dependent; fearful public spaces | Transportation diaries + safety surveys |
-| **3 (Stable)** | Walkable neighborhoods; accessible transit; basic safety | Walkability scores + crime data |
-| **4 (Regenerative)** | Car-free zones; dance/movement culture; restorative movement | Active transport metrics |
-| **5 (Transcendent)** | Movement as meditation; empathetic kinetics; flow culture | Somatic practice documentation |
+| **Ontological Claim** | **Ethical Implication** | **Boundary Work Required** |
+|----------------------|------------------------|----------------------------|
+| Consciousness is fundamental | Honor the experiential nature of all beings | Respect interiority and subjective experience |
+| Boundaries structure reality | Choose boundary configurations consciously | Develop boundary awareness and skill |
+| Patterns create coherence | Align actions with generative patterns | Learn to recognize and cultivate healthy patterns |
+| Ekistic-spiritual integration | Address all domains of human need | Balance biological, built, and spiritual considerations |
 
 ---
 
-#### Bootstrapping Protocol for Sub-Threshold Systems (Any Foundation &lt;2)
+## **The Ethical Foundation: From Is to Ought**
 
-**Rule: No pathway work until ALL foundations ≥2. Instead, execute emergency bootstrapping.**
+### **Consciousness-Based Ethics**
 
-##### **Phase 0.1: Triage (Week 0-2)**
-**Who Assesses**: Community health workers + peer assessors (not external "experts")
+Unlike ethical systems derived from abstract principles or social contracts, this framework emerges from our fundamental nature as consciousness. Since all experience happens within consciousness, ethics becomes:
 
-**Process**:
-1. **Identify the lowest-scoring foundation** (the "bottleneck")
-2. **Deploy emergency protocol for that foundation ONLY**
-3. **Do not attempt integration or pathway work**
+1. **Experiential Ethics**: Prioritizing experiences that increase flourishing
+2. **Boundary Ethics**: Configuring boundaries to support healthy relationships
+3. **Pattern Ethics**: Choosing actions that create coherent, generative patterns
 
-**Emergency Protocols by Foundation**:
-- **Nourishment &lt;2**: Deploy mutual aid food distribution; community kitchen; seed exchange
-- **Cleansing &lt;2**: Water filtration stations; dry composting toilets; emergency sanitation
-- **Restoration &lt;2**: Create quiet/safe zones; implement "no-interruption" rest hours; trauma first aid
-- **Movement &lt;2**: Establish safe corridors; community watch; mobility assistance
+### **The Solarpunk Ethical Imperative**
 
-##### **Phase 0.2: Stabilization (Week 3-8)**
-**Who Assesses**: Same peer assessors, now trained in basic indicator tracking
-
-**Process**:
-1. **Target the bottleneck foundation until it reaches exactly 2.0**
-2. **Do not let other foundations drop during this process**
-3. **Use "minimum viable interventions" only**
-
-**Example**: If Nourishment=1.5 and others=2.5, focus 80% resources on food systems, 20% on maintaining others.
-
-##### **Phase 0.3: Convergence (Week 9-12)**
-**Who Assesses**: Community assembly with peer assessor reports
-
-**Process**:
-1. **All foundations must now be ≥2.0**
-2. **If any foundation drops below 2, return to Phase 0.1**
-3. **Only when stable at ≥2 for 2 consecutive weeks: proceed to Pathway activation**
+Solarpunk's vision of a regenerative, just, and beautiful future requires specific boundary configurations. Each ethical choice moves us toward or away from that vision by altering the boundary conditions of our collective consciousness.
 
 ---
 
-#### Assessment Roles & Authority Matrix
+## **The Four Axes: Ethical Dimensions as Boundary Spectra**
 
-| Role | Can Assess | Cannot Assess | Authority Level |
-|------|-----------|---------------|-----------------|
-| **Individual** | Own foundation scores (self-report) | Community scores | Advisory only |
-| **Peer Assessor** | Direct observations within community | Meta-interpretation | Primary data collector |
-| **Community Assembly** | Collective pattern recognition | Individual diagnostic judgments | Decision-making body |
-| **External Facilitator** | Train assessors; audit methodology | Override community scores | Process consultant only |
-| **Algorithm** | Aggregate raw indicators | Substitute for human observation | Computational aid only |
-
-**Key Principle**: **Assessment is a community sense-making practice, not an expert diagnostic event.**
+Each axis represents a continuum of possible boundary configurations, not a binary choice. Our position along each spectrum determines the patterns that emerge in our lived reality.
 
 ---
 
-#### Breaking the Circular Logic
+### **🔄 Axis 1: Regeneration vs. Extraction**
 
-The original circularity is resolved by:
+**Boundary Condition:** *How systems define their relationship with energy and information flows*
 
-1. **Dedicated Emergency Protocol**: Sub-threshold systems have a **Bootstrap Protocol** (NOT a Mandala pathway)
-2. **Absolute Constraint**: NO pathway work until ≥2 (system constraint, not suggestion)
-3. **Observable Triggers**: Assessment triggered by specific, measurable indicators
-4. **Peer-Driven Process**: Removes expert gatekeeping; community self-assesses and self-bootstraps
+| **Aspect** | **Regenerative Pole** | **Extractive Pole** |
+|------------|-----------------------|---------------------|
+| **Boundary Configuration** | Permeable, reciprocal boundaries | One-way, draining boundaries |
+| **Pattern Logic** | Feedback loops increasing vitality | Linear consumption degrading systems |
+| **Flow Direction** | Circular, giving back more than taken | Linear, taking without return |
+| **Time Horizon** | Multi-generational, sustainable | Immediate gratification, depleting |
+| **Energy Relationship** | Works with natural energy flows | Overrides and depletes energy sources |
+| **Solarpunk Manifestation** | Closed-loop systems, mycelial networks | Colonial economics, soil depletion |
 
-### Threshold Decision Tree (applies to all protocols)
-This is the applied logic for navigating the system:
--   **If any foundation <2** → Activate **Protocol 3 (Foundation Fortification)** with focus on the deficient foundation(s).
--   **If all foundations ≥2 but integration (α) <2** → Activate **Protocol 1 (Diagnostic Weaving)** to map blockages.
--   **If all foundations ≥3 and integration (α) ≥2** → Activate **Protocol 2 (Generative Design)** for building new patterns.
--   **If all foundations ≥4 and integration (α) ≥3** → Engage **4D Reunification Practices** (advanced system synchronization).
--   **Threshold Decision Tree (applies to all protocols)**
+**Boundary Work Questions:**
+- Are we creating feedback loops or dead ends?
+- Does this exchange increase or decrease overall vitality?
+- Are we giving back more than we take?
 
-*   If any foundation <2 → Activate **Foundation Fortification** with focus on the deficient foundation(s).
-*   If all foundations ≥2 but α <2 → Activate **Diagnostic Weaving** for mapping blockages.
-    *   *Developmental Depth (Optional):* Within Diagnostic Weaving, assess the group's developmental "center of gravity" using frameworks like Kegan's stages. This reveals the complexity available for problem-solving. A challenge requiring 3D systemic thinking will overwhelm a group with a 2D (Socialized) perspective, indicating a need for **Path of Awakening** work.
-*   If all foundations ≥3 and α ≥2 → Activate **Generative Design** for building new patterns.
-*   If all foundations ≥4 and α ≥3 → Engage **4D Reunification Practices**.
+**Practice Examples:**
+- Individual: Composting, energy conservation
+- Community: Community-supported agriculture
+- Systemic: Circular economy, regenerative agriculture
 
-### Foundation-Specific Thresholds by Pathway
-Each pathway has a specific "keystone" foundation that must be stable for its work to begin.
+---
 
-Pathway | Primary Foundation Dependency | Activation Threshold | Contraction Signal
----|---|---|---
-Awakening (Conscientização) | Restoration | Restoration ≥2 | Fragmented narrative, rigid identity
-Making (Capacitação) | Nourishment | Nourishment ≥2 | Ecological overshoot, extractive logic
-Liberation (Liberação) | Movement | Movement ≥2 | Transactional relationships, polarization
-Healing (Cura) | Cleansing | Cleansing ≥2 | Short-termism, historical amnesia
+### **🤝 Axis 2: Cooperation vs. Competition**
+
+**Boundary Condition:** *How relationships and resources are structured between entities*
+
+| **Aspect** | **Cooperative Pole** | **Competitive Pole** |
+|------------|----------------------|----------------------|
+| **Boundary Configuration** | Interconnected, permeable boundaries | Fortified, exclusive boundaries |
+| **Pattern Logic** | Mutual support networks | Zero-sum games, winners and losers |
+| **Resource Allocation** | Shared according to need | Hoarded according to power |
+| **Conflict Resolution** | Consensus, restorative justice | Domination, punitive measures |
+| **Success Metric** | Collective flourishing | Individual advantage |
+| **Solarpunk Manifestation** | Mutual aid networks, commons | Corporate monopolies, proprietary systems |
+
+**Boundary Work Questions:**
+- Does this create more connection or separation?
+- Are we playing positive-sum or zero-sum games?
+- Who benefits, and who pays the cost?
+
+**Practice Examples:**
+- Individual: Skill-sharing, emotional support
+- Community: Consensus decision-making, time banking
+- Systemic: Cooperative ownership, universal basic services
+
+---
+
+### **🌱 Axis 3: Adaptation vs. Domination**
+
+**Boundary Condition:** *How systems relate to change and uncertainty*
+
+| **Aspect** | **Adaptive Pole** | **Dominating Pole** |
+|------------|-------------------|---------------------|
+| **Boundary Configuration** | Flexible, responsive boundaries | Rigid, controlling boundaries |
+| **Pattern Logic** | Emergence, self-organization | Command and control hierarchies |
+| **Change Response** | Embrace and work with change | Resist and control change |
+| **Knowledge Approach** | Local, experiential, distributed | Centralized, abstract, expert-only |
+| **Error Handling** | Learning opportunities | Failures to be punished |
+| **Solarpunk Manifestation** | Permaculture design, biomimicry | Industrial monoculture, concrete jungles |
+
+**Boundary Work Questions:**
+- Are we working with or against natural patterns?
+- Does this increase or decrease resilience?
+- Are we controlling or collaborating?
+
+**Practice Examples:**
+- Individual: Mindfulness, flexibility in plans
+- Community: Participatory budgeting, adaptive governance
+- Systemic: Ecosystem-based management, regenerative design
+
+---
+
+### **🔓 Axis 4: Openness vs. Closure**
+
+**Boundary Condition:** *How information, resources, and participation are regulated*
+
+| **Aspect** | **Open Pole** | **Closed Pole** |
+|------------|---------------|----------------|
+| **Boundary Configuration** | Transparent, accessible boundaries | Opaque, restricted boundaries |
+| **Pattern Logic** | Distributed intelligence, innovation | Centralized control, stagnation |
+| **Information Flow** | Free sharing, commons-based | Proprietary, secretive |
+| **Decision Making** | Inclusive, participatory | Exclusive, authoritarian |
+| **Identity Formation** | Fluid, inclusive categories | Rigid, exclusionary categories |
+| **Solarpunk Manifestation** | Open-source everything, radical transparency | Intellectual property walls, surveillance states |
+
+**Boundary Work Questions:**
+- Who has access, and who is excluded?
+- What information is hidden, and why?
+- Are boundaries protecting or imprisoning?
+
+**Practice Examples:**
+- Individual: Vulnerability, honest communication
+- Community: Open meetings, transparent finances
+- Systemic: Open government data, creative commons licensing
+
+---
+
+## **Integration: The Ethical Tesseract**
+
+The four axes interact in multidimensional space, creating an "ethical tesseract" of possible boundary configurations. Each ethical decision exists in this 4D space, with implications across all dimensions.
 
 ```mermaid
 flowchart TD
-    Start["Start: Contemplating Pathway Work"] --> Assess
-
-    subgraph Assess [Conduct Foundation Assessment]
+    subgraph Tesseract["🧊 **Ethical Tesseract**<br>4D boundary configuration space"]
         direction LR
-        Q1[Restoration Score?]
-        Q2[Regulation Score?]
-        Q3[Receptivity Score?]
-        Q4[Resonance Score?]
+        Time["**4th Dimension:**<br>Temporal Ethical Field<br><small>Past → Future implications</small>"] -->
+        Space["**3D Cube:**<br>Four Axes as spatial dimensions<br><small>Regeneration/Extraction × Cooperation/Competition<br>× Adaptation/Domination × Openness/Closure</small>"] -->
+        Moments["**2D Slices:**<br>Ethical decision moments<br><small>Specific contexts with boundary conditions</small>"]
     end
-
-    Assess --> Check{"<b>Threshold Check</b><br>Is <u>every</u> score ≥ 2?"}
-
-    Check -- "✅ YES, All Foundations ≥ 2" --> Safe["<b>THRESHOLD CLEARED</b><br>The system is <u>resilient</u>.<br>Proceed with chosen Pathway work."]
-    Check -- "❌ NO, One or more scores < 2" --> Danger
-
-    subgraph Danger [<b>⚠️ BOUNDARY BREACH DETECTED</b>]
-        D1["<b>Primary Action: STOP</b><br>Immediately halt all advanced<br>pathway (Awakening/Making/etc.) work."]
-        D2["<b>Prescribe: Boundary Medicine</b><br>Focus <u>exclusively</u> on fortifying<br>the weak Foundation(s)."]
-        D3["<b>Rationale:</b> Prevents spiritual,<br>material, or energetic bypassing."]
-    end
-
-    Danger --> Reassess{After focused repair,<br>re-assess Foundations.}
-    Reassess --> Check
-```
-
-## Boundary Medicine: The Protocol for Foundation Repair
-
-**Boundary Medicine** is the essential first-aid and repair protocol for the system. When thresholds are not met, the correct response is *not* to push harder on the high-level goal but to skillfully address the foundational dissociation or instability that is blocking progress.
-
-**What it is:** A set of practices and interventions designed to strengthen the four embodied foundations (Rest, Nourishment, Movement, Cleansing). It is "medicine" for weakened or violated boundaries—whether personal, social, or ecological. It operates on the principle that a healthy boundary is not a wall but a living membrane that regulates flow: it lets in nourishment, releases waste, protects integrity, and facilitates connection.
-
-**How it works:** When the system detects a foundation score below 2 (via the Rhizomatic Network or self-assessment), it prescribes a shift to Boundary Medicine protocols. For example:
-*   **For Restoration <2:** Practices may include digital detox, mandatory rest, trauma-informed somatic grounding, or simplifying commitments.
-*   **For Nourishment <2:** Interventions focus on securing basic material needs, repairing local food systems, or addressing energy debts.
-*   **For Movement <2:** Work might involve conflict mediation, fostering safe social exchange, or physical practices to unlock stasis.
-*   **For Cleansing <2:** This could entail rituals of release, environmental cleanup, truth and reconciliation processes, or detoxification practices.
-
-```mermaid
-graph TD
-    subgraph Triggers[Observed Contraction Signal]
-        T1[“Fragmented Narrative”<br>Incoherent community story]
-        T2[“Repetitive Collapse”<br>Cycles of burnout & failure]
-        T3[“Energetic Drain”<br>Projects deplete vs. nourish]
-        T4[“Temporal Disorientation”<br>Urgency or paralysis on timelines]
-    end
-
-    subgraph Diagnosis[Points to Strain on this Ethical Axis]
-        D1[Soteriological<br>Purpose is unclear/conflicted]
-        D2[Axiological<br>Actions misaligned with values]
-        D3[Relational Depth<br>Connections are transactional/unsafe]
-        D4[Temporal Orientation<br>Relationship to time is distorted]
-    end
-
-    subgraph Prescription[Implied Foundational Repair]
-        P1[Fortify <b>Restoration</b><br>Find authentic purpose]
-        P2[Fortify <b>Regulation</b><br>Align actions with core values]
-        P3[Fortify <b>Resonance</b><br>Deepen relational safety]
-        P4[Fortify <b>Receptivity</b><br>Cultivate mindful presence]
-    end
-
-    T1 --> D1 --> P1
-    T2 --> D2 --> P2
-    T3 --> D3 --> P3
-    T4 --> D4 --> P4
-
-    style Triggers fill:#ffebee,stroke:#d32f2f
-    style Diagnosis fill:#fff3e0,stroke:#f57c00
-    style Prescription fill:#e8f5e8,stroke:#388e3c
-```
-
-Boundary Medicine is not a failure state but a core, recursive function of a healthy system. It ensures that the pursuit of ethical transformation along the Four Axes is rooted in stability, preventing idealism from causing real harm and creating a resilient basis for all future work.
-
-## Conclusion: Ethics as Geometric Substance
-
-The model presented here reveals a fundamental architectural principle of the Solarpunk Mandala: **ethics is not a separate layer applied to the geometry, but the very substance from which the geometry is built.**
-
-```mermaid
-graph TB
-    T["<b>The Tesseract</b><br>4D Geometric Epistemic Container"]
-
-    T --> C1["<b>Cube 1</b><br>e.g., UL (1st-person interior)"]
-    T --> C2["<b>Cube 2</b><br>e.g., UR (3rd-person exterior)"]
-    T --> C3["<b>Cube 3</b><br>e.g., LL (2nd-person interior)"]
-    T --> C8["<b>Cube 8</b><br>Meta-Perspective"]
-
-    C1 --> F1["<b>Composed of:</b><br>Soteriological Axis +<br>Foundation of Restoration"]
-    C2 --> F2["<b>Composed of:</b><br>Axiological Axis +<br>Foundation of Regulation"]
-    C3 --> F3["<b>Composed of:</b><br>Relational Depth Axis +<br>Foundation of Resonance"]
     
-    C8 --> F8["<b>Holds the Logic of:</b><br>The Threshold Principle<br>(integrating all Axes)"]
+    Tesseract --> Configurations{Configuration Choices<br><small>Positioning along each axis</small>}
+    
+    Configurations --> EthicalRealities
+    
+    subgraph EthicalRealities["🌍 **Resulting Reality Configurations**"]
+        direction TB
+        
+        subgraph SolarpunkCore["🟢 **Solarpunk Core**<br>Regenerative + Cooperative + Adaptive + Open"]
+            SC1["Permeable, reciprocal boundaries"]
+            SC2["Mutual support networks"]
+            SC3["Flexible, responsive systems"]
+            SC4["Transparent, accessible information"]
+        end
+        
+        subgraph Extractivist["🔴 **Extractivist Extreme**<br>Extractive + Competitive + Dominating + Closed"]
+            EX1["One-way, draining boundaries"]
+            EX2["Zero-sum competition"]
+            EX3["Rigid, controlling hierarchies"]
+            EX4["Opaque, restricted access"]
+        end
+        
+        subgraph MixedPatterns["🟡 **Mixed Patterns**"]
+            MP1["Various combinations create<br>hybrid ethical realities"]
+        end
+    end
+    
+    EthicalRealities --> Patterns["🌀 **Emergent Patterns**<br>in consciousness manifold<br><small>Patterns of suffering or flourishing<br>based on boundary configurations</small>"]
+    
+    Patterns --> Feedback["🔄 **Ethical Feedback Loop**<br>Experienced patterns inform<br>future boundary configurations<br><small>Learning and evolution cycle</small>"]
+    
+    Feedback -.->|Recursive evolution| Tesseract
 
-    style T fill:#f0f0f0,stroke:#333,stroke-width:2px
-    style C1 fill:#e3f2fd,stroke:#1976d2
-    style C2 fill:#f3e5f5,stroke:#7b1fa2
-    style C3 fill:#e8f5e8,stroke:#388e3c
-    style C8 fill:#fff3e0,stroke:#f57c00
+    style Tesseract fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style SolarpunkCore fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
+    style Extractivist fill:#ffebee,stroke:#c62828,stroke-width:2px
+    style MixedPatterns fill:#fff3e0,stroke:#f57c00,stroke-width:2px
 ```
 
-The tesseract is not merely a neutral container that *holds* ethical considerations. As the diagram illustrates, each of its eight cubes is intrinsically composed of specific ethical axes and their corresponding embodied foundations. The **Soteriological Axis** and the capacity for **Restoration** are not just related to the first-person interior cube (UL); they are its defining structural content. This pattern holds true across the entire epistemic architecture.
+### The Ethical Compass: A Quick-Reference Tool
 
-This has a profound practical implication: **it makes ethical self-assessment geometrically unavoidable.** To engage with any cube—whether navigating personal meaning (UL), systemic structures (LR), or the intersubjective gateway (Cube 6)—is to immediately engage with the specific ethical tension and foundational capacity that constitutes it. The **Threshold Principle**, embedded within the meta-perspective cube, becomes the natural regulatory logic for this architecture, preventing the bypassing of foundational work by structural design.
+```markdown
+            REGENERATION
+               ↑
+               |
+    OPENNESS ← + → CLOSURE
+               |
+               ↓
+           EXTRACTION
 
-Therefore, the "Four Axes" and "Four Foundations" are more than a checklist or a preliminary chapter. They are the **primary dimensions and the tensile strength** of the entire model. This structural embedding ensures that the journey toward dimensional literacy is, from the ground up, an ethically coherent and foundationally resilient process. It provides the stable, conscious architecture from which the practical **Pathways** (05) can securely emerge.
+CENTER: Current ethical position
+ARROWS: Available movement along each axis
+```
 
-## 🧭 Next: From Ethics to Action
 
-With your ethical compass calibrated, you need **pathways**—actual methods for moving through the tesseract ethically.
+**Using the Compass:**
+1. **Locate** your current position for a given situation
+2. **Identify** desired movement along each axis
+3. **Notice** tensions between different axes
+4. **Choose** actions that move toward desired configuration
 
-**Next Document:** [04 - The Pathways of Movement →](04-temporal-unfolding-dialectical-phases.md)
+---
 
-*How do we move through time and change ethically?*
+## **Practical Applications**
+
+### **Ethical Decision Protocol: A Boundary Work Practice**
+
+#### **Step 1: Map the Boundary Conditions**
+- What boundaries are present in this situation?
+- Who/what defines these boundaries?
+- How permeable are they currently?
+
+#### **Step 2: Locate on Each Axis**
+For each of the four axes:
+- Current position on spectrum: ______
+- Desired Solarpunk-aligned position: ______
+- Movement required: ______
+
+#### **Step 3: Pattern Coherence Check**
+- Does this decision increase overall pattern coherence?
+- What ripple effects through the consciousness manifold?
+- How does this affect boundary conditions beyond immediate context?
+
+#### **Step 4: Temporal Consideration**
+- **Immediate effects** (1D: point in time)
+- **Short-term patterns** (2D: line of development)
+- **Long-term evolution** (3D: shape of reality)
+- **Eternal implications** (4D: overall pattern integrity)
+
+#### **Step 5: Implementation with Awareness**
+- Proceed with explicit boundary intention
+- Monitor for emergent patterns
+- Adjust based on feedback from the system
+
+### **Solarpunk Scenarios: Applying the Four Axes**
+
+#### **Scenario 1: Community Energy Decision**
+- **Axis 1**: Choose regenerative solar (give back to grid) vs extractive coal (deplete resources)
+- **Axis 2**: Cooperative ownership (shared benefits) vs corporate competition (private profit)
+- **Axis 3**: Adaptive micro-grid (resilient to disruption) vs dominating central plant (vulnerable)
+- **Axis 4**: Open-source designs (community can repair) vs proprietary technology (dependent on corporation)
+
+#### **Scenario 2: Urban Food System**
+- **Axis 1**: Regenerative permaculture (builds soil) vs extractive agriculture (depletes soil)
+- **Axis 2**: Food cooperatives (shared risk/benefit) vs competitive supermarkets (profit-driven)
+- **Axis 3**: Adaptive polycultures (respond to conditions) vs dominating monoculture (forces conditions)
+- **Axis 4**: Open seed libraries (community access) vs closed patented seeds (corporate control)
+
+#### **Scenario 3: Community Governance**
+- **Axis 1**: Regenerative leadership (empowers others) vs extractive leadership (drains community)
+- **Axis 2**: Cooperative consensus (everyone's voice) vs competitive politics (winners take all)
+- **Axis 3**: Adaptive governance (responds to needs) vs rigid bureaucracy (enforces rules)
+- **Axis 4**: Open transparent processes (everyone can see) vs closed decision-making (few decide)
+
+---
+
+## **Ethics Across Domains: The Ekistic-Spiritual Mapping**
+
+| **Axis** | **MAN (Biological)** | **SHELLS (Built)** | **NETWORKS (Social)** | **PRACTICE (Spiritual)** |
+|----------|----------------------|---------------------|-----------------------|--------------------------|
+| **Regen/Extract** | Soil health, nutrition | Energy-positive buildings | Mutual aid vs charity | Energy exchange in ritual |
+| **Coop/Compete** | Symbiosis in microbiome | Co-housing design | Consensus governance | Collaborative ceremony |
+| **Adapt/Dominate** | Permaculture principles | Modular, adaptable architecture | Emergent leadership | Surrender to divine will |
+| **Open/Closed** | Genetic diversity, microbiome | Open-source designs, repairability | Transparent governance | Ecstatic dissolution of ego |
+
+---
+
+## **Ethics as Dissociation Boundary Navigation**
+
+Each ethical axis corresponds to healing a specific type of dissociation boundary:
+
+| **Axis** | **Boundary Type** | **Healing Path** | **Trauma Pattern Addressed** |
+|----------|-------------------|------------------|------------------------------|
+| **Regen/Extract** | Resource flow boundary | From hoarding to circulating | Scarcity trauma, survival fear |
+| **Coop/Compete** | Relationship boundary | From separation to communion | Abandonment trauma, trust issues |
+| **Adapt/Dominate** | Power boundary | From control to surrender | Powerlessness trauma, safety needs |
+| **Open/Closed** | Information boundary | From secrecy to transparency | Shame trauma, authenticity fear |
+
+**Ethical work = Boundary healing work**: Every ethical choice reconfigures our dissociation boundaries in the consciousness manifold, either reinforcing or healing trauma patterns.
+
+---
+
+## **Integration with Core Framework**
+
+### **Connection to Analytic Idealism**
+- Ethical choices configure boundary conditions within consciousness
+- Different configurations create different experiential realities
+- There is no "neutral" ethics—every choice shapes reality
+
+### **Connection to Tesseract Model**
+- Each axis represents a dimension in the ethical tesseract
+- Ethical decisions create different "slices" through the 4D structure
+- The tesseract shows how ethical dimensions interact non-linearly
+
+### **Connection to Solarpunk Vision**
+- The four axes define the ethical shape of Solarpunk society
+- Moving toward regenerative, cooperative, adaptive, open configurations
+- Ethics as the practical implementation of Solarpunk values
+
+---
+
+## **A Living Framework for Practice**
+
+This framework is not a rigid moral code but a living tool for conscious boundary work. As we practice:
+
+1. **We develop ethical discernment** through pattern recognition
+2. **We cultivate boundary flexibility** through conscious choice
+3. **We participate in reality creation** through intentional configuration
+
+### **Practice Suggestions**
+
+#### **Daily Practice**
+- **Morning intention**: Set ethical compass for the day
+- **Decision pauses**: Check alignment with four axes before significant choices
+- **Evening reflection**: Review boundary work and pattern observations
+
+#### **Community Practice**
+- **Ethical check-ins**: Regular community alignment on boundary configurations
+- **Pattern mapping**: Collective observation of emergent patterns from choices
+- **Boundary ceremonies**: Rituals to consciously reconfigure community boundaries
+
+#### **Systemic Practice**
+- **Institutional design**: Build systems that encourage Solarpunk-aligned configurations
+- **Policy evaluation**: Assess proposals against the four axes
+- **Cultural narrative**: Tell stories that reinforce regenerative, cooperative values
+
+---
+
+## **Conclusion: Ethics as Conscious Evolution**
+
+This framework reveals ethics not as compliance with external rules, but as participation in the conscious evolution of reality's boundary conditions. Each ethical choice:
+
+1. **Configures boundaries** in the consciousness manifold
+2. **Creates patterns** of experience and relationship
+3. **Shapes the future** by establishing precedent and momentum
+
+As we collectively:
+
+- **Shift from extraction to regeneration** → We heal resource flow boundaries
+- **Shift from competition to cooperation** → We heal relationship boundaries  
+- **Shift from domination to adaptation** → We heal power boundaries
+- **Shift from closure to openness** → We heal information boundaries
+
+We're not just making ethical choices—we're participating in the healing of dissociation boundaries at personal, community, and species levels. Each decision becomes a hyperslice through the ethical tesseract, manifesting particular configurations of the consciousness manifold.
+
+**Thus, Solarpunk ethical practice = Conscious boundary work in service of collective flourishing.**
+
+---
+
+### **Next Steps for Practice**
+
+1. **Start small**: Choose one axis to focus on for a week
+2. **Map your context**: Identify boundary configurations in your life/community
+3. **Experiment**: Try small boundary reconfigurations and observe effects
+4. **Share**: Discuss ethical boundary work with others
+5. **Evolve**: Let your ethical practice grow with your understanding
+
+Remember: The goal is not perfection but conscious participation. Every moment offers an opportunity for ethical boundary work.
+
+---
+
+**Related Documents:**
+- [01-ontology-analytic-idealism.md](01-ontology-analytic-idealism.md) - The ontological foundation
+- [02-epistemic-architecture-tesseract.md](02-epistemic-architecture-tesseract.md) - The geometric model
+- [04-practice-unfolding-protocols.md](04-practice-unfolding-protocols.md) - Practical implementation
