@@ -1,453 +1,401 @@
 ---
 aeo_metadata:
   title: "Mandala Axis: The Four Pathways (Node 05)"
-  description: "The core experiential journey of consciousness within the mandala framework."
-  context: "The roadmap for personal and collective evolution."
+  description: "A praxis-oriented framework defining four dynamic modes of conscious engagement (Awakening, Making, Liberation, Healing) for applying the Solarpunk Mandala's ethical and geometric principles to personal, communal, and systemic transformation."
+  context: "The 'verbs' of the framework—the actionable pathways for navigating the Tesseract, applying the Ethical Axes, and facilitating phase transitions to achieve Embodied Praxis."
   key_objectives:
-    - Define Immersion, Reflection, Transcendence, and Agency.
-    - Highlight the Fourth Path (Agency) as the 'Solar' contribution.
+    - "Define the four operational pathways (Awakening, Making, Liberation, Healing) as dynamic modes of engagement, not static identities."
+    - "Ground the pathways in Freirean pedagogy (Conscientização, Capacitação, Liberação, Cura) and Tetralemmic logic."
+    - "Provide practical protocols for pathway identification, the Tetralemmic Rotation process, and diagnosing/correcting imbalances ('Cubes')."
+    - "Integrate the pathways as the primary method for applying the Ethical Axes within the Tesseract's geometry across Dialectical Phases."
   core_concepts:
-    - The Path of Agency
-    - The Path of Immersion
-    - The Path of Reflection
-    - The Path of Transcendence
-  ontological_foundation: "Analytic Idealism"
+    - "The Four Pathways: Awakening (Clearing), Making (Building), Liberation (Weaving), Healing (Integrating)."
+    - "Freirean Praxis: Conscientização, Capacitação, Liberação, Cura as the pedagogical and spiritual foundation."
+    - "Tetralemmic Operators: Mapping each pathway to a primary logical position (A, Not-A, Both, Neither/Nor)."
+    - "Pathway 'Cubes': Diagnostic patterns of fixation/imbalance within a pathway (Void, Dogma, Paralysis, Omnipotence)."
+    - "Embodied Praxis: The synthesis of insight from all framework nodes into coherent action."
+  ontological_foundation: "Analytic Idealism / Freirean Critical Pedagogy / Tetralemmic (Catuṣkoṭi) Logic"
+  epistemic_framework: "Pathway as Vector / Mode of Engagement / Praxis (Action + Reflection) Cycles"
+  operational_focus: "Pathway identification, application protocols, imbalance correction, and project planning for integrated action."
   search_queries:
-    - "The four paths of experience in Solarpunk Mandala."
-    - "What is the fourth path of conscious agency?"
-  related_nodes: [01-ontology-analytic-idealism.md, 03-ethics-four-axes.md]
-  framework_status: "Stable"
+    - "Solarpunk Mandala four pathways Awakening Making Liberation Healing"
+    - "Freire Conscientizacao Capacitacao Libertacao Cura in solarpunk"
+    - "Tetralemmic rotation protocol practical guide"
+    - "Pathway imbalance cube diagnosis void dogma paralysis"
+    - "How to apply Solarpunk Mandala pathways to projects"
+  related_nodes:
+    - "02-epistemic-architecture-tesseract.md (spatial structure engaged)"
+    - "03-ethics-four-axes.md (ethical direction applied)"
+    - "04-temporal-unfolding-dialectical-phases.md (temporal context navigated)"
+    - "06-dissociation-boundaries.md (foundational healing context)"
+  visual_diagrams:
+    - "Pathway Identification Flowchart (Self-Assessment)"
+    - "Tetralemmic Logic of Pathways Diagram"
+    - "Tetralemmic Rotation Protocol Cycle"
+    - "Pathway Imbalance ('Cube') Diagnosis Map"
+    - "Mandala Framework Integration Overview"
+  framework_status: "Stable v2.0 (Comprehensively Revised)"
+  last_updated: "2024-01-11"
+  revision_notes: "Complete restructuring: unified terminology (Portuguese/English), added practical toolkit (self-assessment, rotation protocol, project planner), deepened Freirean and Tetralemmic theory, fixed incomplete content and visualizations."
+  validation_status: "Internally consistent with Nodes 02-04; awaiting community praxis feedback."
+  application_areas:
+    - "Personal development and conscious skill-building."
+    - "Community facilitation, decision-making, and conflict navigation."
+    - "Project design and systemic intervention planning."
+    - "Diagnosis and correction of group/individual process dysfunctions."
+  implementation_levels:
+    - "Individual: Identifying personal pathway 'home base' and growth edges."
+    - "Relational: Using pathways to analyze and improve partnership/team dynamics."
+    - "Collective: Applying the Tetralemmic Rotation Protocol to community challenges."
+  integration_points:
+    primary: "Operationalizes the Ethical Axes (Node 03) as actionable modes."
+    secondary: "Provides the 'how-to' method for engaging the Tesseract geometry (Node 02)."
+    tertiary: "Executes the synthetic tasks of the Dialectical Phases (Node 04)."
+---
+# Mandala Axis: The Four Pathways (Node 05)
+
+## Your Vector of Conscious Contribution
+
+While the Tesseract (Node 02) maps the spatial structure of reality and the Dialectical Phases (Node 04) describe the temporal pattern of change, the Four Pathways define **your vector of engagement**—the primary way you apply conscious agency to transform yourself and the world.
+
+> **Core Proposition**: The Four Pathways are not static personality types, but dynamic, learnable modes of engagement. They represent distinct yet complementary approaches to applying the Ethical Axes (Node 03) within the unfolding process of reality.
+
+### Core Terminology: A Unified Lexicon
+To prevent confusion, this document uses the following consistent terminology:
+
+| **Primary Portuguese (Conceptual)** | **Primary English (Operational)** | **Historical/Alternative Vector** | **Core Function** |
+| :--- | :--- | :--- | :--- |
+| **Conscientização** | **Awakening** | Artisan (Refinement) | Developing critical consciousness by clearing obstructive patterns. |
+| **Capacitação** | **Making** | Gardener (Nurturing) | Building regenerative capacity and tangible alternatives. |
+| **Liberação** | **Liberation** | Weaver (Connective) | Designing equitable structures by weaving justice and connection. |
+| **Cura** | **Healing** | Catalyst (Transformative) | Integrating trauma and restoring wholeness across time and scale. |
+
+**Usage**: The Portuguese terms are invocations of the original Freirean spirit. The English operational terms (Awakening, Making, Liberation, Healing) are used for clarity throughout this guide. The vector names (Artisan, Gardener, etc.) are included for historical context but are secondary.
+
 ---
 
-# Mandala Axis: Four Pathways
+## The Four Pathways Defined: Modes of Transformative Engagement
 
-## Your Personal Vector Through the Tesseract
+Each pathway answers a fundamental question about how to intervene in a system. A healthy individual, community, or movement can consciously access and apply all four, though one often serves as a natural "home base."
 
-In the temporal unfolding (04), you witnessed how ideas move through 4D space. Now, discover how you move—your unique vector through the geometric reality. This document expands the Tetralemmic logic introduced in 04-temporal-unfolding into the practical domain of the Four Pathways.
+### 1. The Pathway of Awakening (Conscientização)
+*"How do we see the system and our role within it clearly?"*
 
-The four pathways are not personality types. They are modes of engagement—different ways to apply force along the mandala's axes, creating different patterns of contribution.
+Awakening focuses on developing **critical consciousness**. It clears away assumptions, dogmas, and unconscious patterns to create the mental and emotional space for new understanding to emerge.
 
-## The Four Vectors of Contribution
-
-Each pathway represents a different approach to applying energy within the Tesseract's structure:
-
-```mermaid
-flowchart TD
-    %% Core Ethical Axes Input
-    subgraph Axes[Ethical Axes Input]
-        EA1[Soteriological Axis]
-        EA2[Axiological Axis]
-        EA3[Relational Depth Axis]
-        EA4[Temporal Orientation Axis]
-    end
-
-    %% Dialectical Phases Input
-    subgraph Phases[Dialectical Phases Input]
-        DP1[Dissociative Phase]
-        DP2[Dual Phase]
-        DP3[Relational Phase]
-        DP4[Non-Dual Phase]
-    end
-
-    %% Synthesis into Pathways
-    EA1 & DP1 --> P1
-    EA2 & DP2 --> P2
-    EA3 & DP3 --> P3
-    EA4 & DP4 --> P4
-
-    subgraph Pathways[Synthesized Pathways]
-        P1["<b>Awakening (Conscientização)</b><br>Goal: Critical Consciousness"]
-        P2["<b>Making (Capacitação)</b><br>Goal: Regenerative Capacity"]
-        P3["<b>Liberation (Liberação)</b><br>Goal: Equitable Connection"]
-        P4["<b>Healing (Cura)</b><br>Goal: Trauma Integration"]
-    end
-
-    %% Output to Praxis
-    Pathways --> Praxis["<b>Embodied Praxis</b><br>Action in the World"]
-
-    %% Foundation Dependencies
-    P1 -.->|Requires| F1[Restoration Foundation]
-    P2 -.->|Requires| F2[Nourishment Foundation]
-    P3 -.->|Requires| F3[Movement Foundation]
-    P4 -.->|Requires| F4[Cleansing Foundation]
-
-    %% Styling
-    style Axes fill:#e1f5fe,stroke:#0288d1
-    style Phases fill:#f3e5f5,stroke:#7b1fa2
-    style Pathways fill:#e8f5e8,stroke:#388e3c
-    style Praxis fill:#fff3e0,stroke:#f57c00
-    style F1 fill:#ffebee,stroke:#d32f2f
-    style F2 fill:#f3e5f5,stroke:#7b1fa2
-    style F3 fill:#e8f5e8,stroke:#388e3c
-    style F4 fill:#e1f5fe,stroke:#0288d1
-```
-
-### 1. The Artisan Path → Refinement Vector
-
-Focusing energy inward to perfect individual components.
-
-- Movement: Radial contraction toward precision
-- Temporal phase affinity: Thesis (stabilizing) & Material (perfecting)
-- Geometric action: Polishing vertices and edges
-- Repository work: Code quality, documentation clarity, tool refinement
-- Label: `pathway:artisan`
-
-### 2. The Gardener Path → Nurturing Vector
-
-Focusing energy outward to cultivate relationships and conditions.
-
-- Movement: Radial expansion toward ecosystem health
-- Temporal phase affinity: Synthesis (integrating) & Antithesis (pruning)
-- Geometric action: Strengthening connections between vertices
-- Repository work: Community building, issue triage, welcoming newcomers
-- Label: `pathway:gardener`
-
-### 3. The Weaver Path → Connective Vector
-
-Focusing energy through patterns and relationships.
-
-- Movement: Diagonal integration across planes
-- Temporal phase affinity: Synthesis (integrating) & Thesis (pattern recognition)
-- Geometric action: Tracing and revealing hidden connections
-- Repository work: Pattern recognition, integration docs, cross-reference creation
-- Label: `pathway:weaver`
-
-### 4. The Catalyst Path → Transformative Vector
-
-Focusing energy beyond existing structures to create new possibilities.
-
-- Movement: Orthogonal rotation into new dimensions
-- Temporal phase affinity: Antithesis (challenging) & Material (manifesting new)
-- Geometric action: Rotating the entire tesseract to reveal new faces
-- Repository work: Paradigm proposals, radical refactors, new directions
-- Label: `pathway:catalyst`
-
-## The Freirean Roots of the Four Pathways
-
-These four pathways are not arbitrary—they emerge directly from Paulo Freire's pedagogy of liberation. We honor this lineage by retaining the Portuguese terms as **spiritual anchors**, even as we translate them for clarity.
-
-### Why Portuguese Matters
-
-Freire taught that **language is never neutral**—it carries the consciousness of its culture. By keeping the Portuguese, we remind ourselves that:
-
-1. **Conscientização** (Critical Consciousness) is more than "awareness"—it's the **radical reorientation** of perception to see oppression clearly
-2. **Capacitação** (Capacity-Building) is more than "skills"—it's **collective empowerment** through praxis
-3. **Liberação** (Liberation) is more than "freedom"—it's **structural transformation** through dialogue
-4. **Cura** (Healing) is more than "restoration"—it's **relational wholeness** through love and solidarity
-
-**However**, we recognize that technical documentation requires clarity. Therefore:
-
-- **First mention** in each document: Use Portuguese + English in parentheses
-- **Subsequent mentions**: Use English for readability
-- **Ritual/ceremonial contexts**: Use Portuguese to honor the lineage
-
-The Portuguese terms are **invocations**, not jargon. 
-
-## Pathway-Tesseract Alignment Matrix
-
-Each pathway engages with the Tesseract's geometry differently:
-
-```mermaid
-quadrantChart
-    title "Pathway Positioning: Energy Focus vs. Change Scale"
-    x-axis "Individual Focus" --> "Collective Focus"
-    y-axis "Incremental Change" --> "Transformative Change"
-
-    "Awakening (Artisan)": [0.2, 0.3]
-    "Making (Gardener)": [0.4, 0.5]
-    "Liberation (Weaver)": [0.7, 0.6]
-    "Healing (Catalyst)": [0.8, 0.8]
-
-    "Restoration Work": [0.1, 0.2]
-    "Capacity Building": [0.3, 0.4]
-    "Structural Change": [0.6, 0.7]
-    "Systemic Integration": [0.9, 0.9]
-```
-## The Tetralemmic Logic of the Four Pathways
-
-### The Logical Architecture of Embodied Praxis
-
-The Four Pathways represent distinct *logical operators* within the fourfold architecture of reality described by the Tetralemma (catuṣkoṭi). Each pathway engages the dialectical process through a specific position in the Tetralemmic field, defining its fundamental mode of transforming consciousness and systems.
-
-```mermaid
-flowchart TD
-    subgraph TetralemmicField["Tetralemmic Field"]
-        direction LR
-        Negation["Negation<br>Deconstructing Form"]
-        Assertion["Assertion<br>Building Form"]
-        Transcendence["Transcendence<br>Releasing Duality"]
-        Integration["Integration<br>Holding Duality"]
-    end
-    
-    A["<b>Maker Vector</b><br>Builds New (A)"] -->|"Primary Focus"| Assertion
-    A -->|"Secondary"| Integration
-    
-    B["<b>Liberator Vector</b><br>Weaves Justice (Both/And)"] -->|"Primary Focus"| Integration
-    B -->|"Secondary"| Assertion
-    
-    C["<b>Awakener Vector</b><br>Clears Ground (Neither/Nor)"] -->|"Primary Focus"| Transcendence
-    C -->|"Secondary"| Negation
-    
-    D["<b>Healer Vector</b><br>Navigates Wholeness (Full Field)"] -->|"Balances All"| TetralemmicField
-    
-    style A fill:#e8f5e8
-    style B fill:#e1f5fe
-    style C fill:#f3e5f5
-    style D fill:#fff3e0
-    style TetralemmicField fill:#f5f5f5
-```
-### Mapping: From Dialectical Task to Pathway Protocol
-
-Each pathway operationalizes the synthetic task of its corresponding dialectical phase into a practical protocol.
-
-| Pathway | Dialectical Phase | Phase Task (from 04) | Primary Tetralemmic Operator | Pathway Execution of Phase Task |
-| :--- | :--- | :--- | :--- | :--- |
-| **Awakening**<br>(*Conscientização*) | **0D: Dissolution** | "Move from pure potential to minimal viable assertion" | **Neither A nor Not-A**<br>(The Ground) | Creates *clearing* through suspension of assumptions, allowing new consciousness (A) to emerge from the ground of potential. |
-| **Making**<br>(*Capacitação*) | **1D: Emergence** | "Allow assertion to be challenged by negations without collapsing" | **A**<br>(Thesis/Assertion) | Builds tangible alternatives (A) with embedded feedback mechanisms to incorporate limits and exceptions (Not-A). |
-| **Liberation**<br>(*Liberação*) | **2D: Integration** | "Navigate multiple truths by discovering integrative pattern" | **Both A and Not-A** | Holds competing needs and truths in tension to design structures that transcend (Neither/Nor) oppressive binaries. |
-| **Healing**<br>(*Cura*) | **3D+: Transformation** | "Consciously apply the entire dialectical process for evolution" | **Dynamic Navigation**<br>(All Positions) | Contextually applies the full Tetralemmic logic—asserting boundaries, integrating trauma, holding silence—to restore wholeness across time. |
-
-### Pathway Imbalances as Tetralemmic "Cubes"
-
-When a pathway becomes fixated on its primary logical operator, it creates a "Cube" (per 04's diagnosis)—a rigid pattern that blocks dialectical movement.
-
-| Pathway | Healthy Operator | Imbalance ("Cube") | Manifestation | Corrective Movement |
-| :--- | :--- | :--- | :--- | :--- |
-| **Awakening** | Suspension & Clearing<br>(Neither/Nor) | **Void Cube**<br>Avoids all form | Endless critique without proposal; spiritual bypassing | Small, embodied pilot of an alternative (Move toward **A** via Making) |
-| **Making** | Proposition & Construction<br>(A) | **Dogma Cube**<br>Ignores negation | Solutionism; blind spots to externalities; "build anyway" attitude | Deliberate constraint-seeking: "What breaks this?" (Engage **Not-A**) |
-| **Liberation** | Synthesis & Re-weaving<br>(Both/And) | **Paralysis Cube**<br>Can't choose | Eternal deliberation; consensus fetishism; no action | Provisional stand with sunset clause (Touch **Neither/Nor** via Awakening) |
-| **Healing** | Contextual Navigation<br>(All Positions) | **Omnipotence Cube**<br>Carries all logic | Burnout; enmeshment; "I must hold everything" | Conscious delegation: "Whose pathway/logic is needed here?" (Re-establish boundaries) |
-
-### Practical Protocol: The Tetralemmic Pathway Rotation
-
-This four-step protocol applies the full logical spectrum to any complex intervention, ensuring comprehensive transformation.
-
-```mermaid
-flowchart TD
-    Start["Complex Blockage"] --> Step1["1. AWAKEN<br><b>Operator: Neither/Nor</b><br>Clear the ground"]
-    
-    Step1 --> Step2["2. MAKE<br><b>Operator: A</b><br>Propose new form"]
-    
-    Step2 --> Step3["3. LIBERATE<br><b>Operator: Both/And</b><br>Map tensions & integrations"]
-    
-    Step3 --> Step4["4. HEAL<br><b>Operator: Navigate Full Field</b><br>Contextually rebalance"]
-    
-    Step4 --> Assess{"Assess Integration"}
-    Assess -->|"Complete"| End["Integrated Transformation"]
-    Assess -->|"Needs refinement"| Step1
-    
-    style Start fill:#e0e0e0
-    style Step1 fill:#f3e5f5
-    style Step2 fill:#e8f5e8
-    style Step3 fill:#e1f5fe
-    style Step4 fill:#fff3e0
-    style End fill:#2e7d32,color:#fff
-```
-**Example Application: Stuck Community Decision**
-1. **Awaken (Neither/Nor):** *"What unspoken rule keeps us stuck?"* → Identifies: "We assume decisions require 100% consensus."
-2. **Make (A):** *"What minimal rule change could help?"* → Proposes: "Adopt consent decision-making (can live with it)."
-3. **Liberate (Both/And):** *"Who benefits/harms? What's excluded?"* → Maps: "Moves faster but may marginalize deep concerns."
-4. **Heal (Navigate):** *"What adjustment balances these?"* → Adjusts: "Use consent plus 48-hour integration period for amendments."
-
-## Pathway Identification: Vector Analysis
-
-Rather than asking "Who are you?" ask "How do you apply energy right now?"
-
-```mermaid
-flowchart TD
-    Start["Start: Facing a Situation"] --> Q1{"What is the Primary Need?"}
-
-    Q1 -->|"Clarity & Understanding"| Q2{"How is clarity blocked?"}
-    Q1 -->|"Tangible Results"| Q3{"What kind of results?"}
-    Q1 -->|"Relational Justice"| Q4{"Where is power imbalanced?"}
-    Q1 -->|"Wholeness & Integration"| Q5{"What is fragmented?"}
-
-    Q2 -->|"Lack of awareness"| P1["<b>AWAKENING</b><br>Develop critical consciousness"]
-    Q2 -->|"Dogmatic thinking"| P1
-
-    Q3 -->|"Build/repair systems"| P2["<b>MAKING</b><br>Create regenerative capacity"]
-    Q3 -->|"Sustainable structures"| P2
-
-    Q4 -->|"Structural oppression"| P3["<b>LIBERATION</b><br>Redesign power structures"]
-    Q4 -->|"Unequal access"| P3
-
-    Q5 -->|"Personal/cultural trauma"| P4["<b>HEALING</b><br>Restore right relationship"]
-    Q5 -->|"Intergenerational wounds"| P4
-
-    P1 --> Check1{"Foundations ≥ 2?"}
-    P2 --> Check2{"Foundations ≥ 2?"}
-    P3 --> Check3{"Foundations ≥ 2?"}
-    P4 --> Check4{"Foundations ≥ 2?"}
-
-    Check1 -- "✅ Yes" --> Action1["Proceed with Awakening practices"]
-    Check2 -- "✅ Yes" --> Action2["Proceed with Making practices"]
-    Check3 -- "✅ Yes" --> Action3["Proceed with Liberation practices"]
-    Check4 -- "✅ Yes" --> Action4["Proceed with Healing practices"]
-
-    Check1 -- "❌ No" --> BM1["<b>BOUNDARY MEDICINE REQUIRED</b><br>Strengthen Restoration first"]
-    Check2 -- "❌ No" --> BM2["<b>BOUNDARY MEDICINE REQUIRED</b><br>Strengthen Nourishment first"]
-    Check3 -- "❌ No" --> BM3["<b>BOUNDARY MEDICINE REQUIRED</b><br>Strengthen Movement first"]
-    Check4 -- "❌ No" --> BM4["<b>BOUNDARY MEDICINE REQUIRED</b><br>Strengthen Cleansing first"]
-```
-
-### Vector Assessment
-
-Imagine you encounter a bug in the documentation:
-
-**Artisan response:**
-- Fix the specific error with precision
-- Check for similar errors elsewhere
-- Update any affected references
-- Energy vector: Inward toward accuracy
-
-**Gardener response:**
-- Consider who might be confused by this
-- Create a guide to prevent similar confusion
-- Check if the system encourages such errors
-- Energy vector: Outward toward understanding
-
-**Weaver response:**
-- Trace why this error occurred in the system
-- Map connections to other potential issues
-- Propose structural changes to prevent category errors
-- Energy vector: Through the system's patterns
-
-**Catalyst response:**
-- Question whether documentation should exist in this form
-- Propose a completely different knowledge structure
-- Use the error as evidence for systemic transformation
-- Energy vector: Beyond the current structure
-
-Your turn: Pick a simple issue. Imagine four distinct responses. Which feels most natural? That's your current vector.
-
-## Temporal-Phase Pathway Affinities
-
-Your pathway preference often aligns with specific phases of the dialectic:
-
-| Pathway | Natural Phase Entry | Contribution Style | Phase Transition Role |
+| **Aspect** | **Description** | **Personal Practice** | **Community Praxis** |
 | :--- | :--- | :--- | :--- |
-| Artisan | Material phase | Perfecting implementation | Thesis → Material refinement |
-| Gardener | Synthesis phase | Nurturing consensus | Antithesis → Synthesis bridging |
-| Weaver | Thesis phase | Revealing patterns | Synthesis → Material mapping |
-| Catalyst | Antithesis phase | Challenging foundations | Material → New Thesis creation |
+| **Primary Task** | To suspend judgment (Neither/Nor) and question underlying assumptions, creating a "cleared ground." | Mindfulness meditation; journaling for self-inquiry; studying histories of systemic oppression. | Hosting "unlearning" circles; facilitating popular education workshops; conducting collective power analyses. |
+| **Tetralemmic Operator** | **Neither A nor Not-A**: The transcendent ground from which new forms can arise. | Applying the "Beginner's Mind" to a habit. | Creating agendas that start with a "check-in" question to surface assumptions. |
+| **Geometric Action** | Polishing vertices and edges for clarity; radial contraction toward precise understanding. | Refining a personal skill or argument to its essence. | Drafting and iterating on a community manifesto or shared agreement. |
+| **Risk of Imbalance ("Cube")** | **The Void Cube**: Endless deconstruction without proposing or building; spiritual bypassing. | Cynicism about all solutions; feeling "too aware" to act. | A group that critiques all proposals but generates none of its own. |
+| **Corrective Movement** | Move toward **Making**: Propose and test a small, tangible alternative. | Build a simple prototype of a life change. | Commit to a 30-day trial of a new meeting format. |
+
+### 2. The Pathway of Making (Capacitação)
+*"How do we build the tangible alternatives we need?"*
+
+Making focuses on **regenerative capacity-building**. It asserts new forms, structures, and skills (A) while intentionally designing them to receive and incorporate feedback and negation (Not-A).
+
+| **Aspect** | **Description** | **Personal Practice** | **Community Praxis** |
+| :--- | :--- | :--- | :--- |
+| **Primary Task** | To build robust, adaptable systems that pre-empt their own limitations. | Learning practical skills (gardening, coding); prototyping changes in routine; repairing household items. | Starting a tool library; launching a community garden or cooperative business; installing renewable energy systems. |
+| **Tetralemmic Operator** | **A (Thesis/Assertion)**: Building form with permeable boundaries. | Committing to a new daily practice while tracking what disrupts it. | Launching a pilot project with built-in feedback surveys and review periods. |
+| **Geometric Action** | Strengthening connections between vertices; radial expansion of functional networks. | Setting up a personal productivity or health-tracking system. | Creating a mutual aid network map to connect needs with resources. |
+| **Risk of Imbalance ("Cube")** | **The Dogma Cube**: Solutionism; ignoring externalities or criticism; "build it anyway" attitude. | Obsessive optimization without questioning the goal's validity. | A project that proceeds despite significant community concerns about its impact. |
+| **Corrective Movement** | Move toward **Liberation**: Actively seek out who is excluded or harmed by the creation. | Interview someone with an opposite lifestyle about your project. | Form a "devil's advocate" or "stakeholder impact" panel for the project. |
+
+### 3. The Pathway of Liberation (Liberação)
+*"How do we transform relationships and structures toward justice?"*
+
+Liberation focuses on **equitable connection and structural change**. It holds multiple, often competing truths and needs (Both A and Not-A) to design integrations that transcend oppressive binaries.
+
+| **Aspect** | **Description** | **Personal Practice** | **Community Praxis** |
+| :--- | :--- | :--- | :--- |
+| **Primary Task** | To weave relational justice by mapping power dynamics and designing inclusive structures. | Practicing Nonviolent Communication; auditing personal networks for diversity; consciously ceding speaking space. | Facilitating restorative justice circles; designing participatory governance (e.g., sociocracy); building coalitions across differences. |
+| **Tetralemmic Operator** | **Both A and Not-A**: Synthesizing pluralities toward a higher integration. | Mediating a disagreement between friends by finding the valid need in each position. | Using integrative decision-making to find a proposal that addresses core concerns of all factions. |
+| **Geometric Action** | Tracing and revealing hidden connections across planes (diagonal integration). | Mapping how your personal habits connect to global economic systems. | Creating an ecosystem map showing relationships between local organizations, resources, and power structures. |
+| **Risk of Imbalance ("Cube")** | **The Paralysis Cube**: Consensus fetishism; endless deliberation without action; inability to make a stand. | Feeling responsible for everyone's feelings, leading to inaction. | A committee that discusses equity for months but never approves a concrete policy change. |
+| **Corrective Movement** | Move toward **Awakening**: Ask what unspoken rule or binary is causing the paralysis. | Journal: "What false choice (e.g., speed vs. perfection) am I trapped by?" | Name the hidden binary ("efficiency vs. inclusion") and agree to test a time-bound decision rule. |
+
+### 4. The Pathway of Healing (Cura)
+*"How do we restore wholeness to fractured systems and selves?"*
+
+Healing focuses on **integrating trauma and fragmentation**. It dynamically navigates the entire Tetralemmic field, applying the right logical operator (assertion, integration, negation, transcendence) contextually to mend breaks across time.
+
+| **Aspect** | **Description** | **Personal Practice** | **Community Praxis** |
+| :--- | :--- | :--- | :--- |
+| **Primary Task** | To apply context-specific medicine—boundaries, listening, ritual, space-holding—to restore right relationship. | Somatic therapy; ancestral healing work; creating personal rituals for grief; digital detoxes. | Designing trauma-informed gathering spaces; establishing community accountability pods; hosting collective grief or celebration rituals. |
+| **Tetralemmic Operator** | **Dynamic Navigation of the Full Field**: Contextual application of all operators. | Setting a firm boundary (A) with a family member, then creating space for your own grief (Neither/Nor). | Holding a circle for sharing hurt (Both/And), then facilitating a clear agreement for repair (A). |
+| **Geometric Action** | Rotating the whole structure to reveal new perspectives (orthogonal transformation). | Taking a silent retreat to gain a completely new view on a life problem. | Hosting an "open space" technology meeting where the agenda is set by participants in the moment. |
+| **Risk of Imbalance ("Cube")** | **The Omnipotence Cube**: Burnout from trying to hold everything; enmeshment; refusal to delegate. | Becoming the "therapist" in all your relationships; having no personal boundaries. | A facilitator who won't let others lead, becoming the single point of failure and emotional load-bearer. |
+| **Corrective Movement** | Move toward **Making**: Delegate a concrete task or consciously build a personal boundary. | Use a calendar app to literally block off "non-negotiable rest time." | Clearly rotate the roles of facilitator, note-taker, and space-holder in meetings. |
+
+---
+
+## Theory & Synthesis: The Roots and Logic of the Pathways
+
+### The Freirean Foundation
+The pathways are grounded in the liberation pedagogy of Paulo Freire. The Portuguese terms are kept as spiritual anchors to the original, radical concepts:
+*   **Conscientização** is the *awakening* to oppressive social structures, not passive awareness.
+*   **Capacitação** is collective *empowerment through praxis* (action + reflection), not individual skill-building.
+*   **Liberação** is the *structural transformation* achieved through dialogic action, not abstract freedom.
+*   **Cura** is the *relational wholeness* forged in solidarity, not merely personal recovery.
+
+### The Tetralemmic Logic: From Dialectics to Protocol
+Each pathway operationalizes the synthetic task of a specific Dialectical Phase (from Node 04) into a practical protocol.
 
 ```mermaid
-flowchart LR
-    P1["<b>Awakening</b><br>See the system<br>(Dissociative Phase)"]
-    P2["<b>Making</b><br>Build alternatives<br>(Dual Phase)"]
-    P3["<b>Liberation</b><br>Change structures<br>(Relational Phase)"]
-    P4["<b>Healing</b><br>Integrate wounds<br>(Non-Dual Phase)"]
-
-    P1 -->|"Consciousness leads to"| P2
-    P2 -->|"Capacity enables"| P3
-    P3 -->|"Justice requires"| P4
-    P4 -->|"Wholeness deepens"| P1
-
-    %% Inner cycle of dialectical progression
-    subgraph Inner[Phase Progression]
-        direction LR
-        D1["Dissociative"]
-        D2["Dual"]
-        D3["Relational"]
-        D4["Non-Dual"]
-        D1 --> D2 --> D3 --> D4 --> D1
+graph TD
+    subgraph Tetralemmic["Tetralemmic Field"]
+        T1["A (Assertion)<br>Building Form"]
+        T2["Not-A (Negation)<br>Deconstructing"]
+        T3["Both A & Not-A<br>Integrating"]
+        T4["Neither/Nor<br>Transcending"]
     end
-
+    
+    subgraph Pathways["Pathway Engagement"]
+        P1["Awakening<br>Clearing · 0D Phase"]
+        P2["Making<br>Building · 1D Phase"]
+        P3["Liberation<br>Weaving · 2D Phase"]
+        P4["Healing<br>Balancing · 3D+ Phase"]
+    end
+    
+    P1 -->|Primary| T4
+    P1 -->|Secondary| T2
+    
+    P2 -->|Primary| T1
+    P2 -->|Secondary| T3
+    
+    P3 -->|Primary| T3
+    P3 -->|Secondary| T1
+    
+    P4 -->|Contextual| All
+    
     style P1 fill:#f3e5f5,stroke:#7b1fa2
     style P2 fill:#e8f5e8,stroke:#388e3c
     style P3 fill:#e1f5fe,stroke:#0288d1
     style P4 fill:#fff3e0,stroke:#f57c00
-    style Inner fill:#f5f5f5,stroke:#666,stroke-dasharray: 3 3
+    style Tetralemmic fill:#fafafa,stroke:#616161
 ```
-## Practical Pathway Application
 
-### 1. Pathway-Aware Contribution
+| Pathway | Dialectical Phase & Task | Pathway Execution of the Task |
+| :--- | :--- | :--- |
+| **Awakening** | **0D: Dissolution**<br>Move from chaos to a minimal viable assertion. | Creates a *clearing* by suspending assumptions, allowing new consciousness (A) to emerge from potential. |
+| **Making** | **1D: Emergence**<br>Allow an assertion to be challenged without collapsing. | Builds tangible alternatives (A) with embedded feedback to incorporate limits (Not-A). |
+| **Liberation** | **2D: Integration**<br>Navigate multiple truths to find an integrative pattern. | Holds competing needs (Both/And) to design structures that transcend (Neither/Nor) oppressive binaries. |
+| **Healing** | **3D+: Transformation**<br>Consciously apply the full dialectical process. | Contextually applies the full Tetralemmic logic to restore wholeness across time and trauma. |
 
-When submitting work:
-[pathway:artisan] Fix typo in tesseract documentation
-
-Pathway alignment: Refinement vector - improving precision of geometric description
-Temporal phase: Material integration - correcting existing implementation
-Geometric action: Polishing vertex description clarity
-
-### 2. Pathway-Rotating Practice
-
-To develop pathway flexibility, try this exercise:
-
-1. Pick a simple task: "Improve the README"
-2. Approach it from each pathway perspective:
-   - Artisan: Perfect the formatting and clarity
-   - Gardener: Make it more welcoming and accessible
-   - Weaver: Show connections to other documentation
-   - Catalyst: Question the README format entirely
-
-### 3. Pathway Collaboration
-
-Different pathways create different tensions and synergies:
-
-- Artisan + Gardener: Precision meets accessibility
-- Weaver + Catalyst: Patterns meet transformation
-- Gardener + Weaver: Relationships meet connections
-- Catalyst + Artisan: Innovation meets craftsmanship
-
-Collaboration prompt: Find someone with a different pathway preference. Co-create something that honors both vectors.
-
-## Pathway Labels in Practice
-
-This repository uses pathway labels to:
-
-- Route contributions to appropriate reviewers
-- Balance energy distribution across the system
-- Track developmental growth as contributors rotate pathways
-
-Label usage:
-
-- `pathway:artisan` - Technical refinement tasks
-- `pathway:gardener` - Community and growth tasks
-- `pathway:weaver` - Integration and pattern tasks
-- `pathway:catalyst` - Innovation and transformation tasks
-
-### Label Application Protocol:
-
-1. **Self-tagging**: Contributors add pathway labels based on their primary vector for the contribution
-2. **Review routing**: Labels route to reviewers with complementary pathway expertise
-3. **Balance monitoring**: Maintain pathway diversity across major initiatives
-4. **Developmental tracking**: Encourage pathway rotation for integrative skill development
-
-## Integration Exercises
-
-### Exercise 1: Tetralemmic Pathway Diagnosis
-
-Pick a current challenge in your work or community. Apply the Tetralemmic Pathway Rotation Protocol:
-
-1. **Awaken**: What hidden assumption (form) underpins this challenge?
-2. **Make**: What one small, clear change could you propose?
-3. **Liberate**: Who would benefit and who might resist? Why?
-4. **Heal**: What adjustment would honor both the proposal and the resistance?
-
-### Exercise 2: Pathway Vector Mapping
-
-Track your contributions for one week using pathway labels. At week's end:
-- Which pathway did you use most frequently?
-- Which felt most energizing? Most draining?
-- Which pathway was absent from your work?
-
-### Exercise 3: Cross-Pathway Collaboration
-
-Find a partner with a different dominant pathway. Co-design a solution to a simple problem (like organizing a meeting). Notice:
-- Where do your approaches naturally align?
-- Where do they create tension?
-- How can you integrate both vectors into a stronger solution?
-
-## Boundary Medicine Reminder
-
-Remember that pathways require foundation strength. If you find yourself:
-- Consistently avoiding a particular pathway
-- Feeling "stuck" in a pathway's negative pattern
-- Unable to complete the Tetralemmic Rotation
-
-Return to your Embodied Foundations. Pathway work without somatic grounding leads to abstraction and burnout. The pathways are vectors through reality, but you must be grounded in reality to wield them effectively.
+### Integration with the Tesseract and Ethical Axes
+The pathways are your *method* for engaging the Mandala's other components:
+*   **Tesseract (Node 02)**: Each pathway "holds" the geometric model differently (e.g., Awakening polishes vertices, Liberation traces connections).
+*   **Ethical Axes (Node 03)**: The pathways are the *how* for moving along the axes. For example, **Making** is the primary pathway for moving from Extraction to **Regeneration**.
+*   **Dialectical Phases (Node 04)**: As shown above, each pathway is the practical tool for accomplishing the task of a specific phase.
 
 ---
 
-**Next**: With pathways established, we move to the applied layer where these vectors manifest in specific domains. See 06-applied-domains for how pathways operate in technology, ecology, governance, and culture.
+## Practical Application Guide
+
+### Step 1: Identify Your Dominant & Latent Pathways
+Use this self-assessment to reflect on your typical responses to challenge.
+
+```mermaid
+graph TD
+    Start["Facing a Complex Challenge"] --> Q1{"What's the Primary Need?"}
+    
+    Q1 -->|Clarity & Understanding| Q2{"How is clarity blocked?"}
+    Q1 -->|Tangible Results| Q3{"What kind of results?"}
+    Q1 -->|Relational Justice| Q4{"Where is power?"}
+    Q1 -->|Wholeness & Integration| Q5{"What is fragmented?"}
+    
+    Q2 -->|By assumptions/dogmas| A["Awakening<br>Clears the ground"]
+    Q2 -->|By information overload| A
+    
+    Q3 -->|Build/repair systems| B["Making<br>Creates alternatives"]
+    Q3 -->|Improve functionality| B
+    
+    Q4 -->|In structures| C["Liberation<br>Redesigns systems"]
+    Q4 -->|In relationships| C
+    
+    Q5 -->|Personal/collective| D["Healing<br>Restores wholeness"]
+    Q5 -->|Across time| D
+    
+    A & B & C & D --> Check{"Foundations ≥ 2?"}
+    Check -->|Yes| Proceed["Proceed with pathway practice"]
+    Check -->|No| Focus["Strengthen foundations first"]
+    
+    style A fill:#f3e5f5,stroke:#7b1fa2
+    style B fill:#e8f5e8,stroke:#388e3c
+    style C fill:#e1f5fe,stroke:#0288d1
+    style D fill:#fff3e0,stroke:#f57c00
+    style Start fill:#f5f5f5,stroke:#666
+    style Proceed fill:#2e7d32,color:#fff
+    style Focus fill:#d32f2f,color:#fff
+```
+
+**For each scenario (A-D), choose the response that feels *most natural* to you initially:**
+
+**Scenario: You join a community project that feels disorganized and unfocused. Your first instinct is to...**
+1.  **A.** Ask foundational questions: "What is our real goal? What assumptions are we making?"
+2.  **B.** Propose a simple plan, schedule, or tool to get things moving.
+3.  **C.** Talk to everyone individually to understand their perspectives and find common ground.
+4.  **D.** Check in on the group's energy and suggest a break or a grounding exercise to reduce frustration.
+
+**Scoring:** Tally your choices.
+*   Mostly **1s**: Your "home base" is **Awakening**.
+*   Mostly **2s**: Your "home base" is **Making**.
+*   Mostly **3s**: Your "home base" is **Liberation**.
+*   Mostly **4s**: Your "home base" is **Healing**.
+
+**Important**: Your "home base" is a strength, not a limit. The goal is to build capacity in all pathways.
+
+### Step 2: Apply the Tetralemmic Rotation Protocol
+For any complex blockage or project, consciously rotate through all four pathways to ensure a holistic approach.
+
+```mermaid
+graph LR
+    Start["Challenge/Blockage"] --> Step1
+    
+    Step1["1. AWAKEN<br><b>Clear the Ground</b><br>• Suspend solutions<br>• Question assumptions<br>• Identify hidden rules"]
+    Step2["2. MAKE<br><b>Propose New Form</b><br>• Design intervention<br>• Create minimal prototype<br>• Establish testable rule"]
+    Step3["3. LIBERATE<br><b>Map Tensions</b><br>• Analyze stakeholders<br>• Identify harms/benefits<br>• Adjust for justice"]
+    Step4["4. HEAL<br><b>Rebalance & Implement</b><br>• Set sustainable pace<br>• Plan for integration<br>• Schedule reflection"]
+    
+    Step1 --> Step2 --> Step3 --> Step4 --> Assess{"Assess Outcome"}
+    
+    Assess -->|Integrated| Success["✓ Transformation Achieved"]
+    Assess -->|Needs refinement| Iterate["Return to Step 1<br>with new insight"]
+    
+    style Step1 fill:#f3e5f5,stroke:#7b1fa2
+    style Step2 fill:#e8f5e8,stroke:#388e3c
+    style Step3 fill:#e1f5fe,stroke:#0288d1
+    style Step4 fill:#fff3e0,stroke:#f57c00
+    style Start fill:#f5f5f5,stroke:#666
+    style Success fill:#2e7d32,color:#fff
+    style Iterate fill:#ff9800,color:#000
+```
+
+1.  **AWAKEN (Neither/Nor)**: *Clear the ground.* Suspend solutions. Ask: "What unseen rule, story, or power dynamic is holding this problem in place?"
+2.  **MAKE (A)**: *Propose a new form.* Based on the insight from Step 1, design a minimal, testable intervention or new rule.
+3.  **LIBERATE (Both/And)**: *Map tensions and integrations.* Analyze: Who does this proposal help/harm? What values does it prioritize and neglect? How can it be adjusted for greater justice?
+4.  **HEAL (Navigate Full Field)**: *Contextually rebalance.* Implement the adjusted proposal with attention to pace, trauma, and integration. Set a time for reflection.
+
+**Case Study: Stuck Community Decision**
+*   **Awaken**: The group identifies an unspoken rule: "We must achieve 100% consensus on everything."
+*   **Make**: A member proposes a new rule: "We adopt consent-based decision-making (no blocking objections)."
+*   **Liberate**: Discussion reveals this could marginalize deeply concerned minorities. The proposal is adjusted: "Use consent, plus a 48-hour period for anyone to propose integrative amendments."
+*   **Heal**: The group agrees to trial the new process for 3 months, with a dedicated check-in to process emotional responses.
+
+### Step 3: Diagnose and Correct Pathway Imbalances
+Use this table to identify "Cubes" (pathway fixations) and apply corrective actions.
+
+```mermaid
+graph TD
+    subgraph Imbalances["Pathway Imbalances & Corrections"]
+        subgraph AwakeningCube["Awakening: Void Cube"]
+            A1["Endless critique"]
+            A2["Analysis paralysis"]
+            A3["Spiritual bypassing"]
+            A1 & A2 & A3 --> ACure["→ Do a MAKING task:<br>Build small prototype"]
+        end
+        
+        subgraph MakingCube["Making: Dogma Cube"]
+            M1["Bulldozing objections"]
+            M2["Ignoring harm"]
+            M3["Tech solutionism"]
+            M1 & M2 & M3 --> MCure["→ Do a LIBERATION task:<br>Map stakeholder impacts"]
+        end
+        
+        subgraph LiberationCube["Liberation: Paralysis Cube"]
+            L1["Consensus fetishism"]
+            L2["Can't decide"]
+            L3["Exhausting process"]
+            L1 & L2 & L3 --> LCure["→ Do an AWAKENING task:<br>Name the binary trap"]
+        end
+        
+        subgraph HealingCube["Healing: Omnipotence Cube"]
+            H1["Burnout"]
+            H2["Savior complex"]
+            H3["Refuses delegation"]
+            H1 & H2 & H3 --> HCure["→ Do a MAKING task:<br>Delegate & say no"]
+        end
+    end
+    
+    style AwakeningCube fill:#f3e5f5,stroke:#7b1fa2
+    style MakingCube fill:#e8f5e8,stroke:#388e3c
+    style LiberationCube fill:#e1f5fe,stroke:#0288d1
+    style HealingCube fill:#fff3e0,stroke:#f57c00
+    style ACure fill:#e8f5e8
+    style MCure fill:#e1f5fe
+    style LCure fill:#f3e5f5
+    style HCure fill:#e8f5e8
+```
+
+| Pathway | Imbalance ("Cube") | Signs & Symptoms | Corrective Action |
+| :--- | :--- | :--- | :--- |
+| **Awakening** | Void Cube | Cynicism, perpetual critique without proposal, "analysis paralysis." | **Do a Making task:** Build a small, physical prototype of an alternative. |
+| **Making** | Dogma Cube | Bulldozing objections, ignoring collateral damage, blind optimism in technology. | **Do a Liberation task:** Map all stakeholders and list potential harms your project could cause. |
+| **Liberation** | Paralysis Cube | Inability to decide, consensus fetishism, exhausting everyone with process. | **Do an Awakening task:** Ask, "What binary (e.g., fast vs. perfect) are we trapped by?" Set a time limit. |
+| **Healing** | Omnipotence Cube | Burnout, savior complex, enmeshment, refusing to let others lead. | **Do a Making task:** Delegate a concrete responsibility. Say "no" to one request. |
+
+### Step 4: Pathway Project Planner
+Use this worksheet to plan any initiative through the lens of all four pathways.
+
+**Project:** _________________________
+
+| Pathway | Guiding Questions for This Project | Actions & Owners |
+| :--- | :--- | :--- |
+| **Awakening** | What assumptions (about power, resources, success) need to be questioned upfront? What are we not seeing? | |
+| **Making** | What is the minimal viable product or first tangible step? What tools/skills do we need to build? | |
+| **Liberation** | Who benefits? Who might be harmed or excluded? How does this design replicate or challenge oppressive patterns? | |
+| **Healing** | What is the sustainable pace? How will we handle conflict and repair? How do we celebrate and integrate learnings? | |
+
+---
+
+## Conclusion: Integration with the Solarpunk Mandala
+
+```mermaid
+graph TD
+    subgraph Framework["Solarpunk Mandala Core Framework"]
+        Tesseract["<b>Tesseract</b><br>Node 02<br>Spatial Structure<br><i>Nouns: What exists</i>"]
+        Ethics["<b>Ethical Axes</b><br>Node 03<br>Quality of Relations<br><i>Adjectives: Qualities we seek</i>"]
+        Phases["<b>Dialectical Phases</b><br>Node 04<br>Temporal Patterns<br><i>Timeline: Patterns of change</i>"]
+        Pathways["<b>Four Pathways</b><br>Node 05<br>Modes of Action<br><i>Verbs: How we engage</i>"]
+    end
+    
+    Tesseract --> Praxis
+    Ethics --> Praxis
+    Phases --> Praxis
+    Pathways --> Praxis
+    
+    Praxis["<b>Embodied Praxis</b><br>Integrated Action in the World<br>Conscious application of all four nodes"]
+    
+    style Tesseract fill:#e1f5fe,stroke:#0288d1
+    style Ethics fill:#f3e5f5,stroke:#7b1fa2
+    style Phases fill:#e8f5e8,stroke:#388e3c
+    style Pathways fill:#fff3e0,stroke:#f57c00
+    style Praxis fill:#2e7d32,color:#fff,stroke:#1b5e20
+```
+
+The Four Pathways complete the core operational model of the Solarpunk Mandala. They are the **verbs** that bring the framework to life:
+
+1.  **Tesseract (Node 02)**: The *noun* — the spatial structure of reality.
+2.  **Ethical Axes (Node 03)**: The *adjectives* — the qualities of relationship we aim for.
+3.  **Dialectical Phases (Node 04)**: The *timeline* — the temporal pattern of change.
+4.  **Four Pathways (Node 05)**: The *verbs* — the modes of engaged action.
+
+### Embodied Praxis: The Synthesis
+The ultimate goal is **Embodied Praxis**—action in the world that seamlessly integrates insight from all four nodes. A Solarpunk practitioner assesses the **phase** of a system, uses the **pathways** to engage its **tesseract-like complexity**, all while consciously configuring boundaries along the **ethical axes**.
+
+### Continuing Your Practice
+1.  **Next Time You Face a Challenge**: Pause and ask, "Which pathway am I using? Which one is missing?"
+2.  **Form a Pod**: Gather 3-4 people and use the Tetralemmic Rotation Protocol to tackle a shared problem.
+3.  **Reflect**: At the end of each week, journal: "Where did I use Awakening? Making? Liberation? Healing?"
+
+Remember, the pathways are a spiral, not a ladder. Mastery is not about leaving one behind, but about deepening your capacity to choose the right tool for the moment, and ultimately, to wield them all in concert for the regeneration of our world.
+
+---
+
+**Related Documents**:
+- [02-epistemic-architecture-tesseract.md](02-epistemic-architecture-tesseract.md) - The spatial model you engage.
+- [03-ethics-four-axes.md](03-ethics-four-axes.md) - The ethical direction of your engagement.
+- [04-temporal-unfolding-dialectical-phases.md](04-temporal-unfolding-dialectical-phases.md) - The temporal context for your action.
