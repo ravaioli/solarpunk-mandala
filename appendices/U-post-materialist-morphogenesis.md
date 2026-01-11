@@ -1,3 +1,37 @@
+---
+aeo_metadata:
+  title: "Appendix U: Post-Materialist Morphogenesis"
+  description: "A theory of form-generation and pattern-formation that incorporates consciousness and intentionality as causal factors in biological, social, and aesthetic development, bridging the gap between mind and morphology."
+  context: "Theoretical and practical framework within the Solarpunk Mandala that extends consciousness-first principles to understanding how forms emerge in nature, culture, and art, emphasizing the role of consciousness in shaping reality."
+  key_objectives:
+    - "Develop a consciousness-inclusive theory of morphogenesis and pattern formation."
+    - "Explore how intentionality and consciousness influence biological and social structures."
+    - "Create models for conscious co-creation and participatory evolution."
+    - "Apply morphogenetic principles to regenerative design, art, and technology."
+    - "Bridge materialist biology with idealist metaphysics through process-oriented models."
+  core_concepts:
+    - "Consciousness as Morphogenetic Field"
+    - "Intentional Pattern Formation"
+    - "Participatory Evolution"
+    - "Biomimicry and Bioinspiration"
+    - "Aesthetic Intelligence and Form Generation"
+    - "Teleological Processes in Nature"
+  ontological_foundation: "Process Philosophy & Systems Biology"
+  epistemic_stance: "Integrative Phenomenology & Pattern Recognition"
+  search_queries:
+    - "post-materialist morphogenesis"
+    - "consciousness pattern formation"
+    - "intentionality in evolution"
+    - "participatory evolution theory"
+    - "morphogenetic fields consciousness"
+  related_nodes:
+    - "appendices/K-formal-foundations-analytic-idealism.md"
+    - "appendices/N-epistemic-tesseract-geometric-knowing.md"
+    - "framework/core-model/01-ontological-foundations-consciousness.md"
+  framework_status: "Exploratory"
+  version: "0.7"
+  last_reviewed: "2026-01-12"
+---
 # Appendix U: The Alter’s Biology – Post-Materialist Morphogenesis
 
 ## 1. Beyond the Genome: The Theory of Biological Relativity
