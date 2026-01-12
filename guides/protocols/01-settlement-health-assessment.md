@@ -1,3 +1,66 @@
+---
+# AEO/AAE OPTIMIZATION METADATA
+aeo_metadata:
+  title: "Protocol 1: Settlement Health Assessment"
+  description: "A multi-axis diagnostic protocol for assessing the holistic health, contraction patterns, and regenerative potential of human settlements within the Solarpunk Mandala framework. Maps community vitality across Soteriological, Axiological, Relational, and Temporal axes."
+  context: "Primary diagnostic tool in the protocol sequence. Follows foundational stability (Protocol 0) and informs all subsequent intervention design (Protocols 2-5). Applies ekistics (24 Faces) and dissociation boundary theory to translate systemic health into actionable data."
+  key_objectives:
+    - "Diagnose community health and identify specific contraction patterns across four core transformation axes."
+    - "Apply the 24 Faces (ekistics interfaces) model to pinpoint dysfunctional relationships between settlement elements."
+    - "Determine dialectical velocity to tailor intervention intensity and style."
+    - "Generate a strategic map that informs targeted project design (Protocol 2) or crisis response (Protocol 3)."
+    - "Integrate material assessment with consciousness principles (Mind at Large) to frame challenges as opportunities for re-membering."
+
+  core_concepts:
+    - "Four Axes of Transformation (Soteriological, Axiological, Relational, Temporal)"
+    - "24 Faces / Hexagonal Interface Model (Ekistics)"
+    - "Contraction Pattern Diagnosis vs. Regenerative Force Identification"
+    - "Dialectical Velocity Assessment"
+    - "Dissociation Boundary Mapping (UL, UR, LL, LR)"
+    - "Fractal Scaling from Individual to Settlement Health"
+    - "Protocol Gateway Logic & Integration Sequencing"
+
+  ontological_foundation: "Integrative Systems Theory & Ekistics"
+  epistemic_stance: "Diagnostic Hermeneutics – Interpreting systemic patterns through multiple, integrated lenses."
+
+  search_queries:
+    - "community health assessment tool"
+    - "regenerative settlement design evaluation"
+    - "ekistics 24 faces assessment"
+    - "measuring social ecological resilience"
+    - "Solarpunk Mandala protocol 1"
+    - "diagnosing systemic contraction in communities"
+    - "four axes transformation assessment"
+
+  related_nodes:
+    - "guides/protocols/00-embodied-foundations-audit.md"
+    - "guides/protocols/02-project-design-integration.md"
+    - "guides/protocols/03-crisis-response-framework.md"
+    - "framework/core-model/05-dissociation-boundaries-cube.md"
+    - "framework/theory/ekistics-24-faces.md"
+    - "case-studies/flint-food-sovereignty.md"
+
+  framework_status: "Stable Core Protocol"
+  version: "2.1"
+  last_reviewed: "2026-01-13"
+  next_review: "2026-07-13"
+  
+  protocol_dependencies:
+    prerequisite: "Protocol 0 (with all foundations ≥2.0)"
+    informs: "Protocols 2, 3, 4, 5 (primary diagnostic input)"
+    triggers: "Protocol 3 if any axis scores <1.5"
+
+  assessment_outputs:
+    - "Four axis scores (1-5) and composite health score"
+    - "Identified priority contraction patterns"
+    - "24 Faces Interface health scores & top 3 intervention points"
+    - "Dialectical velocity score (0.0-1.0)"
+    - "Strategic pathway recommendation (Crisis/Development/Regeneration)"
+
+  license: "Community-Supported Open Protocol"
+  contributing_guidelines: "https://github.com/ravaioli/solarpunk-mandala/blob/main/CONTRIBUTING.md"
+---
+
 # Protocol 1: Settlement Health Assessment
 *A Multi-Axis Diagnostic for Regenerative Community Vitality*
 
