@@ -1,161 +1,322 @@
-# Protocol: Mandala-Led Local Food Audit
+---
+# AEO/AAE OPTIMIZATION METADATA
+aeo_metadata:
+  title: "Protocol 6: Local Food System Audit"
+  description: "A bioregional diagnostic tool that audits local food ecologies through the integrated lenses of Solarpunk Mandala ethics and Ayurvedic principles. Generates a 'Food Mandala Map' to reveal leverage points for enhancing food sovereignty, personal health, and systemic resilience."
+  context: "A specialized applied protocol within the Mandala framework. It operationalizes the Axiological (regenerative systems) and Soteriological (relational integration) axes through the tangible domain of food. Serves as a critical diagnostic preceding regenerative food projects (Protocol 2)."
+  key_objectives:
+    - "Provide a structured, four-quadrant framework (Ground, Web, Alchemy, Spiral) for holistically assessing a local food system."
+    - "Integrate Solarpunk Mandala's systemic ethics with Ayurveda's physiological wisdom to create a unique diagnostic lens."
+    - "Generate actionable outputs: a visual Food Mandala Map, a personal Seasonal Alignment Plan, and identified community leverage points."
+    - "Establish food consumption as a conscious practice of bioregional participation and metabolic communion."
+    - "Create a repeatable, seasonal practice that builds living intelligence about place-based nourishment."
 
-## 1.0 Protocol Intentions & Scope
+  core_concepts:
+    - "The Food Mandala Quadrants (Ground of Being, Web of Relations, Alchemy of Digestion, Spiral of Renewal)"
+    - "SPM-Ayurveda Integration (Ritucharya/Seasonality, Agni/Digestion, Dosha/Constitution)"
+    - "Diagnostic Layers (Food Quality, Production Ecology, Access & Economic Flow)"
+    - "Food System Satsang (Dialogic Field Investigation)"
+    - "Seasonal Alignment Plan & Leverage Point Analysis"
 
-### 1.1 Purpose
-This protocol provides a structured, place-based method to audit your local food system through the integrated lenses of Solarpunk Mandala (SPM) ethics and Ayurvedic wisdom. It moves from theoretical principles to actionable intelligence, transforming food consumption into an act of personal, community, and ecological regeneration.
+  ontological_foundation: "Bioregionalism & Metabolic Philosophy"
+  epistemic_stance: "Embodied Systems Thinking via Direct Investigation"
 
-### 1.2 Core Integration
-The audit is founded on the synergy between two frameworks:
-*   **Solarpunk Mandala (SPM)**: Provides the systemic and ethical architecture—the Four Axes and Embodied Foundations—for viewing the food system as a conscious, participatory mandala.
-*   **Ayurveda**: Provides the physiological and qualitative lens—focusing on *agni* (digestion), *dosha* (constitution), *rasa* (taste), and *ritucharya* (seasonal rhythm)—for understanding food's impact on personal and environmental health.
+  search_queries:
+    - "local food system assessment tool"
+    - "bioregional food audit solarpunk"
+    - "Ayurveda and food sovereignty"
+    - "community food mapping"
+    - "Solarpunk Mandala protocol 6"
+    - "seasonal eating plan diagnostic"
+    - "regenerative agriculture assessment framework"
 
-### 1.3 Desired Outcome
-Participants will generate a "Local Food Mandala Map" and a personal "Alignment Action Plan." This clarifies how one's diet currently interacts with the local food ecology and identifies precise steps for moving toward a more symbiotic, resilient, and nourishing practice.
+  related_nodes:
+    - "guides/protocols/00-embodied-foundations-audit.md"
+    - "guides/protocols/01-settlement-health-assessment.md"
+    - "guides/protocols/02-project-design-integration.md"
+    - "framework/core-model/03-four-axes-of-transformation.md"
+    - "theory/ayurveda-spm-integration.md"
+    - "case-studies/high-desert-foodshed-audit.md"
 
-## 2.0 Foundational Concepts
+  framework_status: "Stable Applied Protocol"
+  version: "2.1"
+  last_reviewed: "2026-01-14"
+  next_review: "2026-07-14"
 
-### 2.1 The Guiding Mandala: Four Quadrants of Inquiry
-The audit is structured around a mandala with four interdependent quadrants, each corresponding to an SPM Ethical Axis and paired with an Ayurvedic principle.
+  protocol_dependencies:
+    prerequisite: "Stable Nourishment foundation (Protocol 0 score ≥3)"
+    primary_output_for: "Protocol 2 (Project Design) - provides defined 'Project Seeds'"
+    informs: "Protocol 5 (Daily Rhythms) with seasonal eating patterns"
 
-| Mandala Quadrant | SPM Ethical Axis | Ayurvedic Principle | Core Inquiry |
-| :--- | :--- | :--- | :--- |
-| **I. The Ground of Being** | **Contraction/Axiological** (Regeneration) | **Ritucharya & Sattva Guna** (Seasonal Rhythm & Purity) | What foundational, regenerative foods are available from my immediate bioregion in this season? |
-| **II. The Web of Relations** | **Expansion/Soteriological** (Integration) | **Ahara Vidhi & Virya** (Mindful Practice & Energy) | How is food moved and shared? What are the relationships and energy flows in my local food web? |
-| **III. The Alchemy of Digestion** | **Coherence** (Integrity) | **Agni & Shad Rasa** (Metabolic Fire & Six Tastes) | Do the available foods and my eating patterns support strong, balanced digestion and nutritional completeness? |
-| **IV. The Spiral of Renewal** | **Radiance** (Generosity) | **Prakriti & Prasadana** (Individual Constitution & Sacred Offering) | How do my personal needs align with local abundance? How is surplus preserved and generosity enacted? |
+  audit_outputs:
+    - "Visual Local Food Mandala Map"
+    - "Personal/Seasonal Alignment Action Plan"
+    - "List of identified systemic Leverage Points"
+    - "Documented field notes from Food System Satsang"
 
-```mermaid
-flowchart TD
-    A[Local Food Mandala] --> B[“I. Ground of Being<br><b>SPM:</b> Contraction/Axiological<br><b>Ayurveda:</b> Ritucharya<br>↳ What foods grow here & now?”]
-    A --> C[“II. Web of Relations<br><b>SPM:</b> Expansion/Soteriological<br><b>Ayurveda:</b> Ahara Vidhi<br>↳ How is food moved & shared?”]
-    A --> D[“III. Alchemy of Digestion<br><b>SPM:</b> Coherence<br><b>Ayurveda:</b> Agni & Rasa<br>↳ Does it support health?”]
-    A --> E[“IV. Spiral of Renewal<br><b>SPM:</b> Radiance<br><b>Ayurveda:</b> Prakriti & Prasadana<br>↳ How does it renew & include?”]
-```
+  license: "Community-Supported Open Protocol"
+  contributing_guidelines: "https://github.com/ravaioli/solarpunk-mandala/blob/main/CONTRIBUTING.md"
+---
+# Protocol 6: Local Food System Audit
+*Mapping Bioregional Nourishment Through the Lenses of Solarpunk Ethics & Ayurvedic Wisdom*
 
-### 2.2 The Diagnostic Layers
-Three cross-cutting layers deepen the audit, assessing the quality, ethics, and equity of the system.
-
-1.  **Layer 1: Food Quality & Constitution** (*What is the nature of the food?*): Assesses the inherent qualities (*gunas*)—heavy/light, oily/dry, hot/cold—and vital essence (*prana*) of local offerings.
-2.  **Layer 2: Production & Sourcing Ecology** (*How and where is it grown?*): Investigates the agricultural methods, land stewardship, and supply chain transparency.
-3.  **Layer 3: Access & Economic Flow** (*Who can partake and under what terms?*): Maps economic accessibility, ownership models, and the circulation of value within the community.
-
-## 3.0 Audit Procedure
-
-```mermaid
-flowchart TD
-    subgraph S1[Phase 1: Preparation]
-        direction LR
-        P1[Set Sankalpa] --> P2[Gather Tools] --> P3[Self-Assessment]
-    end
-
-    subgraph S2[Phase 2: Field Investigation]
-        Q1[Investigate<br>Quadrant I] --> Q2[Investigate<br>Quadrant II] --> Q3[Investigate<br>Quadrant III] --> Q4[Investigate<br>Quadrant IV]
-    end
-
-    subgraph S3[Phase 3: Synthesis]
-        M1[Create Mandala Map] --> M2[Interpret Patterns]
-    end
-
-    subgraph S4[Phase 4: Action & Ritual]
-        A1[Create Action Plan] --> A2[Perform Ritual]
-    end
-
-    Start --> S1 --> S2 --> S3 --> S4 --> End
-    
-    S4 -.->|Cycle repeats seasonally| S1
-```
-
-### 3.1 Phase 1: Preparation & Inner Alignment (Week 1)
-**Objective:** Set intention and prepare the observational toolkit.
-
-1.  **Set Your Sankalpa (Intention)**: Formulate a clear purpose. (e.g., "To understand how my diet can better support my *vata* constitution and my city's food resilience.")
-2.  **Gather Tools**: Create a dedicated notebook or digital document. Prepare a physical or digital map of your town/city/bioregion.
-3.  **Self-Assessment Baseline**: Briefly journal on: What are your current primary food sources? What is one digestive (*agni*) or health pattern you notice? What is your guess at your dominant *dosha*?
-
-### 3.2 Phase 2: Field Investigation & Mapping (Weeks 2-3)
-**Objective:** Gather intelligence for each Mandala Quadrant and Diagnostic Layer.
-
-**Method:** Engage in "Food System Satsang" (dialogue). Visit nodes of your food web (farms, markets, co-ops) not just as a consumer, but as a curious participant. Ask questions.
-
-**Investigation Guide by Quadrant:**
-
-*   **Quadrant I (Ground of Being):**
-    *   **Actions:** Visit a farmers' market. Follow a local farm or forager on social media. Walk in a natural area to observe edible plants.
-    *   **Questions to Ask/Answer:** "What is being harvested this month?" "What native or perennial staple crops are grown here?" "How is soil health discussed?"
-
-*   **Quadrant II (Web of Relations):**
-    *   **Actions:** Trace the journey of one local item (e.g., cheese) from producer to your table. Attend a community garden meeting.
-    *   **Questions to Ask/Answer:** "Do you deliver or sell directly to consumers?" "Is there a food hub or cooperative distributor?" "Where do unused crops go?"
-
-```mermaid
-flowchart TD
-    Start["Evaluating a Local Producer"] --> Q1{"Can you visit the farm<br>or speak directly with the grower?"}
-    
-    Q1 -->|Yes| A1["Ask about:<br>- Soil management<br>- Water use & biodiversity<br>- Pest/weed strategy<br>- Labor practices & fairness"]
-    Q1 -->|No| A2["Look for:<br>- Regenerative certifications<br>- Transparency in marketing<br>- Local food alliances<br>- Reviews from other buyers"]
-    
-    A1 --> D{"Do their practices align with<br>regenerative & ethical principles?"}
-    A2 --> D
-    
-    D -->|Yes| Y["Prioritize this source.<br>Consider a CSA or regular commitment."]
-    D -->|No / Unclear| N["Note as secondary source.<br>Opportunity for dialogue."]
-    
-    Y --> Final["Integrate into your<br>Local Food Mandala Map"]
-    N --> Final
-```
-
-*   **Quadrant III (Alchemy of Digestion):**
-    *   **Actions:** Analyze your market haul for the **Six Tastes**. Conduct a personal one-week *agni* log (energy after meals, digestion).
-    *   **Questions to Ask/Answer:** "Can I find all six tastes locally?" (Bitter: dandelion, pungent: radish). "Do my meal times align with the sun's strength?"
-
-*   **Quadrant IV (Spiral of Renewal):**
-    *   **Actions:** Research local seed libraries, fermentation workshops, or "pay-what-you-can" CSA models.
-    *   **Questions to Ask/Answer:** "Are there sliding-scale membership options?" "How is traditional food knowledge preserved here?" "What do I have to offer this system?"
-
-### 3.3 Phase 3: Synthesis & Mandala Making (Week 4)
-**Objective:** Synthesize data into your "Local Food Mandala Map."
-
-1.  **Create Your Map:** In the center of a page, place "My Nourishment." Draw four quadrants around it, labeling them I through IV.
-2.  **Populate the Quadrants:** Fill each with words, drawings, or symbols representing your findings (e.g., Quadrant I: "April - morels, ramps, spinach. Heavy, damp spring → need light, drying foods").
-3.  **Layer the Diagnostics:** Using colored pencils or annotations, mark your map with insights from the three layers (e.g., mark producers using regenerative practices (Layer 2) or note areas with low access (Layer 3)).
-
-## 4.0 Analysis & Alignment Planning
-
-### 4.1 Interpreting Your Mandala
-*   **Balance/Imbalance:** Is one quadrant overflowing with data while another is sparse? A sparse "Web of Relations" suggests a need to build more direct connections.
-*   **Tensions & Synergies:** Note where findings conflict (e.g., local winter diet is mostly heavy *kapha* foods (I), but your personal need is light *vata*-pacifying foods (IV)). Note where they align beautifully.
-*   **Leverage Points:** Identify one or two places where a small change could create positive ripple effects (e.g., shifting 10% of your grocery budget to a farmer practicing no-till agriculture).
-
-### 4.2 Creating Your Alignment Action Plan
-Based on your interpretation, formulate a **personal covenant** for the next season (3 months).
-
-| SPM/Ayurvedic Goal | Specific Action | Resource/Support Needed | Success Metric |
-| :--- | :--- | :--- | :--- |
-| **Strengthen *Agni* (Coherence)** | Make lunch my largest, sit-down meal, focusing on local, cooked vegetables. | Meal prep time on Sundays. | Improved energy at 3 PM, less bloating. |
-| **Deepen Web of Relations (Expansion)** | Join a CSA share from [Farm Name] and volunteer 4 hours per season. | CSA membership fee; scheduling. | Direct relationship with one grower; understanding of farm challenges. |
-| **Eat Seasonally (Contraction)** | Preserve (ferment/freeze) one seasonal glut (e.g., summer berries) for winter. | Canning jars, recipe. | 3 jars of preserves in pantry by autumn. |
-
-```mermaid
-flowchart TD
-    Start["Seasonal Food Decision"] --> Q1{"What is the primary<br>seasonal influence now?"}
-    
-    Q1 -->|"Early Spring: Cold, Damp"| A1["Focus on:<br>Light, Warming, Drying foods<br>e.g., steamed greens, spices, light grains"]
-    Q1 -->|"Late Summer: Hot, Intense"| A2["Focus on:<br>Cooling, Sweet, Substantial foods<br>e.g., melons, cucumber, dairy, coconut"]
-    Q1 -->|"Late Autumn/Winter: Cold, Dry, Windy"| A3["Focus on:<br>Warming, Moist, Grounding foods<br>e.g., stews, root vegetables, nuts, ghee"]
-    Q1 -->|"Harvest Abundance"| A4["Focus on:<br>Preservation & Sharing<br>e.g., fermenting, canning, community feast"]
-    
-    A1 --> End["Source Locally & Eat Mindfully"]
-    A2 --> End
-    A3 --> End
-    A4 --> End
-```
-
-## 5.0 Protocol Integration & Ritual
-
-*   **Cyclical Practice:** This audit is designed to be repeated seasonally (4x per year), creating a living dialogue with your place.
-*   **Opening/Closing Ritual:** Begin Phase 1 and end Phase 4 with a simple ritual—lighting a candle, offering thanks to the land and laborers, and stating your intention/learnings aloud.
-*   **Communal Dimension:** This protocol can be adapted for a "Sangha" (community group). Conduct the field investigation together and host a "Mapping Satsang" to share individual mandalas and identify collective action points.
+> **Protocol Function**: Systemic Diagnosis & Personal Alignment. This protocol provides a structured method to audit your local food ecology through the integrated frameworks of the Solarpunk Mandala and Ayurveda. It transforms food from a commodity into a map of relationships, resilience, and conscious participation in the metabolic cycles of your place.
 
 ---
-*This protocol is a living document of the Solarpunk Mandala framework. It is offered for adaptation under the principles of the Symbiotic Commonwealth.*
+
+## 1.0 Purpose & Integrative Framework
+
+### 1.1 Core Purpose
+To conduct a place-based, seasonal audit of the local food system that diagnoses its health, resilience, and alignment with regenerative principles. This protocol empowers individuals and communities to generate actionable intelligence—a "Local Food Mandala Map"—that reveals leverage points for strengthening food sovereignty, personal health, and ecological integration.
+
+### 1.2 Integrative Philosophy: Two Frameworks, One Lens
+This audit is founded on the synergy of two complementary systems:
+
+*   **The Solarpunk Mandala (SPM)** provides the **systemic and ethical architecture**. It frames the food system as a conscious mandala, asking questions of regeneration (Axiological axis), connection (Soteriological axis), integrity (Coherence), and generosity (Radiance). It ensures the audit connects to embodied foundations and community-scale transformation.
+*   **Ayurveda** provides the **physiological and qualitative lens**. Its principles of *agni* (digestive fire), *dosha* (constitution), *rasa* (taste), and *ritucharya* (seasonal rhythm) offer a timeless toolset to assess how food impacts personal and environmental health, grounding systemic analysis in bodily intelligence.
+
+### 1.3 Desired Outcomes
+1.  **A Diagnostic Map:** A visual "Local Food Mandala Map" detailing the assets, flows, blockages, and opportunities within your bioregion's food web.
+2.  **A Personal Alignment Plan:** A specific, seasonal covenant aligning your dietary choices with local abundance and your constitutional needs.
+3.  **A Community Action Seed:** Identification of 1-2 high-leverage interventions to strengthen local food resilience, suitable for a **Protocol 2 (Project Design)** initiative.
+
+## 2.0 Protocol Activation & Prerequisites
+
+### 2.1 Activation Triggers
+| Trigger | Context | Audit Focus |
+|---------|---------|-------------|
+| **Seasonal Transition** | Solstice or equinox; shift in local harvest. | Update the Mandala Map; identify new seasonal foods and changing needs. |
+| **Relocation or New Community** | Moving to a new bioregion or joining a land-based project. | Comprehensive baseline audit of all four quadrants. |
+| **Health or Digestive Re-patterning** | Personal need to align diet with *dosha* or heal *agni*. | Deep focus on Quadrant III (Alchemy of Digestion) and IV (Spiral of Renewal). |
+| **Food System Crisis/Opportunity** | Threat to supply chains or emergence of a new local initiative. | Focus on Quadrant II (Web of Relations) and systemic leverage points. |
+
+### 2.2 Foundational Container Check
+*An audit of external systems requires internal stability.*
+
+| Foundation Domain (P0) | Recommended Minimum | Why It Matters |
+|------------------------|----------------------|----------------|
+| **Nourishment** | 3.0 | You must have basic food security to engage in reflective analysis without scarcity mindset. |
+| **Cleansing** | 3.0 | Ability to process waste (physical and informational) gathered during the audit. |
+| **Restoration** | 3.0 | Mental clarity and emotional resilience for observing system complexities. |
+| **Movement** | 2.5 | Physical ability to visit farms, markets, and move through your bioregion. |
+
+### 2.3 The Audit Cadence: A Cyclical Practice
+- **Full Audit:** Conduct once per season (4x yearly) for a living, responsive understanding.
+- **Mini-Audit:** A single-quadrant check-in monthly (e.g., focus on "Web of Relations" one month).
+- **The Ritual of the Map:** The act of updating the Mandala Map itself becomes a seasonal ritual of reconnection.
+
+## 3.0 The Food Mandala: Four Quadrants of Inquiry
+
+The audit is structured around a mandala of four interdependent quadrants. Each blends an SPM ethical concern with an Ayurvedic principle.
+
+```mermaid
+flowchart TD
+    A[“Local Food Mandala<br/>My Bioregional Nourishment”]
+
+    A --> Q1[“I. GROUND OF BEING<br/>Axiological / Regeneration<br/>Ayurveda: Ritucharya & Sattva<br/>What grows here & now?<br/>Foundational Abundance”]
+
+    A --> Q2[“II. WEB OF RELATIONS<br/>Soteriological / Integration<br/>Ayurveda: Ahara Vidhi & Virya<br/>How is food moved & shared?<br/>Social & Economic Flows”]
+
+    A --> Q3[“III. ALCHEMY OF DIGESTION<br/>Coherence / Integrity<br/>Ayurveda: Agni & Shad Rasa<br/>Does it support health?<br/>Body-System Meeting Point”]
+
+    A --> Q4[“IV. SPIRAL OF RENEWAL<br/>Radiance / Generosity<br/>Ayurveda: Prakriti & Prasadana<br/>How does it renew & include?<br/>Reciprocity & Legacy”]
+
+    Q1 -.->|Feeds| Q2
+    Q2 -.->|Distributes| Q3
+    Q3 -.->|Informs Needs for| Q4
+    Q4 -.->|Shapes Demand for| Q1
+
+    style A fill:#fff3e0,stroke:#ff8f00,stroke-width:3px
+    style Q1 fill:#e8f5e9,stroke:#388e3c
+    style Q2 fill:#e3f2fd,stroke:#1565c0
+    style Q3 fill:#fff3e0,stroke:#ff8f00
+    style Q4 fill:#f3e5f5,stroke:#7b1fa2
+```
+
+### 3.1 Quadrant I: The Ground of Being
+*The foundation of what the land provides.*
+
+| Aspect | SPM Axis | Ayurvedic Principle | Guiding Questions |
+|--------|----------|---------------------|-------------------|
+| **Bioregional Abundance** | Axiological (Regeneration) | *Ritucharya* (Seasonal Rhythm) | What staple and seasonal foods are native or adapted to my bioregion? What is harvesting *now*? |
+| **Agricultural Ecology** | Axiological (Regeneration) | *Sattva Guna* (Purity, Balance) | What farming methods dominate (regenerative, organic, conventional)? How is soil, water, and biodiversity stewarded? |
+| **Primary Output** | *List of seasonal foods, primary crops, wild edibles. Notes on dominant agricultural practices.* |
+
+### 3.2 Quadrant II: The Web of Relations
+*The social and economic flows that move nourishment.*
+
+| Aspect | SPM Axis | Ayurvedic Principle | Guiding Questions |
+|--------|----------|---------------------|-------------------|
+| **Supply Networks** | Soteriological (Integration) | *Ahara Vidhi* (Rules of Eating) | What pathways connect grower to eater? (CSA, farmers' markets, co-ops, intermediaries)? |
+| **Knowledge & Culture** | Soteriological (Integration) | *Virya* (Potency, Energy) | Where is food knowledge held? (Seed libraries, cooking classes, elder knowledge)? What festivals or rituals involve food? |
+| **Primary Output** | *Map of key nodes (farms, hubs, markets) and connectors. Notes on relational quality.* |
+
+### 3.3 Quadrant III: The Alchemy of Digestion
+*The meeting point of food and body—the transformation of matter into life.*
+
+| Aspect | SPM Axis | Ayurvedic Principle | Guiding Questions |
+|--------|----------|---------------------|-------------------|
+| **Nutritional Completeness** | Coherence (Integrity) | *Shad Rasa* (Six Tastes) | Can I access all six tastes (sweet, sour, salty, pungent, bitter, astringent) from local sources? |
+| **Metabolic Alignment** | Coherence (Integrity) | *Agni* (Digestive Fire) | Do local eating patterns (meal times, food combinations) support strong *agni*? |
+| **Primary Output** | *Analysis of local diet against the six tastes. Personal *agni* assessment.* |
+
+### 3.4 Quadrant IV: The Spiral of Renewal
+*The cycles of reciprocity, inclusivity, and legacy.*
+
+| Aspect | SPM Axis | Ayurvedic Principle | Guiding Questions |
+|--------|----------|---------------------|-------------------|
+| **Access & Equity** | Radiance (Generosity) | *Prasadana* (Sacred Offering) | Who is included/excluded from this food web? Are there sliding-scale, EBT, or mutual aid models? |
+| **Preservation & Sovereignty** | Radiance (Generosity) | *Prakriti* (Individual Constitution) | How is surplus preserved (fermentation, seed saving)? How does the system honor diverse needs (allergies, *dosha*)? |
+| **Primary Output** | *List of access points and barriers. Notes on preservation culture and personal alignment gaps.* |
+
+## 4.0 The Audit Procedure: A Four-Phase Journey
+
+```mermaid
+flowchart LR
+    subgraph P1[“Phase 1: Preparation”]
+        direction LR
+        1A[Set Sankalpa<br/>Intention] --> 1B[Gather Tools<br/>Notebook, Map] --> 1C[Self-Assessment<br/>Dosha, Current Sources]
+    end
+
+    subgraph P2[“Phase 2: Field Investigation”]
+        direction TB
+        2A[“Investigate Q.I<br/>Ground of Being”] --> 2B[“Investigate Q.II<br/>Web of Relations”] --> 2C[“Investigate Q.III<br/>Alchemy of Digestion”] --> 2D[“Investigate Q.IV<br/>Spiral of Renewal”]
+    end
+
+    subgraph P3[“Phase 3: Synthesis”]
+        direction LR
+        3A[Create Mandala Map] --> 3B[Identify Patterns<br/>Gaps, Blockages, Flows]
+    end
+
+    subgraph P4[“Phase 4: Action”]
+        direction LR
+        4A[Draft Alignment Plan] --> 4B[Identify Leverage Points] --> 4C[Perform Closing Ritual]
+    end
+
+    Start([Seasonal Trigger]) --> P1 --> P2 --> P3 --> P4 --> End([“Living Practice &<br/>Project Seeds”])
+
+    End -.->|“Cycle Repeats<br/>Next Season”| Start
+
+    style P1 fill:#e3f2fd
+    style P2 fill:#e8f5e9
+    style P3 fill:#fff3e0
+    style P4 fill:#f3e5f5
+```
+
+### 4.1 Phase 1: Preparation & Sankalpa (Intention) - Week 1
+*Setting the container and focus.*
+
+1.  **Form a *Sankalpa*:** Write a clear intention. (e.g., "To map my city's summer food web and find three local sources that balance my *pitta* constitution.")
+2.  **Gather Tools:** Dedicated notebook, regional map, camera, reusable bags for samples.
+3.  **Self-Assessment:** Briefly journal on: Your dominant *dosha* (if known), your primary current food sources, one persistent digestive pattern.
+
+### 4.2 Phase 2: Field Investigation - Weeks 2-3
+*Gathering intelligence through "Food System Satsang" (respectful dialogue).*
+
+| Quadrant | Field Actions | Key Questions for Producers |
+|----------|---------------|----------------------------|
+| **I. Ground** | Visit farmers' markets, follow local farms online, walk foraging trails. | "What are you most excited about growing this season?" "How do you build soil health?" |
+| **II. Web** | Trace a local product's journey. Interview a market manager or food hub coordinator. | "What are the biggest challenges in getting food to people here?" "Where does unsold food go?" |
+| **III. Alchemy** | Buy one of each taste locally. Keep a 3-day *agni* log (energy, digestion, mood post-meal). | "When was this harvested?" (vital for *prana*). "How do you recommend preparing this?" |
+| **IV. Spiral** | Visit a community garden, find a seed library, research CSA subsidy models. | "How can someone with limited income participate?" "Do you offer work-trade?" |
+
+<!-- Placeholder for Mermaid Diagram 2: The Field Investigation Flow -->
+
+### 4.3 Phase 3: Synthesis & Mandala Mapping - Week 4
+*Weaving data into a coherent picture.*
+
+1.  **Create the Mandala Map:** On a large paper, draw a circle divided into four quadrants. Label them I-IV.
+2.  **Populate Each Quadrant:** Use words, sketches, or glued-in images (package labels, photos) to represent your findings. Be specific: names, places, dates.
+3.  **Apply the Diagnostic Layers:** Use colored dots or symbols to mark:
+    - **Layer 1 (Quality):** High-*prana* (vibrant) vs. low-*prana* (processed) foods.
+    - **Layer 2 (Sourcing):** Regenerative vs. extractive production methods.
+    - **Layer 3 (Access):** Equitable vs. exclusionary economic models.
+4.  **Identify Patterns:** Draw lines connecting related elements across quadrants (e.g., a farm in QI connects to a CSA in QII, which hosts cooking classes in QIV).
+
+### 4.4 Phase 4: Action Planning & Ritual Closure - Week 4
+*Moving from insight to integrated practice.*
+
+1.  **Interpret the Map:** Where is it abundant? Where are gaps or blockages? Where is there tension (e.g., local winter diet is kapha-heavy, but your need is vata-pacifying)?
+2.  **Draft a Seasonal Alignment Plan:** Create a personal covenant for the next 3 months using the table below.
+3.  **Perform a Closing Ritual:** Share a meal from your audit findings. Offer thanks to the land and laborers. Speak your *sankalpa* and one key insight aloud.
+
+## 5.0 Analysis & Alignment Planning
+
+### 5.1 Creating Your Seasonal Alignment Plan
+
+| SPM/Ayurvedic Goal | Specific Action (What will you do?) | Resource Needed | Success Metric (How will you know it worked?) |
+|--------------------|--------------------------------------|-----------------|----------------------------------------------|
+| **Strengthen Agni (Coherence)** | Make lunch my largest, sit-down meal, featuring at least two locally-grown, cooked vegetables. | Sunday meal prep time. | Consistent energy throughout afternoon; reduced bloating within 2 weeks. |
+| **Deepen Web of Relations (Soteriological)** | Join the "River Farm" CSA and commit to 4 volunteer hours per season. | CSA membership fee; scheduling. | Knowing my farmers' names; understanding one seasonal challenge they face. |
+| **Eat Seasonally (Axiological)** | Preserve (ferment or freeze) 20% of my seasonal fruit haul (e.g., summer berries). | Jars, starter culture, recipe. | 4 jars of preserves in pantry by autumn equinox. |
+| **Improve Access (Radiance)** | Donate 5% of my food budget to the local "Food for All" fund, or volunteer at a community meal. | Budget adjustment or 2 hours/month. | Directly supporting one other household's access. |
+
+### 5.2 Identifying Community Leverage Points
+Review your Mandala Map for opportunities where a small, well-placed intervention could improve system resilience. These become seeds for **Protocol 2 (Project Design)**.
+- **Example Leverage Point:** "The QII map shows a bottleneck: only one distributor connects small farms to downtown restaurants. **Project Idea:** Facilitate a direct farmer-restaurant matchmaking event."
+- **Example Leverage Point:** "QIV reveals no local seed saving library. **Project Idea:** Start a community seed bank in the public library."
+
+## 6.0 Case Study: The "High Desert Foodshed" Audit
+
+**Context:** A community in the arid Southwest faced a dual challenge: a historical diet reliant on imported foods and worsening drought.
+
+**Audit Application:**
+- **Quadrant I (Ground):** Identified native, drought-resilient staples: tepary beans, mesquite flour, prickly pear. Found small farms experimenting with arid-adapted agroforestry.
+- **Quadrant II (Web):** Mapped a fragile supply chain reliant on one major road. Discovered a nascent local food hub struggling with capacity.
+- **Quadrant III (Alchemy):** The traditional native diet (light, hydrating) was coherent with the desert environment, unlike the heavy, imported diet.
+- **Quadrant IV (Spiral):** Found knowledge holders among indigenous elders, but few avenues for knowledge transfer.
+
+**Alignment Plan & Project Seed:**
+1.  **Personal Plan:** Shift 30% of legume consumption to locally grown tepary beans; learn to prepare nopales (prickly pear pads).
+2.  **Community Project Seed (Protocol 2):** A "Drylands Food Resilience" initiative with two arms: (a) A workshop series pairing elders with new farmers to teach dryland farming, and (b) a volunteer driver cooperative to bolster the food hub's distribution.
+
+**Outcome:** The audit provided a shared, non-blaming map of the system. The personal plans built cultural buy-in, while the project seed addressed a critical systemic bottleneck (knowledge and distribution). The community moved from anxiety to agency.
+
+## 7.0 Facilitator Notes & Adaptations
+
+### 7.1 For Individual Practice
+- **Start Small:** If overwhelmed, audit just **one quadrant** per season. Begin with Quadrant I (Ground of Being)—it's the most concrete.
+- **Embrace Imperfection:** The first map will be messy and incomplete. Its value is in the process of looking, not in perfect data.
+- **Use the Senses:** Let taste, smell, and touch guide you. A vibrant, fragrant tomato carries more *prana* than a bland one—this is valid data.
+
+### 7.2 For Group or Community Audits
+- **Divide the Quadrants:** Form four "Quadrant Teams" to investigate simultaneously, then reconvene for mapping.
+- **Host a Mapping Satsang:** Make the Phase 3 synthesis a communal, potluck event. Lay out a giant map on the floor for collective plotting.
+- **Focus on Leverage Points:** Guide the group to identify 1-2 collective Action Plan items from the analysis, moving from diagnosis to shared purpose.
+
+### 7.3 For Educators & Organizers
+- **Curriculum Integration:** This protocol serves as an excellent service-learning or civic ecology curriculum. Phase 2 is experiential education; Phase 3 is systems thinking in action.
+- **Policy Advocacy Tool:** A well-documented Mandala Map, especially highlighting Layer 3 (Access & Equity) gaps, is powerful evidence for advocating municipal food policy changes.
+
+## 8.0 MAL Reflection: The Communion of Consumption
+
+*Questions to deepen the practice beyond the practical:*
+
+1.  **Food as Information:** Every bite contains the history of its soil, water, sun, and the labor that nurtured it. When you eat, are you open to receiving this story? Can eating become a practice of listening to your place?
+2.  **The Cycle of Offerings:** The sun offers energy to the plant, the plant offers its body, the farmer offers care, the cook offers transformation, you offer your digestive fire. In this chain, where are you merely a consumer, and where can you become a conscious, grateful participant in a sacred exchange?
+3.  **Hunger as Guidance:** Personal cravings often point to systemic gaps. A craving for connection might manifest as a craving for sugary treats. What if your dietary "imbalances" were messages about your community's food system? What might your cravings be telling you about what your bioregion needs you to help build?
+
+## 9.0 Protocol Integration Matrix
+
+| Protocol | Relationship to Protocol 6 | Integration Flow |
+|----------|---------------------------|------------------|
+| **Protocol 0** | **Foundation & Metric.** A stable Nourishment foundation allows for reflective audit. The audit itself can reveal ways to improve the Nourishment score. | P0 enables P6; P6 insights can inform actions to improve P0 scores. |
+| **Protocol 1** | **Systemic Context.** A low Axiological or Soteriological axis score in P1 may indicate a need for a food system audit. | P1 diagnoses community health; P6 provides a deep-dive tool for a critical subsystem (food). |
+| **Protocol 2** | **Project Generator.** The leverage points and "Project Seeds" identified in P6 are perfect candidates for formal P2 Project Design. | P6 identifies *what* needs doing; P2 designs *how* to do it effectively. |
+| **Protocol 3** | **Resilience Insight.** A pre-existing Food Mandala Map is an invaluable crisis asset, showing local food sources when supply chains fail. | P6 prepares the map; P3 uses it in emergency response. |
+| **Protocol 4** | **Cultural Memory.** The audit recovers and documents local food knowledge and stories, contributing to cultural memory. | P6 fieldwork gathers memory; P4 provides frameworks for integrating it. |
+| **Protocol 5** | **Rhythmic Synergy.** Eating seasonally (a core P6 output) is a direct application of P5's Dinacharya (honoring natural cycles). | P5 sets the daily/seasonal rhythm; P6 provides the specific, place-based content for that rhythm (what to eat and when). |
+
+```mermaid
+flowchart TD
+    P0[P0: Foundations] --> P6
+    P1[P1: Health Assessment] --> P6
+    
+    P6[P6: Food Audit] --> P2[P2: Project Design]
+    P6 --> P5[P5: Daily Rhythms]
+    P6 --> P4[P4: Memory Work]
+    
+    P2 --> P3[P3: Crisis Response]
+```
+
+---
