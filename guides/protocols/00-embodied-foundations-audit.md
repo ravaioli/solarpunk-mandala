@@ -606,6 +606,3 @@ graph TB
 **Regenerative Practice**: Activity that enhances rather than depletes the systems it engages with.
 
 ---
-
-*Protocol Version: 2.1 • Last Updated: 2026-01-12 • Framework: Solarpunk Mandala v4.3*
-*License: Community-Supported Open Protocol • Contributing: See framework repository*
