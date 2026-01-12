@@ -213,6 +213,66 @@ flowchart LR
     High ---|"Meaning, Connection"| Salience2["Salience Integration"]
 ```
 
+### 🌙 Dreaming as a Native Mode of the Perceptual Interface
+
+Within an Analytic Idealist ontology, **dreaming is not a secondary or illusory state**, but a *native mode of perception* that emerges when dissociative constraints associated with waking consensus reality are partially relaxed.
+
+Dreams occur when the perceptual interface remains active while **exteroceptive consensus coupling** (shared spatial coordinates, stable objects, linear causality) is temporarily offline. What remains is a fully operational experiential field structured primarily by **affective valence, memory, symbolic resonance, and pattern logic** rather than material iconography.
+
+#### Ontological Status of Dreams
+
+- Dreams are **ontologically equivalent** to waking experience: both are structured appearances within Mind-at-Large (MAL).
+- The distinction between “dream” and “waking world” is not one of reality vs. unreality, but of **interface configuration**.
+- Dream worlds are *endogenous perceptual enactments* rather than shared consensus enactments.
+
+From this perspective, dreams are best understood as **perception without external consensus anchoring**.
+
+#### Dreaming and Dissociation
+
+Dreaming represents a **liminal dissociative configuration**:
+- Identity boundaries are loosened but not dissolved
+- Perceptual bandwidth is redistributed inward rather than expanded outward
+- Salience is driven by emotional and symbolic coherence instead of survival-relevant affordances
+
+This places dreaming between stabilized waking dissociation and fully expanded transpersonal states.
+
+#### Pattern Logic in Dreams
+
+Dreams provide a direct phenomenological demonstration of **pattern logic over material causation**:
+- Meaning precedes form
+- Emotional valence determines spatial topology
+- Temporal order follows narrative coherence rather than linear progression
+
+As such, dreams reveal how reality behaves when the perceptual interface is governed primarily by **relational and symbolic constraints**, offering insight into the deeper grammar of conscious experience.
+
+#### Relevance to Regeneration and Ethics
+
+Because dreams operate outside extractive, utility-driven perception, they naturally restore access to:
+- symbolic intelligence
+- affective integration
+- non-instrumental meaning
+
+Dreaming thus functions as a **regenerative perceptual mode**, counterbalancing the narrowing effects of continuous waking dissociation in industrial and hyper-mediated environments.
+
+```mermaid
+flowchart LR
+    MAL["Mind-at-Large<br/>(Unified Conscious Field)"]
+
+    subgraph Interfaces["Perceptual Interface Modes"]
+        W["Waking Experience<br/>• High dissociation<br/>• Consensus-coupled<br/>• Spatial icons"]
+        D["Dreaming<br/>• Partial dissociation<br/>• Endogenous worlding<br/>• Symbolic patterns"]
+        T["Transpersonal States<br/>• Low dissociation<br/>• Boundary dissolution<br/>• Pattern-level access"]
+    end
+
+    MAL --> W
+    MAL --> D
+    MAL --> T
+
+    W <-->|Sleep / Imagination| D
+    D <-->|Meditation / Lucidity| T
+    T -.->|Integration| W
+```
+
 ### Why Perception Matters for a Solarpunk Future
 
 If values, meaning, and agency arise within experience, then **designing regenerative systems is inseparable from designing perceptual conditions**.
