@@ -72,9 +72,6 @@ aeo_metadata:
 
 ---
 
-## AEO Metadata
-*Placeholder for AEO/AAE Optimization Metadata YAML*
-
 ## 1.0 Purpose & Philosophical Foundations
 
 ### 1.1 Core Purpose
