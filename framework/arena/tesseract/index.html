@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tesseract Epistemic Architecture</title>
+    <style>
+        body { margin: 0; background: #050a05; color: #00ff99; font-family: 'Courier New', monospace; overflow: hidden; }
+        #ui-layer { position: absolute; top: 20px; left: 20px; z-index: 10; background: rgba(0, 20, 0, 0.8); padding: 20px; border: 1px solid #00ff99; border-radius: 8px; }
+        .slider-group { margin-bottom: 10px; }
+        label { display: block; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; }
+        input[type=range] { width: 100%; accent-color: #00ff99; }
+        #threshold-status { margin-top: 15px; font-weight: bold; text-align: center; border-top: 1px solid #00ff99; padding-top: 10px; }
+        canvas { display: block; }
+        .locked { filter: grayscale(1) blur(5px); pointer-events: none; }
+    </style>
+</head>
+<body>
+
+<div id="ui-layer">
+    <h3 style="margin-top:0">Threshold Check: Foundations</h3>
+    <div class="slider-group">
+        <label>Nourishment</label><input type="range" class="check" min="0" max="5" value="0">
+    </div>
+    <div class="slider-group">
+        <label>Cleansing</label><input type="range" class="check" min="0" max="5" value="0">
+    </div>
+    <div class="slider-group">
+        <label>Restoration</label><input type="range" class="check" min="0" max="5" value="0">
+    </div>
+    <div class="slider-group">
+        <label>Movement</label><input type="range" class="check" min="0" max="5" value="0">
+    </div>
+    <div id="threshold-status">STATUS: BIOLOGICALLY OFFLINE</div>
+</div>
+
+<script type="importmap">
+    { "imports": { "three": "https://unpkg.com/three@0.160.0/build/three.module.js" } }
+</script>
+
+<script type="module">
+    import * as THREE from 'three';
+
+    let scene, camera, renderer, tesseract;
+    let unlocked = false;
+
+    // 4D to 3D Projection Points (Simplified Tesseract Vertices)
+    const vertices = [];
+    for (let i = 0; i < 16; i++) {
+        vertices.push(new THREE.Vector3(
+            (i & 1 ? 1 : -1),
+            (i & 2 ? 1 : -1),
+            (i & 4 ? 1 : -1)
+        ).multiplyScalar(i & 8 ? 0.5 : 1.2)); // The inner and outer cube
+    }
+
+    function init() {
+        scene = new THREE.Scene();
+        camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        const group = new THREE.Group();
+        const material = new THREE.LineBasicMaterial({ color: 0x00ff99, transparent: true, opacity: 0.8 });
+
+        // Connect vertices to create the 8 sub-cubes (mapping Intelligences)
+        const geometry = new THREE.BufferGeometry().setFromPoints(vertices);
+        const lines = new THREE.LineSegments(new THREE.EdgesGeometry(new THREE.BoxGeometry(2,2,2)), material);
+        const innerLines = new THREE.LineSegments(new THREE.EdgesGeometry(new THREE.BoxGeometry(1,1,1)), material);
+        
+        group.add(lines);
+        group.add(innerLines);
+        
+        // Connect outer to inner (Hyper-edges)
+        const hyperEdgeGeom = new THREE.BufferGeometry();
+        const hyperPoints = [];
+        for(let i=0; i<8; i++) {
+            // Mapping logic for UR, UL, LL, LR across dimensions
+            hyperPoints.push(vertices[i], vertices[i+8]);
+        }
+        hyperEdgeGeom.setFromPoints(hyperPoints);
+        group.add(new THREE.LineSegments(hyperEdgeGeom, material));
+
+        tesseract = group;
+        scene.add(tesseract);
+        camera.position.z = 5;
+
+        animate();
+    }
+
+    function animate() {
+        requestAnimationFrame(animate);
+        if (unlocked) {
+            tesseract.rotation.y += 0.01;
+            tesseract.rotation.x += 0.005;
+        }
+        renderer.render(scene, camera);
+    }
+
+    // Threshold Logic
+    const sliders = document.querySelectorAll('.check');
+    const status = document.getElementById('threshold-status');
+
+    sliders.forEach(s => s.addEventListener('input', () => {
+        const values = Array.from(sliders).map(i => parseInt(i.value));
+        const passed = values.every(v => v >= 2);
+        
+        if (passed) {
+            unlocked = true;
+            status.innerText = "STATUS: ONTOLOGICALLY ALIGNED";
+            status.style.color = "#00ff99";
+            renderer.domElement.classList.remove('locked');
+        } else {
+            unlocked = false;
+            status.innerText = "STATUS: BIOLOGICALLY OFFLINE";
+            status.style.color = "#ff4444";
+            renderer.domElement.classList.add('locked');
+        }
+    }));
+
+    init();
+</script>
+</body>
+</html>
