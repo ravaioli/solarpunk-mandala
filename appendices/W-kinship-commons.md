@@ -255,3 +255,49 @@ This suite of tools forms a complete cycle for regenerating kinship:
 5.  **Celebrate the New Culture** (Rites of Passage Protocols)
 
 The Kinship Commons provides the essential relational substrate where the Mandala's principles—from Analytic Idealism to Regenerative Economics—are lived, tested, and embodied daily.
+
+## References
+
+### Applied Examples & Community Models
+Cascadia Now!. (n.d.). *Cascadia bioregional network and Care Credit system*. Retrieved from https://cascadianow.org
+
+Cully Community Care Network. (n.d.). *Neighborhood care pods and relational web model in Portland*. Portland, OR.
+
+Dancing Rabbit Ecovillage. (n.d.). *Ecovillage and co-housing model*. Rutledge, MO. Retrieved from https://www.dancingrabbit.org
+
+Earthship Biotecture. (n.d.). *Sustainable community and building model*. Taos, NM. Retrieved from https://www.earthshipglobal.com
+
+SCHUMACHER CENTER FOR A NEW ECONOMICS. (n.d.). *BerkShares local currency*. Great Barrington, MA. Retrieved from https://www.berkshares.org
+
+School of Lost Borders. (n.d.). *Vision Fast and wilderness solo rites of passage*. Retrieved from https://www.schooloflostborders.org
+
+Symbiosis Network. (n.d.). *Pod Mapping for mutual aid assemblies*. Retrieved from https://www.symbiosis.network
+
+Transition Network. (n.d.). *Transition Town initiatives*. Retrieved from https://transitionnetwork.org
+
+Weaving Earth Center for Relational Education. (n.d.). *Rites of passage and relational education*. Retrieved from https://weavingearth.org
+
+### Methodologies & Therapeutic Practices
+Ncube, N. (2006). *The Tree of Life: A narrative therapy approach with vulnerable children*. In *Working with vulnerable children* (pp. 11-28). Routledge. (Methodology used with Aboriginal communities for non-traumatic exploration of support systems).
+
+White, M., & Epston, D. (1990). *Narrative means to therapeutic ends*. W.W. Norton & Company. (Narrative therapy methods for externalizing and processing trauma).
+
+*Art therapy methods*. (n.d.). (Various practices for safe externalization and processing).
+
+### Organizational & Theoretical Frameworks
+*Bioregionalism principles*. (n.d.). (Philosophy rooting community identity in place-based ecology).
+
+*Commitment Pooling Protocol*. (n.d.). Social Ecology framework for tracking reciprocal promises.
+
+*Cultural Continuity*. (n.d.). (Design principle in regenerative frameworks for community resilience).
+
+*Regenerative Community Design*. (n.d.). (Framework emphasizing relational infrastructure as critical capital).
+
+*Rings of Growth drawing methodology*. (n.d.). (Practice used by Tiwi Islands women).
+
+*Sociocratic consent-process*. (n.d.). (Governance method for collaborative decision-making in Pod Chartering).
+
+### General Community References
+*Auroville*. (n.d.). *International township and co-housing model*. Tamil Nadu, India. Retrieved from https://www.auroville.org
+
+---
