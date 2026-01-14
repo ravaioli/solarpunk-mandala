@@ -812,17 +812,6 @@ Unlike rigid systems that prohibit exploration beyond core claims, this framewor
 
 ---
 
-## Conclusion: A Framework for Responsible Exploration
-
-This ontological scope establishes clear boundaries while acknowledging that boundary work—including speculative exploration—is essential to the framework's purpose. By distinguishing between core claims and speculative extensions, we:
-
-1. **Maintain Philosophical Rigor** while allowing creative application
-2. **Provide Clear Navigation** for different types of inquiry
-3. **Enable Progressive Elaboration** without foundational compromise
-4. **Honor the Solarpunk Ethos** of imaginative yet grounded construction
-
-**Final Note**: The speculative sections above are not exhaustive but exemplary. New explorations that meet the validation criteria are welcome extensions of this living framework. The tesseract model's geometric nature inherently accommodates multiple simultaneous perspectives—different valid "slices" through the higher-dimensional whole.
-
 ## Analytic Idealism Integration Protocol
 
 To prevent philosophical-materialist slippage in practical applications, all protocols must include Dissociation Lens questions:
@@ -840,6 +829,17 @@ To prevent philosophical-materialist slippage in practical applications, all pro
 
 ### Example Integration (Protocol 3 Crisis Response)
 Instead of: "Distribute food and water to affected areas"  
+
+## Conclusion: A Framework for Responsible Exploration
+
+This ontological scope establishes clear boundaries while acknowledging that boundary work—including speculative exploration—is essential to the framework's purpose. By distinguishing between core claims and speculative extensions, we:
+
+1. **Maintain Philosophical Rigor** while allowing creative application
+2. **Provide Clear Navigation** for different types of inquiry
+3. **Enable Progressive Elaboration** without foundational compromise
+4. **Honor the Solarpunk Ethos** of imaginative yet grounded construction
+
+**Final Note**: The speculative sections above are not exhaustive but exemplary. New explorations that meet the validation criteria are welcome extensions of this living framework. The tesseract model's geometric nature inherently accommodates multiple simultaneous perspectives—different valid "slices" through the higher-dimensional whole.
 
 ## 🧭 What's Next?
 
