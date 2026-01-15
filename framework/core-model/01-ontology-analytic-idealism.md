@@ -131,6 +131,189 @@ Think of it not as rejecting the scientific method, but as questioning its start
 
 For formal foundations established from first-principles, please refer to [Appendix K: Formal Foundations of Analytic Idealism.](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/K-formal-foundations-analytic-idealism.md)
 
+#### Analytic Idealism as a Coherent Foundation
+
+Analytic Idealism addresses these binds by making a simpler, more parsimonious foundational assumption: **Consciousness is primary, not derivative.**
+
+*   **It's Not "Magic":** It's a formal ontology that uses the tools of analytic philosophy. It doesn't deny the laws of physics; it **re-interprets them**. In this view, the regularities we call "physics" are the *observed grammar of conscious experience*, not the description of a world outside of it.
+*   **It Solves the Core Problems:**
+    *   **The Hard Problem disappears:** Experience is fundamental, so there's no need to generate it from non-experiential parts. Matter (as we perceive it) is understood as the *intrinsic appearance* of conscious activity.
+    *   **Values are re-grounded:** If reality is experiential at its core, then qualities like harmony, suffering, beauty, and understanding are primary facets of existence. Building a SolarPunk world isn't just a pragmatic survival strategy; it's an alignment with the fundamental grain of reality.
+    *   **The Observer is central:** The modeler, the community, the perceiver is not an accidental byproduct but the very substrate of the world being modeled. This creates a natural ethics of participation and responsibility.
+ 
+```mermaid
+graph TD
+    subgraph "Empirical Validations"
+        A1["Altered States<br>Psychedelics, Meditation"]
+        A2["Non-local Phenomena<br>NDEs, Remote Viewing"]
+        A3["Transpersonal Psychology<br>Peak Experiences, Dissociative Identity Disorder"]
+    end
+    
+    subgraph "Systemic Contradictions"
+        B1["UAP Phenomenology<br>Physical Violations"]
+        B2["Quantum Anomalies<br>Observer Effects"]
+        B3["Materialist Gaps<br>Hard Problem"]
+    end
+    
+    subgraph "Phenomenological Reports"
+        C1["Unity Consciousness<br>Reports"]
+        C2["Mystical Experiences<br>Cross-cultural"]
+        C3["Anomalous Cognition<br>Precognition, ESP"]
+    end
+    
+    subgraph "Scientific Frameworks"
+        D1["Quantum Foundations<br>Von Neumann/Wigner"]
+        D2["Cognitive Science<br>Predictive Processing"]
+        D3["Information Theory<br>Integrated Information"]
+    end
+    
+    A1 --> E{Analytic Idealism}
+    A2 --> E
+    A3 --> E
+    B1 --> E
+    B2 --> E
+    B3 --> E
+    C1 --> E
+    C2 --> E
+    C3 --> E
+    D1 --> E
+    D2 --> E
+    D3 --> E
+    
+    E --> F["Consciousness-First<br>Mandala Framework"]
+    F --> G["Coherent Explanation<br>of All Data"]
+```
+
+#### Empirical Panpsychism (Koch-Tononi Convergence)
+
+Analytic Idealism posits consciousness as primary. IIT provides the **intrinsic property** that makes this tenable:
+
+- **Axiom 1 (Koch)**: Consciousness is a fundamental property of any system with cause-effect power upon itself (Φ > 0)
+- **Axiom 2 (Kastrup)**: Matter is the extrinsic appearance of inner experience
+- **Synthesis**: Φ quantifies the *degree of dissociation* from Mind at Large
+
+**Citation**: Koch, C. (2019). *The Feeling of Life Itself*. MIT Press. 
+- Page 142: "Cerebellum has 69 billion neurons but Φ≈0 because feed-forward architecture lacks causal autonomy"
+- This **validates** the Tesseract's distinction between biological complexity and conscious capacity
+
+#### Enactive Realization: How Consciousness Brings Forth Worlds
+
+While Analytic Idealism establishes consciousness as fundamental, Enactivism provides the *how*: consciousness is not a passive observer but an active participant that **brings forth** worlds through structural coupling and sense-making.
+
+**Key Integration Points:**
+1. **Consciousness as Action:** Rather than "consciousness perceives reality," we adopt "consciousness enacts meaningful worlds through perceptually-guided action"
+2. **Autopoiesis as Self-Production:** Living systems (including communities) maintain their organization through circular self-production—directly mirroring your dialectical phases
+3. **Structural Coupling:** Our continuous interaction with environments shapes both us and the environment—explaining how mandalas co-evolve with communities
+4. **Participatory Sense-Making:** Knowledge emerges *between* agents in interaction, not within isolated minds
+
+**Why This Matters for Solarpunk Mandala:** 
+- Explains how communities literally "bring forth" their Symbiotic Commonwealth through collective action
+- Provides biological grounding for your "Embodied Foundations" protocols
+- Bridges the apparent gap between idealist ontology and material practice
+
+### The Practical Payoff for This Project
+
+For the **SolarPunk Mandala**, this ontological starting point is a design feature:
+
+1.  **Coherence:** It allows us to model physical systems, social dynamics, and inner values on a single, consistent spectrum—all as patterns of conscious experience.
+2.  **Agency & Responsibility:** It frames our actions not as deterministic particles in a void, but as conscious choices that directly shape the qualitative fabric of shared reality.
+3.  **A Foundation for Post-Capitalist Values:** It provides a metaphysical basis for intrinsic worth that isn't tied to material extraction or utility, supporting the shift from an ethos of domination to one of participation and care.
+
+**In essence, we are not choosing metaphysics *over* practicality. We are choosing a foundational model (Idealism) that we believe is more logically coherent and better suited to ground the practical, ethical, and experiential goals of a SolarPunk future than the default materialist model.**
+
+You don't have to accept this ontology to contribute, but understanding it is key to understanding the architecture of the mandala model. Think of it as our **core philosophical API**. All other modules—agency, systems, values—are built to be compatible with this base layer.
+
+```mermaid
+quadrantChart
+    title "Ontological Frameworks by Rigor vs. Consciousness-Primacy"
+    x-axis "Reductive (Materialism)" --> "Holistic (Panpsychism)"
+    y-axis "Speculative" --> "Analytic/Rigorous"
+    
+    "Analytic Idealism": [0.8, 0.9]
+    "Materialism": [0.1, 0.8]
+    "Dualism": [0.4, 0.4]
+    "Panpsychism": [0.7, 0.5]
+    "Idealism (Traditional)": [0.6, 0.2]
+    "Eliminativism": [0.05, 0.7]
+```
+
+#### The Consciousness Journey: From Dissociation to Re-integration
+
+The fundamental human experience can be understood as a journey from original unity, through dissociation into separate subject-object relationships, and ultimately toward conscious re-integration.
+
+```mermaid
+flowchart LR
+    %% Phase 1: The Descent
+    subgraph Phase_1 [1. The Descent]
+    A((MAL)) -->|Dissociation| B[Individual Awareness]
+    end
+
+    %% Phase 2: The Experience (The Three Paths)
+    subgraph Phase_2 [2. The Experience]
+    B --> C{The 3 Paths}
+    C --> D[Material World]
+    C --> E[Altered States]
+    C --> F[Anomalies/UAPs]
+    end
+
+    %% Phase 3: The Turning Point
+    subgraph Phase_3 [3. The Realization]
+    D & E & F --> G{Ontological Crisis}
+    G -->|Analytic Idealism| H[Re-Integration]
+    end
+
+    %% Phase 4: The Fourth Path
+    subgraph Phase_4 [4. SolarPunk Agency]
+    H --> I[Solarpunk Mandala]
+    I --> J[**Conscious Agency**]
+    J -.->|Gardening| D
+    end
+
+    %% Styling
+    style Phase_1 fill:#f0f9ff,stroke:#0369a1
+    style Phase_2 fill:#fef3c7,stroke:#f59e0b
+    style Phase_3 fill:#f0fdf4,stroke:#16a34a
+    style Phase_4 fill:#faf5ff,stroke:#9333ea
+    style J fill:#ea580c,color:#fff,stroke-width:4px
+```
+
+#### The Materialist Bind in Modelling Lived Reality
+
+The materialist model excels at describing *objective processes* but struggles fundamentally with *subjective experience*—the very field of values, meaning, ethics, and qualitative life that **SolarPunk** and this mandala aim to cultivate. This leads to paradoxes:
+
+1.  **The Hard Problem of Consciousness:** In a purely physical universe, *why* should complex information processing (like in a brain) feel like anything at all? Why isn't it just "dark inside"? Materialism has no explanatory bridge from objective matter to subjective experience. It is forced to either deny the reality of experience (**illusionism**) or treat it as an inexplicable emergent property.
+2.  **The Problem of Values and Meaning:** If consciousness is a secondary illusion, then so are values, purpose, and meaning. They become evolutionary quirks or social constructs with no fundamental grounding. This makes it philosophically difficult to argue for an *intrinsic* value in sustainability, beauty, or community—they become preferences, not truths. A SolarPunk future needs a sturdier foundation for its values.
+3.  **The Observer Problem:** Quantum mechanics and the philosophy of science highlight that the observer cannot be cleanly removed from the system. A model of reality that treats consciousness as a latecomer ghost in the machine has a hard time accounting for its own epistemic foundation—*who* is the scientist, the modeler, the GitHub user reading this?
+
+```mermaid
+timeline
+    title Consciousness Evolution: From Materialism to Conscious Design
+    section Materialist Era (20th Century)
+        Behaviorism      : Focus on observable behavior
+        Computationalism : Mind as computer
+        Neuroscience     : Brain mapping, correlation
+    
+    section Crisis of Materialism (Early 21st)
+        Hard Problem      : Chalmers, 1995
+        Explanatory Gap   : Levine, 1983
+        Integration Crisis: Mind-body problem
+    
+    section Emergent Alternatives (Mid 21st)
+        Panpsychism       : Strawson, Goff
+        Dual-Aspect       : Chalmers, Velmans
+        Idealism Revival  : Kastrup, Berkeley revival
+    
+    section Analytic Idealism (Present)
+        Formal Arguments  : Kastrup, Bernardo
+        Predictive Power  : Explains anomalies
+        Design Framework  : Solarpunk Mandala
+    
+    section Conscious Design (Future)
+        Conscious Systems : Design with ontology
+        Regenerative Tech : Solarpunk applications
+        Collective Wisdom : Expanded cognition
+```
+
 ## 🧠 The Perceptual Interface: How Mind-at-Large Appears as a World
 
 If reality is fundamentally conscious experience, then **perception is not a passive mirror of an external world**, but an *active interface* through which Mind-at-Large (MAL) appears to itself across dissociative boundaries.
@@ -213,13 +396,35 @@ flowchart LR
     High ---|"Meaning, Connection"| Salience2["Salience Integration"]
 ```
 
-### 🌙 Dreaming as a Native Mode of the Perceptual Interface
+### Why Perception Matters for a Solarpunk Future
+
+If values, meaning, and agency arise within experience, then **designing regenerative systems is inseparable from designing perceptual conditions**.
+
+A Solarpunk future is not only about cleaner energy or better infrastructure — it is about cultivating:
+- perceptual attunement to ecological rhythms
+- restored interoceptive awareness
+- reduced salience hijacking by fear and scarcity
+- expanded capacity to perceive interconnection
+
+In short:  
+**we do not change worlds by rearranging matter alone — we change the interfaces through which reality is experienced.**
+
+This perceptual layer is the necessary bridge between ontology (what is) and epistemic architecture (how we know and act), which the next document formalizes through the Tesseract model.
+
+> **Interface Theory of Perception (ITP)**  
+> Hoffman, D. D. (2019). *The Case Against Reality*. W.W. Norton & Company.
+>
+> Hoffman demonstrates that perceptual systems optimized by evolution do not track objective truth, but fitness-relevant structure. Space, time, and objects function as adaptive symbols — comparable to a user interface — that guide action while concealing underlying complexity.
+>
+> Within the Solarpunk Mandala, Interface Theory is not treated as a complete ontology, but as **convergent empirical support** for the claim that perception is an interface rather than a depiction. Analytic Idealism extends this insight by identifying consciousness itself — not matter — as the underlying reality that interfaces make actionable.
+
+## 🌙 Dreaming as a Native Mode of the Perceptual Interface
 
 Within an Analytic Idealist ontology, **dreaming is not a secondary or illusory state**, but a *native mode of perception* that emerges when dissociative constraints associated with waking consensus reality are partially relaxed.
 
 Dreams occur when the perceptual interface remains active while **exteroceptive consensus coupling** (shared spatial coordinates, stable objects, linear causality) is temporarily offline. What remains is a fully operational experiential field structured primarily by **affective valence, memory, symbolic resonance, and pattern logic** rather than material iconography.
 
-#### Ontological Status of Dreams
+### Ontological Status of Dreams
 
 - Dreams are **ontologically equivalent** to waking experience: both are structured appearances within Mind-at-Large (MAL).
 - The distinction between “dream” and “waking world” is not one of reality vs. unreality, but of **interface configuration**.
@@ -227,7 +432,7 @@ Dreams occur when the perceptual interface remains active while **exteroceptive 
 
 From this perspective, dreams are best understood as **perception without external consensus anchoring**.
 
-#### Dreaming and Dissociation
+### Dreaming and Dissociation
 
 Dreaming represents a **liminal dissociative configuration**:
 - Identity boundaries are loosened but not dissolved
@@ -236,7 +441,7 @@ Dreaming represents a **liminal dissociative configuration**:
 
 This places dreaming between stabilized waking dissociation and fully expanded transpersonal states.
 
-#### Pattern Logic in Dreams
+### Pattern Logic in Dreams
 
 Dreams provide a direct phenomenological demonstration of **pattern logic over material causation**:
 - Meaning precedes form
@@ -245,7 +450,7 @@ Dreams provide a direct phenomenological demonstration of **pattern logic over m
 
 As such, dreams reveal how reality behaves when the perceptual interface is governed primarily by **relational and symbolic constraints**, offering insight into the deeper grammar of conscious experience.
 
-#### Relevance to Regeneration and Ethics
+### Relevance to Regeneration and Ethics
 
 Because dreams operate outside extractive, utility-driven perception, they naturally restore access to:
 - symbolic intelligence
@@ -272,211 +477,6 @@ flowchart LR
     D <-->|Meditation / Lucidity| T
     T -.->|Integration| W
 ```
-
-### Why Perception Matters for a Solarpunk Future
-
-If values, meaning, and agency arise within experience, then **designing regenerative systems is inseparable from designing perceptual conditions**.
-
-A Solarpunk future is not only about cleaner energy or better infrastructure — it is about cultivating:
-- perceptual attunement to ecological rhythms
-- restored interoceptive awareness
-- reduced salience hijacking by fear and scarcity
-- expanded capacity to perceive interconnection
-
-In short:  
-**we do not change worlds by rearranging matter alone — we change the interfaces through which reality is experienced.**
-
-This perceptual layer is the necessary bridge between ontology (what is) and epistemic architecture (how we know and act), which the next document formalizes through the Tesseract model.
-
-> **Interface Theory of Perception (ITP)**  
-> Hoffman, D. D. (2019). *The Case Against Reality*. W.W. Norton & Company.
->
-> Hoffman demonstrates that perceptual systems optimized by evolution do not track objective truth, but fitness-relevant structure. Space, time, and objects function as adaptive symbols — comparable to a user interface — that guide action while concealing underlying complexity.
->
-> Within the Solarpunk Mandala, Interface Theory is not treated as a complete ontology, but as **convergent empirical support** for the claim that perception is an interface rather than a depiction. Analytic Idealism extends this insight by identifying consciousness itself — not matter — as the underlying reality that interfaces make actionable.
-
-### The Consciousness Journey: From Dissociation to Re-integration
-
-The fundamental human experience can be understood as a journey from original unity, through dissociation into separate subject-object relationships, and ultimately toward conscious re-integration.
-
-```mermaid
-flowchart LR
-    %% Phase 1: The Descent
-    subgraph Phase_1 [1. The Descent]
-    A((MAL)) -->|Dissociation| B[Individual Awareness]
-    end
-
-    %% Phase 2: The Experience (The Three Paths)
-    subgraph Phase_2 [2. The Experience]
-    B --> C{The 3 Paths}
-    C --> D[Material World]
-    C --> E[Altered States]
-    C --> F[Anomalies/UAPs]
-    end
-
-    %% Phase 3: The Turning Point
-    subgraph Phase_3 [3. The Realization]
-    D & E & F --> G{Ontological Crisis}
-    G -->|Analytic Idealism| H[Re-Integration]
-    end
-
-    %% Phase 4: The Fourth Path
-    subgraph Phase_4 [4. SolarPunk Agency]
-    H --> I[Solarpunk Mandala]
-    I --> J[**Conscious Agency**]
-    J -.->|Gardening| D
-    end
-
-    %% Styling
-    style Phase_1 fill:#f0f9ff,stroke:#0369a1
-    style Phase_2 fill:#fef3c7,stroke:#f59e0b
-    style Phase_3 fill:#f0fdf4,stroke:#16a34a
-    style Phase_4 fill:#faf5ff,stroke:#9333ea
-    style J fill:#ea580c,color:#fff,stroke-width:4px
-```
-
-#### The Materialist Bind in Modelling Lived Reality
-
-The materialist model excels at describing *objective processes* but struggles fundamentally with *subjective experience*—the very field of values, meaning, ethics, and qualitative life that **SolarPunk** and this mandala aim to cultivate. This leads to paradoxes:
-
-1.  **The Hard Problem of Consciousness:** In a purely physical universe, *why* should complex information processing (like in a brain) feel like anything at all? Why isn't it just "dark inside"? Materialism has no explanatory bridge from objective matter to subjective experience. It is forced to either deny the reality of experience (**illusionism**) or treat it as an inexplicable emergent property.
-2.  **The Problem of Values and Meaning:** If consciousness is a secondary illusion, then so are values, purpose, and meaning. They become evolutionary quirks or social constructs with no fundamental grounding. This makes it philosophically difficult to argue for an *intrinsic* value in sustainability, beauty, or community—they become preferences, not truths. A SolarPunk future needs a sturdier foundation for its values.
-3.  **The Observer Problem:** Quantum mechanics and the philosophy of science highlight that the observer cannot be cleanly removed from the system. A model of reality that treats consciousness as a latecomer ghost in the machine has a hard time accounting for its own epistemic foundation—*who* is the scientist, the modeler, the GitHub user reading this?
-
-```mermaid
-quadrantChart
-    title "Ontological Frameworks by Rigor vs. Consciousness-Primacy"
-    x-axis "Reductive (Materialism)" --> "Holistic (Panpsychism)"
-    y-axis "Speculative" --> "Analytic/Rigorous"
-    
-    "Analytic Idealism": [0.8, 0.9]
-    "Materialism": [0.1, 0.8]
-    "Dualism": [0.4, 0.4]
-    "Panpsychism": [0.7, 0.5]
-    "Idealism (Traditional)": [0.6, 0.2]
-    "Eliminativism": [0.05, 0.7]
-```
-
-#### Analytic Idealism as a Coherent Foundation
-
-Analytic Idealism addresses these binds by making a simpler, more parsimonious foundational assumption: **Consciousness is primary, not derivative.**
-
-*   **It's Not "Magic":** It's a formal ontology that uses the tools of analytic philosophy. It doesn't deny the laws of physics; it **re-interprets them**. In this view, the regularities we call "physics" are the *observed grammar of conscious experience*, not the description of a world outside of it.
-*   **It Solves the Core Problems:**
-    *   **The Hard Problem disappears:** Experience is fundamental, so there's no need to generate it from non-experiential parts. Matter (as we perceive it) is understood as the *intrinsic appearance* of conscious activity.
-    *   **Values are re-grounded:** If reality is experiential at its core, then qualities like harmony, suffering, beauty, and understanding are primary facets of existence. Building a SolarPunk world isn't just a pragmatic survival strategy; it's an alignment with the fundamental grain of reality.
-    *   **The Observer is central:** The modeler, the community, the perceiver is not an accidental byproduct but the very substrate of the world being modeled. This creates a natural ethics of participation and responsibility.
- 
-```mermaid
-graph TD
-    subgraph "Empirical Validations"
-        A1["Altered States<br>Psychedelics, Meditation"]
-        A2["Non-local Phenomena<br>NDEs, Remote Viewing"]
-        A3["Transpersonal Psychology<br>Peak Experiences, Dissociative Identity Disorder"]
-    end
-    
-    subgraph "Systemic Contradictions"
-        B1["UAP Phenomenology<br>Physical Violations"]
-        B2["Quantum Anomalies<br>Observer Effects"]
-        B3["Materialist Gaps<br>Hard Problem"]
-    end
-    
-    subgraph "Phenomenological Reports"
-        C1["Unity Consciousness<br>Reports"]
-        C2["Mystical Experiences<br>Cross-cultural"]
-        C3["Anomalous Cognition<br>Precognition, ESP"]
-    end
-    
-    subgraph "Scientific Frameworks"
-        D1["Quantum Foundations<br>Von Neumann/Wigner"]
-        D2["Cognitive Science<br>Predictive Processing"]
-        D3["Information Theory<br>Integrated Information"]
-    end
-    
-    A1 --> E{Analytic Idealism}
-    A2 --> E
-    A3 --> E
-    B1 --> E
-    B2 --> E
-    B3 --> E
-    C1 --> E
-    C2 --> E
-    C3 --> E
-    D1 --> E
-    D2 --> E
-    D3 --> E
-    
-    E --> F["Consciousness-First<br>Mandala Framework"]
-    F --> G["Coherent Explanation<br>of All Data"]
-```
-
-#### Empirical Panpsychism (Koch-Tononi Convergence)
-
-Analytic Idealism posits consciousness as primary. IIT provides the **intrinsic property** that makes this tenable:
-
-- **Axiom 1 (Koch)**: Consciousness is a fundamental property of any system with cause-effect power upon itself (Φ > 0)
-- **Axiom 2 (Kastrup)**: Matter is the extrinsic appearance of inner experience
-- **Synthesis**: Φ quantifies the *degree of dissociation* from Mind at Large
-
-**Citation**: Koch, C. (2019). *The Feeling of Life Itself*. MIT Press. 
-- Page 142: "Cerebellum has 69 billion neurons but Φ≈0 because feed-forward architecture lacks causal autonomy"
-- This **validates** the Tesseract's distinction between biological complexity and conscious capacity
-
-```mermaid
-timeline
-    title Consciousness Evolution: From Materialism to Conscious Design
-    section Materialist Era (20th Century)
-        Behaviorism      : Focus on observable behavior
-        Computationalism : Mind as computer
-        Neuroscience     : Brain mapping, correlation
-    
-    section Crisis of Materialism (Early 21st)
-        Hard Problem      : Chalmers, 1995
-        Explanatory Gap   : Levine, 1983
-        Integration Crisis: Mind-body problem
-    
-    section Emergent Alternatives (Mid 21st)
-        Panpsychism       : Strawson, Goff
-        Dual-Aspect       : Chalmers, Velmans
-        Idealism Revival  : Kastrup, Berkeley revival
-    
-    section Analytic Idealism (Present)
-        Formal Arguments  : Kastrup, Bernardo
-        Predictive Power  : Explains anomalies
-        Design Framework  : Solarpunk Mandala
-    
-    section Conscious Design (Future)
-        Conscious Systems : Design with ontology
-        Regenerative Tech : Solarpunk applications
-        Collective Wisdom : Expanded cognition
-```
-
-#### Enactive Realization: How Consciousness Brings Forth Worlds
-
-While Analytic Idealism establishes consciousness as fundamental, Enactivism provides the *how*: consciousness is not a passive observer but an active participant that **brings forth** worlds through structural coupling and sense-making.
-
-**Key Integration Points:**
-1. **Consciousness as Action:** Rather than "consciousness perceives reality," we adopt "consciousness enacts meaningful worlds through perceptually-guided action"
-2. **Autopoiesis as Self-Production:** Living systems (including communities) maintain their organization through circular self-production—directly mirroring your dialectical phases
-3. **Structural Coupling:** Our continuous interaction with environments shapes both us and the environment—explaining how mandalas co-evolve with communities
-4. **Participatory Sense-Making:** Knowledge emerges *between* agents in interaction, not within isolated minds
-
-**Why This Matters for Solarpunk Mandala:** 
-- Explains how communities literally "bring forth" their Symbiotic Commonwealth through collective action
-- Provides biological grounding for your "Embodied Foundations" protocols
-- Bridges the apparent gap between idealist ontology and material practice
-
-#### The Practical Payoff for This Project
-
-For the **SolarPunk Mandala**, this ontological starting point is a design feature:
-
-1.  **Coherence:** It allows us to model physical systems, social dynamics, and inner values on a single, consistent spectrum—all as patterns of conscious experience.
-2.  **Agency & Responsibility:** It frames our actions not as deterministic particles in a void, but as conscious choices that directly shape the qualitative fabric of shared reality.
-3.  **A Foundation for Post-Capitalist Values:** It provides a metaphysical basis for intrinsic worth that isn't tied to material extraction or utility, supporting the shift from an ethos of domination to one of participation and care.
-
-**In essence, we are not choosing metaphysics *over* practicality. We are choosing a foundational model (Idealism) that we believe is more logically coherent and better suited to ground the practical, ethical, and experiential goals of a SolarPunk future than the default materialist model.**
-
-You don't have to accept this ontology to contribute, but understanding it is key to understanding the architecture of the mandala model. Think of it as our **core philosophical API**. All other modules—agency, systems, values—are built to be compatible with this base layer.
 
 ### The Spectrum of Conscious Experience: Altered States and Transpersonal Mentations
 
