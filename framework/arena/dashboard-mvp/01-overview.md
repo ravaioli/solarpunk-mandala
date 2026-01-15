@@ -35,6 +35,12 @@ The dashboard assesses vitality through five domains, each containing four capit
 
 *For detailed definitions and metrics for all 20 capitals, see [02-capital-framework.md](./02-capital-framework.md).*
 
+## Capital Framework
+
+The Arena operates on a regenerative capital framework that moves beyond extractive economics. "Capital" is understood not merely as financial stock, but as **crystallized relational capacity**—the stored potential for future flourishing across social, ecological, and knowledge domains. This framework is operationalized in the dashboard to track the health, flow, and interdependencies of these vital assets.
+
+> **New Analytical Lens:** To directly analyze the power dynamics and relational health embedded within these capital stocks, the framework is augmented with the **Boundary Permeability Index (BPI)**. This metric evaluates whether capital functions as a tool for liberation (high permeability) or domination (low permeability). For the full specification of the BPI, its dimensions, and its dashboard integration, see **[02-capital-framework.md](./02-capital-framework.md)**.
+
 ## Key Metrics: The Alpha (α) Coefficient
 
 The **Alpha Coefficient** is a single, synthesized metric (on a scale of 0.0 to 1.0) representing the system's **holistic vitality**. It is calculated from the Regeneration Flower:
