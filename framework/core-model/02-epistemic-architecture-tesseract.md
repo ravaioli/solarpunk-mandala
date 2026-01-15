@@ -345,7 +345,7 @@ The Tesseract's 8 cubic cells correspond 1:1 to the 8 Intelligences. This is not
 ### Operational Rule
 **Always check boundary equivalence before applying micro insights to macro problems.**
 
-## Integration Note
+### Integration Note
 The Embodied Foundations are not "lower" in value but foundational in function—like roots to a tree. When any foundation is compromised, the entire system contracts dimensionally toward survival mode (0D). When all foundations are strong, the system has the stability to unfold toward higher dimensions of complexity and coherence (3D+).
 
 For further context in integrating the Tesseract for generating valid, actionable, and regenerative knowledge within reality, refer to [Appendix N: The Epistemic Tesseract—A Geometry of Conscious Knowing.](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/N-epistemic-tesseract-geometric-knowing.md)
