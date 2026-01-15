@@ -55,6 +55,37 @@ The following table provides the operational definition, core metrics, and prima
 | **Purpose** | The alignment of personal vocation ("right livelihood") with community need and direction. | **Q:** Percentage of members with a documented "Vocation Plan" aligned with community roles.<br>**Ql:** *Felt alignment* between personal purpose and community need (Poll Q37-38). |
 | **Interbeing** | The lived, felt sense of interconnection and non-separation from all life. | **Q:** Number of active community projects designed for cross-species benefit.<br>**Ql:** *Felt sense of inseparability* from the whole (Poll Q39-40). |
 
+## Section: The Pattern Lens – Measuring Boundary Permeability
+
+**Primary Function:** To augment the capital accounting system with a diagnostic metric that reveals the power dynamics and conscious relations crystallized within capital stocks. This lens evaluates whether capital functions as a tool for liberation (high permeability) or domination (low permeability).
+
+### The Boundary Permeability Index (BPI)
+
+The BPI is a composite metric (0-100) that measures the rigidity or openness of the social and cognitive boundaries governing access to and use of a capital stock. It answers: *Does this capital solidify separation or facilitate connection?*
+
+#### 1. BPI Dimensions & Data Inputs
+BPI is calculated from three sub-indices, each fed by participatory community data audits:
+
+| Dimension | What It Measures | Sample Data Inputs (Community-Sourced) |
+| :--- | :--- | :--- |
+| **Material BPI** | Access to physical resources and means of sustenance. | Gini coefficient for asset ownership; waitlist times for community land/housing; results from a **"Resource Access Survey"** (perceived ease of obtaining food, water, shelter). |
+| **Relational BPI** | Health of decision-making and mutual aid networks. | Percentage of community members in a governance role; number and throughput of mutual aid requests fulfilled; results from a **"Social Trust & Governance Survey"**. |
+| **Cognitive BPI** | Diversity of narratives and epistemic tools available. | Concentration of local media ownership; diversity of topics in community library/forum; results from a **"Narrative Pluralism Audit"**. |
+
+#### 2. BPI in Dashboard Visualization
+Within the Arena dashboard, the BPI acts as a **filterable overlay** on all capital assets.
+
+*   **Asset Profile View:** Clicking on a capital asset (e.g., a community forest, a tool library) shows its traditional metrics (stock, flow, yield) **alongside its current BPI score and sub-indices**.
+*   **Project Impact Tracking:** When a new project is launched (e.g., "Start a Community Compost Program"), it sets **target BPI outcomes** (e.g., "Increase Material BPI of neighborhood by 5 points via improved soil access"). The dashboard tracks progress against this.
+*   **Scenario Planning:** Users can model how proposed decisions (e.g., "Privatize this land" vs. "Place it in a commons trust") would projectively affect the BPI of the involved capital and community.
+
+#### 3. Interpreting BPI Scores
+*   **0-40 (Extractive/Red):** Capital is hoarded, access is restricted. Indicates a **boundary as a wall**. Characteristic of Necrocene patterns.
+*   **41-70 (Transitional/Yellow):** Capital is shared under negotiated rules. Indicates a **boundary as a membrane**.
+*   **71-100 (Regenerative/Green):** Capital is governed for maximal reciprocal access and collective stewardship. Indicates a **boundary as a site of exchange**. Target state for Symbiotic Commonwealth.
+
+**Integration Note:** This Pattern Lens operationalizes the theoretical translation work of **Appendix Y (The Matter-Interface)**. It is the applied tool that allows the insights of Boundary Archaeology to be measured, tracked, and managed alongside material flows.
+
 ## Integration with the Mandala's Core Geometry
 
 The 20 capitals are not a random list but a structured manifestation of the Mandala's fourfold (tesseract) logic within each domain. Every domain contains a microcosm of the whole:
