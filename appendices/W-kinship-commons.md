@@ -225,6 +225,74 @@ The community-wide design and enactment of ceremonies to mark key lifecycle tran
 *   **Performs Meta-Narrative Mapping:** Enacts the replacement of the Necrocene story of isolation with a Symbiotic story of belonging (**Appendix F**).
 *   **Creates a Living Campus:** Turns the community itself into an active site of **Consciousness-Based Education (Appendix P)**, rooting identity in place and relation rather than consumer ego.
 
+### 6. Tool: Systemic Kinship Constellations
+
+#### Core Practice
+A facilitated, experiential ritual that uses phenomenological methods to reveal and reconcile hidden systemic dynamics within chosen kinship networks, ecological relationships, and intergenerational lineages. It makes visible the unconscious "orders" of the Kinship Commons, identifying entanglements, blocked flows of care, and disruptions in the right to belong, thereby healing relational fractures at a systemic level.
+
+#### How It's Practiced
+The practice unfolds in a held container, blending ritual space with therapeutic inquiry. A facilitator guides a "focus person" (whose system is being explored) and a group of participants who serve as representatives.
+
+```mermaid
+flowchart TD
+    A[1. Defining the Inquiry<br>Focus person names a stuck pattern<br>e.g., 'Recurring conflict in our Pod'] --> B[2. Selecting & Placing Representatives<br>For people, ancestors, elements, abstractions<br>e.g., 'The Unspoken Agreement']
+    
+    B --> C[3. Phenomenological Reading<br>Representatives report sensations, emotions,<br>and impulses without interpretation]
+    
+    C --> D{4. Systemic Diagnosis<br>Facilitator reads the emergent field:<br>Who is excluded? Where is flow blocked?}
+    
+    D --> E[5. Movements Towards Healing<br>Adding missing representatives,<br>Speaking healing sentences,<br>Restoring rightful order]
+    
+    E --> F[6. Integration & Anchoring<br>Focus person replaces representative<br>in the resolved constellation,<br>embodying the new order]
+```
+
+**Key Phases:**
+1.  **Defining the Inquiry:** The focus person names a persistent challenge (e.g., "a recurring conflict in our Pod," "a feeling of exclusion from the land," "burnout in my care role").
+2.  **Selecting & Placing Representatives:** The focus person intuitively chooses participants to represent key elements of their inquiry (e.g., themselves, another pod member, an ancestor, "the land," "the conflict itself"). They place them in the space in relation to one another, based on felt sense.
+3.  **Phenomenological Reading:** Representatives report their physical sensations, emotions, and impulses without analysis (e.g., "I feel heavy," "I can't see the others," "I'm pulled backward").
+4.  **Systemic Diagnosis:** The facilitator "reads" the living map. They identify systemic dynamics: Who is excluded? Where is the flow of love or respect blocked? Is there an imbalance between giving and taking? What hidden loyalty is being served by the symptom?
+5.  **Movements Towards Healing:** The facilitator tests small interventions: adding a missing representative (e.g., a forgotten ancestor), guiding representatives to speak "healing sentences" (e.g., "I respect you as my parent, and I take life from you"), or repositioning them to restore a more truthful, orderly alignment.
+6.  **Integration & Anchoring:** Once a resolution constellation emerges where all representatives feel a release of tension and a sense of "rightness," the focus person takes their own place in the new configuration, somatically integrating the shift.
+
+#### Applied Example & References
+*   **Original Context:** Bert Hellinger's Family Constellations work with biological family systems to resolve transgenerational trauma.
+*   **Adaptation for Commons:** The **"Systemic Constellations"** field (as practiced by innovators like Jan Jacob Stam) expands the method to organizations, social systems, and abstract issues. This tool adapts it further for **chosen kinship and ecological networks**.
+*   **Practical Model:** The **"Women of the Heart" community** in Brazil uses constellations to address power dynamics and inheritance conflicts within their intentional community.
+
+#### Mandala-Derived Benefits & Integration
+*   **Operationalizes Analytic Idealism & Relational Ontology:** Treats the relational field itself as the primary, knowable reality. The constellation is a direct, participatory inquiry into the "mind" of the relationship system.
+*   **Advanced Ritual Technology (Appendix B):** Functions as a high-resolution, cube-dissolving ritual. It rapidly makes the invisible relational geometry of a pod or commons visible and mutable.
+*   **Deepens Intergenerational Boundary Medicine (Tool 3):** Provides a powerful, non-verbal method to identify and reconcile specific transgenerational entanglements that dialogue alone cannot access.
+*   **Prevents Pathology in Pods (Appendix M):** Serves as profound "pre-habilitation" and conflict resolution for **Developmental Webs (Tool 4)**. By revealing hidden systemic loyalties, it prevents new pods from unconsciously replicating old family dysfunctions.
+*   **Enriches Kinship Network Maps (Tool 1):** Adds a **vertical, transgenerational axis** to the horizontal mapping of care flows, explaining *why* certain "care fractures" may exist.
+
+#### Sequence of Systemic Realignment
+The process moves a system from a state of entanglement, which creates symptoms (like conflict or burnout), to a state of reconciled order, which releases energy back to the present.
+
+```mermaid
+sequenceDiagram
+    participant S as Symptom<br>(e.g., Pod Conflict)
+    participant E as Systemic Entanglement<br>(e.g., Unprocessed Ancestral Grief)
+    participant F as Blocked Flow<br>of Life/Care
+    participant O as Reconciled Order<br>& Rightful Place
+    participant P as Present System Energy
+
+    Note over S,E: Initial State: Entanglement
+    E->>S: Binds Energy & Creates
+    F->>P: Depletes
+
+    Note over S,O: Constellation Process
+    S->>E: Reveals Hidden Connection
+    E->>O: Acknowledged & Honored
+
+    Note over O,P: Resolved State: Integration
+    O->>F: Releases Blockage
+    F->>P: Restores Flow
+    P->>S: Alleviates Symptom
+```
+
+This tool transforms the Kinship Commons from a *structurally* innovative model into a *systemically intelligent* one, capable of healing its own deepest relational wounds.
+
 ## Integration Summary
 
 ```mermaid
