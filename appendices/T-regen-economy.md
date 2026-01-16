@@ -166,7 +166,32 @@ The introduction of Φ-Tokens creates a **monetary dual power** scenario. It fol
 2.  **Network Expansion:** As the ecosystem of goods and services purchasable with Φ expands, it begins to meet a greater percentage of participants' needs, reducing dependence on state currency. The **demurrage mechanism** accelerates this by incentivizing rapid reinvestment in the local regenerative economy.
 3.  **Functional Dominance:** When the Φ-system can provide for core needs (via UBP) and facilitate sophisticated production (via Guilds), it becomes the primary economic circuit for participating communities. State currency is relegated to a limited role for external trade, its social power dissolved.
 
-*Recommended Mermaid Diagram: "Phased Monetary Dual Power" – A three-stage timeline showing the shrinking sphere of state currency and the expanding sphere of Φ-Tokens across the phases of Parallel Circulation, Network Expansion, and Functional Dominance.*
+```mermaid
+gantt
+    title Phased Monetary Dual Power: Φ-Tokens vs. State Currency
+    dateFormat YYYY
+    axisFormat %Y
+    
+    section Phase 1: Parallel Circulation
+    Community Exchange Pilot           :2024, 2y
+    Φ-Token Issuance for Local Goods   :2024, 3y
+    State Currency Dominant            :2024, 8y
+    
+    section Phase 2: Network Expansion
+    UBP Pilot Launch (In-Kind)         :2026, 2y
+    Φ-Ecosystem Grows (>30% Needs)     :2027, 3y
+    State Currency for External Trade  :2027, 4y
+    
+    section Phase 3: Functional Dominance
+    Full UBP Implementation            :2030, 2y
+    Φ Primary for Production/Exchange  :2031, 3y
+    State Currency Peripheral          :2032, 2y
+    
+    section Key Metrics
+    Φ-Adoption Rate (%) :milestone, 2024, 0d
+    Φ-Adoption Rate (%) :milestone, 2027, 0d
+    Φ-Adoption Rate (%) :milestone, 2032, 0d
+```
 
 #### 6.2 Resource Diversion and the Visible Heart Grid
 The "Visible Heart" Grid is the logistical backbone of economic dual power. It enables **conscious resource diversion** from extractive to regenerative loops. For example:
