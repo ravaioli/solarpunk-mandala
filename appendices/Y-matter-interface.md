@@ -185,7 +185,40 @@ This process follows a three-phase geometric logic:
 2.  **Intentional Pattern Reinforcement:** Applying the translation protocol to strengthen these sites—not just as alternatives, but as **conscious prototypes** of the Symbiotic Commonwealth. This involves designing interventions that explicitly increase Material, Relational, and Cognitive BPI.
 3.  **Confederation and Integration:** Scaling these prototypes into a functional mesh that can eventually meet collective needs more effectively than the extractive system, thereby transforming the social interface.
 
-*Recommended Mermaid Diagram: "Dual Power as Boundary Re-patterning" – A flowchart showing the three-phase process from Boundary Archaeology (Step 1) to Proto-Commonwealth Sites (Step 2) to Mesh Integration (Step 3), with BPI metrics at each stage.*
+```mermaid
+flowchart TD
+    subgraph Phase1[Phase 1: Identification]
+        A[Boundary Archaeology<br>on Social Institution] --> B[Identify LR Pattern<br>Low-BPI Extractivism]
+        B --> C[Map Cube 5 Boundary<br>Exclusion/Exploitation]
+        C --> D[Analyze UL/LL Software<br>Legitimizing Narratives]
+        D --> E[Locate Friction Points<br>& Existing Alternatives]
+    end
+
+    Phase1 --> P1_Output[Output: Proto-Commonwealth Sites Identified]
+
+    subgraph Phase2[Phase 2: Pattern Reinforcement]
+        F[Design High-BPI Intervention] --> G[Implement Prototype<br>e.g., Cooperative, Commons]
+        G --> H[Track BPI Metrics<br>Material, Relational, Cognitive]
+        H --> I[Iterate & Strengthen<br>Geometric Design]
+    end
+
+    P1_Output --> Phase2
+    Phase2 --> P2_Output[Output: High-BPI Prototype Operational]
+
+    subgraph Phase3[Phase 3: Confederation]
+        J[Connect Prototypes<br>via Shared Protocols] --> K[Form Confederal Mesh<br>Bioregional Coordination]
+        K --> L[Scale Functional Sovereignty<br>Meeting Collective Needs]
+        L --> M[Achieve Systemic Integration<br>New Social Interface]
+    end
+
+    P2_Output --> Phase3
+
+    style Phase1 fill:#e8f5e9,stroke:#2e7d32
+    style Phase2 fill:#e3f2fd,stroke:#1565c0
+    style Phase3 fill:#f3e5f5,stroke:#7b1fa2
+    style P1_Output fill:#fff3e0,stroke:#ef6c00
+    style P2_Output fill:#fff3e0,stroke:#ef6c00
+```
 
 ### 4.2 Case Study: Boundary Archaeology in Practice – The Catalan Integral Cooperative (CIC)
 The **Catalan Integral Cooperative (CIC)**, an ecosystem of over 500 cooperatives and community projects in Catalonia, provides a real-world example of dual power as boundary re-patterning (Castells, 2017).
