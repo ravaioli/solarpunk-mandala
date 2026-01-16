@@ -156,10 +156,36 @@ graph TD
 *   **Workday:** You join your **Digital Commons Guild** meeting. You're developing open-source algorithms for the Φ-Grid. Your work today earns personal Φ-Tokens and guild reputational weight. In the afternoon, you use 50 tokens to commission a custom piece of furniture from the **Woodworkers' Guild**.
 *   **Evening:** You attend a neighborhood assembly to discuss allocating a pool of community-held Φ-Tokens to retrofit old buildings. Your voting power is weighted by your long-term, verified contribution (Governance Weight), preventing capture by transient wealth.
 
-## 6. Conclusion: The Realization of Theoretical Communism
+### 6. Dual Power Economics: The Φ-System as a Transition Engine
+The regenerative economy outlined in this appendix is not a utopian blueprint to be implemented after a revolutionary event. It is a **dual power economic system** designed to be built here and now, within the interstices of the Necrocene, capable of scaling to displace it. This section frames the Φ-currency, Proof-of-Regeneration, and Universal Basic Provision as explicit tools for building economic counter-power.
+
+#### 6.1 Phased Adoption and Monetary Dual Power
+The introduction of Φ-Tokens creates a **monetary dual power** scenario. It follows a phased adoption model observed in successful complementary currency systems (North, 2010):
+
+1.  **Parallel Circulation:** Φ-Tokens circulate alongside state-issued currency, used for specific, high-trust community exchanges (e.g., local food, repair services, childcare). This builds familiarity and demonstrates utility.
+2.  **Network Expansion:** As the ecosystem of goods and services purchasable with Φ expands, it begins to meet a greater percentage of participants' needs, reducing dependence on state currency. The **demurrage mechanism** accelerates this by incentivizing rapid reinvestment in the local regenerative economy.
+3.  **Functional Dominance:** When the Φ-system can provide for core needs (via UBP) and facilitate sophisticated production (via Guilds), it becomes the primary economic circuit for participating communities. State currency is relegated to a limited role for external trade, its social power dissolved.
+
+*Recommended Mermaid Diagram: "Phased Monetary Dual Power" – A three-stage timeline showing the shrinking sphere of state currency and the expanding sphere of Φ-Tokens across the phases of Parallel Circulation, Network Expansion, and Functional Dominance.*
+
+#### 6.2 Resource Diversion and the Visible Heart Grid
+The "Visible Heart" Grid is the logistical backbone of economic dual power. It enables **conscious resource diversion** from extractive to regenerative loops. For example:
+*   A **Community Energy Guild** uses the grid to identify underutilized rooftops for solar panels, financed by a pool of Φ-Tokens. The energy produced feeds a local microgrid, directly reducing dependence on corporate utilities and fossil fuels.
+*   A **Food Web Guild** uses urgent Φ-signals (e.g., soil depletion alerts) to coordinate a shift of labor and compost resources to regenerate specific plots, directly addressing food system fragility.
+
+This mirrors the "counter-planning" and "diversion of resources" strategies discussed in autonomist Marxist thought (Wright, 2019), but grounds them in real-time biophysical and social data.
+
+#### 6.3 UBP as a Beachhead of Post-Scarcity
+The gradual implementation of **Universal Basic Provision (UBP)** is a key dual power tactic. It begins as a **targeted guarantee** within a bounded community (e.g., a housing co-op's guarantee of shelter, a CSA's guarantee of a food share). As the productive capacity of the Guilds and the resource-tracking capability of the Grid grow, these guarantees can expand in scope and reliability.
+*   **This creates a material "beachhead" of post-scarcity logic,** demonstrating that survival need not be tied to wage labor or the market. It fulfills the dual power function of "meeting needs in new ways" that delegitimize the old system (Albert, 2003).
+
+#### 6.4 Conclusion: An Economy of Withdrawal and Construction
+The Φ-system is thus both a **shield** (protecting communities from market volatility and extraction) and a **scaffold** (building the metabolic economy of the future). It operationalizes the dual power maxim: "Build the new world by taking resources, attention, and legitimacy from the old."
+
+## 7. Conclusion: The Realization of Theoretical Communism
 This model synthesizes heterodox economic thought with cutting-edge informatics to create a **post-scarcity, post-capitalist ecology**. It is a **computable architecture for anarcho-communism**, replacing the violence of debt and property with the logic of care and regeneration. The Φ-Currency is not money, but the **circulatory system of a planetary immune response**, funding the healing of the wounds of the Necrocene.
 
-## 7. Key References & Further Reading
+## 8. Key References & Further Reading
 
 1.  **Graeber, D.** (2011). *Debt: The First 5,000 Years*. Melville House. *(The anthropological critique of debt-based money and the history of human economies)*.
 2.  **Kropotkin, P.** (1902). *Mutual Aid: A Factor of Evolution*. *(The foundational biological and social argument for cooperation as the driver of success)*.
@@ -173,3 +199,6 @@ This model synthesizes heterodox economic thought with cutting-edge informatics 
 10. **Atzori, M.** (2017). "Blockchain Technology and Decentralized Governance: Is the State Still Necessary?" *Journal of Governance and Regulation*. *(Academic analysis of the political potential of DAOs, relevant to Guild and Grid structure)*.
 11. **Case Study:** The **Wörgl Experiment** (1932-1933). Historical precedent for demurrage currency.
 12. **Case Study:** **Community Land Trusts** and **Cohousing Models**. Practical precedents for UBP housing and communal resource management.
+13. **North, P.** (2010). *Local Money: How to Make it Happen in Your Community*. Green Books. *(Practical guide to the phases and challenges of launching complementary currencies)*.
+*   **Wright, S.** (2019). *Storming Heaven: Class Composition and Struggle in Italian Autonomist Marxism*. Pluto Press. *(Theoretical history of autonomist strategies, including counter-planning and refusal of work)*.
+*   **Albert, M.** (2003). *Parecon: Life After Capitalism*. Verso. *(While focused on a different model, provides useful discussion on prefiguring economic alternatives and meeting needs outside capitalism)*.
