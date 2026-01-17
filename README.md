@@ -293,6 +293,7 @@ The Mandala **transcludes** (doesn't replace) existing systems:
 | **08** | [Multiple Intelligences](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/08-multiple-intelligences-framework.md) | *What capacities?* | 8 intelligences across scales |
 | **09** | [Compatible Frameworks](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/09-compatible-frameworks-matrix.md) | *What does it connect to?* | Integration matrix |
 | **10** | [Cybernetic Foundations](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/10-cybernetic-foundations.md) | *How does it self-regulate?* | Feedback & control systems |
+| **11** | [Narrative Intelligence](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/core-model/11-narrative-intelligence.md) | *What does it mean?* | Narrative & Mythic coordination |
 
 ---
 
