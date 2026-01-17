@@ -133,6 +133,10 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
     **Purpose:** Provides the operational principles of regulation, feedback, and adaptation for conscious systems, explaining how the Mandala functions as a participatory control system.  
     **🔄 In Practice:** Learn to design feedback loops that respect Threshold Principles.
 
+*   **[11 - Cybernetic Foundations](./11-narrative-intelligence.md)**  
+    *📄 Read time: 10 min*  
+    **Purpose:** Applies the second-order cybernetics of Model 10 to the semiotic (meaning-making) layer. Directly operationalizes Analytic Idealism (01), the Tesseract (02), and the Four Axes (03).  
+
 ---
 ### Machine Readable Metadata
 <script type="application/ld+json">
@@ -158,6 +162,7 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
     {"@type": "CreativeWork", "name": "Multiple Intelligences", "url": "08-multiple-intelligences-framework.md"},
     {"@type": "CreativeWork", "name": "Compatible Frameworks", "url": "09-compatible-frameworks-matrix.md"},
     {"@type": "CreativeWork", "name": "Cybernetic Foundations", "url": "10-cybernetic-foundations.md"}
+    {"@type": "CreativeWork", "name": "Narrative Intelligence", "url": "11-narrative-intelligence.md"}
   ],
   "license": "https://opensource.org/licenses/MIT"
 }
