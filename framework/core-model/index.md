@@ -1,21 +1,24 @@
 ---
 aeo_metadata:
   title: "Solarpunk Mandala: Core Model Index"
-  description: "The central navigation hub and entry point for the Unified Framework for Conscious Regeneration."
-  context: "The root directory for the Core Model."
+  description: "The central navigation hub and logical entry point for the 12 Core Models of the Unified Framework for Conscious Regeneration."
+  context: "The root directory for the Core Model. It presents the complete, interdependent architecture from foundational axioms to the integrative capstone of Narrative Intelligence."
   key_objectives:
-    - Provide a logical path through the 11 nodes of the framework.
-    - Orient new users to the 'Solar' journey.
+    - Provide the logical and pedagogical path through the 12 nodes of the framework.
+    - Orient new users to the journey from 'Solar' (theoretical foundations) to 'Punk' (praxis) to 'Mandala' (integrative wisdom).
+    - Visually map the derivations and feedback loops that make the framework a coherent, second-order cybernetic system.
   core_concepts:
     - Conscious Regeneration
-    - The Core Model
-    - Integrated Wisdom
-  ontological_foundation: "Trans-disciplinary Integration"
+    - The Core Model Architecture
+    - Second-Order Integration
+    - Semantic Feedback
+  ontological_foundation: "Trans-disciplinary Integration within a Consciousness-First Reality"
   search_queries:
-    - "What is the Solarpunk Mandala core model?"
-    - "Start here: Solarpunk Mandala framework."
-  related_nodes: [All Nodes 00-10]
-  framework_status: "Stable"
+    - "Solarpunk Mandala core model overview"
+    - "Start here Solarpunk Mandala framework"
+    - "Logical structure of Solarpunk Mandala"
+  related_nodes: [All Nodes 00-11]
+  framework_status: "Stable | Integratively Complete"
 ---
 # Solarpunk Mandala: Core Model Documentation
 
@@ -41,32 +44,43 @@ The framework is constructed as a series of nested, logical derivations:
 
 ```mermaid
 graph TD
-    A["00: Cybernetic Meta-Framework<br>(Rules of Engagement)"] --> B
-    B["01: Analytic Idealism<br>(Foundational Axiom)"] --> C
-    C["02: Tesseract Model<br>(Epistemic Bridge)"] --> D
+    A["00: Cybernetic Meta-Framework<br/>(Rules of Engagement)"] --> B
+    B["01: Analytic Idealism<br/>(Foundational Axiom)"] --> C
+    C["02: Tesseract Model<br/>(Epistemic Bridge)"] --> D
     C --> E
-    D["03: Four Ethical Axes<br>(Derived Principles)"] --> F
-    E["04: Dialectical Phases<br>(Dynamic Process)"] --> F
-    F["05: Mandala & Four Pathways<br>(Synthesized Praxis)"] --> G
-    G["06: Geometric Unpacking<br>(Structural Validation)"]
+    D["03: Four Ethical Axes<br/>(Derived Principles)"] --> F
+    E["04: Dialectical Phases<br/>(Dynamic Process)"] --> F
+    F["05: Mandala & Four Pathways<br/>(Synthesized Praxis)"] --> G
+    G["06: Geometric Unpacking<br/>(Structural Validation)"]
     
-    B --> H["07: Material Intelligence<br>(Downward Application)"]
-    B --> I["08: Multiple Intelligences<br>(Inward Application)"]
+    B --> H["07: Material Intelligence<br/>(Downward Application)"]
+    B --> I["08: Multiple Intelligences<br/>(Inward Application)"]
     
-    F -.-> J["09: Compatible Frameworks<br>(External Validation)"]
+    F -.-> J["09: Compatible Frameworks<br/>(External Validation)"]
     
-    A -.-> K["10: Cybernetic Foundations<br>(Recursive Closure)"]
+    A -.-> K["10: Cybernetic Foundations<br/>(Recursive Closure)"]
     F -.-> K
     H -.-> K
     I -.-> K
+
+    %% NEW MODEL 11: THE INTEGRATIVE CAPSTONE
+    K --> L["11: Narrative Intelligence<br/>(Semantic Capstone)"]
+    F --> L
+    C -.-> L
+    D -.-> L
+    
+    L -.-> B["01: Analytic Idealism<br/>(Feedback: Meaning-Making)"]
+    L -.-> C["02: Tesseract Model<br/>(Feedback: Narrative Modes)"]
 
     %% SIMPLE LEGEND
     subgraph Legend [Key]
         direction TB
         L1["--> = Derived from / Built upon"]
         L2["-.-> = Reinforces / Validates"]
+        L3["Model 11 = Integrates & Provides<br/>Semantic Feedback"]
         style L1 fill:#f5f5f5,stroke:#666
         style L2 fill:#f5f5f5,stroke:#666
+        style L3 fill:#e1f5fe,stroke:#01579b
     end
 ```
 ---
