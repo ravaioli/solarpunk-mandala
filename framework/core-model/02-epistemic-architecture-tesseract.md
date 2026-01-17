@@ -217,17 +217,17 @@ Thus, the Tesseract Mandala is our chosen **epistemic architecture** because it 
 
 ## The Eight Cubes
 
-| Type | Cube | Description | Rhizomatic Expression |
-|------|------|-------------|------------------------|
-| Core Ground (Not a Cube) | ॐ: Embodied Foundations Core | Dissociative boundary of Mind at Large experiencing itself—a null point that enables all other perspectives | Nourishment, Cleansing, Restoration, Movement |
-| Unfolded Cubes (Inhabitable Perspectives) | UR (3rd-person exterior, individual) | Biological, physical, and spatial dynamics | Ekistics: MAN (Biological Needs), SHELLS (Housing, Infrastructure) |
-|  | UL (1st-person interior) | Subjective experience, meaning, and inner life | Circles: SPIRITUALITY (Inner Knowing, Meaning & Narrative) |
-|  | LL (2nd-person interior) | Shared meaning, culture, and dialogue | Circles: CULTURE (Identity & Engagement, Enquiry & Learning) |
-|  | LR (3rd-person exterior, collective) | Institutions, systems, and collective patterns | Circles: POLITICS, ECONOMICS + Ekistics: SOCIETY, NETWORKS |
-| Folded Cubes (Boundary Dimensions) | 5: Dissociation Boundary | Interface where MAL partitions into alters | Ecology: Embodiment & Sustenance + Spirituality: Practice & Discipline |
-|  | 6: Intersubjective Gateway | Medium where "mine" becomes "ours" | Spirituality: Community & Ceremony + Politics: Dialogue & Reconciliation |
-|  | 7: Systemic Emergence Plane | Scale-transition: collective ↔ individual | Protocol 2: Project Design Integration |
-|  | 8: Meta-Perspective | Non-perspectival center equidistant from all quadrants | SolarPunk Compass |
+| Type | Cube | Description | Rhizomatic Expression | Narrative Mode |
+ :--- | :--- | :--- | :--- | :--- |
+| Core Ground (Not a Cube) | ॐ: Embodied Foundations Core | Dissociative boundary of Mind at Large experiencing itself—a null point that enables all other perspectives | Nourishment, Cleansing, Restoration, Movement | **The Unstory / Pure Potential** |
+| Unfolded Cubes (Inhabitable Perspectives) | UR (3rd-person exterior, individual) | Biological, physical, and spatial dynamics | Ekistics: MAN (Biological Needs), SHELLS (Housing, Infrastructure) | **It-Narrative (Empirical Biography)**<br/>*The story of the body, the object, the data stream.* |
+|  | UL (1st-person interior) | Subjective experience, meaning, and inner life | Circles: SPIRITUALITY (Inner Knowing, Meaning & Narrative) | **I-Narrative (Subjective Mythos)**<br/>*The story of the self: identity, purpose, and inner world.* ||
+|  | LL (2nd-person interior) | Shared meaning, culture, and dialogue | Circles: CULTURE (Identity & Engagement, Enquiry & Learning) | **We-Narrative (Cultural Canon)**<br/>*The story of "us": shared history, values, and symbols.* |
+|  | LR (3rd-person exterior, collective) | Institutions, systems, and collective patterns | Circles: POLITICS, ECONOMICS + Ekistics: SOCIETY, NETWORKS | **They/It-Narrative (Systemic Logos)**<br/>*The story of the system: ideology, official history, and institutional logic.* |
+| Folded Cubes (Boundary Dimensions) | 5: Dissociation Boundary | Interface where MAL partitions into alters | Ecology: Embodiment & Sustenance + Spirituality: Practice & Discipline | **Boundary Narrative**<br/>*The story of separation and encounter; the "how" of differentiation.* |
+|  | 6: Intersubjective Gateway | Medium where "mine" becomes "ours" | Spirituality: Community & Ceremony + Politics: Dialogue & Reconciliation | **Gateway Narrative**<br/>*The story of dialogue, resonance, and the birth of shared reality.* |
+|  | 7: Systemic Emergence Plane | Scale-transition: collective ↔ individual | Protocol 2: Project Design Integration | **Emergence Narrative**<br/>*The story of how micro-stories become macro-trends and how culture changes.* |
+|  | 8: Meta-Perspective | Non-perspectival center equidistant from all quadrants | SolarPunk Compass | **Meta-Narrative**<br/>*The story about stories; the ability to observe and navigate narrative fields.* |
 
 ```mermaid
 flowchart TD
