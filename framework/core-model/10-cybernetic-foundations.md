@@ -236,6 +236,14 @@ Resilient systems resist shock; **anti-fragile systems improve because of it**. 
 *   **Method**: Embed **learn-from-failure** loops at every level. Use **Healing Pathway** protocols not just to restore, but to **generate new wisdom and tighter bonds** from breaches.
 *   **Metric**: Is the system's **Phase Conductance** more stable, and its **Ethical Axis scores** higher, *after* weathering a disturbance than before?
 
+#### Second-Order Praxis: The Narrative Field Audit
+The principle of the included observer is operationalized through the **Narrative Field Audit (NFA)**, defined in **Core Model 11**. The NFA is a structured second-order process where a facilitator:
+1.  **Acknowledges their position** as an observer-in-and-of the system.
+2.  **Gathers data** (story artifacts) that are recognized as constructs of specific Tesseract perspectives (UL, LL, etc.).
+3.  **Intervenes** by helping the system observe and re-author its own constitutive narratives.
+
+This protocol makes second-order cybernetics *actionable*. It transforms abstract theory into a method for conscious system evolution, where the "feedback" being analyzed and adjusted is the very story the system tells about itself.
+
 ### The Cybernetic Mandala: A Living Conclusion
 The Solarpunk Mandala framework is, itself, a cybernetic system. It contains the feedback mechanisms to evolve:
 1.  **It senses its own inadequacy** through community practice and critique (Compatible Frameworks Matrix, Node 09).
