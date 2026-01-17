@@ -278,7 +278,7 @@ The Mandala **transcludes** (doesn't replace) existing systems:
 
 ---
 
-## 📚 Core Framework Documents: The 11 Pillars
+## 📚 Core Framework Documents: The 12 Pillars
 
 | # | Document | Primary Question | Key Deliverable |
 |---|----------|------------------|-----------------|
