@@ -478,7 +478,7 @@ flowchart LR
     T -.->|Integration| W
 ```
 
-### The Spectrum of Conscious Experience: Altered States and Transpersonal Mentations
+## The Spectrum of Conscious Experience: Altered States and Transpersonal Mentations
 
 The proposition that consciousness is fundamental is powerfully validated by the full spectrum of human experience. From the perspective of Analytic Idealism, so-called Altered States of Consciousness (ASCs) are not malfunctions but **critical modes of exploration** into the deeper layers of Mind at Large (MAL). The common distinction between "internal" ideas and "external" substances dissolves; both are instrumental in modulating the localized process of consciousness, inducing what can be termed **"transpersonal mentations"**—shifts in the patterns of experience that transcend the ordinary self.
 
@@ -486,7 +486,7 @@ Crucially, this framework **dissolves the "hard problem" of consciousness**. The
 
 This modulation of conscious experience occurs at two interdependent levels: the **framework of interpretation** and the **process of perception**.
 
-#### 1. Foundational Frameworks: Belief, Ideology, and Media as Onto-Epistemic Software
+### 1. Foundational Frameworks: Belief, Ideology, and Media as Onto-Epistemic Software
 
 In a consciousness-only reality, ideas are not passive abstractions but **active, constitutive patterns** of that consciousness. The beliefs, narratives, and ideologies we internalize function as the fundamental operating parameters for our individual locus within MAL.
 
@@ -494,7 +494,7 @@ In a consciousness-only reality, ideas are not passive abstractions but **active
 *   **Onto-Epistemic Impact:** A rigid, self-sealing belief system creates a **maladaptive filter**—an epistemic trap. This severely limits learning and adaptation, directly causing low **Dialectical Velocity** and fragmentation along the **Soteriological Axis**. Conversely, a flexible, inquisitive framework facilitates growth and integration.
 *   **The Mandala as Counter-Software:** The SolarPunk Mandala framework itself is a designed consciousness technology intended to install a more adaptive, interconnected, and regenerative "onto-epistemic operating system."
 
-#### 2. Instrumental Influences: Consumables and Practices as Modulators of Perception
+### 2. Instrumental Influences: Consumables and Practices as Modulators of Perception
 
 While beliefs configure the *rules of interpretation*, substances and practices more directly modulate the *process of perception*. They are tools that temporarily alter the brain's filtering functions—the *image* of localization within MAL—allowing different patterns of pre-existing conscious content to come into awareness.
 
@@ -528,7 +528,7 @@ Within Analytic Idealism, these transpersonal mentations are not creating consci
 Therefore, the conscious, ethical, and foundationally-grounded use of these influences—both informational and chemical—becomes a legitimate and essential aspect of epistemic inquiry within a SolarPunk future. It is through understanding and wisely navigating this full spectrum that we learn to participate more fully in the conscious reality we inhabit.
 
 
-#### Empirical Support from Developmental Biology
+### Empirical Support from Developmental Biology
 
 Recent work in developmental biology (Levin) suggests that **cognition precedes and enables complex life**. The observation that cellular collectives exhibit goal-directed intelligence—maintaining pattern memories, solving novel problems, and adapting to perturbations—supports the premise that mind-like properties are fundamental to organized matter, not emergent epiphenomena.
 
