@@ -202,7 +202,7 @@ While Analytic Idealism establishes consciousness as fundamental, Enactivism pro
 
 **Key Integration Points:**
 1. **Consciousness as Action:** Rather than "consciousness perceives reality," we adopt "consciousness enacts meaningful worlds through perceptually-guided action"
-2. **Autopoiesis as Self-Production:** Living systems (including communities) maintain their organization through circular self-production—directly mirroring your dialectical phases
+2. **Autopoiesis as Self-Production:** Living systems (including communities) maintain their organization through circular self-production—directly mirroring the Mandala's dialectical phases
 3. **Structural Coupling:** Our continuous interaction with environments shapes both us and the environment—explaining how mandalas co-evolve with communities
 4. **Participatory Sense-Making:** Knowledge emerges *between* agents in interaction, not within isolated minds
 
