@@ -22,6 +22,7 @@ aeo_metadata:
     - "Integral Theory vs Solarpunk Mandala comparison"
     - "Framework integration protocol guide"
     - "Donut Economics Analytic Idealism connection"
+    - "Game B"
   related_nodes:
     - "00-meta-framework-systems-cybernetics.md (the meta-systemic foundation)"
     - "index.md (the overall framework home)"
