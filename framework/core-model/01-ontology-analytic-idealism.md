@@ -208,7 +208,7 @@ While Analytic Idealism establishes consciousness as fundamental, Enactivism pro
 
 **Why This Matters for Solarpunk Mandala:** 
 - Explains how communities literally "bring forth" their Symbiotic Commonwealth through collective action
-- Provides biological grounding for your "Embodied Foundations" protocols
+- Provides biological grounding for the Mandala's "Embodied Foundations" protocols
 - Bridges the apparent gap between idealist ontology and material practice
 
 ### The Practical Payoff for This Project
