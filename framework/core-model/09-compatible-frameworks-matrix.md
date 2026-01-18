@@ -109,6 +109,7 @@ This table provides the primary points of resonance between the Mandala and othe
 | **Narrative Therapy** | Primarily UL Cube (self-narrative), LL Cube (family stories). | Techniques for externalizing and re-authoring problem-saturated stories. | Provides the core clinical methodology for **Narrative Field Audit Phase 4 (Tetralemmic Intervention)** at the individual/family scale. |
 | **Sense-Making / Cynefin** | Maps to the full Tesseract: UL (sense), LL (social), LR (system), UR (data). | Used to diagnose context (complex, chaotic) and guide narrative strategy. | Informs **Phase 2 (Tesseract Mapping)** by providing heuristics for classifying narrative types within complex systems. |
 | **Memetics** | LR Cube (propagation through systems), LL Cube (cultural retention). | Analyzes narrative units ("memes") for fitness, virulence, and replication. | Offers a structural analysis of "narrative code" for understanding **Meta-Narrative** propagation and designing resilient counter-narratives. |
+| **Game B** | **Tesseract (Meta-Perspective Cube 8) & All Four Pathways** | Game B's vision for a post-rivalrous civilization and its meta-protocol approach for navigating complexity resonate deeply with the Mandala's consciousness-first, geometric navigation of civilizational-scale transformation. | Use the Tesseract to model the multi-perspectival nature of civilizational transition (mapping Game B's "hills" to cubes), and apply the Four Pathways to structure Game B community experiments (e.g., *Awakening* to Game A conditioning, *Making* new protocols, *Liberating* from oppressive structures, *Healing* civilizational trauma). |
 
 ```mermaid
 graph TD
@@ -141,6 +142,97 @@ graph TD
     style P fill:#f3e5f5,stroke:#7b1fa2
     style D fill:#fff3e0,stroke:#f57c00
 ```
+
+### Part 2.1: Game B Integration - Civilizational-Scale Application
+
+**Framework Status:** ⚡ **Active Mapping & Proto-Practical Integration**  
+**Synergy Level:** **High** - Game B provides the civilizational-scale container; Mandala provides the ontological foundation, ethical navigation, and structural geometry for its actualization.
+
+#### Tesseract Mapping: Game B Tenets to Geometric Architecture
+
+| Game B Concept | Primary Tesseract Cube | Mandala Intelligence | Explanation of Mapping |
+|----------------|------------------------|----------------------|------------------------|
+| **"Omni-win-win civilization"** | LR (3rd-person exterior, collective) | **POLITICS/ECONOMICS Intelligence** | The LR cube handles collective exterior systems—the precise domain where Game B seeks to transform civilizational structures toward non-rivalrous outcomes. |
+| **"Maximizing human flourishing"** | UL (1st-person interior) & LL (2nd-person interior) | **SPIRITUALITY & CULTURE Intelligences** | Flourishing requires both individual subjective well-being (UL) and shared cultural meaning-making (LL)—the intersection of personal and collective interiority. |
+| **"Meta-protocol for hyper-collaboration"** | Cube 6 (Intersubjective Gateway) | **Spirituality: Community + Politics: Dialogue** | Cube 6 is specifically designed as the medium where "mine becomes ours"—the exact cognitive/social space where hyper-collaboration protocols must operate. |
+| **"Navigating complexity without complicated systems"** | Cube 8 (Meta-Perspective) | **SolarPunk Compass** | This requires the non-perspectival center that can hold multiple irreducible viewpoints simultaneously—the core function of the Meta-Perspective cube. |
+| **"Individual and collective sovereignty"** | ॐ Core (Embodied Foundations) | **Embodied Foundations** | Sovereignty cannot exist without secure foundations of Nourishment, Cleansing, Restoration, and Movement—the pre-requisite boundary conditions for agency. |
+| **"Anti-fragile, scalable civilization"** | Cube 7 (Systemic Emergence Plane) | **Project Design Integration** | Scalability and anti-fragility emerge at the transition point between individual and collective scales, managed by Cube 7's scale-transition mechanics. |
+| **"Freeing oneself from ideology"** | Cube 5 (Dissociation Boundary) | **Ecology + Spirituality: Practice** | This boundary work occurs at the interface where Mind at Large partitions—requiring practices that recognize both ecological embeddedness and spiritual discernment. |
+| **"Building capacity to navigate complexity"** | UR (3rd-person exterior, individual) | **MAN & SHELLS Intelligences** | Individual capacity-building requires attention to both biological needs (MAN) and physical infrastructure/tools (SHELLS) as foundational supports. |
+
+#### Ethical Axes Alignment: Game B Through Mandala Navigation
+
+| Game B Challenge/Goal | Primary Ethical Axis | Mandala Navigation Principle | Practical Integration |
+|------------------------|----------------------|-----------------------------|----------------------|
+| **"How to transition from rivalrous to non-rivalrous dynamics?"** | Axiological Axis (Regeneration) | **Care that expands future possibilities** | Game B's economic/political innovations must be measured against whether they genuinely expand future possibilities for all beings, not just optimize current human systems. |
+| **"Cultivating individual sovereignty in collective context"** | Soteriological Axis (Integration) | **Coherence with authentic intention** | Game B's emphasis on sovereignty maps directly to the Soteriological Axis's work on integrating fragmented selves into coherent, non-contradictory wholes. |
+| **"Creating omni-considerate decision-making"** | Relational Depth Axis (Connection) | **Complexity that honors connection** | "Omni-consideration" requires the capacity to hold radically complex relational webs without simplification—precisely the skill developed through this axis. |
+| **"Addressing intergenerational challenges and long-term thinking"** | Temporal Orientation Axis (Time) | **Courage to repair past and seed future** | Game B's civilizational timeframe requires exceptional temporal literacy—the courage to address historical trauma while planting seeds for centuries ahead. |
+| **"Avoiding multipolar traps and tragedy of the commons"** | All Four Axes (Integrated) | **Tetralemmic navigation** | These systemic failures require simultaneous attention to: integration of selves (Soteriological), regenerative patterns (Axiological), deep relationality (Relational), and long-term responsibility (Temporal). |
+
+```mermaid
+graph TD
+    subgraph Mandala["Mandala Core Components"]
+        T(Tesseract Geometry)
+        E(Ethical Axes)
+        P(Pathways)
+        FF(Foundations)
+    end
+
+    subgraph GameB["Game B Core Constructs"]
+        GB_Flag["Omni-Win Flag<br>Civilizational Vision"]
+        GB_Protocol["Meta-Protocols<br>for Collaboration"]
+        GB_Sov["Sovereignty & Flourishing"]
+        GB_Complexity["Complexity Navigation"]
+    end
+
+    GB_Flag -- "Requires Structural Navigation<br>Maps to" --> T
+    GB_Protocol -- "Needs Ethical Framework<br>Filters through" --> E
+    GB_Sov -- "Depends on Secure Base<br>Requires" --> FF
+    GB_Complexity -- "Operationalized via<br>Engages" --> P
+
+    T -- "Provides Cognitive Architecture for" --> GB_Complexity
+    E -- "Provides Ethical Compass for" --> GB_Protocol
+    FF -- "Ensures Safe Foundation for" --> GB_Sov
+    P -- "Provides Praxis Methods for" --> GB_Flag
+
+    style Mandala fill:#f5f5f5,stroke:#666,stroke-dasharray: 5 5
+    style T fill:#e1f5fe,stroke:#0288d1
+    style E fill:#e8f5e8,stroke:#388e3c
+    style P fill:#f3e5f5,stroke:#7b1fa2
+    style FF fill:#fff3e0,stroke:#f57c00
+    style GameB fill:#f3e5f5,stroke:#7b1fa2,color:#333
+```
+
+#### Protocol Integration Matrix for Game B Praxis
+
+| Game B Practice/Need | Mandala Protocol/Tool | Integration Method |
+|----------------------|----------------------|-------------------|
+| **Game B community formation & governance** | `guides/facilitator-toolkit/` + `guides/protocols/00-embodied-foundations-audit.md` | Before establishing Game B governance protocols, communities must first assess and secure their Four Embodied Foundations (Threshold Principle). |
+| **"Feeling way forward" experimentation** | Pathway: **Awakening (*Conscientização*)** | The critical consciousness work of deconstructing Game A conditioning is prerequisite for effective Game B experimentation. |
+| **Building alternative economic systems** | Pathway: **Making (*Capacitação*)** + `tools/protocols/02-project-design-worksheet.md` | Regenerative economic prototyping follows the Making pathway's capacity-building framework, using the project design worksheet for iteration. |
+| **Addressing power dynamics & liberation** | Pathway: **Liberation (*Liberação*)** | Dismantling oppressive structures within Game B communities themselves requires the explicit Liberation pathway methodologies. |
+| **Healing intergenerational trauma** | Pathway: **Healing (*Cura*)** + `knowledge_base/circles/` | Game B's long-term orientation necessitates healing historical and intergenerational wounds that replicate in systems. |
+| **Sensing and responding to complexity** | **Rhizomatic Network** + **Dialectical Phases** | The Mandala's feedback infrastructure and 4D temporal unfolding provide the real-time responsive capacity Game B needs for complex navigation. |
+
+#### Unique Contributions & Reciprocal Benefits
+
+**What Mandala Offers Game B:**
+- **Explicit Falsifiability & Safety Protocols**: The **Threshold Principle** and **Boundary Medicine** as concrete, operational safety protocols to prevent ethical bypassing during civilizational experimentation.
+- **Consciousness-First Foundation**: **Analytic Idealism** as a rigorous, scientifically-engaged ontology that explains *why* consciousness and values are fundamental.
+- **Geometric Navigation Tool**: The **Tesseract** as a practical "cognitive prosthetic" for dimensional literacy—turning abstract complexity into navigable geometry.
+- **Scale-Free Validation**: **Material Intelligence** and scale-free cognition principles that expand collaboration to include biological and ecological intelligence.
+
+**What Game B Offers the Mandala:**
+- **Civilizational-Scale Testing Ground**: Real-world, cross-cultural communities actively experimenting with post-Game A systems.
+- **Meta-Protocol Community**: A community already thinking in the modular, recursive patterns that the Mandala's rhizomatic network requires.
+- **Existing Network & Discourse**: Connection to an active global network of practitioners aligned with regenerative transformation.
+
+#### Integration Warnings & Boundary Conditions
+1. **Threshold Principle is Non-Negotiable**: Game B communities must score ≥2/5 on all Four Embodied Foundations before engaging in civilizational-scale prototyping.
+2. **Game B as Application, Not Replacement**: The Mandala is the meta-framework; Game B is one (powerful) civilizational-scale application.
+3. **Avoid Conceptual Blurring**: Maintain clarity: Mandala focuses on **consciousness-geometry-ethics** foundations; Game B on **civilizational-scale social systems**.
 
 ---
 
