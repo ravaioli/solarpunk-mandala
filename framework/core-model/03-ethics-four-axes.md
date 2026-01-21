@@ -278,9 +278,13 @@ graph TB
 
 ---
 
-## **Integration: The Ethical Tesseract**
+## **Integrative Analytical Frameworks**
+
+To navigate these spectra in complex reality, we use complementary models: the Ethical Tesseract for internal geometric mapping and MAPS for analyzing the external political architecture.
 
 The four axes interact in multidimensional space, creating an "ethical tesseract" of possible boundary configurations. Each ethical decision exists in this 4D space, with implications across all dimensions.
+
+### **Framework A: The Ethical Tesseract (Internal Geometry)**
 
 ```mermaid
 graph TD
@@ -314,7 +318,51 @@ graph TD
     style Patterns fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
 ```
 
-### The Ethical Compass: A Quick-Reference Tool
+### **Framework B: The MAPS Diagnostic (Political Architecture)**
+
+#### Introduction to MAPS (Multi-Axial Political System)
+The Multi-Axial Political System (MAPS) framework provides a diagnostic lens for analyzing the often-invisible political architecture within which ethical boundary work occurs. It posits that political ideologies and systems can be mapped along four independent, orthogonal spectra. These configurations form the structural "substrate" that pre-configures collective boundaries, heavily influencing where a community or society naturally lands on the Mandala's ethical axes. Understanding this substrate is essential for transforming ethical navigation into systemic transformation.
+
+#### MAPS as a Diagnostic Tool for Boundary Analysis
+Before consciously configuring boundaries toward Solarpunk values, we must diagnose the existing political operating system. MAPS provides this diagnostic lens by revealing the core logics that shape system behavior:
+
+1.  **Identify Systemic Contradictions**: A system may profess *Cooperation* (ethical axis) while being built on a political substrate of *Supremacy* (MAPS axis), creating inherent strain, ethical dissonance, and inevitable "bypassing."
+2.  **Pinpoint High-Leverage Intervention**: Shifting a system from *Extractive* to *Regenerative* requires fundamentally different strategies if the driver is *Expansionist* resource hunger versus a *Particularist* fear of scarcity. MAPS identifies the primary driver.
+3.  **Anticipate Resistance and Alignment**: Movements toward ethical *Openness* will face categorically different resistance in an *Isolationist* system (fear of contamination) versus a *Universalist* one (fear of losing cultural coherence).
+
+#### Interaction of MAPS Axes with Ethical Boundaries
+The following table outlines how the core spectra of political architecture inform and shape the four primary ethical boundary configurations.
+
+| MAPS Axis & Spectrum | Informs Ethical Axis | Core Boundary Insight |
+| :--- | :--- | :--- |
+| **Exceptionalism ↔ Normality**<br>(Claim of uniqueness) | **Adaptation vs. Domination** | A rigid, high-exceptionalism substrate resists *Adaptation* (seen as dilution) and leans toward imposing its model (*Domination*). Healthy, reflexive exceptionalism can fuel innovative, context-aware *Adaptation*. |
+| **Supremacy ↔ Pluralism**<br>(Claim of hierarchy) | **Cooperation vs. Competition**<br>**Regeneration vs. Extraction** | A *Supremacist* substrate necessitates *Competition* to enforce hierarchy and ethically justifies *Extraction* from "lesser" groups. Moving toward *Pluralism* is a non-negotiable prerequisite for deep cooperation and regenerative ethics. |
+| **Universalism ↔ Particularism**<br>(Scope of application of values) | **Openness vs. Closure** | *Universalist* motives must be scrutinized: they can justify imposing values (ethical *Closure*) or expanding care (ethical *Openness*). *Particularism* can justify insularity (*Closure*) or deep, localized stewardship (contextual *Openness*). |
+| **Expansionism ↔ Isolationism**<br>(Outward vs. inward impulse) | **All Axes** (A meta-influence) | *Expansionism* driven by supremacy and extraction leads to ethical domination. The same outward impulse, if driven by a universalist ethic of care, could manifest as regenerative cooperation. MAPS analyzes the core driver. |
+
+#### MAPS Expository: Deepening Dimensional Literacy
+The MAPS framework contributes critical depth to the Mandala's dimensional literacy in three key ways:
+
+*   **Relational Intelligence**: MAPS treats political ideologies not as monolithic blocks but as points in a **relational lattice**. This directly operationalizes the Mandala's view of reality as a network of conscious relationships. Ethical praxis thus becomes the work of consciously navigating and re-weaving this political-relational lattice toward greater coherence.
+*   **Non-Binary Analysis**: Crucially, MAPS axes are *orthogonal* (independent). A system can be high on *Exceptionalism* (uniqueness) while low on *Supremacy* (hierarchy). This prevents the "ethical closure" of simplistic, binary (e.g., left/right) political thinking and allows for precise diagnosis of paradoxical system behaviors that confound standard analysis.
+*   **Informing the Tesseract**: The MAPS lattice provides a detailed coordinate system for political consciousness that can be mapped onto the Mandala's Tesseract. It most directly informs the **LR (3rd-person collective: POLITICS, SYSTEMS)** and **LL (2nd-person interior: CULTURE, IDENTITY)** cubes, giving granularity to how collective boundary configurations crystallize into tangible structures and shared narratives.
+
+#### Practical Integration: A MAPS-Ethical Assessment Protocol
+Use this four-step protocol to conduct a combined diagnostic of a system's political architecture and its ethical manifestations.
+
+```mermaid
+flowchart TD
+    A[Start: MAPS-Ethical Assessment] --> B[Step 1: Political Diagnostic<br>Analyze dominant configuration<br>across 4 MAPS axes]
+    B --> C[Step 2: Ethical Alignment Check<br>Identify which ethical poles<br>are incentivized/suppressed]
+    C --> D[Step 3: Leverage Point Analysis<br>Find most mutable MAPS axis<br>& key ethical shift]
+    D --> E[Step 4: Conscious Reconfiguration<br>Design boundary intervention<br>targeting leverage point]
+    E --> F[Output: Strategic Pathway for<br>Systemic Ethical Transformation]
+
+    style A fill:#f0f4ff,stroke:#4a6bff
+    style F fill:#e8f7ec,stroke:#2ecc71
+```
+
+#### The Ethical Compass: A Quick-Reference Tool
 
 ```markdown
             REGENERATION
@@ -329,7 +377,6 @@ CENTER: Current ethical position
 ARROWS: Available movement along each axis
 ```
 
-
 **Using the Compass:**
 1. **Locate** your current position for a given situation
 2. **Identify** desired movement along each axis
@@ -338,7 +385,11 @@ ARROWS: Available movement along each axis
 
 ---
 
-## **Practical Applications**
+## **Practical Applications & Protocol**
+
+These frameworks converge in practical boundary work. The following protocol and examples operationalize the axes.
+
+### **The Primary Tool: Ethical Decision Protocol (5-Step Boundary Work)**
 
 ```mermaid
 flowchart TD
@@ -398,6 +449,7 @@ flowchart TD
     classDef process fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
 ```
 
+---
 
 ### **Ethical Decision Protocol: A Boundary Work Practice**
 
@@ -428,6 +480,19 @@ For each of the four axes:
 - Monitor for emergent patterns
 - Adjust based on feedback from the system
 
+---
+
+### **Application Across Scales: From Individual to Systemic**
+
+| **Axis** | **MAN (Biological)** | **SHELLS (Built)** | **NETWORKS (Social)** | **PRACTICE (Spiritual)** |
+|----------|----------------------|---------------------|-----------------------|--------------------------|
+| **Regen/Extract** | Soil health, nutrition | Energy-positive buildings | Mutual aid vs charity | Energy exchange in ritual |
+| **Coop/Compete** | Symbiosis in microbiome | Co-housing design | Consensus governance | Collaborative ceremony |
+| **Adapt/Dominate** | Permaculture principles | Modular, adaptable architecture | Emergent leadership | Surrender to divine will |
+| **Open/Closed** | Genetic diversity, microbiome | Open-source designs, repairability | Transparent governance | Ecstatic dissolution of ego |
+
+---
+
 ### **Solarpunk Scenarios: Applying the Four Axes**
 
 #### **Scenario 1: Community Energy Decision**
@@ -447,17 +512,6 @@ For each of the four axes:
 - **Axis 2**: Cooperative consensus (everyone's voice) vs competitive politics (winners take all)
 - **Axis 3**: Adaptive governance (responds to needs) vs rigid bureaucracy (enforces rules)
 - **Axis 4**: Open transparent processes (everyone can see) vs closed decision-making (few decide)
-
----
-
-## **Ethics Across Domains: The Ekistic-Spiritual Mapping**
-
-| **Axis** | **MAN (Biological)** | **SHELLS (Built)** | **NETWORKS (Social)** | **PRACTICE (Spiritual)** |
-|----------|----------------------|---------------------|-----------------------|--------------------------|
-| **Regen/Extract** | Soil health, nutrition | Energy-positive buildings | Mutual aid vs charity | Energy exchange in ritual |
-| **Coop/Compete** | Symbiosis in microbiome | Co-housing design | Consensus governance | Collaborative ceremony |
-| **Adapt/Dominate** | Permaculture principles | Modular, adaptable architecture | Emergent leadership | Surrender to divine will |
-| **Open/Closed** | Genetic diversity, microbiome | Open-source designs, repairability | Transparent governance | Ecstatic dissolution of ego |
 
 ---
 
