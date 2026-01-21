@@ -225,5 +225,5 @@ This model synthesizes heterodox economic thought with cutting-edge informatics 
 11. **Case Study:** The **Wörgl Experiment** (1932-1933). Historical precedent for demurrage currency.
 12. **Case Study:** **Community Land Trusts** and **Cohousing Models**. Practical precedents for UBP housing and communal resource management.
 13. **North, P.** (2010). *Local Money: How to Make it Happen in Your Community*. Green Books. *(Practical guide to the phases and challenges of launching complementary currencies)*.
-*   **Wright, S.** (2019). *Storming Heaven: Class Composition and Struggle in Italian Autonomist Marxism*. Pluto Press. *(Theoretical history of autonomist strategies, including counter-planning and refusal of work)*.
-*   **Albert, M.** (2003). *Parecon: Life After Capitalism*. Verso. *(While focused on a different model, provides useful discussion on prefiguring economic alternatives and meeting needs outside capitalism)*.
+14. **Wright, S.** (2019). *Storming Heaven: Class Composition and Struggle in Italian Autonomist Marxism*. Pluto Press. *(Theoretical history of autonomist strategies, including counter-planning and refusal of work)*.
+15. **Albert, M.** (2003). *Parecon: Life After Capitalism*. Verso. *(While focused on a different model, provides useful discussion on prefiguring economic alternatives and meeting needs outside capitalism)*.
