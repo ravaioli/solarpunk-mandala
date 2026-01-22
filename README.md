@@ -4,6 +4,8 @@
 
 **Framework Version**: 1.0 | **License**: MIT | **Repository**: https://github.com/ravaioli/solarpunk-mandala
 
+![SolarPunk Mandala](https://github.com/ravaioli/solarpunk-mandala/blob/main/framework/arena/tesseract/mandala.avif)
+
 ---
 
 ```mermaid
