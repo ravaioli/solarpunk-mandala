@@ -77,7 +77,7 @@ The following cohorts constitute the primary nodes in the Game A rhizome. Each m
     *   This creates a **"perspective filter"** where policy options aligning with donor interests receive more funding, research, and promotion.
 
 ### 3.2 Case Study 2: Capital Conduits - The Cayman-Dubai Axis
-*   **Research Objective:** To解剖 the specific legal and financial mechanisms by which capital flows through the hybrid offshore-onshore network.
+*   **Research Objective:** To dissect the specific legal and financial mechanisms by which capital flows through the hybrid offshore-onshore network.
 *   **Methodology:**
     1.  **Structural Mapping:** Analyze standard fund and SPV structures domiciled in the Cayman Islands.
     2.  **Service Provider Mapping:** Identify key law firms, auditors, and administrators that operate in both jurisdictions.
