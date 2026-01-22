@@ -1,7 +1,5 @@
 # 🪷 Solarpunk Mandala: A Unified Framework for Conscious Regeneration
 
-इदं न मम
-
 **A consciousness-first, systems-based architecture for regenerating human and ecological systems across all scales—from cells to civilizations.**
 
 **Framework Version**: 1.0 | **License**: MIT | **Repository**: https://github.com/ravaioli/solarpunk-mandala
@@ -359,3 +357,7 @@ This is **practicable mysticism**: the ancient insight of unity consciousness ma
 The Mandala meets you where you are, but won't let you bypass what's needed.
 
 **Welcome to conscious systems design.**
+
+इदं न मम
+
+---
