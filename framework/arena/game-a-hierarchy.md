@@ -156,3 +156,55 @@ sequenceDiagram
     D->>C: Appointment of Directors
     C->>W: Legal Title / Ownership
 ```
+
+*  **Diagram 4: The Revolving Door Between Game A Cohorts**
+
+```mermaid
+flowchart TD
+    subgraph Gov [Government & Regulation]
+        direction LR
+        A[Elected Officials]
+        B[Senior Regulators]
+        C[Diplomats / Agency Heads]
+    end
+
+    subgraph MIC [Military-Industrial-Intelligence Complex]
+        direction LR
+        D[Defense Contractors<br>e.g., Lockheed Martin, Raytheon]
+        E[Private Security Firms<br>e.g., Wagner, Academi]
+        F[Intelligence Agencies<br>e.g., CIA, Mossad]
+    end
+
+    subgraph Corp [Transnational Corporations]
+        direction LR
+        G[Corporate Boards]
+        H[Lobbying & Public Affairs]
+        I[Consultancies<br>e.g., McKinsey, Palantir]
+    end
+
+    subgraph TM [Think Tanks & Media]
+        direction LR
+        J[Policy Institutes<br>e.g., Atlantic Council, Brookings]
+        K[Media Conglomerates<br>e.g., News Corp, Bolloré]
+    end
+
+    %% Primary Revolving Door Flows
+    Gov -- "Post-Service<br>Board Positions / Consulting" --> Corp
+    Corp -- "Lobbyists Appointed to<br>Regulatory Roles" --> Gov
+
+    Gov -- "Retired Generals / Officials<br>to Defense Boards" --> MIC
+    MIC -- "Contractors to<br>Pentagon Advisory Roles" --> Gov
+
+    Corp -- "Funding & Commissioned Research" --> TM
+    TM -- "Scholars to Government<br>Advisory Posts" --> Gov
+    TM -- "Analysts to<br>Corporate Strategy" --> Corp
+
+    MIC -- "Contractors Fund<br>Security Studies" --> TM
+    Gov -- "Officials to<br>Fellowships / Commentary" --> TM
+
+    style Gov fill:#f9d5d5
+    style MIC fill:#d5e8f9
+    style Corp fill:#f9f1d5
+    style TM fill:#e6d5f9
+```
+---
