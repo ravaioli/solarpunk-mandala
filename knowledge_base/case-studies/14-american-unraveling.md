@@ -24,6 +24,40 @@ The ICE node is structurally insulated from accountability and public oversight:
 *   **Erosion of Oversight:** The Trump administration has effectively eliminated key DHS oversight bodies like the Office of the Immigration Ombudsman[citation:6]. ICE has repeatedly denied members of Congress access to detention facilities, flouting federal law[citation:6].
 *   **Systemic Abuses:** Reports from detention centers like "Alligator Alcatraz" in Florida document systematic constitutional violations, including denial of religious texts and chaplaincy services[citation:9]. A U.S. Commission on Civil Rights investigation found pervasive barriers to religious practice in carceral facilities[citation:9].
 
+```mermaid
+flowchart TD
+    A["U.S. Immigration and Customs Enforcement<br>(ICE)<br><i>Core Game A Node</i>"]
+    
+    A -- "Contracts & Funding Flow" --> B["For-Profit Carceral Corporations<br>(CoreCivic, GEO Group)"]
+    B -- "Lobbying & Political Patronage" --> A
+    
+    A -- "Delegates Authority via 287(g)" --> C["Local/State Law Enforcement"]
+    C -- "Acts as Force Multiplier" --> A
+    
+    A -- "Purchases Data & Targeting Tools" --> D["Surveillance & Data Firms<br>(e.g., Palantir)"]
+    D -- "Provides 'ELITE' System / Dossiers" --> A
+    
+    A -- "Requests & Receives Budget" --> E["Federal Budget &<br>Political Patronage"]
+    E -- "Tripled Budget / $45B for Beds" --> A
+
+    F["Doctrines of Qualified Immunity"] --> A
+    G["Erosion of Oversight Bodies"] --> A
+    H["Narrative of 'Security Threat'"] --> A
+
+    subgraph Z [Legal & Political Insulation]
+        F
+        G
+        H
+    end
+
+    style A fill:#ff9999,stroke:#b30000,stroke-width:3px
+    style B fill:#ffcc99,stroke:#333
+    style C fill:#ccffcc,stroke:#333
+    style D fill:#ccccff,stroke:#333
+    style E fill:#ffccff,stroke:#333
+    style Z fill:#f9f9f9,stroke:#999,stroke-dasharray: 5 5
+```
+
 ## 2. Mapping the Counter-Rhizome: Abolitionist Movements & Dual Power
 
 The movement to "Abolish ICE" is not merely a protest slogan but a growing ecosystem building **dual power**—creating institutions that meet community needs while directly contesting the legitimacy of the carceral state.
@@ -132,6 +166,47 @@ The U.S. state node is not monolithic but riddled with conflicts that the counte
 *   **Federalism vs. Federal Power:** The clash between **sanctuary jurisdictions** (states/cities limiting cooperation with ICE) and federal mandates is a primary fracture. Lawsuits, like those filed by Newark and Leavenworth against private prison expansions, demonstrate this struggle[citation:6].
 *   **Judicial & Institutional Dissent:** Judges have issued conflicting rulings on ICE's powers[citation:1]. Internal dissent exists within faith institutions (e.g., Catholic bishops)[citation:9] and among some law enforcement officials who view 287(g) as detrimental to community trust.
 *   **Economic Vulnerabilities:** The private prison model, while powerful, is vulnerable to **divestment campaigns** and litigation over labor practices (e.g., GEO Group being forced to pay $23M in back wages)[citation:6]. The system's massive cost ($45B for beds alone)[citation:6] is a potential political liability.
+
+```mermaid
+flowchart TD
+    subgraph US_State[U.S. State Node - Internal Fractures]
+        direction LR
+        FED[Federal Power<br>DHS/ICE Mandate]
+        FEDISM[Federalism Conflict]
+        JUD[Judicial & Legal Dissent]
+        INS[Institutional Dissent]
+        ECO[Economic & Structural Vulnerabilities]
+    end
+
+    subgraph Counter_Rhizome[Abolitionist Counter-Rhizome Leverage]
+        SANCT[Sanctuary Policies<br>State/Local Non-Cooperation]
+        LIT[Strategic Litigation<br>& Court Challenges]
+        NARR[Narrative & Public<br>Moral Pressure]
+        DIVEST[Divestment & Economic<br>Pressure Campaigns]
+    end
+
+    FEDISM -- “Primary Constitutional Fracture<br>Conflict over Enforcement” --> FED
+    SANCT -- “Exploits Federalism<br>Creates Enforcement 'Deserts'” --> FEDISM
+
+    JUD -- “Conflicting Rulings on ICE Powers<br>Qualified Immunity Challenges” --> FED
+    LIT -- “Files Suits to Invalidate<br>287g & Detainer Policies” --> JUD
+
+    INS -- “Faith Leader Condemnation<br>Law Enforcement Whistleblowers” --> FED
+    NARR -- “Amplifies Internal Critique<br>Frames Issue as Moral Crisis” --> INS
+
+    ECO -- “Massive $45B Cost Liability<br>Private Prison Profit Motive” --> FED
+    DIVEST -- “Targets Corporate Contracts<br>& Municipal Financing” --> ECO
+
+    style US_State fill:#f0f0f0,stroke:#666,stroke-width:2px
+    style Counter_Rhizome fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style FED fill:#ffebee,stroke:#c62828
+    style FEDISM fill:#fff3e0,stroke:#ef6c00
+    style JUD fill:#e8f5e8,stroke:#2e7d32
+    style INS fill:#f3e5f5,stroke:#7b1fa2
+    style ECO fill:#e0f7fa,stroke:#006064
+```
+
+*Diagram: This flowchart maps the primary fractures within the U.S. state apparatus related to immigration enforcement and illustrates how the abolitionist counter-rhizome applies strategic pressure at these points of vulnerability.*
 
 ## 4. Theorizing the Transition Pathway: From Dismantling to Regenerative Institution-Building
 
