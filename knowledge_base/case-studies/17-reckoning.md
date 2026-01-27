@@ -272,3 +272,26 @@ The Prosecutorial Commission respectfully requests the Tribunal to summon repres
 **Date:** 27 January 2026
 **For the Prosecutorial Commission:**
 [Signature Line for Lead Community Advocates]
+
+---
+
+## VI. References & Citations
+
+### Theoretical & Philosophical Foundations
+1.  Balkin, Jack M., and Sanford Levinson. 2025. "The Problem of 'Popular' 'Sovereignty'." SSRN, September 14, 2025. https://ssrn.com/abstract=5489146.
+2.  "Habermas, Popular Sovereignty, and the Legitimacy of Law." 2024. *Legal Theory* 35: 237–256. https://link.springer.com/article/10.1007/s10978-023-09358-1.
+
+### Transitional Justice Frameworks & Practice
+3.  International Center for Transitional Justice (ICTJ). n.d. "Criminal Justice." Accessed January 27, 2026. https://www.ictj.org/criminal-justice.
+4.  United Nations Security Council. n.d. "International Tribunals." *Repertoire of the Practice of the Security Council*. Accessed January 27, 2026. https://main.un.org/securitycouncil/en/content/repertoire/international-tribunals.
+
+### Evidence for Systemic Analysis & Sample Indictment
+5.  AP News. 2026. "Immigration officers assert sweeping power to enter homes without a judge's warrant, memo says." January 26, 2026. https://apnews.com/article/ice-arrests-warrants-minneapolis-trump-00d0ab0338e82341fd91b160758aeb2d.
+6.  ABC News. 2025. "ICE memo allows agents to enter homes without judicial warrant: Whistleblower complaint." December 20, 2025. https://abcnews.go.com/US/ice-memo-allows-agents-enter-homes-judicial-warrant/story?id=129436766.
+
+### International Legal Standards & Definitions
+7.  Cornell Law School Legal Information Institute (LII). n.d. "crime against humanity." *Wex*. Accessed January 27, 2026. https://www.law.cornell.edu/wex/crime_against_humanity.
+8.  Wikipedia contributors. 2026. "Crimes against humanity." *Wikipedia*. Last modified January 26, 2026. https://en.wikipedia.org/wiki/Crimes_against_humanity.
+
+### Historical Tribunal Precedents
+9.  United Nations International Criminal Tribunal for the former Yugoslavia (ICTY). n.d. "Achievements." Accessed January 27, 2026. https://www.icty.org/en/about/tribunal/achievements.
