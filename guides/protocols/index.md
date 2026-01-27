@@ -34,6 +34,18 @@ This protocol translates Mandala principles into the rhythmic fabric of daily li
 *Mapping Bioregional Nourishment*  
 This specialized audit tool diagnoses a community's food ecology through the integrated lenses of Solarpunk ethics and Ayurvedic wisdom. It generates a "Food Mandala Map" to reveal leverage points for enhancing food sovereignty, personal health, and systemic resilience.
 
+**Protocol 7: Regenerative Governance Design**  
+*Weaving Power, Wisdom, and Care*  
+This protocol provides a framework for designing governance systems that distribute power while maintaining cohesion. It maps governance through the Mandala's fourfold lens (Power, Wisdom, Care, Emergence) to create adaptive, participatory decision-making structures aligned with regenerative principles.
+
+**Protocol 8: Conflict Transformation**  
+*Turning Friction into Fractal Growth*  
+This protocol treats conflict not as pathology but as data about system boundaries and unmet needs. It provides a structured process for moving conflict through four regenerative stages (Surfacing→Mirroring→Weaving→Integration), transforming tension into collective wisdom and stronger relational fabric.
+
+**Protocol 9: Symbiotic Economics**  
+*Designing Value Flows That Regenerate*  
+This protocol guides communities in mapping and redesigning their economic systems using biomimetic principles. It focuses on creating circular value flows, mutual credit systems, and regenerative enterprises that strengthen rather than extract from social and ecological capital.
+
 ## Protocol Selection Guide
 
 | When to Activate | Primary Protocol | Foundation Requirements & Notes |
@@ -45,12 +57,15 @@ This specialized audit tool diagnoses a community's food ecology through the int
 | **Narrative blockages**, historical stuckness, cultural amnesia | **Protocol 4** | **Critical:** Cleansing & Restoration ≥3.0. Requires a strong container. |
 | **Establishing/reforming daily culture**, recovering from chaos, seasonal shifts | **Protocol 5** | Restoration ≥3.5 for communal practice. Focus on Core Rhythmic Anchors. |
 | **Assessing food sovereignty**, aligning diet with place, seasonal eating shift | **Protocol 6** | Nourishment ≥3.0. Ideal at solstice/equinox or when relocating. |
+| **Designing or reforming decision-making structures**, scaling beyond intimacy | **Protocol 7** | All foundations ≥3.0, especially Restoration ≥3.5 for trust container. |
+| **Emerging conflicts**, tension at boundaries, integration of difference | **Protocol 8** | **Critical:** Cleansing ≥3.5 for emotional safety. Restoration ≥4.0 for relational repair capacity. |
+| **Economic system redesign**, launching enterprises, creating local currency | **Protocol 9** | Economics Circle focus. All foundations ≥3.0, Nourishment ≥3.5 for economic stability. |
 
 ## Key Integration Principles
 
 **Embodied Foundations First:** No protocol can proceed without stable foundations. If foundations score below threshold requirements, all other work pauses until foundations are restored via Protocol 0 or Protocol 3.
 
-**Non-Linear, Recursive Flow:** While protocols follow a logical sequence (0→1→2, etc.), communities may move between them based on needs. Protocol 3 can interrupt any sequence during a crisis. Protocols 4, 5, and 6 are often activated cyclically (seasonally) or in response to specific triggers identified in Protocol 1.
+**Non-Linear, Recursive Flow:** While protocols follow a logical sequence (0→1→2, etc.), communities may move between them based on needs. Protocol 3 can interrupt any sequence during a crisis. Protocols 4-9 are often activated cyclically (seasonally) or in response to specific triggers identified in Protocol 1.
 
 **Pathway Activation:** Each protocol activates specific Mandala Pathways based on its focus:
 *   **Protocol 0** primarily activates **Healing (Cura)**
@@ -60,6 +75,9 @@ This specialized audit tool diagnoses a community's food ecology through the int
 *   **Protocol 4** deeply engages **Healing (Cura)** and **Liberation (Liberação)**
 *   **Protocol 5** embodies the **Path of Integration**, weaving all pathways into daily practice
 *   **Protocol 6** applies **Awakening (Conscientização)** and **Making (Capacitação)** to a specific subsystem
+*   **Protocol 7** integrates **Liberation (Liberação)** with **Making (Capacitação)** for power structures
+*   **Protocol 8** centers **Healing (Cura)** while engaging **Awakening (Conscientização)** for awareness
+*   **Protocol 9** weaves **Making (Capacitação)** with **Liberation (Liberação)** for economic transformation
 
 **Boundary Medicine:** All protocols include boundary medicine practices that heal dissociation between:
 *   Individual and collective
@@ -69,8 +87,16 @@ This specialized audit tool diagnoses a community's food ecology through the int
 *   Memory and present action (P4)
 *   Daily routine and cosmic cycles (P5)
 *   Consumer and bioregional participant (P6)
+*   Power and care in governance (P7)
+*   Self-protection and connection in conflict (P8)
+*   Exchange and regeneration in economics (P9)
 
 **Living Documentation:** Every protocol implementation contributes to the community's Living Archive and Rhizomatic Network, creating a wisdom repository that evolves with practice.
+
+**New Integration Patterns:**
+- **Governance-Conflict-Economics Triad:** Protocols 7, 8, and 9 form a crucial integration cycle for mature communities. Design governance (P7), navigate conflict that emerges (P8), and align economic flows (P9) in iterative cycles.
+- **Economic-Conflict Feedback Loop:** Economic systems (P9) often reveal underlying conflicts (P8) about values, resources, and power.
+- **Governance-Foundations Feedback:** Governance design (P7) regularly requires revisiting foundations (P0) as community scales.
 
 > "The most radical thing we can do is remember that we belong to each other."
 > — Solarpunk Sangha
@@ -85,3 +111,19 @@ This specialized audit tool diagnoses a community's food ecology through the int
 6.  Connect with a Community Pod for implementation support.
 
 The protocols are not rigid rules but living practices—continuously refined through community wisdom and embodied experience. As you work with them, contribute your insights to the Living Archive to help the framework evolve.
+
+---
+
+## Protocol Resources
+
+Complete protocol guides:
+- `/guides/protocols/00-embodied-foundations-audit.md`
+- `/guides/protocols/01-settlement-health-assessment.md`
+- `/guides/protocols/02-project-design-integration.md`
+- `/guides/protocols/03-crisis-response-framework.md`
+- `/guides/protocols/04-memory-protocol-integration.md`
+- `/guides/protocols/05-dinacharya-daily-rhythms.md`
+- `/guides/protocols/06-local-food-audit.md`
+- `/guides/protocols/07-governance-design.md`
+- `/guides/protocols/08-conflict.md`
+- `/guides/protocols/09-symbiotic-economics.md`
