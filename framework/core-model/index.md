@@ -32,57 +32,10 @@ The Mandala is designed for multiple learning styles and goals. Choose your path
 
 | Path | Who It’s For | Recommended Start | Key Documents |
 |------|--------------|-------------------|---------------|
-| **🧠 Theorist / Researcher** | Academics, systems thinkers, philosophers | 00 → 01 → 02 → 10 | Foundation & Cybernetics |
-| **🛠️ Practitioner / Designer** | Community organizers, facilitators, activists | 03 → 05 → 07 → 08 | Pathways & Material/Multiple Intelligences |
-| **🌱 Community Facilitator** | Co-op leaders, educators, workshop designers | 05 → 09 → 03 | Protocols, Assessments, Case Studies |
+| **🧠 Theorist / Researcher** | Academics, systems thinkers, philosophers | 00 → 01 → 02 → 10 → 11 | Foundation, Cybernetics & Narrative Intelligence |
+| **🛠️ Practitioner / Designer** | Community organizers, facilitators, activists | 03 → 05 → 07 → 08 → 11 | Pathways, Intelligences & Narrative Integration |
+| **🌱 Community Facilitator** | Co-op leaders, educators, workshop designers | 05 → 09 → 03 → 11 | Protocols, Ethics & Narrative Field Audit |
 
----
-
-## 🗺️ Logical Architecture of the Core Model
-
-The framework is constructed as a series of nested, logical derivations:
-
-```mermaid
-graph TD
-    A["00: Cybernetic Meta-Framework<br/>(Rules of Engagement)"] --> B
-    B["01: Analytic Idealism<br/>(Foundational Axiom)"] --> C
-    C["02: Tesseract Model<br/>(Epistemic Bridge)"] --> D
-    C --> E
-    D["03: Four Ethical Axes<br/>(Derived Principles)"] --> F
-    E["04: Dialectical Phases<br/>(Dynamic Process)"] --> F
-    F["05: Mandala & Four Pathways<br/>(Synthesized Praxis)"] --> G
-    G["06: Geometric Unpacking<br/>(Structural Validation)"]
-    
-    B --> H["07: Material Intelligence<br/>(Downward Application)"]
-    B --> I["08: Multiple Intelligences<br/>(Inward Application)"]
-    
-    F -.-> J["09: Compatible Frameworks<br/>(External Validation)"]
-    
-    A -.-> K["10: Cybernetic Foundations<br/>(Recursive Closure)"]
-    F -.-> K
-    H -.-> K
-    I -.-> K
-
-    %% NEW MODEL 11: THE INTEGRATIVE CAPSTONE
-    K --> L["11: Narrative Intelligence<br/>(Semantic Capstone)"]
-    F --> L
-    C -.-> L
-    D -.-> L
-    
-    L -.-> B["01: Analytic Idealism<br/>(Feedback: Meaning-Making)"]
-    L -.-> C["02: Tesseract Model<br/>(Feedback: Narrative Modes)"]
-
-    %% SIMPLE LEGEND
-    subgraph Legend [Key]
-        direction TB
-        L1["--> = Derived from / Built upon"]
-        L2["-.-> = Reinforces / Validates"]
-        L3["Model 11 = Integrates & Provides<br/>Semantic Feedback"]
-        style L1 fill:#f5f5f5,stroke:#666
-        style L2 fill:#f5f5f5,stroke:#666
-        style L3 fill:#e1f5fe,stroke:#01579b
-    end
-```
 ---
 
 ## 📐 Conceptual Architecture: A Guided Journey
@@ -104,14 +57,14 @@ These documents establish the *systems science context*, the *why*, and the *how
 
 *   **[02 - Epistemic Architecture: The Tesseract](./02-epistemic-architecture-tesseract.md)**  
     *📄 Read time: 25 min*  
-    **Purpose:** Introduces the 4D hypercube (Tesseract) as the central geometric metaphor for managing complexity and multiple perspectives. Now includes **scale-free cognition** as scientific validation for its multi-scale logic.  
+    **Purpose:** Introduces the 4D hypercube (Tesseract) as the central geometric metaphor for managing complexity and multiple perspectives. Now includes **scale-free cognition** as scientific validation for its multi-scale logic.
 
 ### 2. Core: Ethics, Time, & Pathways
 This section defines the core dynamics of change—the ethical directions of growth, the temporal stages of development, and the actionable gateways for intervention.
 
 *   **[03 - Ethics: The Four Axes of Transformation](./03-ethics-four-axes.md)**  
     *📄 Read time: 18 min*  
-    **Purpose:** Defines the four primary ethical dimensions (Soteriological, Axiological, Relational Depth, Temporal Orientation) that guide transformation. Introduces the **Embodied Foundations** and the critical **Threshold Principle**.  
+    **Purpose:** Defines the four primary ethical dimensions (Soteriological, Axiological, Relational Depth, Temporal Orientation) that guide transformation. Introduces the **Embodied Foundations** and the critical **Threshold Principle**.
 
 *   **[04 - Temporal Unfolding: Dialectical Phases](./04-temporal-unfolding-dialectical-phases.md)**  
     *📄 Read time: 22 min*  
@@ -120,14 +73,14 @@ This section defines the core dynamics of change—the ethical directions of gro
 
 *   **[05 - The Mandala Axis: Four Pathways of Purpose](./05-mandala-axis-four-pathways.md)**  
     *📄 Read time: 20 min*  
-    **Purpose:** Translates the ethical axes into four actionable protocols: Awakening, Making, Liberation, and Healing. Now frames pathways as technologies for expanding **cognitive light cones**.  
+    **Purpose:** Translates the ethical axes into four actionable protocols: Awakening, Making, Liberation, and Healing. Now frames pathways as technologies for expanding **cognitive light cones**.
 
 ### 3. Expression: Intelligence, Matter, & Integration
 Here, the abstract model meets the tangible world, detailing the frameworks for material practice, personal/collective capacity, and integration with external knowledge systems.
 
 *   **[06 - Geometric Unpacking: The Tesseract](./06-geometric-unpacking-tesseract.md)**  
     *📄 Read time: 15 min*  
-    **Purpose:** Describes the four archetypal states of systemic wholeness (Seed, Grid, Web, Spire) and introduces the **Alpha (α) Metric** for measuring integration.  
+    **Purpose:** Describes the four archetypal states of systemic wholeness (Seed, Grid, Web, Spire) and introduces the **Alpha (α) Metric** for measuring integration.
 
 *   **[07 - Material Intelligence Framework](./07-material-intelligence-framework.md)**  
     *📄 Read time: 18 min*  
@@ -136,20 +89,24 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
 
 *   **[08 - Multiple Intelligences Framework](./08-multiple-intelligences-framework.md)**  
     *📄 Read time: 20 min*  
-    **Purpose:** Expands the concept of intelligence into eight embodied capacities aligned with the Tesseract's cubes, charting their development through dialectical phases.  
+    **Purpose:** Expands the concept of intelligence into eight embodied capacities aligned with the Tesseract's cubes, charting their development through dialectical phases.
 
 *   **[09 - Compatible Frameworks Matrix](./09-compatible-frameworks-matrix.md)**  
     *📄 Read time: 12 min*  
-    **Purpose:** Demonstrates the integrative power of the Mandala by mapping how external frameworks (e.g., Systems Thinking, Viable System Model, Michael Levin's work, Cognitive Science) align with its geometry and pathways.  
+    **Purpose:** Demonstrates the integrative power of the Mandala by mapping how external frameworks (e.g., Systems Thinking, Viable System Model, Michael Levin's work, Cognitive Science) align with its geometry and pathways.
 
 *   **[10 - Cybernetic Foundations](./10-cybernetic-foundations.md)**  
     *📄 Read time: 15 min*  
     **Purpose:** Provides the operational principles of regulation, feedback, and adaptation for conscious systems, explaining how the Mandala functions as a participatory control system.  
     **🔄 In Practice:** Learn to design feedback loops that respect Threshold Principles.
 
-*   **[11 - Cybernetic Foundations](./11-narrative-intelligence.md)**  
-    *📄 Read time: 10 min*  
-    **Purpose:** Applies the second-order cybernetics of Model 10 to the semiotic (meaning-making) layer. Directly operationalizes Analytic Idealism (01), the Tesseract (02), and the Four Axes (03).  
+### 4. Capstone: Narrative Intelligence & Integration
+The integrative capstone that brings together all preceding models through the lens of meaning-making and story.
+
+*   **[11 - Narrative Intelligence & Mythic Coordination](./11-narrative-intelligence.md)**  
+    *📄 Read time: 25 min*  
+    **Purpose:** Applies second-order cybernetics to the semiotic layer, positing narrative as the primary autopoietic process of conscious systems. Provides the **Narrative Field Audit (NFA)** protocol for ethical intervention in a system's meaning-making ecology.  
+    **🎯 Key Tool:** The Tetralemmic Intervention method for narrative re-coding across Assertion, Negation, Synthesis, and Transcendence.
 
 ---
 ### Machine Readable Metadata
@@ -163,7 +120,7 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
     "@type": "Organization",
     "name": "Solarpunk Mandala Project"
   },
-  "keywords": "Analytic Idealism, Solarpunk, Systems Theory, Cybernetics, Conscious Agency, Tesseract Epistemology",
+  "keywords": "Analytic Idealism, Solarpunk, Systems Theory, Cybernetics, Conscious Agency, Tesseract Epistemology, Narrative Intelligence",
   "hasPart": [
     {"@type": "CreativeWork", "name": "Meta-Framework", "url": "00-meta-framework-systems-cybernetics.md"},
     {"@type": "CreativeWork", "name": "Ontology", "url": "01-ontology-analytic-idealism.md"},
@@ -175,7 +132,7 @@ Here, the abstract model meets the tangible world, detailing the frameworks for 
     {"@type": "CreativeWork", "name": "Material Intelligence", "url": "07-material-intelligence-framework.md"},
     {"@type": "CreativeWork", "name": "Multiple Intelligences", "url": "08-multiple-intelligences-framework.md"},
     {"@type": "CreativeWork", "name": "Compatible Frameworks", "url": "09-compatible-frameworks-matrix.md"},
-    {"@type": "CreativeWork", "name": "Cybernetic Foundations", "url": "10-cybernetic-foundations.md"}
+    {"@type": "CreativeWork", "name": "Cybernetic Foundations", "url": "10-cybernetic-foundations.md"},
     {"@type": "CreativeWork", "name": "Narrative Intelligence", "url": "11-narrative-intelligence.md"}
   ],
   "license": "https://opensource.org/licenses/MIT"
