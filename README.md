@@ -164,24 +164,92 @@ Named in Portuguese to honor Paulo Freire's liberatory pedagogy:
 ## 📂 Complete Repository Structure
 ```mermaid
 graph TD
-    A[solarpunk-mandala] --> B[framework]
-    A --> C[guides]
-    A --> D[tools]
-    A --> E[knowledge_base]
+    ROOT[📁 solarpunk-mandala] --> COMMUNITY[📁 community/]
+    ROOT --> FRAMEWORK[📁 framework/]
+    ROOT --> KNOWLEDGE[📁 knowledge_base/]
+    ROOT --> TOOLS[📁 tools/]
+    ROOT --> FILES[📄 root files]
     
-    B --> B1[core-model: 11 docs]
-    B --> B2[arena]
-    B --> B3[meta-narratives]
+    COMMUNITY --> TRANSLATIONS[📁 translations/]
+    COMMUNITY --> GUIDELINES[📄 contribution-guidelines.md]
     
-    C --> C1[facilitator-toolkit: 6 parts]
-    C --> C2[protocols: 5 docs]
+    TRANSLATIONS --> TRANSLATIONS_README[📄 README.md]
     
-    D --> D1[assessments]
-    D --> D2[protocols: 4 worksheets]
+    FRAMEWORK --> ARENA[📁 arena/]
+    FRAMEWORK --> CORE[📁 core-model/]
+    FRAMEWORK --> NARRATIVES[📁 meta-narratives/]
     
-    E --> E1[case-studies: 8 cases]
-    E --> E2[circles: 4 domains]
-    E --> E3[rhizomes: 4 frameworks]
+    ARENA --> DASHBOARD[📁 dashboard-mvp/]
+    ARENA --> TESSERACT[📁 tesseract/]
+    ARENA --> ARENA_FILES[8 markdown files]
+    
+    DASHBOARD --> DASHBOARD_FILES[5 markdown files]
+    TESSERACT --> TESSERACT_FILES[2 files]
+    
+    CORE --> CORE_FILES[16 markdown files]
+    
+    NARRATIVES --> NECROCENE[📁 necrocene/]
+    NARRATIVES --> SYMBIOTIC[📁 symbiotic-commonwealth/]
+    
+    NECROCENE --> NECROCENE_FILES[15 markdown files]
+    SYMBIOTIC --> SYMBIOTIC_FILES[16 markdown files]
+    
+    KNOWLEDGE --> APPENDICES[📁 appendices/]
+    KNOWLEDGE --> CASE_STUDIES[📁 case-studies/]
+    KNOWLEDGE --> CIRCLES[📁 circles/]
+    KNOWLEDGE --> GUIDES[📁 guides/]
+    KNOWLEDGE --> RHIZOMES[📁 rhizomes/]
+    KNOWLEDGE --> TEMPLATES[📁 templates/]
+    
+    APPENDICES --> APPENDICES_FILES[26 markdown files]
+    CASE_STUDIES --> CASE_STUDIES_FILES[19 markdown files]
+    
+    CIRCLES --> CULTURE[📁 culture/]
+    CIRCLES --> ECOLOGY[📁 ecology/]
+    CIRCLES --> ECONOMICS[📁 economics/]
+    CIRCLES --> POLITICS[📁 politics/]
+    CIRCLES --> SPIRITUALITY[📁 spirituality/]
+    CIRCLES --> CSV[📄 CSV file]
+    
+    CULTURE --> CULTURE_FILES[7 markdown files]
+    ECOLOGY --> ECOLOGY_FILES[7 markdown files]
+    ECONOMICS --> ECONOMICS_FILES[7 markdown files]
+    POLITICS --> POLITICS_FILES[7 markdown files]
+    SPIRITUALITY --> SPIRITUALITY_FILES[7 markdown files]
+    
+    GUIDES --> FACILITATOR[📁 facilitator-toolkit/]
+    GUIDES --> PROTOCOLS[📁 protocols/]
+    GUIDES --> FAQ[📄 faq.md]
+    
+    FACILITATOR --> PREP[📁 01-preparation-phase/]
+    FACILITATOR --> WEEKS[4 week directories]
+    FACILITATOR --> TEMPLATES[📁 06-templates-and-printables/]
+    FACILITATOR --> OVERVIEW[📄 00-toolkit-overview.md]
+    FACILITATOR --> FAQ_TROUBLESHOOTING[📄 07-faq-and-troubleshooting.md]
+    
+    PREP --> IN_PERSON[📁 in-person-logistics/]
+    PREP --> PREP_FILES[3 markdown files]
+    
+    IN_PERSON --> IN_PERSON_FILES[3 markdown files]
+    
+    PROTOCOLS --> PROTOCOLS_FILES[11 markdown files]
+    RHIZOMES --> RHIZOMES_FILES[6 markdown files]
+    TEMPLATES --> TEMPLATES_FILES[7 markdown/template files]
+    
+    TOOLS --> ASSESSMENTS[📁 assessments/]
+    TOOLS --> COMPASS[📁 compass/]
+    TOOLS --> TOOLS_FILES[18 tool files]
+    
+    ASSESSMENTS --> ALPHA[📁 alpha-coefficient-calculator/]
+    ASSESSMENTS --> DIALECTICAL[📁 dialectical-velocity-metric/]
+    
+    ALPHA --> ALPHA_HTML[📄 index.html]
+    DIALECTICAL --> DIALECTICAL_HTML[📄 index.html]
+    COMPASS --> COMPASS_README[📄 README.md]
+    
+    FILES --> CONTRIBUTING[📄 CONTRIBUTING.md]
+    FILES --> LICENSE_FILE[📄 LICENSE]
+    FILES --> README_ROOT[📄 README.md]
 ```
 
 **Key Integration Points**:
