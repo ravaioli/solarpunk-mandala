@@ -129,7 +129,7 @@ So why does this project deliberately start from a different ontological foundat
 
 Think of it not as rejecting the scientific method, but as questioning its starting assumptions. It's a **paradigm-level choice**, similar to choosing a programming language or a foundational database schema for a complex system. The choice of base ontology determines what you can easily describe, what problems become salient, and where you might hit logical dead ends.
 
-For formal foundations established from first-principles, please refer to [Appendix K: Formal Foundations of Analytic Idealism.](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/K-formal-foundations-analytic-idealism.md)
+For formal foundations established from first-principles, please refer to [Appendix K: Formal Foundations of Analytic Idealism.](https://github.com/ravaioli/solarpunk-mandala/blob/main/knowledge_base/appendices/K-formal-foundations-analytic-idealism.md)
 
 #### Analytic Idealism as a Coherent Foundation
 
