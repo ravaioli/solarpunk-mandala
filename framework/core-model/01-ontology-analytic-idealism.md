@@ -4,14 +4,17 @@ aeo_metadata:
   description: >
     A consciousness-first ontological foundation in which reality is understood
     as structured experience, with the physical world emerging as a perceptual
-    interface across dissociative boundaries.
+    interface across dissociative boundaries. Death is integrated as a natural
+    altered state of consciousness representing boundary reconfiguration.
   context: >
     Establishes what is fundamentally real within the Solarpunk Mandala:
-    consciousness as primary, perception as interface, and matter as appearance.
+    consciousness as primary, perception as interface, matter as appearance,
+    and death as transformation rather than annihilation.
   key_objectives:
     - Define consciousness as ontologically fundamental.
     - Explain physical reality as a multimodal perceptual interface.
     - Account for individuality via dissociation within Mind-at-Large.
+    - Integrate death as the ultimate altered state of consciousness.
     - Ground ethics and regeneration in lived experience rather than abstraction.
   core_concepts:
     - Analytic Idealism
@@ -21,15 +24,19 @@ aeo_metadata:
     - Screen of Perception
     - Perceptual Interface
     - Regeneration vs Extraction
+    - Death as Altered State
+    - Post-Mortem Configurations
   ontological_commitments:
     - Consciousness is fundamental; matter is derivative.
     - Perception is an interface, not a representation of objective reality.
     - Individual minds are dissociated segments of a unified conscious field.
     - Causation is experiential at its base, not material.
+    - Death represents the ultimate modulation of dissociation boundaries.
   perceptual_framework:
     description: >
       Perception is the structured set of experiential modalities through which
-      conscious dynamics appear as a world.
+      conscious dynamics appear as a world. Death represents the transition to
+      non-biological perceptual configurations or interface-less consciousness.
     modalities:
       - vision
       - audition
@@ -41,14 +48,20 @@ aeo_metadata:
       - thermoception
       - nociception
       - affective_valence
+    extended_modalities:
+      - post_mortem_pattern_logic
+      - ancestral_memory_resonance
+      - symbolic_archetype_perception
     functional_role:
       - enables adaptive action
       - constrains access to Mind-at-Large
       - grounds meaning, value, and agency
+      - transitions through death to new configurations
   dissociation_model:
     description: >
       Dissociation explains the emergence of individual perspectives by limiting
-      perceptual bandwidth within consciousness.
+      perceptual bandwidth within consciousness. Death represents the ultimate
+      dissolution or reconfiguration of dissociation boundaries.
     perceptual_effects:
       - salience gating
       - boundary formation
@@ -58,43 +71,81 @@ aeo_metadata:
       - meditation
       - psychedelics
       - ritual
+      - death_and_dying_processes
+  death_ontology:
+    description: >
+      Death is understood as the ultimate altered state of consciousness,
+      representing complete reorganization of the dissociation boundary.
+    key_propositions:
+      - Consciousness continues beyond biological death.
+      - Death is a transition in mode of experience, not annihilation.
+      - Post-mortem configurations include reintegration, pattern persistence, and reformation.
+      - Death completes the individual consciousness journey while enriching Mind-at-Large.
+    solarpunk_integration:
+      - Ecological death as nutrient cycling in consciousness-first terms
+      - Ritual as boundary work for both deceased and living
+      - Ancestral continuity through pattern preservation in MAL
+      - Death-positive culture as foundation for regenerative ethics
   ethical_implications:
     description: >
       Ethics arises from the modulation of experience. Harm and flourishing are
-      defined perceptually, not abstractly.
+      defined perceptually, not abstractly. Death ethics focus on quality of
+      transition and post-mortem pattern integration.
     guiding_principle: >
       Systems that systematically narrow perceptual access produce suffering;
-      systems that restore perceptual coherence enable regeneration.
+      systems that restore perceptual coherence enable regeneration. Death
+      practices should honor consciousness continuity while supporting the living.
   perceptual_regeneration:
     definition: >
       The restoration of healthy perceptual bandwidth, salience balance, and
-      intersubjective attunement within conscious systems.
+      intersubjective attunement within conscious systems. Includes preparation
+      for conscious dying and integration of death experiences.
     relevance:
       - individual well-being
       - collective coherence
       - ecological attunement
+      - death transition quality
+      - ancestral pattern integration
   theoretical_references:
     - name: "Analytic Idealism"
       author: "Bernardo Kastrup"
       relevance: >
         Provides the metaphysical framework for treating consciousness as
-        ontologically primary.
+        ontologically primary, foundational for understanding death as transformation.
     - name: "Interface Theory of Perception"
       author: "Donald D. Hoffman"
       relevance: >
         Offers convergent empirical support for treating perception as an adaptive
-        interface rather than a veridical depiction of reality.
+        interface rather than a veridical depiction of reality, extended to
+        death as interface transition.
       usage_note: >
         Referenced as supportive evidence, not as a complete ontology.
+    - name: "The Tibetan Book of the Dead"
+      author: "Traditional Tibetan Buddhist"
+      relevance: >
+        Provides a comprehensive map of consciousness states during and after
+        death, compatible with analytic idealist interpretation.
+      usage_note: >
+        Referenced as phenomenological evidence for post-mortem consciousness states.
+    - name: "Death and the Afterlife in Analytic Idealism"
+      author: "Kastrup, Bernardo"
+      relevance: >
+        Direct application of analytic idealism to death and continuity of consciousness.
   search_queries:
     - "Analytic idealism consciousness ontology"
     - "perception as interface philosophy neuroscience"
     - "dissociation consciousness theory"
     - "ontology of experience regeneration"
+    - "death consciousness analytic idealism"
+    - "post-mortem consciousness states"
+    - "dying as altered state of consciousness"
+    - "Solarpunk death ethics"
   related_nodes:
     - 02-epistemic-architecture-tesseract.md
     - 05-dissociation-boundary-medicine.md
     - 07-ethics-regeneration-extraction.md
+    - 09-conscious-dying-practices.md # NEW: Suggested future node
+    - 10-ancestral-continuity.md # NEW: Suggested future node
 ---
 
 # Ontological Ground: Analytic Idealism
@@ -259,7 +310,7 @@ flowchart LR
     %% Phase 3: The Turning Point
     subgraph Phase_3 [3. The Realization]
     D & E & F --> G{Ontological Crisis}
-    G -->|Analytic Idealism| H[Re-Integration]
+    G -->|Analytic Idealism| H[Re-Integration<br>in Life]
     end
 
     %% Phase 4: The Fourth Path
@@ -269,12 +320,22 @@ flowchart LR
     J -.->|Gardening| D
     end
 
+    %% Phase 5: The Return
+    subgraph Phase_5 [5. Death/Reintegration]
+    J -->|Death Transition| K[**Death/Reintegration**<br>Ultimate boundary dissolution]
+    K -->|Pattern Return| L[**Post-Mortem States**<br>Reintegration/Persistence/Reformation]
+    L -.->|Enriches MAL| A
+    end
+
     %% Styling
     style Phase_1 fill:#f0f9ff,stroke:#0369a1
     style Phase_2 fill:#fef3c7,stroke:#f59e0b
     style Phase_3 fill:#f0fdf4,stroke:#16a34a
     style Phase_4 fill:#faf5ff,stroke:#9333ea
+    style Phase_5 fill:#fef2f2,stroke:#dc2626
     style J fill:#ea580c,color:#fff,stroke-width:4px
+    style K fill:#dc2626,color:#fff,stroke-width:2px
+    style L fill:#fca5a5,stroke:#b91c1c
 ```
 
 #### The Materialist Bind in Modelling Lived Reality
@@ -520,6 +581,12 @@ While beliefs configure the *rules of interpretation*, substances and practices 
 | **Trauma-Psychological Dissociation** (Psychological defense modulation) | PTSD states, acute grief, dissociative identity conditions, high-intensity emotions, near-death experiences. | Creates *hyper* or *hypo* filtering states—either extreme boundary reinforcement (numbing) or involuntary boundary dissolution (flashbacks, flooding). | Represents both a challenge requiring **Boundary Medicine** and a potential unplanned catalyst for the **Path of Healing**; understanding these states is crucial for trauma-informed community practices. |
 | **SYMBOLIC & AXIOLOGICAL INFLUENCES** | | | |
 | **Symbolic-Axiological Entrainment** (Pattern-resonance coupling) | Sacred geometry (mandala, labyrinth), archetypal art, mathematical formalisms, mythic narratives, linguistic constructs, ritual symbols, musical harmony/rhythm. | Specific symbolic patterns act as "resonance keys" that bypass default filters by directly coupling with stable patterns in Mind at Large, enabling transpersonal access through *meaning* rather than chemistry or sensory alteration. | Primary technology for the **Axiological Axis** (**Path of Making**); explains why the Mandala *itself* functions as consciousness technology; essential for **Material Intelligence** work that aligns human design with archetypal patterns. |
+| **DEATH & DYING PROCESSES** | | | |
+| **Death Transition** (Ultimate boundary modulation) | Natural death, assisted dying, near-death experiences (NDEs), deathbed visions, palliative care practices, conscious dying protocols, death rituals. | Complete dissolution or radical reorganization of the individual dissociation boundary, potentially leading to reintegration into MAL, pattern persistence, or new boundary formation. Transition from biological perceptual interface to non-biological conscious states. | Ultimate phase of the **Consciousness Journey**; represents final **Re-Integration** stage. Informs **Death-Positive Solarpunk Culture** through rituals, ancestor veneration, and ecological death practices. Provides empirical evidence for consciousness continuity via NDE research. |
+| **Death Preparation Practices** (Anticipatory boundary work) | Life review processes, legacy work, ethical will creation, death meditation, "memento mori" practices, advance care planning, death doula guidance. | Gradually loosens attachment to individual identity boundary, reduces fear of annihilation, facilitates smoother transition by familiarizing consciousness with boundary dissolution concepts. | Part of **Embodied Foundations** as life cycle completion; supports **Path of Healing** through death acceptance; essential for **Boundary Medicine** in end-of-life care. |
+| **Grief & Loss Processing** (Boundary reorganization) | Mourning rituals, grief counseling, ancestor altars, memorial practices, collective remembrance ceremonies, art therapy for loss. | Processes the "phantom limb" of lost relational boundaries, reconfigures the conscious field to accommodate absence, transforms attachment bonds into different forms of connection. | Core **Social Regeneration** technology; essential for **Path of Healing** at collective scale; maintains **Ancestral Continuity** through conscious remembrance. |
+| **Ancestral Communication** (Post-mortem boundary bridging) | Mediumship, ancestor veneration, dream visitations, symbolic communication, intuitive guidance, ancestral wisdom retrieval. | Establishes new types of boundary permeability between living consciousness and post-mortem patterns, creating continuity beyond biological death. | Key technology for **Social Regeneration** across generations; enriches **Collective Wisdom** through ancestral guidance; provides experiential evidence for **Consciousness Continuity**. |
+| **Ecological Death Practices** (Consciousness-informed material cycling) | Natural burial, human composting, memorial reefs, tree pod burials, water cremation, sky burial traditions. | Transforms the physical dissolution of the body from traumatic separation to conscious participation in ecological regeneration, viewing matter as "consciousness made visible" returning to new forms. | **Material Intelligence** applied to death care; **Regenerative Practice** that closes ecological loops; embodies the **Ekistic-Spiritual Continuum** by honoring both physical and consciousness dimensions of death. |
 
 **Transpersonal Mentations as Epistemic Tools**
 
@@ -539,6 +606,285 @@ Recent work in developmental biology (Levin) suggests that **cognition precedes 
 - **Morphogenetic Memory:** Stable, rewritable pattern storage in tissues
 
 This aligns with the view that reality is experienced by and through minds at various scales of organization, from cellular collectives to human consciousness.
+
+## Death as the Ultimate Altered State of Consciousness
+
+Within the framework of Analytic Idealism, **death can be understood as a profound and irreversible altered state of consciousness**, representing the ultimate reorganization of the dissociation boundary at the individual level. It is not an annihilation but a fundamental transformation in the mode of conscious experience—a reintegration of the localized alter into Mind-at-Large (MAL).
+
+### 🧠 Death as the Dissolution of the Individual Dissociation Boundary
+
+In life, individual consciousness is maintained by a stable dissociation boundary that filters and structures experience. Death, in this model, is the process of that boundary's complete relaxation or reconfiguration. This is analogous to, but far more radical than, the boundary modulations experienced in dreams, psychedelic states, or even near-death experiences.
+
+- **Beyond Dreaming**: While dreaming involves a partial decoupling from consensus reality, death represents a full decoupling and potential reset of the perceptual interface.
+- **Beyond Psychedelic States**: Psychedelics temporarily weaken the boundary, but death is a permanent transition to a new configuration (or non-configuration) of consciousness.
+- **The Ultimate Boundary Event**: Trauma can cause involuntary boundary shifts, but death is the natural, inevitable boundary event that concludes each individual life cycle.
+
+### 🌌 The Perceptual Interface After Death
+
+If the living perceptual interface is a set of constrained modalities (vision, hearing, etc.) rendered through a biological body, then death is the cessation of that specific interface. What remains is consciousness itself, which may then experience reality through a different set of constraints or, in the case of complete reintegration, without any individuated interface at all.
+
+- **Transformation of Modalities**: The exteroceptive and interoceptive senses cease, but consciousness may transition to modes of experience based on pattern logic, affective resonance, or direct knowing.
+- **Time and Space**: The linear time and Euclidean space of the living interface may give way to non-temporal and non-spatial modes of organization.
+- **The Fate of Narrative Identity**: The story of the individual self, maintained by memory and anticipation, may dissolve or be integrated into a larger pattern of MAL.
+
+### 🔁 Death in the Spectrum of Consciousness
+
+```mermaid
+flowchart TD
+    MAL["Mind-at-Large<br/>(Unified Conscious Field)"]
+    
+    subgraph LivingStates["🟢 Living Consciousness Spectrum"]
+        direction TB
+        WS["Waking State<br>• High Dissociation<br>• Consensus-coupled<br>• Survival-oriented"]
+        AS["Altered States<br>• Variable Dissociation<br>• Psychedelic/Meditative<br>• Transpersonal access"]
+        NDE["Near-Death Experience<br>• Low Dissociation<br>• Boundary permeable<br>• Visionary content"]
+    end
+    
+    subgraph Transition["⚫ Death Transition"]
+        D["Death Boundary Event<br>• Complete dissolution<br>• Interface reset<br>• Pattern reorganization"]
+    end
+    
+    subgraph PostMortemStates["💠 Post-Mortem Configurations"]
+        direction LR
+        PM1["Reintegration<br>• No individual boundary<br>• Pure MAL presence<br>• Pattern dissolution"]
+        PM2["Pattern Persistence<br>• Informational entity<br>• Ancestral memory<br>• Symbolic resonance"]
+        PM3["Reformation<br>• New boundary formation<br>• Possible rebirth<br>• Learning continuation"]
+    end
+    
+    %% Connections
+    MAL -->|Dissociation Creates| WS
+    WS -->|Boundary modulation| AS
+    AS -->|Extreme modulation| NDE
+    NDE -->|Final transition| D
+    D -->|Possible trajectories| PM1
+    D -->|Possible trajectories| PM2
+    D -->|Possible trajectories| PM3
+    
+    %% Styling
+    style LivingStates fill:#f0f9ff,stroke:#0369a1
+    style Transition fill:#1e293b,stroke:#f8fafc,stroke-width:2px,color:#f8fafc
+    style PostMortemStates fill:#f5f3ff,stroke:#8b5cf6
+    style MAL fill:#dcfce7,stroke:#16a34a
+```
+
+### 💎 Ontological Status: Death as a Natural Process of MAL
+
+In Analytic Idealism, consciousness is fundamental and eternal. Therefore, death is not the end of existence but a transition in the state of consciousness. The individual alter may:
+
+1. **Reintegrate fully into MAL**, losing individual identity but enriching the whole.
+2. **Reform as a new pattern** within MAL, possibly as a new individual (reincarnation) or as a persistent informational pattern (ancestral consciousness).
+3. **Continue in a non-individuated form** as part of the background field of consciousness.
+
+### Death Ethics: Expanded Ethical Framework
+
+**Core Principle:** Ethics arises from the modulation of experience across the entire spectrum of consciousness, including dying processes and post-mortem states. Death ethics extend responsibility to how we die, how we care for the dying, and how we maintain relationships with ancestral consciousness.
+
+**Guiding Principle:** Systems that systematically narrow perceptual access produce suffering; systems that restore perceptual coherence enable regeneration. This principle extends to death: systems that deny death's reality or treat it as annihilation create existential suffering; systems that honor death as transformation and maintain ancestral connections foster regenerative continuity.
+
+#### Death-Specific Ethical Commitments
+
+1. **Conscious Dying Responsibility**:
+   - Individuals have a responsibility to prepare for conscious dying when possible
+   - Communities have a responsibility to support dignified, conscious death transitions
+   - Healthcare systems should integrate consciousness-first perspectives into end-of-life care
+
+2. **Ancestral Stewardship**:
+   - Living generations serve as stewards of ancestral wisdom and patterns
+   - Maintaining conscious connection to ancestors is an ethical practice, not superstition
+   - Legacy creation should consider post-mortem pattern integration and usefulness
+
+3. **Death-Positive Culture**:
+   - Normalize conversations about death as natural consciousness transition
+   - Design rituals and practices that honor death without fear or denial
+   - Integrate death education into community life from childhood
+
+4. **Ecological Death Ethics**:
+   - Burial and body disposition methods should honor both consciousness continuity and ecological regeneration
+   - Death practices should minimize ecological harm while maximizing consciousness awareness
+   - View human death as part of broader ecosystem cycling of conscious patterns
+
+5. **Cross-Generational Justice**:
+   - Consider impacts of current actions on future consciousness experiences
+   - Honor ancestral debts and contributions to current consciousness configurations
+   - Design systems that maintain wisdom across consciousness transitions
+
+#### Ethical Questions for Solarpunk Communities
+- How do we create death-positive communities without cultural appropriation?
+- What constitutes ethical ancestor veneration in diverse communities?
+- How do we balance technological preservation of consciousness patterns with natural cycling?
+- What responsibilities do we have to dying community members beyond physical care?
+
+### Death as Regenerative Process
+
+**Definition:** Regeneration encompasses the restoration of healthy perceptual bandwidth, salience balance, and intersubjective attunement within conscious systems. This includes the regenerative process of death, understood as the natural recycling and reintegration of individual consciousness patterns back into Mind-at-Large, enriching the whole while enabling new formations. Death itself becomes a regenerative act when approached consciously—transforming boundary dissolution from traumatic loss to meaningful pattern return.
+
+Regeneration thus encompasses the full cycle: from individual consciousness emergence through dissociation, through life's experiences and learnings, through the conscious return via death, to the integration of those learnings into the larger conscious field for future emergences.
+
+#### Expanded Relevance of Regeneration:
+- **Individual well-being**: Includes preparation for conscious dying and integration of mortality awareness
+- **Collective coherence**: Strengthened by shared understanding of consciousness continuity and ancestor connection
+- **Ecological attunement**: Enhanced by viewing biological death as conscious participation in ecosystem cycling
+- **Death transition quality**: The consciousness state during dying affects the quality of pattern reintegration
+- **Ancestral pattern integration**: Regeneration includes maintaining healthy relationships with post-mortem consciousness patterns
+- **Cross-generational learning**: Wisdom accumulated across lifetimes enriches the collective consciousness reservoir
+- **Cosmic recycling**: Death as the ultimate regenerative act—returning individuated experience to the source for reuse
+
+#### Death as Regenerative Process in Consciousness Terms
+
+1. **Pattern Return and Enrichment**:
+   - Individual life experiences become patterns that return to MAL
+   - These patterns enrich the collective wisdom available to future dissociations
+   - Death completes the learning cycle by integrating experiences back to source
+
+2. **Boundary Reconfiguration as Renewal**:
+   - Dissolution of individual boundaries makes room for new formations
+   - Like forest fires that enable new growth, death clears space for new consciousness expressions
+   - The MAL "recycles" successful patterns while letting go of maladaptive ones
+
+3. **Energy Transformation**:
+   - The "energy" of concentrated individual consciousness dissipates back into the field
+   - This released energy becomes available for new conscious formations
+   - No experience is wasted—all contributes to the evolving complexity of MAL
+
+4. **Evolutionary Mechanism**:
+   - Death acts as MAL's evolutionary tool, testing consciousness patterns
+   - Successful adaptations (wisdom, love, coherence) persist in the field
+   - Less successful patterns dissolve more completely, reducing their influence
+
+#### Practical Regeneration Applications Involving Death
+- **Conscious dying protocols** that maximize pattern integration
+- **Community death rituals** that support both deceased and living
+- **Ancestor communication practices** that maintain regenerative connections
+- **Ecological burial systems** that transform physical decay into new life
+- **Legacy preservation** that consciously shapes what patterns return to MAL
+- **Grief processing** as boundary healing and pattern integration work
+
+### 📚 Connections to Existing Framework
+
+- **Consistent with the Dissociation Model**: Death is the final modulation of the dissociation boundary.
+- **Extension of the Perceptual Interface Theory**: Death is the ultimate interface shift.
+- **Aligned with the Spectrum of Altered States**: Death is the most extreme altered state, beyond even near-death experiences.
+
+### 🧭 A Note on Research and Evidence
+
+While direct evidence of the experience of death is by nature elusive, phenomena such as near-death experiences (NDEs), past-life memories, and deathbed visions provide suggestive data that can be coherently interpreted within this framework. Furthermore, the model provides a parsimonious explanation for why such phenomena occur and why they share common features across cultures.
+
+```mermaid
+flowchart TD
+    D["Death Event<br>Dissociation Boundary Collapse"]
+    
+    D --> BoundaryReconfig["🌊 Boundary Reconfiguration Phase"]
+    
+    subgraph ConfigurationOptions["Possible Post-Mortem Configurations"]
+        direction LR
+        
+        subgraph Reintegration["🔄 Complete Reintegration"]
+            RI1["Pattern Dissolution"]
+            RI2["Boundary Evaporation"]
+            RI3["Pure MAL Presence"]
+        end
+        
+        subgraph PatternPersistence["💾 Pattern Persistence"]
+            PP1["Ancestral Memory Field"]
+            PP2["Symbolic Archetype"]
+            PP3["Collective Unconscious Node"]
+        end
+        
+        subgraph Reformation["🌀 New Formation"]
+            NF1["Learning Continuation"]
+            NF2["New Boundary Genesis"]
+            NF3["Cyclical Reemergence"]
+        end
+    end
+    
+    BoundaryReconfig --> ConfigurationOptions
+    
+    %% Influencing Factors
+    subgraph InfluencingFactors["📊 Influencing Factors"]
+        direction LR
+        L["Life Experience<br>• Consciousness development<br>• Boundary flexibility<br>• Attachment patterns"]
+        I["Interface History<br>• Perceptual habits<br>• Belief structures<br>• Ritual practices"]
+        C["Collective Field<br>• Ancestral traditions<br>• Community practices<br>• Collective intention"]
+    end
+    
+    InfluencingFactors -.->|Shapes trajectory| BoundaryReconfig
+    
+    %% MAL Feedback Loop
+    ConfigurationOptions --> MALInfluence["MAL Integration Field"]
+    MALInfluence -.->|Informs future<br>dissociations| NewLife["Potential New Life Cycles"]
+    
+    style D fill:#1e293b,stroke:#f8fafc,color:#f8fafc
+    style BoundaryReconfig fill:#dbeafe,stroke:#3b82f6
+    style Reintegration fill:#dcfce7,stroke:#16a34a
+    style PatternPersistence fill:#fef3c7,stroke:#d97706
+    style Reformation fill:#f3e8ff,stroke:#9333ea
+    style InfluencingFactors fill:#fce7f3,stroke:#be185d
+    style MALInfluence fill:#f0f9ff,stroke:#0ea5e9
+```
+
+---
+
+**In summary**, viewing death through the lens of Analytic Idealism transforms it from a terrifying unknown into a meaningful phase in the journey of consciousness. It encourages a culture of presence, connection, and reverence for life, while reducing the fear of annihilation. This perspective is integral to building a Solarpunk future that honors the full cycle of existence, from birth to death and beyond.
+
+```mermaid
+flowchart TD
+    subgraph SolarpunkCycle["♻️ Solarpunk Regenerative Cycle"]
+        direction LR
+        
+        Birth["🌱 Birth & Emergence<br>• New dissociation boundary<br>• Fresh interface formation<br>• Learning potential"]
+        
+        Growth["📈 Growth & Development<br>• Boundary refinement<br>• Skill acquisition<br>• Relationship building"]
+        
+        Contribution["🤝 Contribution & Service<br>• Pattern enrichment<br>• Collective wisdom<br>• Regenerative action"]
+        
+        Transition["⚫ Death Transition<br>• Boundary dissolution<br>• Wisdom integration<br>• Energy recycling"]
+        
+        Regeneration["🔄 Regeneration Phase<br>• Pattern preservation<br>• Ancestral continuity<br>• New potential formation"]
+    end
+    
+    %% Connections
+    Birth --> Growth
+    Growth --> Contribution
+    Contribution --> Transition
+    Transition --> Regeneration
+    Regeneration --> Birth
+    
+    %% Supporting Systems
+    subgraph SupportingSystems["⚙️ Supporting Solarpunk Systems"]
+        R["Ritual & Ceremony<br>• Death honoring<br>• Ancestor connection<br>• Grief processing"]
+        C["Community Practice<br>• Collective remembrance<br>• Legacy continuation<br>• Intergenerational wisdom"]
+        E["Ecological Integration<br>• Body composting<br>• Nutrient cycling<br>• Biospheric continuity"]
+        T["Technological Support<br>• Memory preservation<br>• Pattern archiving<br>• Consciousness mapping"]
+    end
+    
+    %% Connections to main cycle
+    R -.->|Structures meaning| Transition
+    C -.->|Maintains continuity| Regeneration
+    E -.->|Physical recycling| Transition
+    T -.->|Pattern preservation| Regeneration
+    
+    %% Consciousness Flow
+    subgraph ConsciousnessFlow["💫 Consciousness Current"]
+        direction RL
+        CF1["Individual expression<br>through unique life"]
+        CF2["Collective enrichment<br>through contribution"]
+        CF3["Wisdom integration<br>through transition"]
+        CF4["Pattern continuity<br>through regeneration"]
+    end
+    
+    ConsciousnessFlow -.- SolarpunkCycle
+    
+    %% Styling
+    style SolarpunkCycle fill:#f0fdf4,stroke:#16a34a,stroke-width:2px
+    style Birth fill:#dcfce7,stroke:#22c55e
+    style Growth fill:#fef9c3,stroke:#eab308
+    style Contribution fill:#dbeafe,stroke:#3b82f6
+    style Transition fill:#1e293b,stroke:#f8fafc,color:#f8fafc
+    style Regeneration fill:#f3e8ff,stroke:#a855f7
+    style SupportingSystems fill:#fef3c7,stroke:#f59e0b
+    style ConsciousnessFlow fill:#f0f9ff,stroke:#0ea5e9,stroke-dasharray: 5 5
+```
+
 
 ## Ontological Scope: What the Model Claims vs. What It Explores
 
