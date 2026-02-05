@@ -241,8 +241,6 @@ This ontology shifts our entire paradigm: instead of seeing consciousness as a f
 
 **Reading Lens:** Try reading this not as abstract philosophy, but as practical instructions for world-building.
 
-**Expanded Scope:** This document now includes comprehensive engagement with counterarguments, practical transition pathways from materialist thinking, systematic phenomenological investigation methods, consciousness development across individual and evolutionary timescales, cross-cultural death frameworks, framework limitations and boundaries, pedagogical approaches for consciousness literacy, technological implications from a consciousness perspective, and the re-conception of art and aesthetics in a consciousness-only reality.
-
 ## Core Propositions
 
 1. **Individual minds are not emergent properties of brains, but dissociated alters within MAL**—akin to personalities in a single psyche, each with its own boundary of experience.
