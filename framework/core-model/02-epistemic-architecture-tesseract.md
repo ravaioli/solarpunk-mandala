@@ -97,29 +97,40 @@ The previous section established our ontological foundation: **Analytic Idealism
 This is why we employ the **Tesseract (4D hypercube)** as our core epistemic metaphor. It is not merely a decorative symbol but a functional geometric logic that addresses specific limitations in our thinking.
 
 ```mermaid
-graph LR
-    A["<b>01: Analytic Idealism</b><br>Consciousness as Primary Reality"] --> B
+flowchart TD
+    Start[Start Here: The Tesseract Concept] --> A
 
-    subgraph B [The Epistemic Challenge]
-        B1["Multi-Perspectival Reality"]
-        B2["Need for a Navigation Model"]
-        B3["Beyond Linear/Binary Logic"]
+    subgraph A ["4D Geometric Structure<br><small>Higher-dimensional thinking</small>"]
+        direction TB
+        T4D["<b>Fourth Dimension:</b><br>Temporal/Pattern Dimension"] --> 
+        Cube["<b>Three Spatial Dimensions:</b><br>Boundary Cube Framework"] -->
+        Slices["<b>Dynamic Slices:</b><br>Different experiential planes"]
     end
 
-    B --> C{Choosing a Metaphoric Bridge}
+    A --> Process{Multi-dimensional Unfolding<br><small>4D→3D→2D Projections</small>}
 
-    C --> D["<b>Why the Tesseract?</b>"]
-    D --> E1["Models Interdependence"]
-    D --> E2["Transcends Binary Views"]
-    D --> E3["Trains Dimensional Literacy"]
+    Process --> C1["<b>Manifestation 1</b><br>Ekistics: MAN<br>Biological Needs<br><small>+ Temporal Aspect: Growth Cycles</small>"]
+    Process --> C2["<b>Manifestation 2</b><br>Ekistics: SHELLS<br>Housing & Infrastructure<br><small>+ Pattern Aspect: Fractal Scaling</small>"]
+    Process --> C3["<b>Manifestation 3</b><br>Spirituality: Practice<br>Embodiment & Discipline<br><small>+ Temporal Aspect: Ritual Time</small>"]
 
-    E1 & E2 & E3 --> F["<b>The Tesseract Mandala</b><br>Unified Geometric Tool for<br>Thinking & Building SolarPunk Futures"]
+    C1 & C2 & C3 --> D["<b>Hyper-integrated Experience</b><br>4D lived reality where temporal<br>and spatial dimensions weave together"]
 
-    style A fill:#e8f5e8,stroke:#388e3c
-    style B fill:#fff3e0,stroke:#f57c00
-    style C fill:#e1f5fe,stroke:#0288d1
-    style D fill:#f3e5f5,stroke:#7b1fa2
-    style F fill:#fce4ec,stroke:#c2185b
+    D --> Feedback["<b>Feedback into Tesseract</b><br>Experience informs new geometric possibilities"]
+    Feedback -.->|Recursive Evolution| A
+
+    %% Additional dimensionality indicators
+    subgraph Invisible ["Hidden Dimensions (Implied)"]
+        direction LR
+        H1["Hypersurface linkages<br>between manifestations"] -.-> H2["Non-local Effects<br>across the structure"]
+    end
+
+    style A fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
+    style Process fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    style D fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style Feedback fill:#fff3e0,stroke:#ef6c00
+    style Invisible fill:none,stroke:none
+    style H1 fill:none,stroke-dasharray:3 3,stroke:#9e9e9e
+    style H2 fill:none,stroke-dasharray:3 3,stroke:#9e9e9e
 ```
 
 ### Why a Tesseract? The Limits of Flat Models
@@ -183,16 +194,27 @@ The geometric intuition of "multi-dimensional unity" is not new or exclusive to 
 
 ```mermaid
 quadrantChart
-    title "Positioning the Solarpunk Tesseract"
+    title "Positioning the Solarpunk Tesseract in Epistemic Space"
     x-axis "Symbolic / Static" --> "Generative / Operational"
     y-axis "Historical / Cultural" --> "Contemporary / Scientific"
+    
     "Indo-Tibetan Mandalas": [0.2, 0.85]
     "Native American Medicine Wheels": [0.3, 0.8]
     "Kabbalistic Tree of Life": [0.25, 0.7]
+    "Hindu/Buddhist Cosmology": [0.2, 0.75]
+    
     "Hoffman's Interface Theory": [0.7, 0.9]
     "Levin's Scale-Free Cognition": [0.8, 0.95]
-    "Nested Observer Windows (NOW) Model": [0.75, 0.9]
+    "NOW Model (Riddle & Schooler)": [0.75, 0.9]
+    "IIT (Integrated Information Theory)": [0.8, 0.85]
+    
+    "Wilber's AQAL Model": [0.5, 0.6]
+    "Spiral Dynamics": [0.45, 0.65]
+    "Cynefin Framework": [0.6, 0.55]
+    
     "Solarpunk Tesseract": [0.85, 0.6]
+    
+    "Current Document Focus": [0.9, 0.7]
 ```
 
 These are all, in essence, **cultural tesseracts**. They use geometric or symbolic logic to model a reality that is simultaneously unified and multifaceted. They are tools for "higher-dimensional thinking"—not in a literal sci-fi sense, but in the cognitive sense of holding multiple, interdependent perspectives in mind at once.
@@ -230,64 +252,52 @@ Thus, the Tesseract Mandala is our chosen **epistemic architecture** because it 
 |  | 8: Meta-Perspective | Non-perspectival center equidistant from all quadrants | SolarPunk Compass | **Meta-Narrative**<br/>*The story about stories; the ability to observe and navigate narrative fields.* |
 
 ```mermaid
-flowchart TD
-    %% Central Core
-    O["<b>ॐ: Embodied Foundations Core</b><br>Dissociative boundary of Mind at Large"]
-
-    %% First Layer: Unfolded Cubes
-    O --> UR
-    O --> UL
-    O --> LL
-    O --> LR
-
-    subgraph UR_Group [ ]
-        UR["<b>UR Cube</b><br>3rd-person exterior, individual<br>Biological & Physical Dynamics"]
-    end
-
-    subgraph UL_Group [ ]
-        UL["<b>UL Cube</b><br>1st-person interior<br>Subjective Experience & Meaning"]
-    end
-
-    subgraph LL_Group [ ]
-        LL["<b>LL Cube</b><br>2nd-person interior<br>Shared Culture & Dialogue"]
-    end
-
-    subgraph LR_Group [ ]
-        LR["<b>LR Cube</b><br>3rd-person exterior, collective<br>Institutions & Systems"]
-    end
-
-    %% Second Layer: Folded Cubes (Boundaries)
-    UR & UL --> F5
-    LL & LR --> F6
-    F5 & F6 --> F7
-    F7 --> F8
-
-    subgraph F5_Group [Boundary Cube 5]
-        F5["<b>5: Dissociation Boundary</b><br>Interface where MAL partitions into alters"]
-    end
-
-    subgraph F6_Group [Boundary Cube 6]
-        F6["<b>6: Intersubjective Gateway</b><br>Medium where 'mine' becomes 'ours'"]
-    end
-
-    subgraph F7_Group [Boundary Cube 7]
-        F7["<b>7: Systemic Emergence Plane</b><br>Scale-transition: collective ↔ individual"]
-    end
-
-    subgraph F8_Group [Boundary Cube 8]
-        F8["<b>8: Meta-Perspective</b><br>Non-perspectival center"]
-    end
-
-    %% Styling
-    style O fill:#f5f5f5,stroke:#333,stroke-width:3px
-    style UR_Group fill:#e3f2fd,stroke:#1976d2
-    style UL_Group fill:#f3e5f5,stroke:#7b1fa2
-    style LL_Group fill:#e8f5e8,stroke:#388e3c
-    style LR_Group fill:#fff3e0,stroke:#f57c00
-    style F5_Group fill:#ffebee,stroke:#d32f2f
-    style F6_Group fill:#fff8e1,stroke:#ffa000
-    style F7_Group fill:#e8eaf6,stroke:#303f9f
-    style F8_Group fill:#fce4ec,stroke:#c2185b
+graph TB
+    %% Central Core at the top
+    CORE["<b>ॐ</b><br>Embodied Foundations Core<br>Perceptual Stability • Affective Valence • Baseline Coherence"]
+    
+    %% First Row: Unfolded Cubes
+    UR["<b>UR</b><br>Exterior-Individual<br>Physical Body & Objects<br>Vision • Touch • Spatial Boundaries"]
+    UL["<b>UL</b><br>Interior-Individual<br>Subjective Experience<br>Emotional Tone • Self-Narrative"]
+    LL["<b>LL</b><br>Interior-Collective<br>Shared Culture<br>Empathy • Social Resonance"]
+    LR["<b>LR</b><br>Exterior-Collective<br>Systems & Institutions<br>Rule Perception • System Patterns"]
+    
+    %% Second Row: Folded Cubes
+    B5["<b>5</b><br>Dissociation Boundary<br>Self/Other Interface<br>Pain/Threat • Boundary Regulation"]
+    B6["<b>6</b><br>Intersubjective Gateway<br>Mine → Ours Transition<br>Social Synchrony • Shared Reality"]
+    B7["<b>7</b><br>Systemic Emergence<br>Scale Translation<br>Pattern Persistence • Temporal Navigation"]
+    B8["<b>8</b><br>Meta-Perspective<br>Perspective Awareness<br>De-centered Observation • Narrative Navigation"]
+    
+    %% Connections - Clean vertical hierarchy
+    CORE --> UR
+    CORE --> UL
+    CORE --> LL
+    CORE --> LR
+    
+    UR --> B5
+    UL --> B5
+    LL --> B6
+    LR --> B6
+    
+    B5 --> B7
+    B6 --> B7
+    B7 --> B8
+    
+    %% Horizontal relationships (dashed lines for secondary connections)
+    UR -.-> LR
+    UL -.-> LL
+    B5 -.-> B6
+    
+    %% Styling for symmetry
+    style CORE fill:#f5f5f5,stroke:#333,stroke-width:3px,stroke-dasharray:5 5
+    style UR fill:#e3f2fd,stroke:#1976d2
+    style UL fill:#f3e5f5,stroke:#7b1fa2
+    style LL fill:#e8f5e8,stroke:#388e3c
+    style LR fill:#fff3e0,stroke:#f57c00
+    style B5 fill:#ffebee,stroke:#d32f2f
+    style B6 fill:#fff8e1,stroke:#ffa000
+    style B7 fill:#e8eaf6,stroke:#303f9f
+    style B8 fill:#fce4ec,stroke:#c2185b
 ```
 
 ## Tesseract Cell → Intelligence Mapping: The Definitive Table
@@ -331,6 +341,37 @@ The Tesseract's 8 cubic cells correspond 1:1 to the 8 Intelligences. This is not
 ## Scale Translation Principle: Conditional Correspondence
 
 **"As above, so below" is true IF boundary conditions are equivalent.**
+
+```mermaid
+graph TD
+    subgraph MICRO["Micro Scale (Individual)"]
+        M1[Personal Coherence = 4]
+        M2[Strong Boundaries]
+        M3[Autonomous Agency]
+    end
+    
+    subgraph MESO["Meso Scale (Community)"]
+        C1[Community Coherence = 4]
+        C2[Consensus Reality]
+        C3[Collective Intelligence]
+    end
+    
+    subgraph MACRO["Macro Scale (Civilization)"]
+        S1[Systemic Coherence = 4]
+        S2[Institutional Memory]
+        S3[Cultural Continuity]
+    end
+    
+    M1 -->|"Isomorphism holds when:<br>• Isolated systems<br>• Equilibrium states<br>• Homogeneous boundaries"| C1
+    C1 -->|Same conditions apply| S1
+    
+    M1 -.->|"Isomorphism BREAKS when:<br>• System coupling<br>• Boundary mismatch<br>• Power asymmetries"| X[Scale Translation Fails]
+    
+    style MICRO fill:#e3f2fd,stroke:#1976d2
+    style MESO fill:#e8f5e8,stroke:#388e3c
+    style MACRO fill:#fff3e0,stroke:#f57c00
+    style X fill:#ffebee,stroke:#d32f2f
+```
 
 ### When Correspondence Holds
 - **Isolated systems**: Individual in forest monastery ↔ isolated community
@@ -568,6 +609,42 @@ Each Tesseract face corresponds to a documented white matter pathway:
 ## Perceptual Modalities Across the Tesseract
 
 The eight cubes of the Tesseract are not abstract perspectives alone — they correspond to **distinct configurations of perceptual access** within the conscious interface. Each cube privileges, suppresses, or integrates specific perceptual modalities.
+
+```mermaid
+flowchart LR
+    subgraph SENSES["Perceptual Input"]
+        V[Vision]
+        A[Audition]
+        T[Touch]
+        I[Interoception]
+        P[Proprioception]
+        S[Social Perception]
+    end
+    
+    subgraph CUBES["Tesseract Processing"]
+        UR{"UR Cube<br>Physical Objects"}
+        UL{"UL Cube<br>Subjective Meaning"}
+        LL{"LL Cube<br>Shared Reality"}
+        LR{"LR Cube<br>System Patterns"}
+    end
+    
+    subgraph OUTPUT["Experiential Output"]
+        O1["Stable World<br>(Spatial Coherence)"]
+        O2["Felt Meaning<br>(Emotional Tone)"]
+        O3["Empathic Connection<br>(Social Resonance)"]
+        O4["System Understanding<br>(Rule Recognition)"]
+    end
+    
+    V & A & T --> UR --> O1
+    I & P --> UL --> O2
+    S --> LL --> O3
+    UR & LL --> LR --> O4
+    
+    %% Feedback loops
+    O2 -.->|"Informs"| UL
+    O3 -.->|"Shapes"| LL
+    O4 -.->|"Regulates"| LR
+```
 
 | Tesseract Cube | Primary Perceptual Modalities | Functional Role in Experience |
 |---------------|------------------------------|-------------------------------|
