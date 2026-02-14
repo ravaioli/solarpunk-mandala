@@ -216,51 +216,70 @@ Thus, the Tesseract Mandala is our chosen **epistemic architecture** because it 
 
 ```mermaid
 graph TB
-    %% Central Core at the top
-    CORE["<b>ॐ</b><br>Embodied Foundations Core<br>Perceptual Stability • Affective Valence • Baseline Coherence"]
-    
-    %% First Row: Unfolded Cubes
-    UR["<b>UR</b><br>Exterior-Individual<br>Physical Body & Objects<br>Vision • Touch • Spatial Boundaries"]
-    UL["<b>UL</b><br>Interior-Individual<br>Subjective Experience<br>Emotional Tone • Self-Narrative"]
-    LL["<b>LL</b><br>Interior-Collective<br>Shared Culture<br>Empathy • Social Resonance"]
-    LR["<b>LR</b><br>Exterior-Collective<br>Systems & Institutions<br>Rule Perception • System Patterns"]
-    
-    %% Second Row: Folded Cubes
-    B5["<b>5</b><br>Dissociation Boundary<br>Self/Other Interface<br>Pain/Threat • Boundary Regulation"]
-    B6["<b>6</b><br>Intersubjective Gateway<br>Mine → Ours Transition<br>Social Synchrony • Shared Reality"]
-    B7["<b>7</b><br>Systemic Emergence<br>Scale Translation<br>Pattern Persistence • Temporal Navigation"]
-    B8["<b>8</b><br>Meta-Perspective<br>Perspective Awareness<br>De-centered Observation • Narrative Navigation"]
-    
-    %% Connections - Clean vertical hierarchy
+    %% Core Node (Stadium shape for emphasis)
+    CORE(["<b>ॐ</b><br>Embodied Foundations Core<br>Perceptual Stability, Affective Valence, Baseline Coherence"])
+
+    %% Unfolded Cubes (Rounded rectangles, pastel shades)
+    UR("<b>UR</b><br>Exterior-Individual<br>Physical Body & Objects<br>Vision, Touch, Spatial Boundaries")
+    UL("<b>UL</b><br>Interior-Individual<br>Subjective Experience<br>Emotional Tone, Self-Narrative")
+    LL("<b>LL</b><br>Interior-Collective<br>Shared Culture<br>Empathy, Social Resonance")
+    LR("<b>LR</b><br>Exterior-Collective<br>Systems & Institutions<br>Rule Perception, System Patterns")
+
+    %% Folded Cubes (Rounded rectangles with dashed borders)
+    B5("<b>5</b><br>Dissociation Boundary<br>Self/Other Interface<br>Pain/Threat, Boundary Regulation")
+    B6("<b>6</b><br>Intersubjective Gateway<br>Mine → Ours Transition<br>Social Synchrony, Shared Reality")
+    B7("<b>7</b><br>Systemic Emergence<br>Scale Translation<br>Pattern Persistence, Temporal Navigation")
+    B8("<b>8</b><br>Meta-Perspective<br>Perspective Awareness<br>De-centered Observation, Narrative Navigation")
+
+    %% Grouping for visual layers (optional background)
+    subgraph Unfolded ["🌱 Unfolded Cubes"]
+        UR
+        UL
+        LL
+        LR
+    end
+
+    subgraph Folded ["🌀 Folded Cubes"]
+        B5
+        B6
+        B7
+        B8
+    end
+
+    %% Primary vertical connections
     CORE --> UR
     CORE --> UL
     CORE --> LL
     CORE --> LR
-    
+
     UR --> B5
     UL --> B5
     LL --> B6
     LR --> B6
-    
+
     B5 --> B7
     B6 --> B7
     B7 --> B8
-    
-    %% Horizontal relationships (dashed lines for secondary connections)
+
+    %% Secondary horizontal relationships (dashed)
     UR -.-> LR
     UL -.-> LL
     B5 -.-> B6
-    
-    %% Styling for symmetry
-    style CORE fill:#f5f5f5,stroke:#333,stroke-width:3px,stroke-dasharray:5 5
-    style UR fill:#e3f2fd,stroke:#1976d2
-    style UL fill:#f3e5f5,stroke:#7b1fa2
-    style LL fill:#e8f5e8,stroke:#388e3c
-    style LR fill:#fff3e0,stroke:#f57c00
-    style B5 fill:#ffebee,stroke:#d32f2f
-    style B6 fill:#fff8e1,stroke:#ffa000
-    style B7 fill:#e8eaf6,stroke:#303f9f
-    style B8 fill:#fce4ec,stroke:#c2185b
+
+    %% Individual node styling (softer palette, harmonious tones)
+    style CORE fill:#f2f0e6,stroke:#4a4a4a,stroke-width:4px,stroke-dasharray:8 5,rx:20,ry:20
+    style UR fill:#d9e9f2,stroke:#2c5f8a,stroke-width:2px,rx:15,ry:15
+    style UL fill:#ecd9f2,stroke:#6b3f7a,stroke-width:2px,rx:15,ry:15
+    style LL fill:#d9f2e2,stroke:#2d6a4f,stroke-width:2px,rx:15,ry:15
+    style LR fill:#f2e5d9,stroke:#a86437,stroke-width:2px,rx:15,ry:15
+    style B5 fill:#f2d9d9,stroke:#b13e3e,stroke-width:2px,stroke-dasharray:6 4,rx:15,ry:15
+    style B6 fill:#f2ecd9,stroke:#b17d3e,stroke-width:2px,stroke-dasharray:6 4,rx:15,ry:15
+    style B7 fill:#d9e0f2,stroke:#3f51b5,stroke-width:2px,stroke-dasharray:6 4,rx:15,ry:15
+    style B8 fill:#f2d9e6,stroke:#b13e7a,stroke-width:2px,stroke-dasharray:6 4,rx:15,ry:15
+
+    %% Subgraph styling (light background, subtle borders)
+    style Unfolded fill:#fafafa,stroke:#aaa,stroke-dasharray:3 3
+    style Folded fill:#fafafa,stroke:#aaa,stroke-dasharray:3 3
 ```
 
 ## Tesseract Cell → Intelligence Mapping: The Definitive Table
