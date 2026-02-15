@@ -275,45 +275,56 @@ Analytic Idealism addresses these binds by making a simpler, more parsimonious f
  
 ```mermaid
 graph TD
-    subgraph "Empirical Validations"
-        A1["Altered States<br>Psychedelics, Meditation"]
-        A2["Non-local Phenomena<br>NDEs, Remote Viewing"]
-        A3["Transpersonal Psychology<br>Peak Experiences, Dissociative Identity Disorder"]
+    %% Styles
+    classDef evidence fill:#d4f1f9,stroke:#333,stroke-width:1px,color:black, r:20px;
+    classDef framework fill:#fff2cc,stroke:#333,stroke-width:2px,color:black, r:15px;
+    classDef core fill:#f5f0d7,stroke:#000,stroke-width:3px,color:black, r:30px, font-weight:bold;
+    classDef outcome fill:#e1d5e7,stroke:#000,stroke-width:2px,color:black, r:15px;
+
+    %% Empirical Validations (Evidence)
+    subgraph EV [📊 Empirical Validations]
+        A1["Altered States<br>Psychedelics, Meditation"]:::evidence
+        A2["Non-local Phenomena<br>NDEs, Remote Viewing"]:::evidence
+        A3["Transpersonal Psychology<br>Peak Experiences, DID"]:::evidence
     end
-    
-    subgraph "Systemic Contradictions"
-        B1["UAP Phenomenology<br>Physical Violations"]
-        B2["Quantum Anomalies<br>Observer Effects"]
-        B3["Materialist Gaps<br>Hard Problem"]
+
+    %% Systemic Contradictions (Evidence)
+    subgraph SC [⚠️ Systemic Contradictions]
+        B1["UAP Phenomenology<br>Physical Violations"]:::evidence
+        B2["Quantum Anomalies<br>Observer Effects"]:::evidence
+        B3["Materialist Gaps<br>Hard Problem"]:::evidence
     end
-    
-    subgraph "Phenomenological Reports"
-        C1["Unity Consciousness<br>Reports"]
-        C2["Mystical Experiences<br>Cross-cultural"]
-        C3["Anomalous Cognition<br>Precognition, ESP"]
+
+    %% Phenomenological Reports (Evidence)
+    subgraph PR [🧘 Phenomenological Reports]
+        C1["Unity Consciousness<br>Reports"]:::evidence
+        C2["Mystical Experiences<br>Cross-cultural"]:::evidence
+        C3["Anomalous Cognition<br>Precognition, ESP"]:::evidence
     end
-    
-    subgraph "Scientific Frameworks"
-        D1["Quantum Foundations<br>Von Neumann/Wigner"]
-        D2["Cognitive Science<br>Predictive Processing"]
-        D3["Information Theory<br>Integrated Information"]
+
+    %% Scientific Frameworks (Frameworks)
+    subgraph SF [🔬 Scientific Frameworks]
+        D1["Quantum Foundations<br>Von Neumann/Wigner"]:::framework
+        D2["Cognitive Science<br>Predictive Processing"]:::framework
+        D3["Information Theory<br>Integrated Information (IIT)"]:::framework
     end
-    
-    A1 --> E{Analytic Idealism}
-    A2 --> E
-    A3 --> E
-    B1 --> E
-    B2 --> E
-    B3 --> E
-    C1 --> E
-    C2 --> E
-    C3 --> E
-    D1 --> E
-    D2 --> E
-    D3 --> E
-    
-    E --> F["Consciousness-First<br>Mandala Framework"]
-    F --> G["Coherent Explanation<br>of All Data"]
+
+    %% Core and Outcome
+    E["⚛️ Analytic Idealism<br>Consciousness is Fundamental"]:::core
+    F["🧬 Consciousness-First<br>Mandala Framework"]:::outcome
+    G["✨ Coherent Explanation<br>of All Phenomena"]:::outcome
+
+    %% Connections
+    A1 & A2 & A3 --> E
+    B1 & B2 & B3 --> E
+    C1 & C2 & C3 --> E
+    D1 & D2 & D3 --> E
+
+    E --> F --> G
+
+    %% Optional: Add a subtle link between related evidence types
+    A1 -.-> C2
+    B2 -.-> D1
 ```
 
 #### Empirical Panpsychism (Koch-Tononi Convergence)
