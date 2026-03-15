@@ -1116,6 +1116,124 @@ flowchart TD
     style Ethics fill:#fff3e0,stroke:#f57c00
 ```
 
+#### Correlative Bioelectromagnetic Methods
+
+The document's phenomenological protocols can be enhanced by correlating first-person reports with measurable electromagnetic phenomena. This section provides specific methodological guidance.
+
+##### State-Dependent Geomagnetic Correlation
+
+When conducting "Consciousness State Mapping" (Section 11.1), researchers should incorporate geomagnetic monitoring.
+
+**Equipment requirements:**
+
+- **Local magnetometer:** Three-axis fluxgate magnetometer with sensitivity <1 nT, sampling rate ≥1 Hz
+- **Alternative:** Real-time access to planetary K-index data from geomagnetic observatories (e.g., INTERMAGNET network)
+
+**Protocol:**
+
+1. **Baseline recording:** Record ambient geomagnetic conditions for 24 hours prior to each session, noting diurnal variations and storm-time activity.
+
+2. **Session documentation:** For each phenomenological session, document:
+   - Local geomagnetic field strength (total intensity, nT)
+   - Horizontal and vertical components
+   - Kp index (planetary geomagnetic activity, 0-9 scale)
+   - Subject orientation relative to magnetic north
+
+3. **Statistical analysis:** Compare phenomenological reports collected during:
+   - Quiet geomagnetic conditions (Kp < 2)
+   - Active conditions (Kp 4-6)
+   - Storm conditions (Kp > 6)
+   - Specific field orientations relative to subject
+
+**Testable prediction:** Unity experiences, boundary dissolution, and transpersonal phenomena should correlate with specific geomagnetic conditions if the perceptual interface is modulated by ambient fields. Reports of "sensed presence" may increase during periods of elevated geomagnetic activity, as suggested by retrospective analyses [Persinger, 1988; Persinger & Richards, 1995].
+
+##### Paired Boundary Permeability Testing with Electromagnetic Correlation
+
+For "Boundary Condition Analysis" (Section 11.2) investigating self-other boundary permeability, electromagnetic measurements can provide objective correlates.
+
+**Equipment requirements:**
+
+- **Magnetically shielded chamber:** Faraday cage attenuation >40 dB from 0-100 Hz
+- **Sham chamber:** Identical appearance without shielding
+- **EEG system:** Synchronized recording from both subjects
+- **Magnetometers:** Inside and outside shielded chamber
+
+**Protocol:**
+
+1. **Paired subject recruitment:** Dyads with reported connection (twins, long-term partners, close friends) and control dyads.
+
+2. **Randomized condition assignment:** Subjects experience both shielded and unshielded conditions in counterbalanced order, blinded to condition.
+
+3. **Phenomenological measures:** Standardized instruments for:
+   - Perceived connection to other
+   - Boundary permeability (self-other differentiation)
+   - Shared imagery or sensations
+   - Emotional valence
+
+4. **Electromagnetic measures:**
+   - Inter-subject EEG coherence (particularly in theta 4-8 Hz and gamma 30-100 Hz bands)
+   - Cross-correlation of EEG signals at zero and non-zero lags
+   - Correlation of EEG with ambient geomagnetic activity
+
+5. **Analytical approach:** Compare phenomenological and EEG measures between shielded and unshielded conditions, controlling for geomagnetic activity.
+
+**Testable prediction:** Reported connection and inter-subject EEG coherence should decrease in shielded environments and vary with geomagnetic activity if electromagnetic fields mediate interpersonal resonance. Persinger's "telepathy" experiments provide preliminary support for this hypothesis, showing increased inter-hemispheric EEG coherence in dyads exposed to correlated weak complex magnetic fields [Persinger et al., 2010].
+
+##### Dream State Electromagnetic Correlation
+
+For dream research (Section 4), electromagnetic monitoring can test hypotheses about dream content modulation by geomagnetic conditions.
+
+**Equipment requirements:**
+
+- **Bedroom magnetometer:** Continuous recording during sleep
+- **Sleep tracking:** Polysomnography or consumer-grade sleep tracking with REM detection
+- **Dream recall protocol:** Morning journaling with standardized dream content analysis
+
+**Protocol:**
+
+1. **Longitudinal design:** Minimum 30 nights per subject to capture varying geomagnetic conditions.
+
+2. **Content analysis:** Blind rating of dream reports for:
+   - Emotional valence and intensity
+   - Bizarreness and boundary dissolution
+   - Archetypal or transpersonal content
+   - Premonitory or "anomalous" information
+
+3. **Electromagnetic correlation:** Correlate dream content measures with:
+   - Geomagnetic activity during sleep (Kp index, local variations)
+   - Rate of change of magnetic field (dB/dt)
+   - Subject orientation relative to magnetic north
+
+**Testable prediction:** Dream bizarreness, boundary dissolution, and transpersonal content should correlate with geomagnetic activity. Retrospective studies suggest that "premonition" dreams increase during geomagnetic storms [Persinger & Krippner, 1989] and that REM duration varies with geomagnetic conditions [Lipnicki, 2009].
+
+#### Post-Mortem Tissue Phenomenological Correlation
+
+For research involving post-mortem tissues (Section 5.1.4), phenomenological inference requires careful methodological consideration.
+
+**Theoretical framework:**
+
+As Rouleau notes in the video transcript, "whether or not we can't know because we don't yet have a measure of consciousness that's direct. We can't know the contents of consciousness without asking people or inferring it on the basis of their behaviors."
+
+However, systematic investigation can proceed through:
+
+1. **Structure-function mapping:** Correlate tissue response properties (frequency sensitivity, regional specificity) with known functional roles in living brains.
+
+2. **Stimulation phenomenology inference:** When specific stimulation patterns produce predictable effects in living subjects (e.g., God Helmet inducing sensed presence), apply similar patterns to post-mortem tissues from the same regions and measure responses.
+
+3. **Convergent evidence:** Combine multiple measures (electrical, chemical, structural) to build inference models.
+
+**Ethical considerations:** This research requires the enhanced ethical protocols described in Section 6.4.1.
+
+##### Data Sharing and Collaborative Analysis
+
+To maximize scientific value, researchers should consider:
+
+1. **Open data repositories:** Shared databases of phenomenological reports with associated electromagnetic measurements
+2. **Standardized protocols:** Adoption of common measurement standards to enable meta-analysis
+3. **Interdisciplinary collaboration:** Partnerships between phenomenologists, neuroscientists, and geophysicists
+
+The Solarpunk Mandala's consciousness database (Section 11.5) should include electromagnetic metadata fields to enable these correlational analyses.
+
 ### Dissociation as Perceptual Filtering
 
 Within Analytic Idealism, dissociation does not eliminate access to Mind-at-Large — it **filters and constrains perceptual bandwidth**.
