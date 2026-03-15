@@ -2027,6 +2027,48 @@ flowchart TD
     style MAL fill:#dcfce7,stroke:#16a34a
 ```
 
+#### The Radio Analogy: Empirical Evidence from Post-Mortem Tissue Research
+
+The radio analogy central to the transmissive theory – that the brain functions as a receiver rather than generator of consciousness – finds direct empirical support in post-mortem neural tissue research. This evidence transforms the analogy from metaphor to testable hypothesis.
+
+**The physical basis of the receiver:**
+
+Rouleau's research demonstrates that fixed, non-living human brain tissues retain information-filtering properties that cannot be explained by metabolic activity [Rouleau, 2017]. These findings establish that:
+
+1. **Structure outlasts function:** The physical architecture of the brain – its neuronal organization, dendritic arborization, and regional connectivity – persists after metabolism ceases. This architecture embodies specific information-processing biases independent of life.
+
+2. **Filtering is structural:** Different brain regions filter applied electromagnetic fields differently, with response patterns matching the functional specialization observed in living brains. The hippocampus responds differently than the temporal cortex, which responds differently than the frontal cortex [Rouleau, 2017, Chapter 4].
+
+3. **Pattern specificity matters:** Tissues respond preferentially to stimulation patterns that match the dominant frequencies of their living functional states. A pattern that mimics hippocampal theta rhythm (4-8 Hz) produces maximal effects when applied to hippocampal tissue [Rouleau & Persinger, 2016].
+
+**Implications for the death transition:**
+
+If the brain were purely productive, death (cessation of metabolism) should eliminate all information-processing capacity. However, fixed tissues demonstrate:
+
+- **Persistent structural information-processing:** Regional electrical anisotropies matching living functional organization
+- **Pattern-specific responsiveness:** Differential responses to patterned stimulation
+- **Habituation phenomena:** Reduced responses to repeated chemical probes [Rouleau et al., 2016]
+
+These findings suggest that what we call "brain function" operates at two levels: metabolic (life-dependent) and structural (life-independent). The transmissive model interprets the latter as the physical substrate of the "receiver" – the interface structure that persists after the "broadcast" of life ceases.
+
+**Refining the clinical definition of death:**
+
+The document's critique of the "moment of death" finds support in the gradual nature of neural death documented by post-mortem research. As Rouleau notes in the video transcript, EEG criteria for brain death (e.g., <2 microvolts activity) measure *synchronous firing*, not cellular viability. Deep brain structures die later than cortical regions, creating potential transition states during which experience could continue without reportable behavior.
+
+The finding that fixed tissues respond to chemical probes [Rouleau et al., 2016] suggests that even after formalin fixation – a far more aggressive intervention than natural death – information-processing properties persist. This raises profound questions about what "death" means for conscious experience and supports the claim that death represents "interface reconfiguration" rather than annihilation.
+
+**Testable predictions for future research:**
+
+The radio analogy generates specific, testable predictions:
+
+1. **Post-mortem signal detection:** If consciousness survives bodily death as a "signal" independent of the "receiver," it may be detectable under specific conditions. Experimental protocols could attempt to detect information-bearing electromagnetic signals from recently deceased individuals using sensitive magnetometers.
+
+2. **Resonance phenomena:** If individual consciousness corresponds to specific "frequency signatures" encoded in neural structure, individuals with similar neurological configurations (e.g., monozygotic twins) might show measurable electromagnetic resonance under controlled conditions.
+
+3. **Transition state phenomenology:** If death involves gradual dissolution of the receiver rather than instantaneous cessation, systematic collection of near-death experiences using standardized phenomenological instruments might reveal consistent patterns corresponding to specific stages of neural disintegration.
+
+These predictions remain speculative but are empirically tractable with current or near-future technology.
+
 ### 💎 Ontological Status: Death as a Natural Process of MAL
 
 In Analytic Idealism, consciousness is fundamental and eternal. Therefore, death is not the end of existence but a transition in the state of consciousness. The individual alter may:
