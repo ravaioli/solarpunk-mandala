@@ -1212,7 +1212,7 @@ For research involving post-mortem tissues (Section 5.1.4), phenomenological inf
 
 **Theoretical framework:**
 
-As Rouleau notes in the video transcript, "whether or not we can't know because we don't yet have a measure of consciousness that's direct. We can't know the contents of consciousness without asking people or inferring it on the basis of their behaviors."
+As Rouleau notes, "whether or not we can't know because we don't yet have a measure of consciousness that's direct. We can't know the contents of consciousness without asking people or inferring it on the basis of their behaviors."
 
 However, systematic investigation can proceed through:
 
