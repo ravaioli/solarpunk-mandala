@@ -2171,7 +2171,7 @@ These findings suggest that what we call "brain function" operates at two levels
 
 **Refining the clinical definition of death:**
 
-The document's critique of the "moment of death" finds support in the gradual nature of neural death documented by post-mortem research. As Rouleau notes in the video transcript, EEG criteria for brain death (e.g., <2 microvolts activity) measure *synchronous firing*, not cellular viability. Deep brain structures die later than cortical regions, creating potential transition states during which experience could continue without reportable behavior.
+The document's critique of the "moment of death" finds support in the gradual nature of neural death documented by post-mortem research. As Rouleau notes, EEG criteria for brain death (e.g., <2 microvolts activity) measure *synchronous firing*, not cellular viability. Deep brain structures die later than cortical regions, creating potential transition states during which experience could continue without reportable behavior.
 
 The finding that fixed tissues respond to chemical probes [Rouleau et al., 2016] suggests that even after formalin fixation – a far more aggressive intervention than natural death – information-processing properties persist. This raises profound questions about what "death" means for conscious experience and supports the claim that death represents "interface reconfiguration" rather than annihilation.
 
