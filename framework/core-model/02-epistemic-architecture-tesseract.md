@@ -142,9 +142,9 @@ flowchart TD
 ```
 
 ### Scientific Validation: Scale-Free Cognition and the Tesseract
-🔍 **Scientific Grounding**: Levin (2019) demonstrates that cognition operates across biological scales through bioelectric networks with computational boundaries. The Tesseract models this topology formally. [Levin, M. (2019). The Computational Boundary of a "Self": Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition. *Frontiers in Psychology*, 10, 2688.]. 
+🔍 **Scientific Grounding:** A direct experimental test of scale‑free cognition comes from recent work on gene regulatory networks (GRNs). Biswas et al. (2025) demonstrated that GRNs—biochemical networks without neurons—can perform associative (Pavlovian) conditioning, establishing that memory and learning are not exclusive to neural systems. Using the Integrated Information Decomposition (ΦID) framework, they further showed that **training increases causal emergence**: the degree to which the network as a whole influences its future in a way that cannot be reduced to its individual components. This increase was specific to biological networks; random networks did not exhibit the same potentiation.
 
-Capabilities like problem-solving, memory, and goal-directedness are not exclusive to human brains but exist on a continuum from single cells to complex animal collectives. This means that the intelligence and agency modeled within one "cube" of the Tesseract (e.g., the individual in the **MAN** cube) is of the same fundamental nature, though different in degree and expression, as the intelligence of a community (**SOCIETY** cube) or an ecosystem (**ECOLOGY** cube). The Tesseract is therefore not merely a useful metaphor but a **geometric map of isomorphic cognitive processes** unfolding at different levels of organization. The connections between cubes represent the real communicative and regulatory channels through which these nested cognitive systems influence one another.
+This finding provides empirical validation for the Tesseract’s core claim that **intelligence and integration are intrinsic properties of organized matter across scales**. Moreover, the study uncovered five distinct “behavioral species” (homing, inflating, deflating, spiky, steppy) in how GRNs respond to training—a direct analogue to the Tesseract’s folded cubes (5–8), which describe the boundary‑mediated dynamics of emergence. The ΦID metric thus offers a quantitative tool to measure **Cube 7 (Systemic Emergence Plane)** and to test the Scale Translation Principle in non‑neural, non‑animal systems.
 
 ### The Mandala as Cultural Tesseract
 
@@ -588,6 +588,20 @@ Each Tesseract face corresponds to a documented white matter pathway:
 
 **If No Change**: Mapping is epiphenomenal, not causal.
 
+## Informational Validation: Integrated Information as a Universal Metric
+
+The Tesseract’s validation framework originally relied on neural correlates (NCCs) paired with perceptual markers—a method optimized for human consciousness. However, the model’s scale‑free claim requires validation across all cubes, including those (e.g., UR, LR) where neural activity is absent or irrelevant.
+
+The recent GRN learning study provides a blueprint for this expansion. **Integrated Information Decomposition (ΦID)** quantifies causal emergence: the extent to which a whole system’s future is better predicted by its macro‑state than by any combination of its parts. For the Tesseract:
+
+| Cube / Dimension | Informational Validation (ΦID) | Falsification Condition |
+|------------------|--------------------------------|-------------------------|
+| **Cube 7 (Emergence)** | Causal emergence increases after learning/training (as shown in GRNs) | No change in ΦID after training, or random networks show equal change |
+| **Cube 5 (Dissociation)** | High ΦID correlates with stable boundary conditions; dissolution of boundaries (e.g., in death or deep meditation) corresponds to ΦID collapse | No correlation between ΦID and boundary modulation |
+| **Cube 6 (Gateway)** | Intersubjective training (ritual, dialogue) should increase ΦID of the dyad or group | Collective ΦID unchanged by shared experience |
+
+This informational layer complements the neural‑perceptual layer, allowing the Tesseract to be empirically tested in non‑neural substrates (plants, cellular collectives, social networks) and to unify the validation criteria across all eight cubes.
+
 ## Perceptual Modalities Across the Tesseract
 
 The eight cubes of the Tesseract are not abstract perspectives alone — they correspond to **distinct configurations of perceptual access** within the conscious interface. Each cube privileges, suppresses, or integrates specific perceptual modalities.
@@ -658,6 +672,7 @@ If a cube is impaired or suppressed, the corresponding perceptual modalities wil
 - **Isolated systems**: Individual in forest monastery ↔ isolated community
 - **Equilibrium states**: Personal coherence = 4 AND Community coherence = 4
 - **Homogeneous boundaries**: Similar dissociation patterns across scales
+- **Quantifiable integration**: If the system’s causal emergence (ΦID) is stable across scales—e.g., a GRN after training and a human neural network after skill acquisition both show comparable increases in integration—then micro‑to‑macro translation is valid.  
 
 #### When Correspondence Breaks
 - **System coupling**: Individual in oppressive system (Personal=4, Community=1)
