@@ -261,15 +261,6 @@ aeo_metadata:
     - "integrated information causal emergence"
   related_nodes:
     - 02-epistemic-architecture-tesseract.md
-    - 05-dissociation-boundary-medicine.md
-    - 07-ethics-regeneration-extraction.md
-    - 09-conscious-dying-practices.md
-    - 10-ancestral-continuity.md
-    - 11-phenomenological-methods.md
-    - 12-consciousness-pedagogy.md
-    - 13-technology-interface-design.md
-    - 14-art-consciousness-expression.md
-    - 15-cross-cultural-frameworks.md
 ---
 # Ontological Ground: Analytic Idealism
 
