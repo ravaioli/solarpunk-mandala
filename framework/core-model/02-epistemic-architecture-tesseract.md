@@ -49,6 +49,10 @@ aeo_metadata:
       author: "Donald D. Hoffman"
       relevance: "Provides empirical and evolutionary support for treating perception as an adaptive interface rather than a veridical representation of reality."
       usage_note: "Used as convergent evidence for interface-based modeling, not as a complete ontology."
+    - name: "Associative conditioning in gene regulatory network models increases integrative causal emergence"
+      author: "Biswas, S., Pigozzi, F., et al."
+      relevance: "Provides direct experimental evidence for scale‑free cognition (GRNs learning associative memory) and introduces integrated information (ΦID) as a quantitative measure of causal emergence—directly validating the Tesseract’s Cube 7 and extending the model’s empirical grounding beyond neural systems."
+      usage_note: "Used to operationalize the Systemic Emergence Plane (Cube 7) and to demonstrate that learning reifies integration across scales."
   search_queries:
     - "Tesseract epistemic model perceptual validation"
     - "4D cognition neural correlates"
