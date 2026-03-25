@@ -2,53 +2,61 @@
 aeo_metadata:
   title: "Ontology: Analytic Idealism (Node 01)"
   description: >
-    A consciousness-first ontological foundation in which reality is understood
+    A consciousness‑first ontological foundation in which reality is understood
     as structured experience, with the physical world emerging as a perceptual
-    interface across dissociative boundaries. Death is integrated as a natural
-    altered state of consciousness representing boundary reconfiguration.
-    Expanded to include critical dialogues, phenomenological methods, developmental
-    perspectives, cross-cultural frameworks, pedagogical approaches, technological
-    implications, and aesthetic applications.
+    interface across dissociative boundaries. Expanded to include critical
+    dialogues with materialism, bioelectromagnetic and quantum evidence for the
+    interface, cross‑cultural dreaming practices, a full spectrum of altered
+    states and transpersonal mentations, consciousness development across the
+    lifespan, a systematic research program, an expanded death ontology, explicit
+    scope boundaries, comparative philosophical analysis, pedagogical methods,
+    and the implications for art and aesthetics.
   context: >
     Establishes what is fundamentally real within the Solarpunk Mandala:
     consciousness as primary, perception as interface, matter as appearance,
-    and death as transformation rather than annihilation. Now includes
-    comprehensive engagement with counterarguments, practical transition pathways,
-    systematic investigation methods, and applications across human experience.
+    and death as transformation rather than annihilation. Now integrates
+    empirical evidence from bioelectromagnetics, quantum biology, and network
+    learning, along with cross‑cultural and developmental perspectives.
   key_objectives:
     - Define consciousness as ontologically fundamental.
     - Explain physical reality as a multimodal perceptual interface.
-    - Account for individuality via dissociation within Mind-at-Large.
+    - Account for individuality via dissociation within Mind‑at‑Large.
     - Integrate death as the ultimate altered state of consciousness.
     - Ground ethics and regeneration in lived experience rather than abstraction.
     - Engage critically with materialist objections and alternative frameworks.
-    - Provide practical methods for transitioning to consciousness-first thinking.
+    - Provide practical methods for transitioning to consciousness‑first thinking.
     - Establish systematic phenomenological investigation protocols.
     - Map consciousness development across individual and evolutionary timescales.
-    - Integrate cross-cultural death frameworks with ethical sensitivity.
+    - Integrate cross‑cultural death frameworks with ethical sensitivity.
     - Define framework limitations and boundary conditions.
     - Develop pedagogical approaches for consciousness literacy.
-    - Explore technological implications from consciousness perspective.
-    - Re-conceive art and aesthetics in consciousness-only reality.
+    - Explore technological implications from a consciousness perspective.
+    - Re‑conceive art and aesthetics in a consciousness‑only reality.
+    - Synthesize empirical evidence (bioelectromagnetic, quantum, network learning) into a coherent idealist framework.
   core_concepts:
     - Analytic Idealism
-    - Consciousness-First Ontology
-    - Mind-at-Large
+    - Consciousness‑First Ontology
+    - Mind‑at‑Large
     - Dissociation
     - Screen of Perception
     - Perceptual Interface
     - Regeneration vs Extraction
     - Death as Altered State
-    - Post-Mortem Configurations
+    - Post‑Mortem Configurations
     - Critical Dialogues & Counterarguments
     - Ontological Transition Methodology
     - Phenomenological Investigation
     - Consciousness Development Spectrum
-    - Cross-Cultural Death Frameworks
+    - Cross‑Cultural Death Frameworks
     - Framework Limitations & Boundaries
     - Consciousness Pedagogy
     - Technology as Interface Mediation
     - Art as Consciousness Expression
+    - Bioelectromagnetic Interface
+    - Radical Pair Mechanism (Cryptochrome)
+    - Integrated Information (ΦID) & Causal Emergence
+    - Scale‑Free Cognition (Levin)
+    - Associative Learning in Gene Regulatory Networks
   ontological_commitments:
     - Consciousness is fundamental; matter is derivative.
     - Perception is an interface, not a representation of objective reality.
@@ -59,11 +67,12 @@ aeo_metadata:
     - Cultural expressions are interface variations within MAL.
     - Technology mediates but does not create consciousness.
     - Aesthetic experience reveals fundamental patterns in MAL.
+    - Systematic phenomenological inquiry provides valid knowledge of conscious structures.
   perceptual_framework:
     description: >
       Perception is the structured set of experiential modalities through which
       conscious dynamics appear as a world. Death represents the transition to
-      non-biological perceptual configurations or interface-less consciousness.
+      non‑biological perceptual configurations or interface‑less consciousness.
     modalities:
       - vision
       - audition
@@ -82,14 +91,17 @@ aeo_metadata:
       - cultural_interface_variants
       - technological_mediation_layers
       - aesthetic_pattern_recognition
+      - bioelectromagnetic_field_coupling
+      - quantum_spin_dynamics (radical pair)
     functional_role:
       - enables adaptive action
-      - constrains access to Mind-at-Large
+      - constrains access to Mind‑at‑Large
       - grounds meaning, value, and agency
       - transitions through death to new configurations
-      - supports cross-cultural understanding
+      - supports cross‑cultural understanding
       - facilitates technological engagement
       - enables artistic expression
+      - modulates through environmental fields
   dissociation_model:
     description: >
       Dissociation explains the emergence of individual perspectives by limiting
@@ -111,6 +123,8 @@ aeo_metadata:
       - educational_interventions
       - artistic_experience
       - technological_mediation
+      - associative_learning (gene regulatory networks)
+      - environmental_geomagnetic_variation
   death_ontology:
     description: >
       Death is understood as the ultimate altered state of consciousness,
@@ -118,22 +132,24 @@ aeo_metadata:
     key_propositions:
       - Consciousness continues beyond biological death.
       - Death is a transition in mode of experience, not annihilation.
-      - Post-mortem configurations include reintegration, pattern persistence, and reformation.
-      - Death completes the individual consciousness journey while enriching Mind-at-Large.
+      - Post‑mortem configurations include reintegration, pattern persistence, and reformation.
+      - Death completes the individual consciousness journey while enriching Mind‑at‑Large.
       - Cultural death frameworks provide diverse interface variations.
-      - Death practices require ethical cross-cultural integration.
+      - Death practices require ethical cross‑cultural integration.
+      - Post‑mortem tissue studies support the transmissive model of brain function.
     solarpunk_integration:
-      - Ecological death as nutrient cycling in consciousness-first terms
+      - Ecological death as nutrient cycling in consciousness‑first terms
       - Ritual as boundary work for both deceased and living
       - Ancestral continuity through pattern preservation in MAL
-      - Death-positive culture as foundation for regenerative ethics
-      - Cross-cultural death frameworks integrated with ethical sensitivity
-      - Community-based death education and preparation
+      - Death‑positive culture as foundation for regenerative ethics
+      - Cross‑cultural death frameworks integrated with ethical sensitivity
+      - Community‑based death education and preparation
+      - Death‑integrated political economy and urban planning
   ethical_implications:
     description: >
       Ethics arises from the modulation of experience. Harm and flourishing are
       defined perceptually, not abstractly. Death ethics focus on quality of
-      transition and post-mortem pattern integration.
+      transition and post‑mortem pattern integration.
     guiding_principle: >
       Systems that systematically narrow perceptual access produce suffering;
       systems that restore perceptual coherence enable regeneration. Death
@@ -144,13 +160,15 @@ aeo_metadata:
       - Intergenerational consciousness stewardship
       - Pedagogical responsibility in teaching consciousness frameworks
       - Artistic creation as consciousness service
+      - Responsibility for conscious dying and death preparation
+      - Ethical guidelines for consciousness research (informed consent, integration support)
   perceptual_regeneration:
     definition: >
       The restoration of healthy perceptual bandwidth, salience balance, and
       intersubjective attunement within conscious systems. Includes preparation
       for conscious dying and integration of death experiences.
     relevance:
-      - individual well-being
+      - individual well‑being
       - collective coherence
       - ecological attunement
       - death transition quality
@@ -178,7 +196,7 @@ aeo_metadata:
         Provides a comprehensive map of consciousness states during and after
         death, compatible with analytic idealist interpretation.
       usage_note: >
-        Referenced as phenomenological evidence for post-mortem consciousness states.
+        Referenced as phenomenological evidence for post‑mortem consciousness states.
     - name: "Death and the Afterlife in Analytic Idealism"
       author: "Kastrup, Bernardo"
       relevance: >
@@ -197,36 +215,62 @@ aeo_metadata:
       author: "Varela, Thompson, & Rosch"
       relevance: >
         Enactive approach complements analytic idealism with emphasis on
-        embodied cognition and participatory sense-making.
+        embodied cognition and participatory sense‑making.
+    - name: "The Computational Boundary of a 'Self'"
+      author: "Levin, M."
+      relevance: >
+        Establishes scale‑free cognition across biological systems, providing
+        empirical evidence for the dissociation model at multiple organizational levels.
+    - name: "Associative conditioning in gene regulatory network models increases integrative causal emergence"
+      author: "Biswas, S., Pigozzi, F., et al."
+      relevance: >
+        Demonstrates associative learning in non‑neural networks (GRNs) and quantifies
+        training‑induced increase in causal emergence (ΦID), directly supporting
+        the concepts of scale‑free cognition and perceptual regeneration.
+      usage_note: >
+        Used to ground the consciousness research program and to show that integration
+        can be potentiated through experience without hardware changes.
+    - name: "The Case Against Reality"
+      author: "Hoffman, D. D."
+      relevance: >
+        Popular exposition of Interface Theory, cited for its accessibility
+        and evolutionary argument.
+    - name: "The Feeling of Life Itself"
+      author: "Koch, C."
+      relevance: >
+        Expanded reference for Integrated Information Theory and its implications
+        for panpsychism and idealism.
   search_queries:
     - "Analytic idealism consciousness ontology"
     - "perception as interface philosophy neuroscience"
     - "dissociation consciousness theory"
     - "ontology of experience regeneration"
     - "death consciousness analytic idealism"
-    - "post-mortem consciousness states"
+    - "post‑mortem consciousness states"
     - "dying as altered state of consciousness"
     - "Solarpunk death ethics"
     - "consciousness pedagogy teaching methods"
     - "technology consciousness interface mediation"
     - "art aesthetics consciousness philosophy"
-    - "cross-cultural afterlife comparisons"
+    - "cross‑cultural afterlife comparisons"
     - "phenomenological methods consciousness research"
     - "consciousness development across lifespan"
     - "analytic idealism criticisms responses"
+    - "bioelectromagnetic perception evidence"
+    - "gene regulatory network learning"
+    - "integrated information causal emergence"
   related_nodes:
     - 02-epistemic-architecture-tesseract.md
     - 05-dissociation-boundary-medicine.md
     - 07-ethics-regeneration-extraction.md
     - 09-conscious-dying-practices.md
     - 10-ancestral-continuity.md
-    - 11-phenomenological-methods.md # NEW: Suggested future node
-    - 12-consciousness-pedagogy.md # NEW: Suggested future node
-    - 13-technology-interface-design.md # NEW: Suggested future node
-    - 14-art-consciousness-expression.md # NEW: Suggested future node
-    - 15-cross-cultural-frameworks.md # NEW: Suggested future node
+    - 11-phenomenological-methods.md
+    - 12-consciousness-pedagogy.md
+    - 13-technology-interface-design.md
+    - 14-art-consciousness-expression.md
+    - 15-cross-cultural-frameworks.md
 ---
-
 # Ontological Ground: Analytic Idealism
 
 This model is grounded in the framework of Analytic Idealism, a modern metaphysical philosophy most rigorously articulated by philosopher and scientist Bernardo Kastrup. Analytic idealism proposes that reality is fundamentally conscious experience. What we perceive as the physical world is not a free-standing, mind-independent structure, but the "multimodal appearance" of a transpersonal, universal consciousness—referenced as Mind at Large (MAL). From this perspective, individual conscious beings, like you and me, are not products of brains, but rather localized dissociations of this foundational consciousness, each with a unique, evolving perspective.
