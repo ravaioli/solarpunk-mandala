@@ -688,7 +688,7 @@ If a cube is impaired or suppressed, the corresponding perceptual modalities wil
 
 ## Integration Notes
 
-For further context in integrating the Tesseract for generating valid, actionable, and regenerative knowledge within reality, refer to [Appendix N: The Epistemic Tesseract—A Geometry of Conscious Knowing.](https://github.com/ravaioli/solarpunk-mandala/blob/main/appendices/N-epistemic-tesseract-geometric-knowing.md)
+For further context in integrating the Tesseract for generating valid, actionable, and regenerative knowledge within reality, refer to [Appendix N: The Epistemic Tesseract—A Geometry of Conscious Knowing.](https://github.com/ravaioli/solarpunk-mandala/blob/main/knowledge_base/appendices/N-epistemic-tesseract-geometric-knowing.md)
 
 ## Conclusion: A Framework for Conscious Navigation
 
